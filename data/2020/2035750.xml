@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase II:  A cloud-native, data-driven platform for automated quality assurance of radiation oncology treatment planning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>1000000.00</AwardTotalIntnAmount>
+<AwardAmount>1124000</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alastair Monk</SignBlockName>
+<PO_EMAI>amonk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924392</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to improves patient outcomes in radiotherapy treatment.  Healthcare providers are recognizing the growing imperative to lower costs and maintain quality of care by harnessing the digital health records available. In radiation oncology, only a small fraction of the valuable data produced during routine patient care is leveraged for the care of new patients. High-dose curative treatments frequently lead to side effects, such as dry mouth in head and neck cancer treatment, and rectal bleeding in prostate treatments. An optimized treatment plan could minimize complications. The proposed project will advance an information system to optimize and personalize radiation treatments. &lt;br/&gt;&lt;br/&gt;The proposed project leverages radiotherapy data to optimize treatment plans. Dose to organs at risk (OARs) must be kept low while ensuring the prescribed dosimetric coverage of the targeted disease. Intensity modulated radiotherapy (IMRT) treatments require significant optimization, creating extensive planning processes.  This project will advance a treatment plan database for a data-driven clinical decision support solution that can predict achievable dose levels to each OAR. These levels can be used as intelligent optimization objectives by the treatment planning system (TPS) and as plan evaluation criteria. The system will be built for continuous refinement through ongoing augmentation with new patient plans, thus improving prediction performance with ongoing use, and allowing each clinical site to base predictions on its own data. In addition, integrated peer review tools enable physicians to efficiently share information and get additional clinical insight.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/18/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>08/07/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2035750</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Bowers</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael R Bowers</PI_FULL_NAME>
+<EmailAddress><![CDATA[Michael.Bowers@Oncospace.com]]></EmailAddress>
+<NSF_ID>000791276</NSF_ID>
+<StartDate>02/18/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Oncospace, Inc.]]></Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212051506</ZipCode>
+<PhoneNumber>6082396871</PhoneNumber>
+<StreetAddress><![CDATA[1812 ASHLAND AVE]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 100]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HSG5CY5VWW33</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ONCOSPACE INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>JUJTB8E19MN3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Oncospace, Inc.]]></Name>
+<CityName>Baltimore</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212051506</ZipCode>
+<StreetAddress><![CDATA[1812 Ashland Ave, Suite 100]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537300</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>165E</Code>
+<Text>SBIR Phase IIB</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8042</Code>
+<Text>Health and Safety</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01AB2324DB</Code>
+<Name><![CDATA[R&RA DRSA DEFC AAB]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~1008000</FUND_OBLG>
+<FUND_OBLG>2022~16000</FUND_OBLG>
+<FUND_OBLG>2023~100000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Oncospace has developed a cloud-based software application for quality assurance and peer review of radiation oncology treatment plans. Treatment plans are the blueprint for treatment delivery, describing in detail the three-dimensional radiation dose that will be absorbed by the tumor and surrounding normal tissues. The treatment planning process centers on producing the best treatment delivery strategy to fully cover a tumor volume with a prescribed dose, while minimizing the dose to normal tissues (especially designated organs at risk). Radiation oncologists and medical dosimetrists work together to create a treatment plan, relying heavily on their experience, skill, and judgement to produce a high-quality plan. Following completion of a treatment plan, and before treatment delivery begins, quality assurance procedures are carried out to detect any errors or oversights during the planning process, and to check that the plan can be accurately delivered. Peer review of a treatment plan is a further error-prevention strategy where the radiation oncologist responsible for a patient&rsquo;s treatment asks peers to review the treatment plan.</p> <p>&nbsp;</p> <p>The plan quality assurance/peer review innovations introduced by Oncospace make it easier and quicker for radiation oncologists and medical dosimetrists to create and review a plan. Oncospace does this using artificial intelligence (AI), with models trained using clinical treatment planning data, to provide optimal plan settings and decision support. In particular, the AI uses spatial relationships between tumors and organs at risk to predict how low it should be possible to keep the organ dose while achieving a prescribed dose to the tumor. This knowledge is then provided to a treatment planning system (TPS) to help drive the plan optimization process and used by Oncospace&rsquo;s cloud-based web application to help guide clinicians in judging the quality of a plan uploaded from the TPS. A key element of this process is using predictions to understand at the outset of planning whether a set of clinical goals selected for plan evaluation can be met. If goals are unachievable, the radiation oncologist can consider changes such as lowering the prescribed tumor dose.</p> <p>&nbsp;</p> <p>Oncospace has developed a unique user interface that integrates display of treatment planning results with communication features. Clinicians can view and assess the results, and then using the same interface can discuss areas of concern with others and make requests to peers to review the plan. Communication features also include the ability to link discussion items with aspects of the plan such as dosimetric results and protocol goals. This user interface is intended to encourage earlier and more frequent peer review, so that issues that should be addressed are recognized earlier and are more likely to be acted on. In current practice, it is normal for scheduled peer review sessions to be held only after a patient has begun treatment, thus only major plan deficiencies are typically addressed because of reluctance to disrupt treatment schedules.</p> <p>&nbsp;</p> <p>The product developed is expected to be especially valuable to under-resourced centers, especially those with a lack of experienced, specialist clinicians who can readily assess plan quality based on their own experience and knowledge. The need for workflow automation and decision support is magnified with the availability of new techniques and delivery strategies such as volumetrically modulated arc therapy (VMAT) and stereotactic body radiotherapy (SBRT). These bring new opportunities for improving treatment quality and outcomes, but also pose new challenges and require a new set of skills compared to more traditional radiotherapy.</p> <p>&nbsp;</p> <p>In terms of intellectual merit, the project has demonstrated the feasibility of putting the data associated with prior patients to effective use for the benefit of new patients. Radiation oncology is a data-rich discipline, due especially to the large datasets associated with each treatment plan. This data is stored in archives but is typically not utilized apart from as a reference if a patient returns for further treatment. With suitability for use as training data for AI models, treatment planning archives have become a potentially valuable asset to clinics. Automated treatment planning and quality assurance is clearly an area where this data can be exploited, as demonstrated by Oncospace during this project.&nbsp;</p><br> <p>  Last Modified: 04/24/2024<br> Modified by: Michael&nbsp;R&nbsp;Bowers</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Oncospace has developed a cloud-based software application for quality assurance and peer review of radiation oncology treatment plans. Treatment plans are the blueprint for treatment delivery, describing in detail the three-dimensional radiation dose that will be absorbed by the tumor and surrounding normal tissues. The treatment planning process centers on producing the best treatment delivery strategy to fully cover a tumor volume with a prescribed dose, while minimizing the dose to normal tissues (especially designated organs at risk). Radiation oncologists and medical dosimetrists work together to create a treatment plan, relying heavily on their experience, skill, and judgement to produce a high-quality plan. Following completion of a treatment plan, and before treatment delivery begins, quality assurance procedures are carried out to detect any errors or oversights during the planning process, and to check that the plan can be accurately delivered. Peer review of a treatment plan is a further error-prevention strategy where the radiation oncologist responsible for a patients treatment asks peers to review the treatment plan.      The plan quality assurance/peer review innovations introduced by Oncospace make it easier and quicker for radiation oncologists and medical dosimetrists to create and review a plan. Oncospace does this using artificial intelligence (AI), with models trained using clinical treatment planning data, to provide optimal plan settings and decision support. In particular, the AI uses spatial relationships between tumors and organs at risk to predict how low it should be possible to keep the organ dose while achieving a prescribed dose to the tumor. This knowledge is then provided to a treatment planning system (TPS) to help drive the plan optimization process and used by Oncospaces cloud-based web application to help guide clinicians in judging the quality of a plan uploaded from the TPS. A key element of this process is using predictions to understand at the outset of planning whether a set of clinical goals selected for plan evaluation can be met. If goals are unachievable, the radiation oncologist can consider changes such as lowering the prescribed tumor dose.      Oncospace has developed a unique user interface that integrates display of treatment planning results with communication features. Clinicians can view and assess the results, and then using the same interface can discuss areas of concern with others and make requests to peers to review the plan. Communication features also include the ability to link discussion items with aspects of the plan such as dosimetric results and protocol goals. This user interface is intended to encourage earlier and more frequent peer review, so that issues that should be addressed are recognized earlier and are more likely to be acted on. In current practice, it is normal for scheduled peer review sessions to be held only after a patient has begun treatment, thus only major plan deficiencies are typically addressed because of reluctance to disrupt treatment schedules.      The product developed is expected to be especially valuable to under-resourced centers, especially those with a lack of experienced, specialist clinicians who can readily assess plan quality based on their own experience and knowledge. The need for workflow automation and decision support is magnified with the availability of new techniques and delivery strategies such as volumetrically modulated arc therapy (VMAT) and stereotactic body radiotherapy (SBRT). These bring new opportunities for improving treatment quality and outcomes, but also pose new challenges and require a new set of skills compared to more traditional radiotherapy.      In terms of intellectual merit, the project has demonstrated the feasibility of putting the data associated with prior patients to effective use for the benefit of new patients. Radiation oncology is a data-rich discipline, due especially to the large datasets associated with each treatment plan. This data is stored in archives but is typically not utilized apart from as a reference if a patient returns for further treatment. With suitability for use as training data for AI models, treatment planning archives have become a potentially valuable asset to clinics. Automated treatment planning and quality assurance is clearly an area where this data can be exploited, as demonstrated by Oncospace during this project.     Last Modified: 04/24/2024       Submitted by: MichaelRBowers]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SHF: Small: Spectral Reduction of Large Graphs and Circuit Networks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/12/2019</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+<PO_EMAI>sabasu@nsf.gov</PO_EMAI>
+<PO_PHON>7032927843</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Spectral methods are playing increasingly important roles in many graph and numerical applications. This research plan will investigate a truly-scalable yet unified spectral graph reduction approach that allows reducing large-scale, real-world directed and undirected graphs with guaranteed preservation of the original graph spectra. The success of the proposed research will significantly advance the state of the arts in spectral graph theory, electronic design automation (EDA), data mining, machine learning, as well as scientific computing, leading to the development of much faster numerical and graph-based algorithms. The algorithms and methodologies to be developed will be disseminated to leading technology companies such as EDA software and network companies for potential industrial adoptions. Spectral graph reduction algorithms/software packages will also be made available to other researchers through collaborations.&lt;br/&gt;&lt;br/&gt;The project will investigate a truly-scalable yet unified spectral graph reduction approach by exploiting a scalable (nearly-linear complexity) spectral matrix perturbation analysis framework for constructing nearly-linear sized subgraphs that can well preserve the key eigenvalues and eigenvectors of the original graph Laplacians. Unlike prior methods that are only suitable for handling specific types of graphs (e.g. undirected or strongly-connected graphs), this project uses a more universal approach and thus will allow for spectral reduction of a much wider range of real-world graphs that may involve billions of elements: spectrally-reduced social (data) networks allow for more efficiently modeling, mining and analysis of large social (data) networks; spectrally-reduced neural networks allow for more scalable model training and processing in emerging machine learning tasks; spectrally-reduced web-graphs allow for much faster computations of personalized PageRank vectors; spectrally-reduced integrated circuit networks will lead to more efficient partitioning, modeling, simulation, optimization and verification of large chip designs, etc.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/12/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>02/12/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2021309</AwardID>
+<Investigator>
+<FirstName>Zhuo</FirstName>
+<LastName>Feng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zhuo Feng</PI_FULL_NAME>
+<EmailAddress><![CDATA[zfeng12@stevens.edu]]></EmailAddress>
+<NSF_ID>000555056</NSF_ID>
+<StartDate>02/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Stevens Institute of Technology]]></Name>
+<CityName>HOBOKEN</CityName>
+<ZipCode>07030</ZipCode>
+<PhoneNumber>2012168762</PhoneNumber>
+<StreetAddress><![CDATA[1 CASTLEPOINT ON HUDSON]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJ6CN5Y5A2R5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF THE STEVENS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stevens Institute of Technology]]></Name>
+<CityName>Hoboken</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>070305991</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~500000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This research has investigated a truly scalable yet unified spectral graph reduction approach that allows reducing real-world, large-scale directed, and undirected graphs with guaranteed preservation of the original graph's&nbsp;structural&nbsp;properties. More specifically, we developed a highly-scalable (nearly-linear complexity) spectral matrix perturbation analysis framework for constructing nearly-linear sized (directed) subgraphs that can well preserve the key eigenvalues and eigenvectors of the original graph Laplacians. Unlike the prior state-of-the-art methods that are only suitable for handling specific types of graphs (e.g. undirected or strongly connected directed graphs, the proposed approach is more general and thus will allow for truly scalable spectral reduction of a much wider range of real-world complex graphs that may involve billions of elements. The reduced graphs produced by this approach have been exploited in a series of integrated circuit computed-aided design problems (e.g. circuit modeling, simulation, and verification tasks), as well as several machine learning (ML) problems such as graph learning, and adversarial robustness evaluation.</p> <p><span id="docs-internal-guid-56b8c1b8-7fff-2745-80ba-59e11535cea8"> </span></p> <p dir="ltr"><span>The outcomes of this research plan have been disseminated to research communities through presentations and publications in leading conferences and journals. The algorithms and methodologies developed during this research have been shared with leading EDA and social-network companies for potential industrial adoptions.&nbsp;The proposed research may potentially advance the state of the art in various fields such as spectral graph theory, electronic design automation (EDA), data mining, machine learning, and scientific computing, leading to the development of scalable methods for design automation of nanometer VLSI systems, graph partitioning, data clustering (dimension reduction), as well as solving graph Laplacians and eigenvalue problems.</span></p> <div><span><br /></span></div> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 04/23/2024<br> Modified by: Zhuo&nbsp;Feng</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2021309/2021309_10609546_1713922075694_grass--rgov-214x142.png" original="/por/images/Reports/POR/2024/2021309/2021309_10609546_1713922075694_grass--rgov-800width.png" title="Spectral reduction of graphs"><img src="/por/images/Reports/POR/2024/2021309/2021309_10609546_1713922075694_grass--rgov-66x44.png" alt="Spectral reduction of graphs"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Reduced graphs with different spectral similarities</div> <div class="imageCredit">Zhuo Feng</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Zhuo&nbsp;Feng <div class="imageTitle">Spectral reduction of graphs</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This research has investigated a truly scalable yet unified spectral graph reduction approach that allows reducing real-world, large-scale directed, and undirected graphs with guaranteed preservation of the original graph'sstructuralproperties. More specifically, we developed a highly-scalable (nearly-linear complexity) spectral matrix perturbation analysis framework for constructing nearly-linear sized (directed) subgraphs that can well preserve the key eigenvalues and eigenvectors of the original graph Laplacians. Unlike the prior state-of-the-art methods that are only suitable for handling specific types of graphs (e.g. undirected or strongly connected directed graphs, the proposed approach is more general and thus will allow for truly scalable spectral reduction of a much wider range of real-world complex graphs that may involve billions of elements. The reduced graphs produced by this approach have been exploited in a series of integrated circuit computed-aided design problems (e.g. circuit modeling, simulation, and verification tasks), as well as several machine learning (ML) problems such as graph learning, and adversarial robustness evaluation.       The outcomes of this research plan have been disseminated to research communities through presentations and publications in leading conferences and journals. The algorithms and methodologies developed during this research have been shared with leading EDA and social-network companies for potential industrial adoptions.The proposed research may potentially advance the state of the art in various fields such as spectral graph theory, electronic design automation (EDA), data mining, machine learning, and scientific computing, leading to the development of scalable methods for design automation of nanometer VLSI systems, graph partitioning, data clustering (dimension reduction), as well as solving graph Laplacians and eigenvalue problems.                Last Modified: 04/23/2024       Submitted by: ZhuoFeng]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

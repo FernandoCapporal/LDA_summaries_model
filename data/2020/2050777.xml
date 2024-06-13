@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF REU Site: Research training in the biomedical sciences and engineering]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>383702.00</AwardTotalIntnAmount>
+<AwardAmount>425987</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrea Holgado</SignBlockName>
+<PO_EMAI>aholgado@nsf.gov</PO_EMAI>
+<PO_PHON>7032927076</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This REU Site award to Yale University, located in New Haven, CT, will support the training of 10 students for 10 weeks during the summers of 2021-2023. It is anticipated that a total of 10 students per year, primarily from schools with limited research opportunities or from under-represented groups, will be trained in the program. Students will learn how research is conducted and about various types of science careers. Many of the students will present the results of their work at scientific conferences. Assessment of the program will be performed via the online SALG URSSA tool. Students will be tracked after the program to determine their career paths.&lt;br/&gt;&lt;br/&gt;This 10-week NSF REU Site provides undergraduates with convergent, hands-on research experiences and professional development skills at a large research institution that will enable them to pursue STEM careers. The REU Site has three focus research areas: A) Biological imaging and data science, B) Biomechanics, and C) Systems biology. Each REU participant conducts research in one of these research areas. Enrichment activities develop students’ written and oral communication skills aimed at science and lay audiences, networking skills, and understanding of the graduate application process, STEM careers, and scientific ethics. REU participants will gain a deeper understanding of interdisciplinary and quantitative research and how wet-lab experiments inform computational and theoretical approaches, and vice versa. This REU Site helps students determine if they want to pursue graduate studies, the field they want to pursue during graduate studies, and the STEM careers that are available to them. Many participants will have the opportunity to present their research at scientific conferences, and, when possible, contribute to the preparation of scientific publications. The success of the REU Site will be assessed by participants yearly, and used to improve the program elements. More information about the program, including the application process, is available by visiting https://physics-engineering-biology.yale.edu/nsf-reu-site or by contacting the PI (Prof. Corey O’Hern at corey.ohern@yale.edu) or the co-PI (Dr. Dorottya Noble at dorottya.noble@yale.edu).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/02/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>03/16/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2050777</AwardID>
+<Investigator>
+<FirstName>Dorottya</FirstName>
+<LastName>Noble</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dorottya Noble</PI_FULL_NAME>
+<EmailAddress><![CDATA[dorottya.noble@yale.edu]]></EmailAddress>
+<NSF_ID>000831331</NSF_ID>
+<StartDate>02/02/2021</StartDate>
+<EndDate>10/24/2022</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Corey</FirstName>
+<LastName>O'Hern</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Corey S O'Hern</PI_FULL_NAME>
+<EmailAddress><![CDATA[corey.ohern@yale.edu]]></EmailAddress>
+<NSF_ID>000263174</NSF_ID>
+<StartDate>02/02/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>NEW HAVEN</CityName>
+<ZipCode>065113572</ZipCode>
+<PhoneNumber>2037854689</PhoneNumber>
+<StreetAddress><![CDATA[150 MUNSON ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FL6GV84CKN57</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>YALE UNIV</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FL6GV84CKN57</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Yale University]]></Name>
+<CityName>New Haven</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>065208286</ZipCode>
+<StreetAddress><![CDATA[9 Hillhouse Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>113900</Code>
+<Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>727500</Code>
+<Text>Cross-BIO Activities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>108Z</Code>
+<Text>Post-baccalaureate Involvement</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~168289</FUND_OBLG>
+<FUND_OBLG>2022~128593</FUND_OBLG>
+<FUND_OBLG>2023~129105</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The NSF REU Site: Research training in the biomedical sciences and engineering provided 10-week summer research training at Yale University to 27 undergraduate students (9 each summer) from 2021-2023. The objective of this Site was to provide undergraduates with convergent, hands-on research experiences and professional development skills at a large research institution that will enable them to pursue STEM careers. In addition to conducting research in a Yale laboratory, REU students participated in professional development workshops, to develop their written and oral communication skills, networking skills, and understanding of the graduate school application process, STEM careers, and scientific ethics. This REU Site helped students determine if they want to pursue graduate studies, the field they want to pursue during graduate studies, and the STEM careers that are available to them.&nbsp;</p> <p>An important goal of this REU Site was that at least half of REU participants were from underrepresented groups in STEM; this goal was achieved, with 60% of participants identifying with these groups. Additionally, in line with the NSF REU program&rsquo;s mission to expand participation of undergraduates in interdisciplinary research, over 60% of participants were from non-R1 Research Institutions and over half were first-generation and/or low-income students.</p> <p>REU participants completed research projects in one of the following three focus research areas: A) biological imaging and data science, B) biomechanics, and C) systems biology. Example projects during the summer of 2023 include:&nbsp;</p> <ul> <li>Developing methods to image the activity of neurons deep in the brain in live organisms</li> <li>Quantifying the force on proteins involved in cell division in fission yeast</li> <li>Predicting protein-protein interactions using computational models</li> <li>Testing combinations of chemotherapeutic agents in BRCA2-mutant breast cancer cells</li> <li>Creating biomimetic structures to study the impact of tissue fibrosis (stiffening and scarring) on the progression of cancer</li> </ul> <p>&nbsp;</p> <p>The skills that REU participants learned in the lab were complemented by additional training in coding and research ethics. Participants learned the basics of coding in Python through a 5-part workshop led by senior graduate students who code in this language as part of their research. They also participated in an ethics workshop where they learned about ethical dilemmas currently faced by researchers in interdisciplinary STEM fields, such as image manipulation, responsible authorship during publication, and plagiarism.</p> <p>REU participants also participated in outreach events for students in the local New Haven community, where Yale&rsquo;s campus is situated. They led hands-on demonstrations for high school and middle school students on topics such as how to use a microscope and extracting cheek cells from DNA. In 2023, REU participants also spoke with New Haven area high-school students participating in Yale&rsquo;s Pathways to Science program about applying to college and what it&rsquo;s like to do research as an undergraduate student.</p> <p>REU participants honed their skills in scientific writing and presentations during workshops focused on communicating science, and during one-on-one feedback sessions about their poster presentations and lightning talks. Participants have gone on to use these skills to disseminate their research findings in peer-reviewed journals and at national conferences. As of the end of this award, 4 REU participants are co-authors on a manuscript that has been or will be published in a peer-reviewed scientific journal based on their summer research. In addition to presenting their summer research at Yale during the Summer Undergraduate Research Symposium, 17 participants have presented their REU research at their home institutions or conferences. REU participants have been recognized at national conferences for their summer research achievements. For example, at the 2023 Annual Biomedical Research Conference for Minoritized Scientists (ABRCMS), two of the five 2023 REU participants who attended the conference received prestigious Poster Presentation Awards for their poster presentations of the research they conducted at Yale over the summer.</p> <p>During the REU, participants attended career-prep workshops, including panels with post-baccalaureate researchers, Ph.D., and M.D./Ph.D. students, and workshops on the graduate school application process and writing a personal statement. Students also learned about career opportunities in academic, industry, and other settings. All 12 participants who have completed their undergraduate degrees as of the end of this award are pursuing a career in research or a research-related job in STEM. 5 are pursuing a STEM Ph.D., 1 is pursuing a M.S. in Biology, 1 is pursuing an M.D., 2 are post baccalaureate researchers at Yale in their REU host laboratories, and 3 are in other STEM-related positions in academic and industry settings. This fulfills this REU Site&rsquo;s goal that 90-95% of participants pursue careers in STEM.</p> <p>In summary, this REU Site provided undergraduate students with experiences performing interdisciplinary research, developed their skills in research ethics, coding, science writing and oral communication, and science outreach, and prepared to pursue graduate education and enter a STEM career.</p> <p>&nbsp;</p><br> <p>  Last Modified: 03/14/2024<br> Modified by: Corey&nbsp;S&nbsp;O'hern</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The NSF REU Site: Research training in the biomedical sciences and engineering provided 10-week summer research training at Yale University to 27 undergraduate students (9 each summer) from 2021-2023. The objective of this Site was to provide undergraduates with convergent, hands-on research experiences and professional development skills at a large research institution that will enable them to pursue STEM careers. In addition to conducting research in a Yale laboratory, REU students participated in professional development workshops, to develop their written and oral communication skills, networking skills, and understanding of the graduate school application process, STEM careers, and scientific ethics. This REU Site helped students determine if they want to pursue graduate studies, the field they want to pursue during graduate studies, and the STEM careers that are available to them.   An important goal of this REU Site was that at least half of REU participants were from underrepresented groups in STEM; this goal was achieved, with 60% of participants identifying with these groups. Additionally, in line with the NSF REU programs mission to expand participation of undergraduates in interdisciplinary research, over 60% of participants were from non-R1 Research Institutions and over half were first-generation and/or low-income students.   REU participants completed research projects in one of the following three focus research areas: A) biological imaging and data science, B) biomechanics, and C) systems biology. Example projects during the summer of 2023 include:  Developing methods to image the activity of neurons deep in the brain in live organisms Quantifying the force on proteins involved in cell division in fission yeast Predicting protein-protein interactions using computational models Testing combinations of chemotherapeutic agents in BRCA2-mutant breast cancer cells Creating biomimetic structures to study the impact of tissue fibrosis (stiffening and scarring) on the progression of cancer       The skills that REU participants learned in the lab were complemented by additional training in coding and research ethics. Participants learned the basics of coding in Python through a 5-part workshop led by senior graduate students who code in this language as part of their research. They also participated in an ethics workshop where they learned about ethical dilemmas currently faced by researchers in interdisciplinary STEM fields, such as image manipulation, responsible authorship during publication, and plagiarism.   REU participants also participated in outreach events for students in the local New Haven community, where Yales campus is situated. They led hands-on demonstrations for high school and middle school students on topics such as how to use a microscope and extracting cheek cells from DNA. In 2023, REU participants also spoke with New Haven area high-school students participating in Yales Pathways to Science program about applying to college and what its like to do research as an undergraduate student.   REU participants honed their skills in scientific writing and presentations during workshops focused on communicating science, and during one-on-one feedback sessions about their poster presentations and lightning talks. Participants have gone on to use these skills to disseminate their research findings in peer-reviewed journals and at national conferences. As of the end of this award, 4 REU participants are co-authors on a manuscript that has been or will be published in a peer-reviewed scientific journal based on their summer research. In addition to presenting their summer research at Yale during the Summer Undergraduate Research Symposium, 17 participants have presented their REU research at their home institutions or conferences. REU participants have been recognized at national conferences for their summer research achievements. For example, at the 2023 Annual Biomedical Research Conference for Minoritized Scientists (ABRCMS), two of the five 2023 REU participants who attended the conference received prestigious Poster Presentation Awards for their poster presentations of the research they conducted at Yale over the summer.   During the REU, participants attended career-prep workshops, including panels with post-baccalaureate researchers, Ph.D., and M.D./Ph.D. students, and workshops on the graduate school application process and writing a personal statement. Students also learned about career opportunities in academic, industry, and other settings. All 12 participants who have completed their undergraduate degrees as of the end of this award are pursuing a career in research or a research-related job in STEM. 5 are pursuing a STEM Ph.D., 1 is pursuing a M.S. in Biology, 1 is pursuing an M.D., 2 are post baccalaureate researchers at Yale in their REU host laboratories, and 3 are in other STEM-related positions in academic and industry settings. This fulfills this REU Sites goal that 90-95% of participants pursue careers in STEM.   In summary, this REU Site provided undergraduate students with experiences performing interdisciplinary research, developed their skills in research ethics, coding, science writing and oral communication, and science outreach, and prepared to pursue graduate education and enter a STEM career.        Last Modified: 03/14/2024       Submitted by: CoreySO'hern]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RCN-UBE INCUBATOR STEM BUILD: A network of undergraduates, faculty, and makers utilizing 3D printing to Build Understanding through Inclusive Learning Design]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>74983.00</AwardTotalIntnAmount>
+<AwardAmount>74983</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Amanda Simcox</SignBlockName>
+<PO_EMAI>asimcox@nsf.gov</PO_EMAI>
+<PO_PHON>7032928165</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Scientific discovery is a team effort that benefits from the intellectual input of individuals with diverse backgrounds, perspectives, and lived experiences. Lack of diversity in STEM fields in the US represents a loss of talent and slows the progress of science. To increase the diversity of the STEM workforce in the US, it is necessary to develop new ways of teaching complex concepts that are engaging and effective for all learners. This RCN-UBE network will provide training and resources to educators to help them create interactive 3D-printed cellular and molecular puzzles for use in college biology classrooms. These 3D models are designed to be accessible to all students, including those with disabilities, making it possible for blind or visually impaired students to learn about cellular and molecular processes along with their seeing classmates. Because they are designed to be broadly accessible, published studies have shown that these models increase understanding of difficult biological concepts for all students.&lt;br/&gt;&lt;br/&gt;The researchers will recruit three geographically-based teams of faculty, 3D printing experts (“makers”), and undergraduate research assistants to attend a training summit at NC State University. Each team will be composed of members from three different institutions and will collaborate to create a Tactile Teaching Tool-Guided Inquiry Learning (TTT-GIL) activity that will be implemented at all three institutions in the team. During the summit, teams will receive training in 3D design and printing, Universal Design for Learning (UDL), Process-Oriented Guided Inquiry Learning (POGIL), and assessment. Upon returning to home institutions, teams will continue prototyping and refining their models, with faculty designing the activity and assessment, and undergraduate research students working with makers to produce the physical models. Each team will assess the effectiveness of their TTT-GIL activity in at least three different classroom settings. The researchers will evaluate the effect of participation in this project on faculty teaching practices, undergraduate students’ STEM identity and persistence, and training provided by makers at their home institutions. &lt;br/&gt;&lt;br/&gt;This project is being jointly funded by the Directorate for Biological Sciences, Division of Biological Infrastructure, and the Directorate for Education and Human Resources, Division of Undergraduate Education as part of their efforts to address the challenges posed in Vision and Change in Undergraduate Biology Education: A Call to Action (http://visionandchange/finalreport/).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2018668</AwardID>
+<Investigator>
+<FirstName>Melissa</FirstName>
+<LastName>Ramirez</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Melissa Ramirez</PI_FULL_NAME>
+<EmailAddress><![CDATA[mvramire@ncsu.edu]]></EmailAddress>
+<NSF_ID>000713146</NSF_ID>
+<StartDate>06/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Claire</FirstName>
+<LastName>Gordy</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Claire Gordy</PI_FULL_NAME>
+<EmailAddress><![CDATA[clgordy@ncsu.edu]]></EmailAddress>
+<NSF_ID>000765234</NSF_ID>
+<StartDate>06/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276950001</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>2601 WOLF VILLAGE WAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NVH931QJJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTH CAROLINA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>Raleigh</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>276958209</ZipCode>
+<StreetAddress><![CDATA[2700 Sullivan Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>037Y</Code>
+<Text>UBE - Undergraduate Biology Ed</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1998</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1664</Code>
+<Text>RESEARCH COORD NETWK IN BIO SC</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0420</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>04002021DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~74983</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-e3793d16-7fff-7601-6431-b35cd4001bb6"> </span></p> <p dir="ltr"><span>Scientific discovery is a team effort that benefits from the intellectual input of individuals with diverse backgrounds, perspectives, and lived experiences. Lack of diversity in STEM fields in the US represents a loss of talent and slows the progress of science. To increase the diversity of the STEM workforce in the US, it is necessary to develop new ways of teaching complex concepts that are engaging and effective for all learners. This RCN-UBE network provided training and resources to educators to help them create interactive 3D-printed cellular and molecular puzzles for use in college biology classrooms. These 3D models are designed to be accessible to all students, including those with disabilities. Because they are designed to be broadly accessible, published studies have shown that these models increase understanding of difficult biological concepts for all students.</span></p> <p dir="ltr"><span>This network consisted of three geographically-based teams of faculty, 3D printing experts ("makers"), and undergraduate research assistants who participated in an online training summit hosted by NC State University. Each team collaborated to create a Tactile Teaching Tool-Guided Inquiry Learning (TTT-GIL) activity that they then implemented at each institution represented in the team. During the summit, teams received training in 3D design and printing, Universal Design for Learning (UDL), Process-Oriented Guided Inquiry Learning (POGIL), and assessment. Upon returning to their home institutions, the teams continued prototyping and refining their models, with faculty designing the activity and assessment, and undergraduate research students working with makers to produce the physical models. Through this RCN-UBE, over 1000 undergraduates at 7 institutions engaged in at least one TTT-GIL activity. The positive impact of these activities on students' understanding of challenging concepts has been shared in multiple peer-reviewed publications and conference presentations by RCN-UBE STEM BUILD teams. The assessments of TTT-GIL activities in varied academic settings by participant teams contribute to the intellectual merit of this network by expanding the nascent body of discipline-based education research related to TTT-GIL, UDL, and constructivist approaches in STEM education.&nbsp;</span></p> <p dir="ltr"><span>Additionally, evaluation of STEM instructors' self-efficacy before and after participation in the RCN-UBE revealed increased confidence in 20 metrics related to effective and inclusive teaching, with the largest impact observed on instructors' confidence in their understanding of UDL. This finding is indicative of the broader impact of this network. In addition to creating new TTT-GIL activities that will continue to impact diverse learners at a variety of participating institutions, participation in this network has resulted in fundamental changes in instructor skills and knowledge necessary to implement, assess, and disseminate inclusive STEM teaching strategies at their institutions and beyond.</span></p> <div><span><br /></span></div> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 03/29/2024<br> Modified by: Melissa&nbsp;Ramirez</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      Scientific discovery is a team effort that benefits from the intellectual input of individuals with diverse backgrounds, perspectives, and lived experiences. Lack of diversity in STEM fields in the US represents a loss of talent and slows the progress of science. To increase the diversity of the STEM workforce in the US, it is necessary to develop new ways of teaching complex concepts that are engaging and effective for all learners. This RCN-UBE network provided training and resources to educators to help them create interactive 3D-printed cellular and molecular puzzles for use in college biology classrooms. These 3D models are designed to be accessible to all students, including those with disabilities. Because they are designed to be broadly accessible, published studies have shown that these models increase understanding of difficult biological concepts for all students.   This network consisted of three geographically-based teams of faculty, 3D printing experts ("makers"), and undergraduate research assistants who participated in an online training summit hosted by NC State University. Each team collaborated to create a Tactile Teaching Tool-Guided Inquiry Learning (TTT-GIL) activity that they then implemented at each institution represented in the team. During the summit, teams received training in 3D design and printing, Universal Design for Learning (UDL), Process-Oriented Guided Inquiry Learning (POGIL), and assessment. Upon returning to their home institutions, the teams continued prototyping and refining their models, with faculty designing the activity and assessment, and undergraduate research students working with makers to produce the physical models. Through this RCN-UBE, over 1000 undergraduates at 7 institutions engaged in at least one TTT-GIL activity. The positive impact of these activities on students' understanding of challenging concepts has been shared in multiple peer-reviewed publications and conference presentations by RCN-UBE STEM BUILD teams. The assessments of TTT-GIL activities in varied academic settings by participant teams contribute to the intellectual merit of this network by expanding the nascent body of discipline-based education research related to TTT-GIL, UDL, and constructivist approaches in STEM education.   Additionally, evaluation of STEM instructors' self-efficacy before and after participation in the RCN-UBE revealed increased confidence in 20 metrics related to effective and inclusive teaching, with the largest impact observed on instructors' confidence in their understanding of UDL. This finding is indicative of the broader impact of this network. In addition to creating new TTT-GIL activities that will continue to impact diverse learners at a variety of participating institutions, participation in this network has resulted in fundamental changes in instructor skills and knowledge necessary to implement, assess, and disseminate inclusive STEM teaching strategies at their institutions and beyond.             Last Modified: 03/29/2024       Submitted by: MelissaRamirez]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

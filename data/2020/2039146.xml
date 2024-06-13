@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Internet Measurement Capability for FABRIC]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>270000.00</AwardTotalIntnAmount>
+<AwardAmount>270000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deepankar Medhi</SignBlockName>
+<PO_EMAI>dmedhi@nsf.gov</PO_EMAI>
+<PO_PHON>7032922935</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project initiates Internet Measurement Research as a science driver for the FABRIC testbed.  The technical component of the project focuses on investigating three different Internet measurement systems that will be deployed in FABRIC.  The systems are complementary to the current Measurement Framework and will utilize FABRIC's unique capabilities including programmability and artificial intelligence/machine learning.  The systems can be customized, configured and launched by researchers to gather data for their studies. The organizational component of the project focuses on coordinating with the FABRIC team and outreach to the Internet measurement community to raise awareness and catalyze the use of FABRIC in research studies.&lt;br/&gt;&lt;br/&gt;The project will investigate, develop and deploy prototype systems for active probe-based measurement, distributed network honeypot measurement and passive measurement of physical layer metrics.  A system for measuring traffic from distributed applications within FABRIC will also be investigated. These systems will be developed as virtual machine images that can be integrated into and managed flexibly by the FABRIC Control Framework.  The technical challenges that will be addressed in this work include investigating and building the core images, integrating with specialized systems in FABRIC (including GPS, high-speed packet capture, routers, etc.), building data repositories and coordinating with testbed operations personnel to assure security policy compliance.&lt;br/&gt;&lt;br/&gt;The project will expand FABRIC’s capability to support Internet measurement research, which seeks to broaden understanding of Internet structure and behavior and inform the design and development of next generation Internet systems and protocols.   The outreach component of this project will build awareness and facilitate community participation in FABRIC and development of Internet measurement systems.  The project will also influence the development of new educational materials in networking and data science at the undergraduate and graduate level. The students who work on the projects will receive guidance and training.  &lt;br/&gt;&lt;br/&gt;All software and data artifacts that emerge from this project will be available to the community.  These will include documentation for all of the prototype Internet measurement systems that will be deployed in FABRIC. Software, data, documentation and publications will be available indefinitely from http://pages.cs.wisc.edu/~pb/software_data.html, and on the FABRIC testbed web pages at https://fabric-testbed.net/.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2039146</AwardID>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Barford</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Paul Barford</PI_FULL_NAME>
+<EmailAddress><![CDATA[pb@cs.wisc.edu]]></EmailAddress>
+<NSF_ID>000296385</NSF_ID>
+<StartDate>08/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress><![CDATA[21 N PARK ST STE 6301]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LCLSJAGTNZQ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Madison]]></Name>
+<CityName>Madison</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537051218</ZipCode>
+<StreetAddress><![CDATA[21 North Park Street, Suite 6401]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>289000</Code>
+<Text>CISE Research Resources</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~270000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>The major goal for this project was to introduce a new science driver for FABRIC:&nbsp; Internet measurement research.&nbsp; To catalyze Internet measurement, this project pursued a technical development program to the expand the FABRIC Measurement Framework to support empirical research and development activities that were not considered in the original design.&nbsp; T<span>he major research activities focused on developing capabilities to (i) deploy and operate network telescope/honeynets at participating institutions in FABRIC, (ii) deploy optical layer monitoring capability within FABRIC, and (iii) deploy a coordinated RIPE Atlas-based active measurement capability at participating institutions in FABRIC.</span></span></p> <p>Our efforts to develop a honeynet capability for monitoring traffic on routed but otherwise unused IP addresses at FABRIC locations resulted in the DScope monitoring system.&nbsp; DScope monitors can be instantly deployed on VMs and have both passive and active (ie. responds to incoming connection requests) measurement capabilities. DScope's initial deployment was in Amazon Web Services, where significant findings on unwanted, unexpected and malicious activity were made.&nbsp; Dscope was also deployed as a proof-of-concept on a small network telescope at the University of Wisconsin where it has been collecting data for over a year.&nbsp; DScope data sets have been made openly available to the community.&nbsp; DScope Security, LLC was founded by the PI and collaborators to commercialize the system and transition the technology to practice.</p> <p><span>Our efforts to develop an optical monitoring capability for FABRIC produced several significant results.&nbsp; First, we completed development of an optical monitoring system that we call Optimon, which includes four major components: (i) an SNMP-based interface to collect MIB data from optical hardware, (ii) a data processing pipeline and repository for sanitizing and storing collected data, (iii) an AI-based engine for analyzing the data, (iv) a visualization environment for assessing characteristics and behavior of the infrastructure.&nbsp; The Optimon software is available on Github at https://github.com/catudal/optimon.&nbsp; This software has been deployed on the UW-Madison optical network.&nbsp; Next, through conversations with ESNet - the network service provider for FABRIC - we were able to utilize capabilities that they had developed to assemble a dataset of key performance indicators for their optical networking infrastructure.&nbsp; This dataset is representative of what can be collected from ESNet/FABRIC in support of empirical optical network research.</span></p> <p><span>Our efforts to bring up a RIPE Atlas active measurement infrastructure on all FABRIC was not successful.&nbsp; Our main result was an assessment of RIPE Atlas nodes deployed within FABRIC.&nbsp; What we found is that RIPE Atlas nodes are only active at 4 out of the 21 nodes in FABRIC.&nbsp; This implies a significant amount of future liaison effort to recover the Atlas nodes that are deployed but down and to facilitate deployment of Atlas nodes at sites that do not yet host anchors.&nbsp; The PI has reached out to the Atlas team at RIPE and to the designated sponsors at several of the FABRIC locations.&nbsp; However, it was difficult to find people who had knowledge of the deployed systems.</span><span>&nbsp;</span></p> <p>This project produced two datasets:&nbsp; honeynet data from DScope and optical KPIs from ESNet.&nbsp; It also produced two major software systems:&nbsp; DScope and Optimon.&nbsp; Five conferece research papers were published as a direct result of this work.&nbsp; Four students (3 graduate and 1 undergraduate) received training and mentorship throughout the course of this project.&nbsp; One new startup company - DScope Security, LLC - was founded.</p> <div class="page" title="Page 3"> <div class="section"> <div class="layoutArea"></div> </div> </div><br> <p>  Last Modified: 03/22/2024<br> Modified by: Paul&nbsp;Barford</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2039146/2039146_10702416_1711090740941_Optimon_diagram--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2039146/2039146_10702416_1711090740941_Optimon_diagram--rgov-800width.jpg" title="Optimon architecture"><img src="/por/images/Reports/POR/2024/2039146/2039146_10702416_1711090740941_Optimon_diagram--rgov-66x44.jpg" alt="Optimon architecture"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Optimon is a monitoring system designed to collect , store, analyze and visualize data from deployed optical transport hardware in operational networks.</div> <div class="imageCredit">Joe Catudal</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Paul&nbsp;Barford <div class="imageTitle">Optimon architecture</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2039146/2039146_10702416_1711090295358_telescope_arch--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2039146/2039146_10702416_1711090295358_telescope_arch--rgov-800width.jpg" title="DScope architecture"><img src="/por/images/Reports/POR/2024/2039146/2039146_10702416_1711090295358_telescope_arch--rgov-66x44.jpg" alt="DScope architecture"></a> <div class="imageCaptionContainer"> <div class="imageCaption">(1) IPv4 traffic is collected by Amazon EC2 instances. (2) Requests are inspected in real-time before being stored. (3) Recorded traffic is aggregated. (4) Aggregated traffic is inspected and TCP flow tuples are output. (5) Data format supports premade and custom analytics.</div> <div class="imageCredit">Pauley et al.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Paul&nbsp;Barford <div class="imageTitle">DScope architecture</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The major goal for this project was to introduce a new science driver for FABRIC: Internet measurement research. To catalyze Internet measurement, this project pursued a technical development program to the expand the FABRIC Measurement Framework to support empirical research and development activities that were not considered in the original design. The major research activities focused on developing capabilities to (i) deploy and operate network telescope/honeynets at participating institutions in FABRIC, (ii) deploy optical layer monitoring capability within FABRIC, and (iii) deploy a coordinated RIPE Atlas-based active measurement capability at participating institutions in FABRIC.   Our efforts to develop a honeynet capability for monitoring traffic on routed but otherwise unused IP addresses at FABRIC locations resulted in the DScope monitoring system. DScope monitors can be instantly deployed on VMs and have both passive and active (ie. responds to incoming connection requests) measurement capabilities. DScope's initial deployment was in Amazon Web Services, where significant findings on unwanted, unexpected and malicious activity were made. Dscope was also deployed as a proof-of-concept on a small network telescope at the University of Wisconsin where it has been collecting data for over a year. DScope data sets have been made openly available to the community. DScope Security, LLC was founded by the PI and collaborators to commercialize the system and transition the technology to practice.   Our efforts to develop an optical monitoring capability for FABRIC produced several significant results. First, we completed development of an optical monitoring system that we call Optimon, which includes four major components: (i) an SNMP-based interface to collect MIB data from optical hardware, (ii) a data processing pipeline and repository for sanitizing and storing collected data, (iii) an AI-based engine for analyzing the data, (iv) a visualization environment for assessing characteristics and behavior of the infrastructure. The Optimon software is available on Github at https://github.com/catudal/optimon. This software has been deployed on the UW-Madison optical network. Next, through conversations with ESNet - the network service provider for FABRIC - we were able to utilize capabilities that they had developed to assemble a dataset of key performance indicators for their optical networking infrastructure. This dataset is representative of what can be collected from ESNet/FABRIC in support of empirical optical network research.   Our efforts to bring up a RIPE Atlas active measurement infrastructure on all FABRIC was not successful. Our main result was an assessment of RIPE Atlas nodes deployed within FABRIC. What we found is that RIPE Atlas nodes are only active at 4 out of the 21 nodes in FABRIC. This implies a significant amount of future liaison effort to recover the Atlas nodes that are deployed but down and to facilitate deployment of Atlas nodes at sites that do not yet host anchors. The PI has reached out to the Atlas team at RIPE and to the designated sponsors at several of the FABRIC locations. However, it was difficult to find people who had knowledge of the deployed systems.   This project produced two datasets: honeynet data from DScope and optical KPIs from ESNet. It also produced two major software systems: DScope and Optimon. Five conferece research papers were published as a direct result of this work. Four students (3 graduate and 1 undergraduate) received training and mentorship throughout the course of this project. One new startup company - DScope Security, LLC - was founded.          Last Modified: 03/22/2024       Submitted by: PaulBarford]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

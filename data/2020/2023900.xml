@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Belmont Forum Collaborative Research: Re-Energize Governance of Disaster Risk Reduction and Resilience for Sustainable Development]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>299675.00</AwardTotalIntnAmount>
+<AwardAmount>299675</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06010000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>RISE</Abbreviation>
+<LongName>Div of Res, Innovation, Synergies, &amp; Edu</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maria Uhle</SignBlockName>
+<PO_EMAI>muhle@nsf.gov</PO_EMAI>
+<PO_PHON>7032922250</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award provides support to U.S. researchers participating in a project competitively selected by a 55-country initiative on global change research through the Belmont Forum.  The Belmont Forum is a consortium of research funding organizations focused on support for transdisciplinary approaches to global environmental change challenges and opportunities.  It aims to accelerate delivery of the international research most urgently needed to remove critical barriers to sustainability by aligning and mobilizing international resources. Each partner country provides funding for their researchers within a consortium to alleviate the need for funds to cross international borders. This approach facilitates effective leveraging of national resources to support excellent research on topics of global relevance best tackled through a multinational approach, recognizing that global challenges need global solutions. This award provides support for the U.S. researchers to cooperate in consortia that consist of partners from at least three of the participating countries to address the growing need for assessment and reduction of disaster risk, collaborative co-design of resilience strategies with a breadth of stakeholders, and scientifically and technologically enhanced responses to disasters.  &lt;br/&gt;&lt;br/&gt;The Re-energize project will address the interactions between disasters and sustainable development for effective disaster risk management and will provide an assessment of risk factors due to human activities, including climate change.  The project will embed disaster risk reduction and resilience into development planning and programs by employing artificial intelligence (AI), machine learning (ML), and natural language processing (NLP) across six case studies from four continents.  The team will create an open-access tool to provide critical data to decisionmakers and planners for disaster risk reduction strategies and will develop a response processes to help generate standardized approaches intended to enhance the resilience of communities.  This project will ultimately develop innovative and implementable strategies and technologies to help reduce disaster risk and enhance societal coping capabilities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/29/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>04/06/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2023900</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Dodds</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael Dodds</PI_FULL_NAME>
+<EmailAddress><![CDATA[felix@felixdodds.net]]></EmailAddress>
+<NSF_ID>000821440</NSF_ID>
+<StartDate>03/29/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Chapel Hill</Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275995023</ZipCode>
+<PhoneNumber>9199663411</PhoneNumber>
+<StreetAddress>104 AIRPORT DR STE 2200</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>D3LHU66KBLD5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of North Carolina at Chapel Hill]]></Name>
+<CityName>CHAPEL HILL</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>275991350</ZipCode>
+<StreetAddress><![CDATA[104 AIRPORT DR STE 2200]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7313</Code>
+<Text>Intl Global Change Res &amp; Coord</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1679</Code>
+<Text>INTERNATIONAL COORDINATION ACT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7313</Code>
+<Text>REGIONAL INST FOR GLOBAL CHANG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~99722</FUND_OBLG>
+<FUND_OBLG>2022~98621</FUND_OBLG>
+<FUND_OBLG>2023~101332</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The project team at UNC worked on a variety of activities to support the overarching objective of addressing Disaster Risk, Reduction and Resilience (DR3). The work addressed various aspects of the growing need to assess and reduce the risk of disaster and creatively engage stakeholders in the design of resilience strategies. These activities include stakeholder engagement, research, and the exploration of scientifically and technologically enhanced responses to disasters.</p> <p>&nbsp;</p> <p>The team initially focused its work on Kinston, North Carolina and a few coastal communities in the state, conducting a series of stakeholder workshops and a vulnerability assessment for the city. Stakeholder workshops helped develop the UNC Snow Angel method of stakeholder engagement&mdash;an evolution of the more traditional snowball method that expands scope and seeks to prioritize the most vulnerable. The team&rsquo;s work in Kinston was detailed in a publication for <em>Frontiers in Sustainable Development</em>, relating the workshops and case study to the broader system of governance for disaster risk reduction in the United States. Two workshops were held in North Carolina where 60 people attended. The outcomes from these workshops around vulnerable communities and insurance were also presented at the international level.</p> <p>&nbsp;</p> <p>Following this first phase of the project, the DR3 team branched out into several sub-projects based on emerging topics in the international space and team interest. This second phase included but was not limited to: <strong>1)</strong> exploring and advocating for two new vulnerability indices inspired by UNICEF&rsquo;s Children&rsquo;s Climate Risk Index (CCRI)&mdash;one for geographic regions and another for women, <strong>2)</strong> a literature review and qualitative research study on insurance or grant-based options for addressing loss and damage, and <strong>3)</strong> an examination of the existing benefits, and potential challenges, of using social media and mobile phone data in disaster management and response.</p> <p>&nbsp;</p> <p>The project had a robust educational component. Team members organized a webinar for first-time UN Climate COP delegates. The virtual event had over 1,500 registrants and received positive feedback. The educational opportunity covered topics ranging from the history of climate change negotiations; how the UNFCCC is structured; previous COP27 Outcomes and Legacies; and Negotiating Groups and key people to know.</p> <p>&nbsp;</p> <p>The project also provided participants with the opportunity for professional development and mentorship. Team members included undergraduate and graduate students in addition to post-doctoral fellows. Individuals on the team had the opportunity to write for international audiences such as the Inter Press Service and the International Science Council. A subset of the team wrote and published an academic paper on intergovernmental relations in the context of flood management. Team members also had the opportunity to present their work in several different public fora such as the UNFCCC, the UN High Level Political Forum, the UN Disaster Risk Reduction 7<sup>th</sup> Global Platform, among others. These experiences allowed team members to gain global perspectives on disaster risk reduction and formed meaningful relationships with professionals at UNC and abroad. Individuals on the team also gained an understanding of the United Nations system and its functioning and many of the team members had the opportunity to engage with the United Nations at international conferences.</p> <p>&nbsp;</p><br> <p>  Last Modified: 03/26/2024<br> Modified by: Michael&nbsp;Dodds</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2023900/2023900_10724637_1711487236128_DR3_Project_Summary_Graphic--rgov-214x142.jpeg" original="/por/images/Reports/POR/2024/2023900/2023900_10724637_1711487236128_DR3_Project_Summary_Graphic--rgov-800width.jpeg" title="Project summary"><img src="/por/images/Reports/POR/2024/2023900/2023900_10724637_1711487236128_DR3_Project_Summary_Graphic--rgov-66x44.jpeg" alt="Project summary"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Summary of activities carried out by team at the University of North Carolina at Chapel Hill.</div> <div class="imageCredit">UNC DR3</div> <div class="imagePermisssions">Copyright owner is an institution with an existing agreement allowing use by NSF</div> <div class="imageSubmitted">Michael&nbsp;Dodds <div class="imageTitle">Project summary</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The project team at UNC worked on a variety of activities to support the overarching objective of addressing Disaster Risk, Reduction and Resilience (DR3). The work addressed various aspects of the growing need to assess and reduce the risk of disaster and creatively engage stakeholders in the design of resilience strategies. These activities include stakeholder engagement, research, and the exploration of scientifically and technologically enhanced responses to disasters.      The team initially focused its work on Kinston, North Carolina and a few coastal communities in the state, conducting a series of stakeholder workshops and a vulnerability assessment for the city. Stakeholder workshops helped develop the UNC Snow Angel method of stakeholder engagementan evolution of the more traditional snowball method that expands scope and seeks to prioritize the most vulnerable. The teams work in Kinston was detailed in a publication for Frontiers in Sustainable Development, relating the workshops and case study to the broader system of governance for disaster risk reduction in the United States. Two workshops were held in North Carolina where 60 people attended. The outcomes from these workshops around vulnerable communities and insurance were also presented at the international level.      Following this first phase of the project, the DR3 team branched out into several sub-projects based on emerging topics in the international space and team interest. This second phase included but was not limited to: 1) exploring and advocating for two new vulnerability indices inspired by UNICEFs Childrens Climate Risk Index (CCRI)one for geographic regions and another for women, 2) a literature review and qualitative research study on insurance or grant-based options for addressing loss and damage, and 3) an examination of the existing benefits, and potential challenges, of using social media and mobile phone data in disaster management and response.      The project had a robust educational component. Team members organized a webinar for first-time UN Climate COP delegates. The virtual event had over 1,500 registrants and received positive feedback. The educational opportunity covered topics ranging from the history of climate change negotiations; how the UNFCCC is structured; previous COP27 Outcomes and Legacies; and Negotiating Groups and key people to know.      The project also provided participants with the opportunity for professional development and mentorship. Team members included undergraduate and graduate students in addition to post-doctoral fellows. Individuals on the team had the opportunity to write for international audiences such as the Inter Press Service and the International Science Council. A subset of the team wrote and published an academic paper on intergovernmental relations in the context of flood management. Team members also had the opportunity to present their work in several different public fora such as the UNFCCC, the UN High Level Political Forum, the UN Disaster Risk Reduction 7th Global Platform, among others. These experiences allowed team members to gain global perspectives on disaster risk reduction and formed meaningful relationships with professionals at UNC and abroad. Individuals on the team also gained an understanding of the United Nations system and its functioning and many of the team members had the opportunity to engage with the United Nations at international conferences.        Last Modified: 03/26/2024       Submitted by: MichaelDodds]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

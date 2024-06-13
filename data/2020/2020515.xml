@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Measuring leaping performance, evaluating its anatomical correlates, and reconsidering the importance of leaping in primate origins and early evolution]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>241389.00</AwardTotalIntnAmount>
+<AwardAmount>241389</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rebecca Ferrell</SignBlockName>
+<PO_EMAI>rferrell@nsf.gov</PO_EMAI>
+<PO_PHON>7032927850</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Primate species display a diverse range of adaptations for moving through their environments, and hypotheses about these locomotor patterns have long played a central role in models of primate origins. In this project, the investigators will use an integrative set of analytical techniques to (1) explore the correlation of “leaping related” skeletal traits with leaping performance and (2) assess the evolutionary implications of the resulting correlations in the primate fossil record. This approach is designed to provide validated evidence capable of supporting or refuting the hypothesis that selection for powerful arboreal leaping characterized early primate locomotion. Utilizing research facilities at the Duke Lemur Center and the Cleveland Metroparks Zoo (CMZ), this study will contribute to the debate on the relevance of leaping behavior during early primate evolution by providing quantitative biomechanical data on leaping performance in 19 species of extant primates. The project will enhance K-12 education and outreach via the involvement of high school research interns at Northeast Ohio Medical University and Duke University, as well as public outreach efforts through the teaching of a short course on primate locomotor biomechanics at a local STEM academy and public science events at the CMZ, Duke University’s Darwin Day, and the North Carolina Museum of Natural Science. The project will also provide research training and opportunities for undergraduates, female graduate students, and a postdoctoral fellow. &lt;br/&gt;&lt;br/&gt;Differing hypotheses about ancestral primate locomotion have long generated strong debate about the predominant selective pressures acting during primate origins. Recent paleontological analyses have been interpreted to suggest that selection for improved leaping was particularly critical during early primate evolution. Hypotheses about the paleobiology of ancestral primates are constrained by a limited understanding of the functional significance of morphological variation in extinct lineages, as fossils currently provide only imprecise clues about behavioral capacity. Robust correlations between morphology and performance are needed to more precisely infer locomotor transitions during primate origins from the anatomical transformations revealed by fossils. Fortunately, leaping biomechanics are relatively easy to characterize, making this a particularly tractable locomotor behavior to study. This research is organized into two specific aims. (AIM 1) Investigators will use high-speed video and force plates to study leaping performance in a diverse sample of extant primates, squirrels, and treeshrews. These data will be combined with morphometric datasets to test hypotheses relating variation in leaping performance to variation in skeletal morphology. (AIM 2) Armed with a deeper understanding of the functional morphology of leaping performance, investigators will use phylogenetic comparative analyses and evolutionary modeling to investigate the selective importance of leaping at the origin of crown primates and during their subsequent evolution. This two-pronged approach will ground interpretations of primate “leaping” morphology with transformational functional specificity, permitting assessment of how morphological changes in the primate fossil record quantitatively affected leaping performance and informing long-standing debates on the ecological context of primate origins.  This project is jointly supported by the NSF SBE-BCS-Biological Anthropology and BIO-IOS-Physiological Mechanisms and Biomechanics programs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2020515</AwardID>
+<Investigator>
+<FirstName>Jesse</FirstName>
+<LastName>Young</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jesse W Young</PI_FULL_NAME>
+<EmailAddress><![CDATA[jwyoung@neomed.edu]]></EmailAddress>
+<NSF_ID>000517065</NSF_ID>
+<StartDate>09/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Northeast Ohio Medical University]]></Name>
+<CityName>ROOTSTOWN</CityName>
+<ZipCode>442729698</ZipCode>
+<PhoneNumber>3303256290</PhoneNumber>
+<StreetAddress><![CDATA[4209 STATE ROUTE 44]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>14</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH14</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MJL7LEL4B6M6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHEAST OHIO MEDICAL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northeast Ohio Medical University]]></Name>
+<CityName>Rootstown</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>442720095</ZipCode>
+<StreetAddress><![CDATA[4209 State Route 44]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>14</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH14</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>139200</Code>
+<Text>Biological Anthropology</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>765800</Code>
+<Text>Physiol Mechs &amp; Biomechanics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1392</Code>
+<Text>Biological Anthropology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~241389</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Though hypotheses of ancestral locomotor patterns have long played a central role in the models of primate origins, few quantitative data exist to associate morphology (the information provided by the fossil record) with locomotor performance (a target of natural selection). Recent paleontological analyses have been interpreted to suggest that selection for improved leaping was particularly critical during early primate evolution. However, hypotheses about the paleobiology of ancestral primates are constrained by a limited understanding of the functional significance of morphological variation in extinct lineages, as fossils currently provide only imprecise clues about behavioral capacity. Robust correlations between morphology and performance are needed to more precisely infer locomotor transitions from the anatomical transformations revealed by fossils. The primary goal of this project was to use an integrative set of analytical techniques to (1) explore the correlation of "leaping related" skeletal traits with measurements of maximum leaping performance and (2) assess the evolutionary implications of the resulting correlations in the primate fossil record. Our approach was designed to provide validated evidence capable of supporting or refuting the hypothesis that selection for powerful arboreal leaping characterized early primate locomotion.</p> <p>Ultimately, working at the Cleveland Metroparks Zoo and the Duke Lemur Center, we collected in vivo data on leaping performance in 12 species, including two non-primate mammals - tree shrews (<em>Tupaia belangeri</em>) and tree squirrels (<em>Sciurus carolinensis</em>)&nbsp;- and ten primate species&nbsp;- bushbabies (<em>Galago moholi</em>), sikafas (<em>Propithecus coquereli</em>), five species of lemurs (<em>Cheirogaleus medius</em>, <em>Eulemur coronatus</em>, Eulemur<em> flavifrons, Eulemur mongoz, </em>and <em>Varecia variegata</em>), marmosets (<em>Callithrix geoffroyi</em>), tamarins (<em>Saguinus bicolor</em>), and Goeldi's monkeys (<em>Callimico goeldii</em>). Overall, our sample encompasses an order of magnitude in body size variation (from 150 gram tree shrews up to 4 kilogram sifakas). Estimated maximum leaping performance&nbsp;- quantified as the maximum vertical height reached at the apex of the leap, relative to starting position&nbsp;- ranged from 0.65m in dwarf lemurs to 1.84m in bushbabies. Analyses relating maximum jumping performance to body mass showed that although bigger primates can jump higher than smaller ones, small primates (and small mammals in general in our sample) can jump relatively higher than would be expected if jump height simply changed in direct proportion to overall body size(Supporting Image 1). Additionally, unique musculoskeletal adaptations permit some small primates - such as bushbabies - to effect extraordinary levels of performance, allowing them to jump much higher than expected for an animal of their diminutive size.</p> <p>Anatomical measurements of skeletal material from living and extinct (i.e., fossil) mammals are ongoing at Duke University. Nevertheless, initial analyses of the relationship between "leaping related" skeletal traits and leaping performance have generated interesting insights. We have found that species with relatively long hindlimbs&nbsp;- such as Goeldi's monkeys&nbsp;- are able to use their limbs to increase their center of mass excursion during push-off, resulting in greater take-off velocity at the end of push-off and higher jumps. In contrast, relatively short-legged species, such as marmosets, appear to have greater muscle leverage for hindlimb jumping muscles, permitting them to exert higher forces as a means of partially compensating for short limbs. Through ongoing analyses of skeletal material we will expand our ability to link specific skeletal features with specific criteria for primate jumping performance, informing long-standing debates on the ecological context of primate origins.</p> <p>This project has thus far resulted in one peer reviewed publication, with an additional manuscript in review and two others in preparation, and four presentations at professional research conferences. This project has resulted in multiple opportunities for educational outreach and training. At NEOMED, project funds supported the training of a postdoctoral research fellow who has gone on to successfully obtain a postdoctoral teaching and research position at Duke University. NEOMED personnel also taught a three-week intensive course for high school students at the Bio-Med Science Academy, a STEM high school housed on the NEOMED campus. The course focused on primate diversity and culminated in a visit to the Cleveland Metroparks Zoo to observe live primates (including the primates in our study sample). Two students from this STEM school also participated in project research, carrying out capstone internship projects for their senior year. At Duke University, training has been provided a female graduate student and a female undergraduate student. Additionally, project personnel developed and lead FEMMES+ (Females and allies Excelling More in Math, Engineering, and Science) capstone activities for students in grades 4 through 6, participated in Lemurpalooza at the Duke Lemur Center, and ran a booth for Darwin Day and the North Carolina Museum of Natural History, participated in the annual Duke Lemur Center research weekend and have appeared on the Duke Lemur Center's podcast, in both cases publicizing project research to the general public.</p><br> <p>  Last Modified: 04/26/2024<br> Modified by: Jesse&nbsp;W&nbsp;Young</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2020515/2020515_10704766_1714157981229_Comparative_Jumping_Performance--rgov-214x142.png" original="/por/images/Reports/POR/2024/2020515/2020515_10704766_1714157981229_Comparative_Jumping_Performance--rgov-800width.png" title="Jumping Performance vs. Body Mass"><img src="/por/images/Reports/POR/2024/2020515/2020515_10704766_1714157981229_Comparative_Jumping_Performance--rgov-66x44.png" alt="Jumping Performance vs. Body Mass"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Relationship between jumping performance (quantified as the maximum vertical height reached at the apex of the leap, relative to starting position) and body mass in sample of 10 primates, tree shrews, and tree squirrels collected for the funded project.</div> <div class="imageCredit">Jesse W. Young</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Jesse&nbsp;W&nbsp;Young <div class="imageTitle">Jumping Performance vs. Body Mass</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Though hypotheses of ancestral locomotor patterns have long played a central role in the models of primate origins, few quantitative data exist to associate morphology (the information provided by the fossil record) with locomotor performance (a target of natural selection). Recent paleontological analyses have been interpreted to suggest that selection for improved leaping was particularly critical during early primate evolution. However, hypotheses about the paleobiology of ancestral primates are constrained by a limited understanding of the functional significance of morphological variation in extinct lineages, as fossils currently provide only imprecise clues about behavioral capacity. Robust correlations between morphology and performance are needed to more precisely infer locomotor transitions from the anatomical transformations revealed by fossils. The primary goal of this project was to use an integrative set of analytical techniques to (1) explore the correlation of "leaping related" skeletal traits with measurements of maximum leaping performance and (2) assess the evolutionary implications of the resulting correlations in the primate fossil record. Our approach was designed to provide validated evidence capable of supporting or refuting the hypothesis that selection for powerful arboreal leaping characterized early primate locomotion.   Ultimately, working at the Cleveland Metroparks Zoo and the Duke Lemur Center, we collected in vivo data on leaping performance in 12 species, including two non-primate mammals - tree shrews (Tupaia belangeri) and tree squirrels (Sciurus carolinensis)- and ten primate species- bushbabies (Galago moholi), sikafas (Propithecus coquereli), five species of lemurs (Cheirogaleus medius, Eulemur coronatus, Eulemur flavifrons, Eulemur mongoz, and Varecia variegata), marmosets (Callithrix geoffroyi), tamarins (Saguinus bicolor), and Goeldi's monkeys (Callimico goeldii). Overall, our sample encompasses an order of magnitude in body size variation (from 150 gram tree shrews up to 4 kilogram sifakas). Estimated maximum leaping performance- quantified as the maximum vertical height reached at the apex of the leap, relative to starting position- ranged from 0.65m in dwarf lemurs to 1.84m in bushbabies. Analyses relating maximum jumping performance to body mass showed that although bigger primates can jump higher than smaller ones, small primates (and small mammals in general in our sample) can jump relatively higher than would be expected if jump height simply changed in direct proportion to overall body size(Supporting Image 1). Additionally, unique musculoskeletal adaptations permit some small primates - such as bushbabies - to effect extraordinary levels of performance, allowing them to jump much higher than expected for an animal of their diminutive size.   Anatomical measurements of skeletal material from living and extinct (i.e., fossil) mammals are ongoing at Duke University. Nevertheless, initial analyses of the relationship between "leaping related" skeletal traits and leaping performance have generated interesting insights. We have found that species with relatively long hindlimbs- such as Goeldi's monkeys- are able to use their limbs to increase their center of mass excursion during push-off, resulting in greater take-off velocity at the end of push-off and higher jumps. In contrast, relatively short-legged species, such as marmosets, appear to have greater muscle leverage for hindlimb jumping muscles, permitting them to exert higher forces as a means of partially compensating for short limbs. Through ongoing analyses of skeletal material we will expand our ability to link specific skeletal features with specific criteria for primate jumping performance, informing long-standing debates on the ecological context of primate origins.   This project has thus far resulted in one peer reviewed publication, with an additional manuscript in review and two others in preparation, and four presentations at professional research conferences. This project has resulted in multiple opportunities for educational outreach and training. At NEOMED, project funds supported the training of a postdoctoral research fellow who has gone on to successfully obtain a postdoctoral teaching and research position at Duke University. NEOMED personnel also taught a three-week intensive course for high school students at the Bio-Med Science Academy, a STEM high school housed on the NEOMED campus. The course focused on primate diversity and culminated in a visit to the Cleveland Metroparks Zoo to observe live primates (including the primates in our study sample). Two students from this STEM school also participated in project research, carrying out capstone internship projects for their senior year. At Duke University, training has been provided a female graduate student and a female undergraduate student. Additionally, project personnel developed and lead FEMMES+ (Females and allies Excelling More in Math, Engineering, and Science) capstone activities for students in grades 4 through 6, participated in Lemurpalooza at the Duke Lemur Center, and ran a booth for Darwin Day and the North Carolina Museum of Natural History, participated in the annual Duke Lemur Center research weekend and have appeared on the Duke Lemur Center's podcast, in both cases publicizing project research to the general public.     Last Modified: 04/26/2024       Submitted by: JesseWYoung]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

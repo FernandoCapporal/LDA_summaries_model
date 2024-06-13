@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: RUI: OCE-BO: Biogeochemistry of diurnal vertical migration in microbial mats of Lake Huron’s sinkholes.]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>189933.00</AwardTotalIntnAmount>
+<AwardAmount>189933</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cynthia Suchman</SignBlockName>
+<PO_EMAI>csuchman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922092</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Modern-day microbial mats living on the bottom of sinkholes underneath Lake Huron experience an oxygen-poor, sulfur-rich environment resembling life on early Earth. These mat worlds are dominated by motile filaments of microbes that variably use sunlight and chemicals in their daily routines and offer opportunities for discovering novel microorganisms and ecosystem processes. Recently, complex patterns of daily vertical migration has been observed in the field, suggesting different microbes migrate vertically to the surface of the mat during daylight and nighttime. This project is unraveling the who, why and how of daily microbial migration through integration of microscopy, cultures, molecular approaches, and process rate measurements in response to changing gradients of light, sulfide and oxygen over the day-night cycle. This project places the vertical migration of microbial mats into a broader geobiological context through comparisons with other globally distributed cyanobacterial mat systems such as terrestrial springs and ice-covered Antarctic lakes. Furthermore, the diverse and versatile sinkhole mats may serve as a useful working model for robotic exploration of similar life in extraterrestrial waters like that of Jupiter’s Europa or Saturn’s Enceladus. This project is generating compelling student projects, attracting public imagination, and fueling active collaboration between two predominantly undergraduate institutions and a National Marine Sanctuary.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The functioning of cyanobacteria under sulfidic, low O2-conditions is a major gap in our understanding of Earth’s oxygenation in the past. Recently, time-lapse images of diel vertical migration (DVM) were collected revealing alternating waves of vertically migrating photosynthetic and chemosynthetic filaments that followed daily fluctuating light in microbial mats in Lake Huron’s sinkholes; observations corroborated with intact mats under simulated day-night conditions in the laboratory. Such synchronized diel movement, might have played a critical role in optimizing photosynthesis, chemosynthesis, carbon burial, and oxygenation during the Precambrian. This project is evaluating the taxa involved in DVM and is probing geobiological controls on DVM under low-O2, sulfidic conditions using macro- and microscopic imaging, physico-chemical microprofiling, culturing, genetics, and allelopathic studies. Three central issues are being addressed: (1) what taxa are responsible for the DVM? (2) how and why do they perform DVM? and (3) what are the ecosystem consequences of DVM community and activity synergies? The project is revealing specific microbial populations, metabolic pathways, and geochemical processes that underpin mat biogeochemistry over the diel cycle. Studying microbial communities that have regular and measurable daily rhythms in processes that can also be tracked at micrometer scales yields an unprecedented view of the molecular underpinnings of microbial mat biogeochemistry and lays the foundation for future studies aimed at re-defining the role of autotrophic communities in ancient seas and modern ecosystems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/08/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2046958</AwardID>
+<Investigator>
+<FirstName>Bopaiah</FirstName>
+<LastName>Biddanda</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bopaiah A Biddanda</PI_FULL_NAME>
+<EmailAddress><![CDATA[biddandb@gvsu.edu]]></EmailAddress>
+<NSF_ID>000260051</NSF_ID>
+<StartDate>02/08/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sarah</FirstName>
+<LastName>Hamsher</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sarah E Hamsher</PI_FULL_NAME>
+<EmailAddress><![CDATA[hamshers@gvsu.edu]]></EmailAddress>
+<NSF_ID>000695022</NSF_ID>
+<StartDate>02/08/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Grand Valley State University]]></Name>
+<CityName>ALLENDALE</CityName>
+<ZipCode>494019401</ZipCode>
+<PhoneNumber>6163316840</PhoneNumber>
+<StreetAddress><![CDATA[1 CAMPUS DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y2M5HUXKJPF1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GRAND VALLEY STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Grand Valley State University]]></Name>
+<CityName>Muskegon</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>494411678</ZipCode>
+<StreetAddress><![CDATA[740 W Shoreline Dr]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>165000</Code>
+<Text>BIOLOGICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1097</Code>
+<Text>DIVERSITY: ROLE IN ECOSYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8811</Code>
+<Text>Marine Microbial Ecology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9117</Code>
+<Text>MARINE BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~189933</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Modern-day,<strong> </strong>cyanobacteria-dominated,<strong> </strong>microbial mats living in oxygen-poor, sulfur-rich environments resemble life that may have oxygenated the early Earth. However, there is a major gap in our understanding of the functioning of cyanobacteria under anoxic and sulfidic conditions during Earth&rsquo;s ancient oxygenation. Modern mat worlds are composed of motile filaments of microbes (cyanobacteria, diatoms and chemosynthetic bacteria and archaea) that variably use sunlight and chemicals in their daily routines and offer opportunities for discovering novel microorganisms and ecosystem processes. Daily or diel vertical migration (DVM) has been visually observed in the field, suggesting different microbes migrate vertically to the surface of the mat during daylight and nighttime. This project was aimed at unraveling the who, why and how of daily microbial migration through integration of microscopy, cultures, molecular approaches, and biogeochemical process measurements in response to changing gradients of light, sulfide and oxygen over the day-night cycle &ndash; and potentially explain O<sub>2</sub> production in modern cyanobacterial mats thriving in conditions mimicking early Earth.</p> <p>During the last 3 years of the project, the Biddanda and Hamsher Labs at GVSU have worked with collaborator (Casamatta, UNF) addressing 3 central issues: (1) who is responsible for the DVM? (2) how and why do they perform DVM? and (3) what are the ecosystem consequences of DVM community and activity synergies? The ensuing project resulted in the following activities 1. Obtained underwater time-lapse images of diel vertical migration (DVM) revealing alternating waves of vertically migrating photosynthetic and chemosynthetic filaments that followed daily fluctuating light in microbial mats in Lake Huron&rsquo;s sinkholes, 2. In two field expeditions, collected intact sediment cores with overlying mats for carrying out controlled experiments, 3. Corroborated DVM observations in the field with similar DVM observations in intact mats under simulated day-night conditions in the laboratory probing the geobiological controls on DVM by physico-chemical microprofiling under low-O<sub>2</sub>, sulfidic conditions, and 4. Evaluated the taxa involved in DVM using macro- and microscopic imaging, culturing, genetics (metabarcoding and metatranscriptomics), and allelopathic studies.</p> <p>These project activities have resulted in the following outcomes: 1. Conducted two field campaigns in Lake Huron and Florida Springs characterizing the habitats and collecting mat samples, 2. Tracked the synchronized DVM of mat microbes in the field and in simulated laboratory settings, 3. Carried out physico-chemical microprofiling of the mat-sediment complex to reveal light and chemical cues that govern DVM across mm distances, 4. Conducted genetic analysis and culture studies of mats to reveal new species and inter-species interactions &ndash; and archived the data at NSF&rsquo;s DMO site, 5. Published, with open access, findings highlighting these outcomes including the notion that such synchronized diel movement, might have played a critical role in optimizing photosynthesis, chemosynthesis, carbon burial, and oxygenation during the Precambrian, 6. Placed the DVM of microbial mats into a broader geobiological context through comparisons with other globally distributed cyanobacterial mat systems such as terrestrial sulfur springs, 7. Generated compelling student projects, 8. Attracted public attention to the local, regional and global significance of our findings, and 9. Fueled active collaboration between two predominantly research in undergraduate institutions (RUI) and a NOAA National Marine Sanctuary.</p> <p>Our project has revealed specific microbial populations, metabolic pathways, and geochemical processes that underpin mat biogeochemistry over the diel cycle. Studying microbial communities that have regular and measurable daily rhythms in processes that can be tracked at micrometer scales yields an unprecedented view of the molecular underpinnings of microbial mat biogeochemistry and lays the foundation for future studies aimed at re-defining the role of autotrophic communities in ancient seas and modern ecosystems. Broadly speaking,<strong> </strong>this project has expanded our understanding of Earth&rsquo;s biological and physiological diversity, recorded daily vertical migration of mat filaments that might represent some of the earliest daily mass movement of life on our planet, provided insight into novel and cryptic species within the mat ecosystem and evidence of interspecific interactions, revealed biogeographic trends, provided a promising window for peering into C burial and release of O<sub>2</sub> in early Earth, and identified a potential model system in our search for life in extraterrestrial waters &ndash; ample justification for conservation of extant life such as these found in the extreme environment refugia of the Earth.</p><br> <p>  Last Modified: 04/12/2024<br> Modified by: Bopaiah&nbsp;A&nbsp;Biddanda</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2046958/2046958_10716435_1712928382521_Sinkhole_Mat_Image--rgov-214x142.jpeg" original="/por/images/Reports/POR/2024/2046958/2046958_10716435_1712928382521_Sinkhole_Mat_Image--rgov-800width.jpeg" title="Dynamic matscape of Lake Huron 's Sinkholes"><img src="/por/images/Reports/POR/2024/2046958/2046958_10716435_1712928382521_Sinkhole_Mat_Image--rgov-66x44.jpeg" alt="Dynamic matscape of Lake Huron 's Sinkholes"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Magic Carpet: A late afternoon underwater image displays the dynamic tapestry of colors making up the microbial mats in the bottom of Middle Island Sinkhole in Lake Huron at ~23m depth that are bathed groundwater containing low-oxygen and high-sulfur. Herein, mats are composed of photosynthetic cyan</div> <div class="imageCredit">Phil Hartmeyer, NOAA Thunder Bay National Marine Sanctuary, Alpena, MI</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Bopaiah&nbsp;A&nbsp;Biddanda <div class="imageTitle">Dynamic matscape of Lake Huron 's Sinkholes</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Modern-day, cyanobacteria-dominated, microbial mats living in oxygen-poor, sulfur-rich environments resemble life that may have oxygenated the early Earth. However, there is a major gap in our understanding of the functioning of cyanobacteria under anoxic and sulfidic conditions during Earths ancient oxygenation. Modern mat worlds are composed of motile filaments of microbes (cyanobacteria, diatoms and chemosynthetic bacteria and archaea) that variably use sunlight and chemicals in their daily routines and offer opportunities for discovering novel microorganisms and ecosystem processes. Daily or diel vertical migration (DVM) has been visually observed in the field, suggesting different microbes migrate vertically to the surface of the mat during daylight and nighttime. This project was aimed at unraveling the who, why and how of daily microbial migration through integration of microscopy, cultures, molecular approaches, and biogeochemical process measurements in response to changing gradients of light, sulfide and oxygen over the day-night cycle  and potentially explain O2 production in modern cyanobacterial mats thriving in conditions mimicking early Earth.   During the last 3 years of the project, the Biddanda and Hamsher Labs at GVSU have worked with collaborator (Casamatta, UNF) addressing 3 central issues: (1) who is responsible for the DVM? (2) how and why do they perform DVM? and (3) what are the ecosystem consequences of DVM community and activity synergies? The ensuing project resulted in the following activities 1. Obtained underwater time-lapse images of diel vertical migration (DVM) revealing alternating waves of vertically migrating photosynthetic and chemosynthetic filaments that followed daily fluctuating light in microbial mats in Lake Hurons sinkholes, 2. In two field expeditions, collected intact sediment cores with overlying mats for carrying out controlled experiments, 3. Corroborated DVM observations in the field with similar DVM observations in intact mats under simulated day-night conditions in the laboratory probing the geobiological controls on DVM by physico-chemical microprofiling under low-O2, sulfidic conditions, and 4. Evaluated the taxa involved in DVM using macro- and microscopic imaging, culturing, genetics (metabarcoding and metatranscriptomics), and allelopathic studies.   These project activities have resulted in the following outcomes: 1. Conducted two field campaigns in Lake Huron and Florida Springs characterizing the habitats and collecting mat samples, 2. Tracked the synchronized DVM of mat microbes in the field and in simulated laboratory settings, 3. Carried out physico-chemical microprofiling of the mat-sediment complex to reveal light and chemical cues that govern DVM across mm distances, 4. Conducted genetic analysis and culture studies of mats to reveal new species and inter-species interactions  and archived the data at NSFs DMO site, 5. Published, with open access, findings highlighting these outcomes including the notion that such synchronized diel movement, might have played a critical role in optimizing photosynthesis, chemosynthesis, carbon burial, and oxygenation during the Precambrian, 6. Placed the DVM of microbial mats into a broader geobiological context through comparisons with other globally distributed cyanobacterial mat systems such as terrestrial sulfur springs, 7. Generated compelling student projects, 8. Attracted public attention to the local, regional and global significance of our findings, and 9. Fueled active collaboration between two predominantly research in undergraduate institutions (RUI) and a NOAA National Marine Sanctuary.   Our project has revealed specific microbial populations, metabolic pathways, and geochemical processes that underpin mat biogeochemistry over the diel cycle. Studying microbial communities that have regular and measurable daily rhythms in processes that can be tracked at micrometer scales yields an unprecedented view of the molecular underpinnings of microbial mat biogeochemistry and lays the foundation for future studies aimed at re-defining the role of autotrophic communities in ancient seas and modern ecosystems. Broadly speaking, this project has expanded our understanding of Earths biological and physiological diversity, recorded daily vertical migration of mat filaments that might represent some of the earliest daily mass movement of life on our planet, provided insight into novel and cryptic species within the mat ecosystem and evidence of interspecific interactions, revealed biogeographic trends, provided a promising window for peering into C burial and release of O2 in early Earth, and identified a potential model system in our search for life in extraterrestrial waters  ample justification for conservation of extant life such as these found in the extreme environment refugia of the Earth.     Last Modified: 04/12/2024       Submitted by: BopaiahABiddanda]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

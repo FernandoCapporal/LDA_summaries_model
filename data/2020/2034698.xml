@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Visible optics-enabled diagnostics for site-specific gas leak detection]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is the development of a technology for detecting leakage of harmful gases, providing billions of dollars in economic savings per year in addition to preventing the loss of human lives and increasing environmental hazards. Reducing unwanted gaseous chemical releases to the environment, e.g., leaks in the natural gas supply chain, will contribute to saving lives from exposure to hazardous gases and lessen carbon emission. The technology may prevent health issues for workers operating equipment in power plants, semiconductor manufacturing, and oil and natural gas industries, as well as limit gas leakages that result in potential downtime in the production cycle. In addition, multimillion dollar legal liabilities of associated (multinational) companies may be averted.&lt;br/&gt;&lt;br/&gt;This I-Corps project is focused on the translation of technology that is able to detect density changes in transparent media with off-the-shelf optical tools and a customized mathematical and software framework for image-processing. Refraction of visible light occurs when light passes across transparent media with dissimilar densities. The changes in density for a gaseous medium can arise due to several factors, e.g., variations in temperature, composition, and pressure fluctuations. The movement of fluid particles from the site of leakage once distinctly identified at different time instances, i.e., at different frames of a video recorded continuously in the field of view of the leakage location, facilitates the measurement of particle speed from one frame to the other using particle image velocimetry. Calibrating the results with a predetermined distance measure, the velocity of flow in the physical dimension is obtained. Using the area of the leakage spot, the volume flow rate of the leak is estimated rapidly. Unlike contemporary methods that use volatile organic compound sensors, infrared light, or thermal imaging, the proposed technology employs visible optics. The proposed diagnostics technology may detect gas leaks in real time and identify hot spots that require precise detection and maintenance, triggering rapid mitigation procedures.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>01/27/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2034698</AwardID>
+<Investigator>
+<FirstName>Ganesh</FirstName>
+<LastName>Balasubramanian</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ganesh Balasubramanian</PI_FULL_NAME>
+<EmailAddress><![CDATA[biganesh@gmail.com]]></EmailAddress>
+<NSF_ID>000633694</NSF_ID>
+<StartDate>08/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Lehigh University]]></Name>
+<CityName>BETHLEHEM</CityName>
+<ZipCode>180153008</ZipCode>
+<PhoneNumber>6107583021</PhoneNumber>
+<StreetAddress><![CDATA[526 BRODHEAD AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E13MDBKHLDB5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LEHIGH UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Lehigh University]]></Name>
+<CityName>Bethlehem</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>180153006</ZipCode>
+<StreetAddress><![CDATA[19-Packard Lab]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>802300</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The overarching goal of the project was to commercialize a visible optics guided diagnostic technology to mitigate the adverse effects of gas leakage, reduce financial loss, save lives and overcome existing limitations of current technologies by implementing a portable and inexpensive state-of-the-art leak detection solution. The primary activities in this program were (1) customer discovery and (2) customer validation, directed towards an informed prototype development. The hydrogen gas production and operation facilities were determined as the primary point of entry based on perceived needs for cost and energy savings in related markets, prevention of environmental hazards, the outcomes of the I-Corps customer discovery, and to a certain extent the focus of certain government agencies towards accelerating the growth of hydrogen power for the next decade. However, the technology being agnostic to the chemistry of the gases, it can be ported for sister gas-based facilities such as carbon dioxide leak detection in carbon capture and storage, as well as poisonous gas leaks in fabrication facilities, to identify a few.&nbsp;</p> <p><br />Some of the key Intellectual Merit related outcomes of the project were:<br />1. Through the customer discovery process, certain challenges related to the proposed technology were identified, most notably the need to leverage data recorded from the diagnostic tool to improve the accuracy of the predictive and detection methodology.<br />2. The use of vector validation would assist in mitigating cross-correlation of images that might induce some error in the vector field. This function would help to select the valid x and y displacement limits from a scatter plot and helps eliminating vectors with spurious magnitude.<br />3. Environmental disturbance, human error such as man-in-the-middle, and/or impurities in the air and fluid medium could possibly lead to erroneous leak detection and trigger false alarm. Both semi-supervised learning, and wherever possible, physics-Informed learning models needed to be developed to leverage data from the extensive sets of images, and build robustness into the detection mechanism. This tool could enable quantitative profile reconstructions to correlate physical variations in the surroundings, data errors and process anomalies, with leakages. This approach could be accomplished by extracting high dimensional descriptors from processing of the recorded images.<br /><br />Some of the key Broader Impact related outcomes of the project were:<br />1. Sensor based techniques are currently being strongly considered in competing markets, and hence robustifying the visible-optics based approach with AI tools would offer an advantage to the proposed low-cost diagnostic setup.<br />2. Indranil Roy, now a doctoral graduate from the Department of Mechanical Engineering and Mechanics at Lehigh University, led the effort as the Entrepreneurial Lead and received formal training through courses in Technical Entrepreneurship and Project Management from the Business school at Lehigh. He also received mentoring through the Venture Well E-team grants program through their Pioneer Workshop for customer discovery and deeper engagement.<br />3. A provisional patent was filed with the aim of filing a utility patent once the prototype is matured and field tested at a facility of one of &nbsp;the potential customers&rsquo; facility.</p> <p>&nbsp;</p><br> <p>  Last Modified: 05/14/2024<br> Modified by: Ganesh&nbsp;Balasubramanian</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The overarching goal of the project was to commercialize a visible optics guided diagnostic technology to mitigate the adverse effects of gas leakage, reduce financial loss, save lives and overcome existing limitations of current technologies by implementing a portable and inexpensive state-of-the-art leak detection solution. The primary activities in this program were (1) customer discovery and (2) customer validation, directed towards an informed prototype development. The hydrogen gas production and operation facilities were determined as the primary point of entry based on perceived needs for cost and energy savings in related markets, prevention of environmental hazards, the outcomes of the I-Corps customer discovery, and to a certain extent the focus of certain government agencies towards accelerating the growth of hydrogen power for the next decade. However, the technology being agnostic to the chemistry of the gases, it can be ported for sister gas-based facilities such as carbon dioxide leak detection in carbon capture and storage, as well as poisonous gas leaks in fabrication facilities, to identify a few.    Some of the key Intellectual Merit related outcomes of the project were: 1. Through the customer discovery process, certain challenges related to the proposed technology were identified, most notably the need to leverage data recorded from the diagnostic tool to improve the accuracy of the predictive and detection methodology. 2. The use of vector validation would assist in mitigating cross-correlation of images that might induce some error in the vector field. This function would help to select the valid x and y displacement limits from a scatter plot and helps eliminating vectors with spurious magnitude. 3. Environmental disturbance, human error such as man-in-the-middle, and/or impurities in the air and fluid medium could possibly lead to erroneous leak detection and trigger false alarm. Both semi-supervised learning, and wherever possible, physics-Informed learning models needed to be developed to leverage data from the extensive sets of images, and build robustness into the detection mechanism. This tool could enable quantitative profile reconstructions to correlate physical variations in the surroundings, data errors and process anomalies, with leakages. This approach could be accomplished by extracting high dimensional descriptors from processing of the recorded images.  Some of the key Broader Impact related outcomes of the project were: 1. Sensor based techniques are currently being strongly considered in competing markets, and hence robustifying the visible-optics based approach with AI tools would offer an advantage to the proposed low-cost diagnostic setup. 2. Indranil Roy, now a doctoral graduate from the Department of Mechanical Engineering and Mechanics at Lehigh University, led the effort as the Entrepreneurial Lead and received formal training through courses in Technical Entrepreneurship and Project Management from the Business school at Lehigh. He also received mentoring through the Venture Well E-team grants program through their Pioneer Workshop for customer discovery and deeper engagement. 3. A provisional patent was filed with the aim of filing a utility patent once the prototype is matured and field tested at a facility of one of the potential customers facility.        Last Modified: 05/14/2024       Submitted by: GaneshBalasubramanian]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Doctoral Dissertation Research: Aging phenotypes and the senescence associated secretory phenotype in primates]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>24258.00</AwardTotalIntnAmount>
+<AwardAmount>24258</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rebecca Ferrell</SignBlockName>
+<PO_EMAI>rferrell@nsf.gov</PO_EMAI>
+<PO_PHON>7032927850</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Aging is associated with biological, physiological, and functional changes that reflect evolutionary trade-offs in energy allocation across the lifespan. This project uses a non-human primate model to examine age-associated gene expression changes and to investigate the relationship between these changes and age-related phenotypic decline. This doctoral dissertation project advances knowledge about senescence and life history in primates and has the potential to aid in the development of novel life-extending therapies by identifying alterations in organ-specific gene expression that occur across the lifespan, not just in old age. The project supports a female graduate student in laboratory, bioinformatic, and statistical training. She also serves as an educator through her continued involvement in high school programs that provide students from underserved communities with mentoring and research opportunities.&lt;br/&gt;&lt;br/&gt;Life history theory posits that evolved trade-offs between early-life growth and reproduction and later-life somatic maintenance are responsible for the timing of life history events. However, the molecular mechanisms underlying these evolved trade-offs are not fully understood. Cellular senescence and the proteins secreted by senescent cells (the senescence associated secretory phenotype, SASP) are predicted to be responsible for modulating these life history trade-offs on a molecular level. This project tests the hypothesis that SASP factor expression changes with age and is associated with aging phenotypes in non-human primates. The investigator will generate cross-sectional, tissue-specific transcriptomic data that will be used to characterize changes in SASP expression with age, sex, and tissue type. The researchers will then calculate measures of age-related phenotypic decline to evaluate whether changes in SASP expression are associated with aging phenotypes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/19/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>04/19/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2041654</AwardID>
+<Investigator>
+<FirstName>Laura</FirstName>
+<LastName>Newman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Laura Newman</PI_FULL_NAME>
+<EmailAddress><![CDATA[len273@nyu.edu]]></EmailAddress>
+<NSF_ID>000828641</NSF_ID>
+<StartDate>04/19/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Higham</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James Higham</PI_FULL_NAME>
+<EmailAddress><![CDATA[jhigham@nyu.edu]]></EmailAddress>
+<NSF_ID>000622551</NSF_ID>
+<StartDate>04/19/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress><![CDATA[70 WASHINGTON SQ S]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>NEW YORK</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100121019</ZipCode>
+<StreetAddress><![CDATA[70 WASHINGTON SQUARE S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>760800</Code>
+<Text>Bio Anthro DDRI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1392</Code>
+<Text>Biological Anthropology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~24258</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Over the next three decades, the number of adults aged 60 or over is expected to double, totaling 2.1 billion people and the number of adults aged 80 or over is expected to triple, reaching 426 million. To increase the number of disease-free years for future elderly cohorts, there is a critical need to develop strategies to prevent, detect, and effectively treat the diseases of aging. Achieving these goals necessitates a deeper understanding of the mechanisms of molecular aging, as well as how these mechanisms contribute to whole-body phenotypic aging. While small model organisms have historically been used to characterize the molecular mechanisms of aging, the translatability of these model organisms to a species as long-lived as humans may be limited. This project evaluates molecular processes associated with aging and their relationship to aging phenotypes in a population of free-ranging rhesus macaques. Rhesus macaques are genetically and physiologically similar to humans, ideally positioning them as a translatable model for human aging biology.&nbsp;</p> <p><br />This project had three main objectives: 1) explore the relationship between gene expression and age across multiple organs; 2) examine gene expression differences between males and females in multiple organs; and 3) evaluate transcriptional signatures in the skeletal muscle associated with bone volume fraction (a measure of osteopenia) and hip extension (a proxy for reduced mobility). To address these objectives, we generated novel gene expression data from liver, spleen, and skeletal muscle samples from a free-ranging population of rhesus macaques. This macaque population is deeply phenotyped and all samples were collected from individuals of known ages with matched phenotypic data in order to explore the relationship between molecular pathways and morphological variables.&nbsp;</p> <p><br />We found that the organs of older individuals displayed patterns of both reduced tissue-specific functioning and immune dysregulation compared to younger individuals. We next determined that sex-biased gene expression was primarily present in the liver. Within the liver, we found a female-bias in canonical liver functions. Additionally, we determined that sex-biased gene expression in the liver was relatively similar between rhesus macaques and humans, suggesting that rhesus macaques may be a good model for sex differences in liver aging. In the skeletal muscle, we discovered that less mobility (i.e., less hip extension) was associated with both an increase in inflammation and muscular atrophy as well as an increase in cellular regeneration and proliferation. Expression of age-adjusted hip extension genes recapitulated the expression of age-related genes, suggesting that mobility and aging may have independent but additive effects associated with muscle gene expression. We did not find many genes in the skeletal muscle associated with low bone volume fraction, but this may be in part attributed to the much smaller sample size utilized for this particular analysis.&nbsp;</p> <p><br /><span style="text-decoration: underline;">Intellectual Merit</span></p> <p>This project represents one of the largest transcriptomic analyses of organ age in a free-ranging, non-human primate and the first study in this setting to explore the relationship between phenotypic aging metrics like mobility and transcriptomic profiles. The age-related variation characterized in this project verifies what has been previously described in small rodent models and identifies particular organ-specific differences associated with older age. Additionally, the sex differences observed in the female liver highlight the need to consider the effects of sex when studying aging, as males and females are likely to age in different ways. Results from this project suggest that decreased mobility in older age may contribute to the onset and worsening of age-associated decline. The results of this project lay the foundation for future work developing interventions that extend healthspan as well as exploring how social and environmental variables influence aging trajectories.</p> <p><br /><span style="text-decoration: underline;">Broader Impacts</span></p> <p>This project promoted educational training and science outreach. The award facilitated the training of the graduate student Co-PI in project management, data collection, bioinformatics, genetic data analysis, and scientific writing, ultimately enabling her to successfully complete her PhD. The project facilitated the training of three undergraduate students in computational and statistical analyses. The Co-PI disseminated her research to middle and high school students through her collaboration with BioBus, a New York City based STEM outreach program. The Co-PI also discussed her research yearly to over 50 middle school girls in a STEM club in New Jersey. The Co-PI served as a mentor to female-identifying middle and high school students through the New York Academy of Sciences 1000 Girls, 1000 Futures program, and also developed new educational material for this program. Results from this project have been disseminated through presentations at seminars and national conferences and will be published in peer-reviewed journals.</p><br> <p>  Last Modified: 03/18/2024<br> Modified by: Laura&nbsp;Newman</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Over the next three decades, the number of adults aged 60 or over is expected to double, totaling 2.1 billion people and the number of adults aged 80 or over is expected to triple, reaching 426 million. To increase the number of disease-free years for future elderly cohorts, there is a critical need to develop strategies to prevent, detect, and effectively treat the diseases of aging. Achieving these goals necessitates a deeper understanding of the mechanisms of molecular aging, as well as how these mechanisms contribute to whole-body phenotypic aging. While small model organisms have historically been used to characterize the molecular mechanisms of aging, the translatability of these model organisms to a species as long-lived as humans may be limited. This project evaluates molecular processes associated with aging and their relationship to aging phenotypes in a population of free-ranging rhesus macaques. Rhesus macaques are genetically and physiologically similar to humans, ideally positioning them as a translatable model for human aging biology.    This project had three main objectives: 1) explore the relationship between gene expression and age across multiple organs; 2) examine gene expression differences between males and females in multiple organs; and 3) evaluate transcriptional signatures in the skeletal muscle associated with bone volume fraction (a measure of osteopenia) and hip extension (a proxy for reduced mobility). To address these objectives, we generated novel gene expression data from liver, spleen, and skeletal muscle samples from a free-ranging population of rhesus macaques. This macaque population is deeply phenotyped and all samples were collected from individuals of known ages with matched phenotypic data in order to explore the relationship between molecular pathways and morphological variables.    We found that the organs of older individuals displayed patterns of both reduced tissue-specific functioning and immune dysregulation compared to younger individuals. We next determined that sex-biased gene expression was primarily present in the liver. Within the liver, we found a female-bias in canonical liver functions. Additionally, we determined that sex-biased gene expression in the liver was relatively similar between rhesus macaques and humans, suggesting that rhesus macaques may be a good model for sex differences in liver aging. In the skeletal muscle, we discovered that less mobility (i.e., less hip extension) was associated with both an increase in inflammation and muscular atrophy as well as an increase in cellular regeneration and proliferation. Expression of age-adjusted hip extension genes recapitulated the expression of age-related genes, suggesting that mobility and aging may have independent but additive effects associated with muscle gene expression. We did not find many genes in the skeletal muscle associated with low bone volume fraction, but this may be in part attributed to the much smaller sample size utilized for this particular analysis.    Intellectual Merit   This project represents one of the largest transcriptomic analyses of organ age in a free-ranging, non-human primate and the first study in this setting to explore the relationship between phenotypic aging metrics like mobility and transcriptomic profiles. The age-related variation characterized in this project verifies what has been previously described in small rodent models and identifies particular organ-specific differences associated with older age. Additionally, the sex differences observed in the female liver highlight the need to consider the effects of sex when studying aging, as males and females are likely to age in different ways. Results from this project suggest that decreased mobility in older age may contribute to the onset and worsening of age-associated decline. The results of this project lay the foundation for future work developing interventions that extend healthspan as well as exploring how social and environmental variables influence aging trajectories.    Broader Impacts   This project promoted educational training and science outreach. The award facilitated the training of the graduate student Co-PI in project management, data collection, bioinformatics, genetic data analysis, and scientific writing, ultimately enabling her to successfully complete her PhD. The project facilitated the training of three undergraduate students in computational and statistical analyses. The Co-PI disseminated her research to middle and high school students through her collaboration with BioBus, a New York City based STEM outreach program. The Co-PI also discussed her research yearly to over 50 middle school girls in a STEM club in New Jersey. The Co-PI served as a mentor to female-identifying middle and high school students through the New York Academy of Sciences 1000 Girls, 1000 Futures program, and also developed new educational material for this program. Results from this project have been disseminated through presentations at seminars and national conferences and will be published in peer-reviewed journals.     Last Modified: 03/18/2024       Submitted by: LauraNewman]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

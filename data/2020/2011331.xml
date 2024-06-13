@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Electronic devices enabled by magnon transfer torques]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>375000.00</AwardTotalIntnAmount>
+<AwardAmount>375000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Usha Varshney</SignBlockName>
+<PO_EMAI>uvarshne@nsf.gov</PO_EMAI>
+<PO_PHON>7032925385</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Spin-based electronic devices for information storage and memory rely on the efficient control of magnetization orientation of nanoscale magnetic materials. At present-day devices, spins and charges of the conduction electrons provide the angular momentum and the energy needed for the switching of magnetization states. However, the current density required for fast switching remains undesirably high and the energy consumption associated with the Joule heating of the electric current makes next-generation spin-based memories challenging. This proposal is to explore alternative angular momentum carriers, known as magnons, to achieve magnetization switching with far less energy consumption. Magnons are quasi-particles that possess same amount of angular momentum as electron spins, but without electric charge. Therefore, there is no Joule heating when magnons travel in magnetic materials. Recently, there are a number of groups and the PI have demonstrated that magnons can also serve as active angular momentum carriers that are capable of manipulating magnetization states. This proposal will theoretically investigate the effects of magnon motion in a number of prototype magnetic structure and materials. The goal is to identify physical processes that govern the magnon-driven magnetization switching. If successful, one would create a disruption spintronic devices by using magnons as an information manipulator which is far more energy efficient, compared to spins of conduction electrons. The educational components of the proposal include strong graduate student participations in research, training, and visiting industrial research laboratories, as well as for PI to develop a spintronics course related to this research project.&lt;br/&gt;&lt;br/&gt;Similar to the electron spin current that transfers the spin angular momentum of mobile electrons to local magnetization, known as spin-transfer torques, magnon currents can efficiently transfer magnon angular momentum to magnetic texture as well, leading to magnetic configuration changes. This proposal will explore theoretical foundation of this magnon transfer torques (MTT), predict plausible structure for MTT driven magnetization switching and dynamics, and propose device concepts for MTT applications. The present proposal aims at advancing the field of spintronics by theoretically investigating the generation, propagation, and detection of non-equilibrium magnons in magnetic heterostructure. Magnons are low-energy excitations hosted by magnetically ordered texture (including ferrro-, antiferro- and ferri-magnets). The scientific issues will be addressed, include the physics and key materials parameters that give rise large MTT,  magnetization dynamics driven by MTT,  and the switching efficiency of MTT compared to that of STT in devices such as magnetic tunnel junctions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011331</AwardID>
+<Investigator>
+<FirstName>Shufeng</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shufeng Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[zhangs@physics.arizona.edu]]></EmailAddress>
+<NSF_ID>000198720</NSF_ID>
+<StartDate>03/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Arizona]]></Name>
+<CityName>TUCSON</CityName>
+<ZipCode>85721</ZipCode>
+<PhoneNumber>5206266000</PhoneNumber>
+<StreetAddress><![CDATA[845 N PARK AVE RM 538]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ED44Y3W6P7B9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ARIZONA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Arizona]]></Name>
+<CityName/>
+<StateCode>AZ</StateCode>
+<ZipCode>857194824</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>151700</Code>
+<Text>EPMD-ElectrnPhoton&amp;MagnDevices</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>107E</Code>
+<Text>Magnetics and spin electronics</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~375000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Project Outcome</p> <p>&nbsp;Spin transfer torques refer to an effect wherein the orientation of magnetization of a magnetic layer can be altered by an electron spin-polarized current. Widely considered a leading candidate for magnetic random access memory application, this effect has garnered significant attention. In this project, the focus diverges towards a fundamentally different spin current: magnon current for spin transfer torque. Magnons, akin to electrons, carry angular momentum but exist solely within magnetic materials. The flow of magnons, or magnon current, can also manipulate the orientation of magnetization. An essential metric for evaluating spin transfer torque efficiency is the critical current required for magnetization switching. This project reveals that a notable reduction in critical current, by an order of magnitude, is achievable through magnons, as illustrated in Figure 1. This discovery hints at the potential for enhanced spin transfer torque devices through targeted magnon population amplification.</p> <p>Another significant revelation of this project lies in the discovery of novel magnetic phase diagrams in two-dimensional magnets under the influence of a random field. It is observed that the random field induces a first-order phase transition, where magnetization at a finite magnitude abruptly shifts to the paramagnetic state with zero magnetization at a critical temperature. This contrasts with the second-order phase transition, where magnetization gradually approaches zero at the critical temperature. Figure 2 depicts the novel magnetic phase diagram resulting from this finding. Given the ubiquitous presence of magnetic random fields in real magnetic materials, the predictions hold promise for experimental validation.</p> <p>The primary contributor to this project was the graduate student, now Dr. Essa Ibrahim, who dedicated his thesis exclusively to this endeavor. His educational journey has propelled him to a senior scientist role at General Electric Co., where he spearheads the modeling of medical devices related to magnetic resonance.</p> <p>&nbsp;</p><br> <p>  Last Modified: 03/06/2024<br> Modified by: Shufeng&nbsp;Zhang</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2011331/2011331_10657822_1709755933757_Figure_2--rgov-214x142.PNG" original="/por/images/Reports/POR/2024/2011331/2011331_10657822_1709755933757_Figure_2--rgov-800width.PNG" title="Reduction of critical current"><img src="/por/images/Reports/POR/2024/2011331/2011331_10657822_1709755933757_Figure_2--rgov-66x44.PNG" alt="Reduction of critical current"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The reduction of the critical current as a function of the temperature for two- and three-dimensional magnets.</div> <div class="imageCredit">P. Tang and S. Zhang</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Shufeng&nbsp;Zhang <div class="imageTitle">Reduction of critical current</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2011331/2011331_10657822_1709756348278_Fig.4--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2011331/2011331_10657822_1709756348278_Fig.4--rgov-800width.jpg" title="Magnetic Phase Diagram"><img src="/por/images/Reports/POR/2024/2011331/2011331_10657822_1709756348278_Fig.4--rgov-66x44.jpg" alt="Magnetic Phase Diagram"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The magnetic phase diagram of two-dimensional magnets in the presence of the random magnetic field. The phase transition between the ferromagnet and the paramagnet is a first-order transition.</div> <div class="imageCredit">E. M. Ibrahim, P. Tang, and S. Zhang</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Shufeng&nbsp;Zhang <div class="imageTitle">Magnetic Phase Diagram</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Project Outcome   Spin transfer torques refer to an effect wherein the orientation of magnetization of a magnetic layer can be altered by an electron spin-polarized current. Widely considered a leading candidate for magnetic random access memory application, this effect has garnered significant attention. In this project, the focus diverges towards a fundamentally different spin current: magnon current for spin transfer torque. Magnons, akin to electrons, carry angular momentum but exist solely within magnetic materials. The flow of magnons, or magnon current, can also manipulate the orientation of magnetization. An essential metric for evaluating spin transfer torque efficiency is the critical current required for magnetization switching. This project reveals that a notable reduction in critical current, by an order of magnitude, is achievable through magnons, as illustrated in Figure 1. This discovery hints at the potential for enhanced spin transfer torque devices through targeted magnon population amplification.   Another significant revelation of this project lies in the discovery of novel magnetic phase diagrams in two-dimensional magnets under the influence of a random field. It is observed that the random field induces a first-order phase transition, where magnetization at a finite magnitude abruptly shifts to the paramagnetic state with zero magnetization at a critical temperature. This contrasts with the second-order phase transition, where magnetization gradually approaches zero at the critical temperature. Figure 2 depicts the novel magnetic phase diagram resulting from this finding. Given the ubiquitous presence of magnetic random fields in real magnetic materials, the predictions hold promise for experimental validation.   The primary contributor to this project was the graduate student, now Dr. Essa Ibrahim, who dedicated his thesis exclusively to this endeavor. His educational journey has propelled him to a senior scientist role at General Electric Co., where he spearheads the modeling of medical devices related to magnetic resonance.        Last Modified: 03/06/2024       Submitted by: ShufengZhang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

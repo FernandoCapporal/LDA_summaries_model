@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Quantum Many-Body Theories and Methods for Nuclear Physics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>600000.00</AwardTotalIntnAmount>
+<AwardAmount>654000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bogdan Mihaila</SignBlockName>
+<PO_EMAI>bmihaila@nsf.gov</PO_EMAI>
+<PO_PHON>7032928235</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nuclear Physics plays a key role in our quest to understand the Universe, addressing fundamental questions like: 1) How did visible matter come into being and how does it evolve? 2) How does subatomic matter organize itself and what phenomena emerge? 3) Are the fundamental interactions that are basic to the structure of matter fully understood?, and 4) How can the knowledge and technological progress provided by nuclear physics best be used to benefit society?  In recent years, researchers have made remarkable progress in our fundamental understanding of the complex and fascinating system that is the nucleus. This progress has been driven by new theoretical insights, increased computational power, and experimental access to new exotic isotopes with a large excess of neutrons or protons. As the frontiers of experimental nuclear physics increasingly move towards the study of exotic nuclei, there is an urgent need for theorists to develop controlled, ab-initio (i.e., “first principles” or microscopic) many-body theories of the nucleus. This is because time honored phenomenological models of nuclear theory, such as the nuclear shell model and mean-field/density functional theory, are “data driven” approaches that require the presence of nearby data to fix parameters. The exploration of previously uncharted regions of the nuclear landscape therefore poses severe challenges for such models.&lt;br/&gt;&lt;br/&gt;To address these challenges, the present NSF award will work to develop new ab-initio or microscopic many-body theories and methods that are capable of reaching medium-mass nuclei and beyond. Such approaches start directly from the fundamental forces between nucleons and attempt to solve the quantum many-body equations of motion without introducing additional parameters that need to be fit to the nuclei of interest. This is computationally much more challenging than the phenomenological approaches, and requires significant computational and conceptual advances to cover the same regions of nuclei.  Under the present award, the team will develop a nuclear many-body modeling infrastructure based on state-of-the-art  Coupled-Cluster (CC) Theory and In-Medium Similarity Renormalization Group (IMSRG) methods, leveraged to exploit powerful techniques and algorithms from the fields of Machine Learning (ML) and Quantum Computing. The goal is to develop a comprehensive framework that is capable of providing controlled and predictive calculations for static and dynamic properties over a wide range of conditions, from nuclei to dense matter and neutron stars. These activities will be closely linked with ongoing experimental programs in low-energy nuclear physics nationally and worldwide.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/11/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2013047</AwardID>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Bogner</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Scott K Bogner</PI_FULL_NAME>
+<EmailAddress><![CDATA[bogner@nscl.msu.edu]]></EmailAddress>
+<NSF_ID>000079890</NSF_ID>
+<StartDate>07/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Morten</FirstName>
+<LastName>Hjorth-Jensen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Morten Hjorth-Jensen</PI_FULL_NAME>
+<EmailAddress><![CDATA[hjensen@nscl.msu.edu]]></EmailAddress>
+<NSF_ID>000656859</NSF_ID>
+<StartDate>07/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>EAST LANSING</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress><![CDATA[426 AUDITORIUM RD RM 2]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>R28EKN92ZTZ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MICHIGAN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VJKZC4D1JN36</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>East Lansing</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>488242600</ZipCode>
+<StreetAddress><![CDATA[640 South Shaw Lane]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>128500</Code>
+<Text>NUCLEAR THEORY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7569</Code>
+<Text>CYBERINFRASTRUCTURE/SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~200000</FUND_OBLG>
+<FUND_OBLG>2021~400000</FUND_OBLG>
+<FUND_OBLG>2023~54000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>A central goal of nuclear theory is to develop a  predictive description of nuclei and their reactions, grounded in the  fundamental interactions between the constituent nucleons. Remarkable  progress has been made towards this goal in recent years thanks to advances in our understanding of the inter-nucleon interactions brought about by chiral effective field theory (EFT), steadily increasing computational power, the development of powerful renormalization group (RG) techniques that allow one to "zoom in" on the minimal and most important degrees of freedom for the problem at hand, and the influx of ideas from artificial intelligence and machine learning (AI/ML).&nbsp;</p> <p>During the course of this project, the PIs have played a leading role developing new many-body methods for nuclear physics, such  as the in-medium similarity renormalization group (IMSRG) and variational methods using neural network quantum states, and helped revive older ones  such as coupled cluster theory, which together have pushed microscopic calculations of  nuclei to regions that were unimaginable even a decade ago. The training received by undergraduate and graduate students during this project has  contributed directly to the building of a diverse scientific workforce, with 2 undergraduates going on to pursue PhD's in physics at other institions, and 4 graduate students at MSU earning their PhD's while carrying out research as part of this project.&nbsp;</p> <p>Some of the primary accomplishments of this project include:</p> <p><strong>1) The first ever IMSRG calculations of nuclear matter.&nbsp; </strong>Nuclear matter is an idealized system comprised of an infinite number of nucleons uniformly distributed throughout an infinite volume. While nuclear matter is theoretical construct, it is an excellent approximation to the matter found in the interiors of stars. Over the course of this project, we adapted the IMSRG, which had previously only been applied to finite nuclei, to model nuclear matter by computing the properties of a large number of nucleons in a large box with periodic boundary conditions.</p> <p><strong>2) RG description of short-range correlation (SRC) physics.&nbsp; </strong>The RG methods used to soften Hamiltonians for  nuclear many-body calculations change the RG resolution scale of the  interaction, which can be thought of as the maximum momentum found in low-energy nuclear wave functions.&nbsp; SRC physics has traditionally been understood in high RG resolution scale pictures, where explicit high momentum tails in nuclear wave functions and arise from pairs of nucleons with large back-to-back momenta.&nbsp; In a series of papers we showed how SRC physics, somewhat counterintuitively,&nbsp;  could be accurately and efficiently described in low resolution pictures using extremely simple models for nuclear wave functions. In addition to clearing the way for theoretical calculations of SRC physics for heavier nuclei that would be impractical in high resolution pictures, this work also helps clarify how the factorization of observable cross-sections into structure and reaction components is scale- and scheme-dependent.</p> <p><strong>3) Acceleration of many-body calculations using Bayesian Ridge Regression.&nbsp; </strong>Since computers are finite, microscopic many-body calculations based on coupled cluster theory or the IMSRG must be carried out in a truncated single-particle basis. Extrapolating to the infinite basis limit is therefore a key step to remove systematic errors in such calculations.&nbsp; The brute force approach is to carry out calculations in increasingly larger single particle bases, until the computed results don't change above some acceptable tolerance.&nbsp; This can become computationally intractable for larger systems, so extrapolation techniques are of key importance.&nbsp; In this work, we used the observation that the basis truncation errors of expensive methods (like coupled cluster theory or the IMSRG) and cheap methods like many-body perturbation theory (MBPT) become linearly correlated as the single particle basis gets sufficiently large. This allows one to use the "cheap" method (MBPT) to to extrapolate the "expensive" method to the infinite basis limit using Bayesian Ridge Regression techniques.</p> <p><strong>4) The development of microscopically-improved energy density functionals (EDFs). </strong>Density functional theory (DFT) is the only many-body method that is (presently) capable of covering the vast majority of nuclei due to it's computational simplicity. However, the EDF, which is the central ingredient to DFT calculations, is purely phenomenological without a direct link to the microscopic nuclear Hamiltonian.&nbsp; In this work, we used the density matrix expansion (DME), together with simplifications from "soft" low resolution Hamiltonians, to incorporate the effects of the finite range parts of the 2- and 3-nucleon forces arising from pion exchanges, into existing Skyrme EDF machinery.&nbsp; In addition to outperforming previous phenomelogical Skyre EDFs, the new microscopically-motivated DME functional clearly identifies the parts of the chiral EFT 2- and 3-nucleon forces that are most relevant to the observed improvements.</p> <p>&nbsp;</p><br> <p>  Last Modified: 05/27/2024<br> Modified by: Scott&nbsp;K&nbsp;Bogner</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  A central goal of nuclear theory is to develop a  predictive description of nuclei and their reactions, grounded in the  fundamental interactions between the constituent nucleons. Remarkable  progress has been made towards this goal in recent years thanks to advances in our understanding of the inter-nucleon interactions brought about by chiral effective field theory (EFT), steadily increasing computational power, the development of powerful renormalization group (RG) techniques that allow one to "zoom in" on the minimal and most important degrees of freedom for the problem at hand, and the influx of ideas from artificial intelligence and machine learning (AI/ML).   During the course of this project, the PIs have played a leading role developing new many-body methods for nuclear physics, such  as the in-medium similarity renormalization group (IMSRG) and variational methods using neural network quantum states, and helped revive older ones  such as coupled cluster theory, which together have pushed microscopic calculations of  nuclei to regions that were unimaginable even a decade ago. The training received by undergraduate and graduate students during this project has  contributed directly to the building of a diverse scientific workforce, with 2 undergraduates going on to pursue PhD's in physics at other institions, and 4 graduate students at MSU earning their PhD's while carrying out research as part of this project.   Some of the primary accomplishments of this project include:   1) The first ever IMSRG calculations of nuclear matter. Nuclear matter is an idealized system comprised of an infinite number of nucleons uniformly distributed throughout an infinite volume. While nuclear matter is theoretical construct, it is an excellent approximation to the matter found in the interiors of stars. Over the course of this project, we adapted the IMSRG, which had previously only been applied to finite nuclei, to model nuclear matter by computing the properties of a large number of nucleons in a large box with periodic boundary conditions.   2) RG description of short-range correlation (SRC) physics. The RG methods used to soften Hamiltonians for  nuclear many-body calculations change the RG resolution scale of the  interaction, which can be thought of as the maximum momentum found in low-energy nuclear wave functions. SRC physics has traditionally been understood in high RG resolution scale pictures, where explicit high momentum tails in nuclear wave functions and arise from pairs of nucleons with large back-to-back momenta. In a series of papers we showed how SRC physics, somewhat counterintuitively,  could be accurately and efficiently described in low resolution pictures using extremely simple models for nuclear wave functions. In addition to clearing the way for theoretical calculations of SRC physics for heavier nuclei that would be impractical in high resolution pictures, this work also helps clarify how the factorization of observable cross-sections into structure and reaction components is scale- and scheme-dependent.   3) Acceleration of many-body calculations using Bayesian Ridge Regression. Since computers are finite, microscopic many-body calculations based on coupled cluster theory or the IMSRG must be carried out in a truncated single-particle basis. Extrapolating to the infinite basis limit is therefore a key step to remove systematic errors in such calculations. The brute force approach is to carry out calculations in increasingly larger single particle bases, until the computed results don't change above some acceptable tolerance. This can become computationally intractable for larger systems, so extrapolation techniques are of key importance. In this work, we used the observation that the basis truncation errors of expensive methods (like coupled cluster theory or the IMSRG) and cheap methods like many-body perturbation theory (MBPT) become linearly correlated as the single particle basis gets sufficiently large. This allows one to use the "cheap" method (MBPT) to to extrapolate the "expensive" method to the infinite basis limit using Bayesian Ridge Regression techniques.   4) The development of microscopically-improved energy density functionals (EDFs). Density functional theory (DFT) is the only many-body method that is (presently) capable of covering the vast majority of nuclei due to it's computational simplicity. However, the EDF, which is the central ingredient to DFT calculations, is purely phenomenological without a direct link to the microscopic nuclear Hamiltonian. In this work, we used the density matrix expansion (DME), together with simplifications from "soft" low resolution Hamiltonians, to incorporate the effects of the finite range parts of the 2- and 3-nucleon forces arising from pion exchanges, into existing Skyrme EDF machinery. In addition to outperforming previous phenomelogical Skyre EDFs, the new microscopically-motivated DME functional clearly identifies the parts of the chiral EFT 2- and 3-nucleon forces that are most relevant to the observed improvements.        Last Modified: 05/27/2024       Submitted by: ScottKBogner]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

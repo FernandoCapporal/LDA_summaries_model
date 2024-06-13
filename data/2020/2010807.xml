@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF Postdoctoral Fellowship in Biology FY 2020: Predicting Evolution Through  Quantitative Dissection of the Bacterial Proteome]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>138000.00</AwardTotalIntnAmount>
+<AwardAmount>207000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joel Abraham</SignBlockName>
+<PO_EMAI>jkabraha@nsf.gov</PO_EMAI>
+<PO_PHON>7032924694</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This action funds an NSF Postdoctoral Research Fellowship in Biology for FY 2020, Integrative Research Investigating the Rules of Life Governing Interactions Between Genomes, Environment and Phenotypes. The fellowship supports research and training of the fellow that will contribute to the area of Rules of Life in innovative ways. This research will use modern technologies to predict how bacteria will evolve in response to environmental pressures, an ability necessary to understand the evolution of dangerous traits such as antibiotic resistance.  While an organism’s genetic sequence records its life history, it is difficult to predict how the organism will evolve based on sequence alone. This is due to the inability to predict how mutations can affect the organism’s ability to reproduce, termed its fitness.  The project will use recently discovered biological laws to explore how mutations alter the cell’s energy budget to make new proteins. This information will be used to produce a mathematical model to understand how mutations are tied to fitness. The work will develop an experimental system where bacterial evolution can be controlled and predicted, which may have real world applications in medicine and agriculture. This project will augment the fellow’s diverse background through the application of new technology. To broaden the impact of the work, the fellow will train undergraduate and graduate students in the sponsoring scientists’ labs.&lt;br/&gt;&lt;br/&gt;Recently developed bacterial “growth laws” predict a strong correlation between the cellular growth rate and the proteomic fraction dedicated to ribosomes. This implies that adaptive evolution should skew the allocation of cellular resources towards maintaining ribosomes rather than unnecessary proteins. The objective of this work is to dissect how adaptive mutations modulate the allocation of resources to maximize growth rate, culminating in a mathematical model to predict evolution. The fellow will rely on novel sequencing-based experiments that permit time-resolved measurement of the emergence of novel beneficial mutations in large microbial populations. The effect of these beneficial mutations on the proteomic composition will be monitored via mass spectrometry and RNA-sequencing, illuminating how beneficial mutations alter the allocation of resources. Given a pairwise mapping of the identity of a beneficial mutation and the gene expression profile, the fellow aims to quantitatively map the fitness landscape.  It then becomes possible to predict how changes in gene expression lead to changes in fitness. The fellow’s background in modeling and experimentation will be strengthened by the development and application of sequencing-based experiments. The broader impacts will include the training of undergraduate and graduate students in the design, execution, and interpretation of project experiments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/18/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2010807</AwardID>
+<Investigator>
+<FirstName>Griffin</FirstName>
+<LastName>Chure</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Griffin D Chure</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000815585</NSF_ID>
+<StartDate>06/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Chure, Griffin Daniel]]></Name>
+<CityName>Sherman Oaks</CityName>
+<ZipCode>914032743</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>32</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA32</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stanford University]]></Name>
+<CityName>Stanford</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>943052004</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>114400</Code>
+<Text>Molecular Biophysics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>727500</Code>
+<Text>Cross-BIO Activities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>097Z</Code>
+<Text>COVID-19 Impacts on Existing Activities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>1V21</Code>
+<Name>R&amp;RA ARP Act DEFC V</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>010V2122DB</Code>
+<Name><![CDATA[R&RA ARP Act DEFC V]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~138000</FUND_OBLG>
+<FUND_OBLG>2021~69000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><div class="page" title="Page 1"> <div class="layoutArea"> <div class="column"> <p><span style="font-size: 10.000000pt; font-family: 'HelveticaNeue';">From microbes to megafauna, all forms of life are obedient to the physical laws which govern their function. These fundamental limits define the overarching phenomena we collectively call "Life" and constrain everything from the rate of metabolism, to the migration patterns of entire populations, to the evolution of new traits. To understand how organisms navigate these constraints and how they influence the collective behavior of populations, one must have a holistic understanding of how individual cells sense their environment and adjust their metabolism to grow and reproduce, a behavior we call </span><span style="font-size: 10.000000pt; font-family: 'HelveticaNeue';">"cellular physiology." Over the course of this NSF-funded Postdoctoral Research Fellowship in Biology (PRFB), Dr. Griffin Chure used a combination of mathematical modeling, computer simulations, and experimental biology to interrogate how bacteria, such as <em>E. coli</em>, operate at a physiological level. </span></p> <p><span style="font-size: 10.000000pt; font-family: 'HelveticaNeue';">Dr. Chure</span>'<span style="font-size: 10.000000pt; font-family: 'HelveticaNeue';">s research under this award has culminated in three publications with another two under peer review, as of this report. A major outcome of this award was the derivation and evaluation of a mathematical framework which can be used to predict how fast microbial cells will grow and evolve in different environments (Chure &amp; Cremer, eLife, 2023). The major conceptual advance of this work is that cells actively control the abundance of ribosome--the protein- synthesizing molecular machines found in all forms of life--such that the rate of their growth is maximized in a given environment. The formulation of this framework allows accurate prediction of how quickly cells will change their metabolism when the nutrients in the environment suddenly change from good- to-bad, or vice-versa. Dr. Chure further extended this framework (Chure et al. 2023, bioRxiv) to explain how cells maintain tight control over their shape and size when their environments change. A key outcome of this work was the development of a biophysical principle of </span>"<span style="font-size: 10.000000pt; font-family: 'HelveticaNeue';">density maintenance" which states that cells regulate their shape such that the density of proteins on their surface and the density within the cell bodies is kept in a very narrow range. With this principle, Dr. Chure showed that the change in a cells' </span><span style="font-size: 10.000000pt; font-family: 'HelveticaNeue';">shape could be quantitatively predicted across environmental perturbations. </span></p> <div class="page" title="Page 1"> <div class="layoutArea"> <div class="column"> <p><span style="font-size: 10.000000pt; font-family: 'HelveticaNeue';">Additionally, Dr. Chure developed several software resources as a result of this PRFB, including a Python utility (</span>"<span style="font-size: 10.000000pt; font-family: 'HelveticaNeue';">hplc-py"; Chure &amp; Cremer 2024, JOSS) that can be used to robustly measure the concentrations of various molecules in liquid samples and an online database (anthroponumbers.org; Chure et al. 2021, Patterns) that houses a broad variety of numbers that describe the many ways that humans alter natural environments. </span></p> <div class="page" title="Page 2"> <div class="layoutArea"> <div class="column"> <p><span style="font-size: 10.000000pt; font-family: 'HelveticaNeue';">In addition to supporting Dr. Chure</span>'<span style="font-size: 10.000000pt; font-family: 'HelveticaNeue';">s research, this award had numerous broader impacts associated with mentorship and training. Over the course of the fellowship, Dr. Chure directly mentored several graduate students at Stanford University, teaching them how to construct and experimentally dissect mathematical models of cellular behavior. Beyond direct training of young scientists, Dr. Chure helped develop course material related to his research outcomes with his Research Adviser Dr. Jonas Cremer that are actively used to teach undergraduate and graduate students in biophysics and molecular biology. Additionally, Dr. Chure presented his research findings for three successive years at the American Physical Society scientific conferences and beyond and has given guest lectures on rigor and reproducibility in biological research at institutes such as UC Berkeley and the California Institute of Technology. Furthermore, during his PRFB, Dr. Chure served as a volunteer judge for the ENVISION by WiSTEM international scientific research competition and directly mentored three community college students on independent research projects centered on theoretical physics. <br /></span></p> <p><span style="font-size: 10.000000pt; font-family: 'HelveticaNeue';">This training afforded to Dr. Chure through the NSF PRFB program significantly helped him develop as a scientist, mentor, and teacher. The primary research outcomes of this award have advanced our understanding of how cells sense and respond to changes in their environment, and how these responses are governed by fundamental physical limits and constraints. The mathematical models developed in this work lay the important groundwork needed to build predictive models of how microbes evolve in the face of environmental challenges. </span></p> </div> </div> </div> </div> </div> </div> </div> </div> </div><br> <p>  Last Modified: 03/18/2024<br> Modified by: Griffin&nbsp;D&nbsp;Chure</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[     From microbes to megafauna, all forms of life are obedient to the physical laws which govern their function. These fundamental limits define the overarching phenomena we collectively call "Life" and constrain everything from the rate of metabolism, to the migration patterns of entire populations, to the evolution of new traits. To understand how organisms navigate these constraints and how they influence the collective behavior of populations, one must have a holistic understanding of how individual cells sense their environment and adjust their metabolism to grow and reproduce, a behavior we call "cellular physiology." Over the course of this NSF-funded Postdoctoral Research Fellowship in Biology (PRFB), Dr. Griffin Chure used a combination of mathematical modeling, computer simulations, and experimental biology to interrogate how bacteria, such as E. coli, operate at a physiological level.    Dr. Chure's research under this award has culminated in three publications with another two under peer review, as of this report. A major outcome of this award was the derivation and evaluation of a mathematical framework which can be used to predict how fast microbial cells will grow and evolve in different environments (Chure & Cremer, eLife, 2023). The major conceptual advance of this work is that cells actively control the abundance of ribosome--the protein- synthesizing molecular machines found in all forms of life--such that the rate of their growth is maximized in a given environment. The formulation of this framework allows accurate prediction of how quickly cells will change their metabolism when the nutrients in the environment suddenly change from good- to-bad, or vice-versa. Dr. Chure further extended this framework (Chure et al. 2023, bioRxiv) to explain how cells maintain tight control over their shape and size when their environments change. A key outcome of this work was the development of a biophysical principle of "density maintenance" which states that cells regulate their shape such that the density of proteins on their surface and the density within the cell bodies is kept in a very narrow range. With this principle, Dr. Chure showed that the change in a cells' shape could be quantitatively predicted across environmental perturbations.       Additionally, Dr. Chure developed several software resources as a result of this PRFB, including a Python utility ("hplc-py"; Chure & Cremer 2024, JOSS) that can be used to robustly measure the concentrations of various molecules in liquid samples and an online database (anthroponumbers.org; Chure et al. 2021, Patterns) that houses a broad variety of numbers that describe the many ways that humans alter natural environments.       In addition to supporting Dr. Chure's research, this award had numerous broader impacts associated with mentorship and training. Over the course of the fellowship, Dr. Chure directly mentored several graduate students at Stanford University, teaching them how to construct and experimentally dissect mathematical models of cellular behavior. Beyond direct training of young scientists, Dr. Chure helped develop course material related to his research outcomes with his Research Adviser Dr. Jonas Cremer that are actively used to teach undergraduate and graduate students in biophysics and molecular biology. Additionally, Dr. Chure presented his research findings for three successive years at the American Physical Society scientific conferences and beyond and has given guest lectures on rigor and reproducibility in biological research at institutes such as UC Berkeley and the California Institute of Technology. Furthermore, during his PRFB, Dr. Chure served as a volunteer judge for the ENVISION by WiSTEM international scientific research competition and directly mentored three community college students on independent research projects centered on theoretical physics.     This training afforded to Dr. Chure through the NSF PRFB program significantly helped him develop as a scientist, mentor, and teacher. The primary research outcomes of this award have advanced our understanding of how cells sense and respond to changes in their environment, and how these responses are governed by fundamental physical limits and constraints. The mathematical models developed in this work lay the important groundwork needed to build predictive models of how microbes evolve in the face of environmental challenges.               Last Modified: 03/18/2024       Submitted by: GriffinDChure]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Selectivity in Froth Flotation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>405809.00</AwardTotalIntnAmount>
+<AwardAmount>405809</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Shahab Shojaei-Zadeh</SignBlockName>
+<PO_EMAI>sshojaei@nsf.gov</PO_EMAI>
+<PO_PHON>7032928045</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Separating different materials is important in mineral processing, recycling and many other processing applications. Froth flotation is a separation process in which heterogeneous material is ground up into small grains, so that each grain consists mostly of one constituent.  The grains are then suspended in a liquid bath, and gas bubbles rising through the slurry selectively carry (or float) the particles consisting of the desired material to the top. Various chemicals are added to guarantee that only the desired particles stick to the rising bubbles. While some of the individual steps of this process are well understood, their complex interactions make it very difficult to predict the selectivity and effectiveness of the separation.  This project will use numerical simulations based on mathematical models of the various process steps to reproduce the dynamics of froth floatation.  The modeling allows each step of the process to be modified separately or turned on and off, assessing exactly how the various processes interact and collectively to set the selectivity for different operating conditions. This project is made possible by major advances in direct numerical simulations of multiphase flows over the last two decades, but up to now such simulations have focused on systems with relatively simple physics. The project will develop advanced multiscale strategies to correctly account for several simultaneous physical processes and to quantify the influence of the various control variables.  &lt;br/&gt;&lt;br/&gt;The primary intellectual merit of this project is the development of computational strategies to model complex multiphase, multiphysics and multiscale processes and their use to determine how selectivity in froth flotation depends on the specific configuration and operating conditions. The development is built on a hybrid finite-volume/front-tracking numerical approach, where the governing equations are solved on a fixed structured grid, but the interface between the different fluids and phases is tracked using connected marker particles that form an unstructured moving grid. In addition to accurately track moving fluid interfaces and phase boundaries, the moving interface grid allows wettability to be included in a relatively straightforward way and greatly facilitates the inclusion of multiscale models for small scale interfacial processes, such as mass transfer and draining of thin films. The broader impact of the project include developments of modeling strategies applicable to a wide range of coupled multiscale processes and the education of people in the development and applications of numerical models for complex processes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2035231</AwardID>
+<Investigator>
+<FirstName>Gretar</FirstName>
+<LastName>Tryggvason</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gretar Tryggvason</PI_FULL_NAME>
+<EmailAddress><![CDATA[gtryggv1@jhu.edu]]></EmailAddress>
+<NSF_ID>000109922</NSF_ID>
+<StartDate>11/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jiacai</FirstName>
+<LastName>Lu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jiacai Lu</PI_FULL_NAME>
+<EmailAddress><![CDATA[jlu59@jhu.edu]]></EmailAddress>
+<NSF_ID>000667020</NSF_ID>
+<StartDate>11/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212182608</ZipCode>
+<PhoneNumber>4439971898</PhoneNumber>
+<StreetAddress><![CDATA[3400 N CHARLES ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FTMTDMBR29C7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE JOHNS HOPKINS UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName/>
+<StateCode>MD</StateCode>
+<ZipCode>212182686</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>141500</Code>
+<Text>PMP-Particul&amp;MultiphaseProcess</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~405809</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Three phase flows are found in a large number of industrial systems and understanding their dynamics is critical to safe and efficient operations. Here we develop a numerical method to simulate such systems and use it to examine the dynamics of disperse gas-liquid-solid flows. The study is motivated by mineral processing, where the challenge is to separate valuable minerals from the ore. One of the most widely used method to do so is froth flotation where the ore is first ground into small enough particles so that some particles contain mostly the valuable mineral, and others are mostly rock. The particles are suspended in water and chemicals are added to make the valuable mineral particles hydrophobic and the rock hydrophilic. Air is then introduced at the bottom and as buoyant bubbles rise through the mixture, they collect the hydrophobic particles and carry them to the top where they can be skimmed off. Although the contact angle, where the interface separating the gas and the liquid meets the solid determines whether the particles are hydrophobic or hydrophilic, the selectivity (or efficiency) of the process is strongly influenced by other processes, such as the bubble interactions and turbulence in the liquid. To predict selectivity, we need to understand the influence of those processes. The numerical method developed here makes it possible to follow the motion of many bubbles through complex flow containing many particles and examine how solid particles attach to the bubbles. The numerical method is based on a strategy that has proven to be particularly well suitable for simulations of multiphase flows where the governing equations are solved on a fixed regular grid and the interface is tracked by a lower-dimensional unstructured grid. The novelty here is the ability to incorporate solid particles and a moving contact line.&nbsp;</p> <p>The study started by a detailed examination of a single bubble rising through a bed of many particles. As the bubble rises, solid particles in front of it are either pushed out of the way if they are small and light or collide with the bubble if they are heavy and large. The study showed how the fraction of particles in front that attach to the bubble depends on the various governing parameters. As the particles attach to the bubble it becomes heavier and slows down. The attached particles also increase the drag on the bubble. To describe the accumulation of particles and the slowing down of the bubble we describe the process using a simple mathematical model where the accumulation coefficient (fraction of bubbles in front that attach) and the drag coefficient of a bubble with particles are modeling parameters determined from the simulation data. We show that the model accurately describes the dynamics (although the error increases for very high particle volume fractions) and examined how the modeling parameter depend on the bubble size, particle size, particle volume fraction and other governing parameters. The single bubble study provides a baseline for the examination of more complex flows with many interacting bubbles. Such simulations have been done for systems containing a handful of bubbles, where the results indicate that the bubble interactions make significant difference. Figure 1 shows three frames from a relatively small multi-bubble system as the buoyant bubbles rise through a bed of heavy hydrophobic particles, gathering particles as they rise. While particles collide with the top of the bubble, they slide back as the bubble rises, accumulating at the bottom of the bubble. The rise of the bubbles and the fall of the particles stir up the fluid and the total vorticity squared is plotted in the back plane. Figure 2 shows the number of particles that have accumulate on the bubbles versus time for the simulation in figure 1 and three other cases with different particle volume fractions and bubble deformability. Figure 3 shows the average velocity of the bubbles and how it decreases with time as particles accumulate on the bubbles, for the same cases shown in figure 2.&nbsp;</p> <p>Intellectual merit of the work includes the development of a numerical method suitable for simulations of complex three-phase flows, where the attachment of particles and the dynamics of the contact angle must be accounted for. Although the study was primarily motivated by mineral processing, froth flotation is used in many other applications, including the recycling of plastics.&nbsp;</p> <p>Broader Impact. Extraction of minerals continues to be of the outmost importance and as less and less desirable deposits must be mined, understanding the various processes at a fundamental level is the key for improved efficiency. The present study is an important step toward developing a fundamental insight into mineral separation by froth flotation. The project also contributed to education of individuals capable of conducting such studies by supporting the education of a graduate student.&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 04/30/2024<br> Modified by: Gretar&nbsp;Tryggvason</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2035231/2035231_10709343_1714498527520_Figure_2--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2035231/2035231_10709343_1714498527520_Figure_2--rgov-800width.jpg" title="Figure 2"><img src="/por/images/Reports/POR/2024/2035231/2035231_10709343_1714498527520_Figure_2--rgov-66x44.jpg" alt="Figure 2"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 2. Bubble rise velocity with respect to the particles versus time for four cases with different particle volume fractions and bubble deformability.</div> <div class="imageCredit">Lei Zeng/Gretar Tryggvason</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Gretar&nbsp;Tryggvason <div class="imageTitle">Figure 2</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2035231/2035231_10709343_1714498580461_Figure_3--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2035231/2035231_10709343_1714498580461_Figure_3--rgov-800width.jpg" title="Figure 3"><img src="/por/images/Reports/POR/2024/2035231/2035231_10709343_1714498580461_Figure_3--rgov-66x44.jpg" alt="Figure 3"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 3. Bubble rise velocity with respect to the particles versus time for four cases with different particle volume fractions and bubble deformability.</div> <div class="imageCredit">Lei Zeng/Gretar Tryggvason</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Gretar&nbsp;Tryggvason <div class="imageTitle">Figure 3</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2035231/2035231_10709343_1714498298379_Figure_1--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2035231/2035231_10709343_1714498298379_Figure_1--rgov-800width.jpg" title="Figure 1"><img src="/por/images/Reports/POR/2024/2035231/2035231_10709343_1714498298379_Figure_1--rgov-66x44.jpg" alt="Figure 1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 1. Bubbles rising through a bed of solid hydrophobic particles that collide and attach to the bubbles, at three times. The total vorticity squared is plotted in the back plane.</div> <div class="imageCredit">Lei Zeng/Gretar Tryggvason</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Gretar&nbsp;Tryggvason <div class="imageTitle">Figure 1</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Three phase flows are found in a large number of industrial systems and understanding their dynamics is critical to safe and efficient operations. Here we develop a numerical method to simulate such systems and use it to examine the dynamics of disperse gas-liquid-solid flows. The study is motivated by mineral processing, where the challenge is to separate valuable minerals from the ore. One of the most widely used method to do so is froth flotation where the ore is first ground into small enough particles so that some particles contain mostly the valuable mineral, and others are mostly rock. The particles are suspended in water and chemicals are added to make the valuable mineral particles hydrophobic and the rock hydrophilic. Air is then introduced at the bottom and as buoyant bubbles rise through the mixture, they collect the hydrophobic particles and carry them to the top where they can be skimmed off. Although the contact angle, where the interface separating the gas and the liquid meets the solid determines whether the particles are hydrophobic or hydrophilic, the selectivity (or efficiency) of the process is strongly influenced by other processes, such as the bubble interactions and turbulence in the liquid. To predict selectivity, we need to understand the influence of those processes. The numerical method developed here makes it possible to follow the motion of many bubbles through complex flow containing many particles and examine how solid particles attach to the bubbles. The numerical method is based on a strategy that has proven to be particularly well suitable for simulations of multiphase flows where the governing equations are solved on a fixed regular grid and the interface is tracked by a lower-dimensional unstructured grid. The novelty here is the ability to incorporate solid particles and a moving contact line.   The study started by a detailed examination of a single bubble rising through a bed of many particles. As the bubble rises, solid particles in front of it are either pushed out of the way if they are small and light or collide with the bubble if they are heavy and large. The study showed how the fraction of particles in front that attach to the bubble depends on the various governing parameters. As the particles attach to the bubble it becomes heavier and slows down. The attached particles also increase the drag on the bubble. To describe the accumulation of particles and the slowing down of the bubble we describe the process using a simple mathematical model where the accumulation coefficient (fraction of bubbles in front that attach) and the drag coefficient of a bubble with particles are modeling parameters determined from the simulation data. We show that the model accurately describes the dynamics (although the error increases for very high particle volume fractions) and examined how the modeling parameter depend on the bubble size, particle size, particle volume fraction and other governing parameters. The single bubble study provides a baseline for the examination of more complex flows with many interacting bubbles. Such simulations have been done for systems containing a handful of bubbles, where the results indicate that the bubble interactions make significant difference. Figure 1 shows three frames from a relatively small multi-bubble system as the buoyant bubbles rise through a bed of heavy hydrophobic particles, gathering particles as they rise. While particles collide with the top of the bubble, they slide back as the bubble rises, accumulating at the bottom of the bubble. The rise of the bubbles and the fall of the particles stir up the fluid and the total vorticity squared is plotted in the back plane. Figure 2 shows the number of particles that have accumulate on the bubbles versus time for the simulation in figure 1 and three other cases with different particle volume fractions and bubble deformability. Figure 3 shows the average velocity of the bubbles and how it decreases with time as particles accumulate on the bubbles, for the same cases shown in figure 2.   Intellectual merit of the work includes the development of a numerical method suitable for simulations of complex three-phase flows, where the attachment of particles and the dynamics of the contact angle must be accounted for. Although the study was primarily motivated by mineral processing, froth flotation is used in many other applications, including the recycling of plastics.   Broader Impact. Extraction of minerals continues to be of the outmost importance and as less and less desirable deposits must be mined, understanding the various processes at a fundamental level is the key for improved efficiency. The present study is an important step toward developing a fundamental insight into mineral separation by froth flotation. The project also contributed to education of individuals capable of conducting such studies by supporting the education of a graduate student.        Last Modified: 04/30/2024       Submitted by: GretarTryggvason]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

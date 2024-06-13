@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF Postdoctoral Fellowship in Biology FY 2020]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>138000.00</AwardTotalIntnAmount>
+<AwardAmount>207000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joel Abraham</SignBlockName>
+<PO_EMAI>jkabraha@nsf.gov</PO_EMAI>
+<PO_PHON>7032924694</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This action funds an NSF Postdoctoral Research Fellowship in Biology for FY 2020, Broadening Participation of Groups Under-represented in Biology. The fellowship supports a research and training plan for the Fellow that will increase the participation of groups underrepresented in biology. Research conducted by the Fellow will address how the early-life environment influences vocal learning, the ability to learn vocalizations from family and social companions that is shared by various mammalian and avian species. Although vocal learning is one of the best studied forms of social learning, much remains to be discovered about why animals vary in vocal learning abilities, and how variation in these abilities is inherited across generations. This research will contribute to our understanding of how vocal learning is sensitive to the early-life environment, and whether influences of the early-life environment persist across two generations. The Fellow will broaden participation of underrepresented groups by including grassroots scientists, mentoring undergraduate students through independent research, and disseminating quantitative skills important for diverse careers.&lt;br/&gt;&lt;br/&gt;The Fellow will manipulate early-life stress over two generations of zebra finches (Taeniopygia guttata) to identify changes in vocal learning phenotypes and heritable epigenetic patterns in brain vocal learning centers. Zebra finch pairs will be exposed to either random, repeated food withdrawal (high early-life stress), or no food manipulation (low early-life stress), and eggs will be cross-fostered among treatments. Male fledglings’ vocal learning abilities and social interactions will be assessed in naturalistic aviaries to characterize vocal learning phenotypes and social factors that could influence brain molecular patterns (such as social rank). A subset of males will be sacrificed to evaluate DNA methylation and gene expression patterns in two brain vocal learning centers. Remaining males and females will be bred within early-life treatments and subjected to these early-life treatments as above. Offspring will be cross-fostered across early-life treatments to reflect either sustained or reversed early-life stress across two generations, and male vocal learning phenotypes and brain molecular patterns evaluated as before. The Fellow will be trained in cutting-edge neurogenetic techniques and quantitative analyses of animal social interactions. This project will recruit grassroots scientists to crowd-source acoustic data analysis, facilitate independent research by underrepresented minority undergraduate students, and result in the bilingual dissemination of critical quantitative skills through workshops and teaching materials in the R programming language.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/02/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2010982</AwardID>
+<Investigator>
+<FirstName>Grace</FirstName>
+<LastName>Smith-Vidaurre</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Grace Smith-Vidaurre</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000815166</NSF_ID>
+<StartDate>06/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Smith-Vidaurre, Grace]]></Name>
+<CityName>Las Cruces</CityName>
+<ZipCode>88001</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NM02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rockefeller University]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100656399</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>112700</Code>
+<Text>Evolutionary Processes</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>727500</Code>
+<Text>Cross-BIO Activities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>097Z</Code>
+<Text>COVID-19 Impacts on Existing Activities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>1V21</Code>
+<Name>R&amp;RA ARP Act DEFC V</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>010V2122DB</Code>
+<Name><![CDATA[R&RA ARP Act DEFC V]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~138000</FUND_OBLG>
+<FUND_OBLG>2021~69000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span style="font-family: Arial, sans-serif;">The social learning of vocalizations, or vocal learning, has evolved multiple times across avian and mammalian lineages. This specialized form of social learning is necessary for human spoken language and may be important for navigating complex social environments. Over the last few decades, we have learned much about the brain regions for producing learned vocalizations, and how these brain regions are shared among distantly related lineages of vocal learning animals. However, learned vocalizations can display great variability across individuals of the same species, suggesting that environmental factors that individuals experience throughout their lives may influence vocal learning phenotypes. We are still missing important information about the mechanisms that underlie the sensitivity of vocal learning phenotypes to different environmental factors.</span></p> <p>&nbsp;</p> <p><span style="font-family: Arial, sans-serif;">The NSF Postdoctoral Research Fellowship in Biology (PRFB) provided me with the opportunity to establish an independent line of research about vocal learning that intersected with a field of research (neuroscience) and a study system (zebra finches) that were both new to me. My main research goals were to assess how epigenetic markers in the avian brain that can regulate gene expression are associated with variation in learned vocalizations, and how these regulatory markers may be stably transmitted between generations. As a PRFB fellow, I developed new collaborations with my co-mentors Dr. Erich Jarvis at the Rockefeller University and Dr. Elizabeth Hobson at the University of Cincinnati. I gained expertise in a new field of research with a new study system, acquired a new skillset in developing tools with open-electronics equipment, disseminated my research at national and international conferences as well as invited research seminars, and engaged in competitive professional development workshops as well as peer mentoring initiatives.</span></p> <p><span style="font-family: Arial, sans-serif;"><br /></span></p> <p><span style="font-family: Arial, sans-serif;">One major outcome of my PRFB research was the behavioral tracking system ABISSMAL (Automated Behavioral tracking by Integrating Sensors that Survey Movements Around a target Location), which collects, curates, and integrates behavioral data. I led the development of ABISSMAL as a new collaboration with Tania Molina, a software developer and independent researcher. ABISSMAL is a modular tracking system uses multiple types of sensors to automatically record animal movements, and provides computational analyses for generating behavioral inferences (or labels) about movement events by integrating data across sensors. ABISSMAL is publicly available on GitHub with detailed documentation: <a href="https://github.com/lastralab/ABISSMAL">https://github.com/lastralab/ABISSMAL</a>. ABISSMAL also includes bilingual tutorials that I developed in English and Spanish to broadly disseminate basic coding and data science skills in a biological context. I used ABISSMAL to track nest attendance activities performed by adult zebra finches throughout offspring development. ABISSMAL has the potential to automate the process of data collection for different types of parental care behaviors, and can be modified for different research questions, study systems, and research settings. </span></p> <p>&nbsp;</p> <p><span style="font-family: Arial, sans-serif;">Another major outcome of my PRFB research was integrating conceptual frameworks from animal sociality and neuroscience to provide a new perspective on how vocal learning could represent a form of socially learned identity signaling.</span><br /> <br /></p> <p><span style="font-family: Arial, sans-serif;">I engaged in different professional development and community activities </span><span style="font-family: Arial, sans-serif;">as a PRFB fellow</span><span style="font-family: Arial, sans-serif;">. I mentored an undergraduate student through a Research Experiences for Undergraduate (REU) program, disseminated my PRFB research at 3 conferences, applied for and received a second postdoctoral research fellowship, delivered 7 invited research seminars and 2 invited teaching lectures at different institutions, attended 4 competitive workshops for research training or professional development, and engaged in 4 peer mentoring initiatives through 2 professional societies.</span></p> <p>&nbsp;</p> <p><span style="font-family: Arial, sans-serif;">My PRFB fellowship made it possible for me to develop an independent line of research and a vision for my long-term research program, both of which helped me to pursue my career goal to become an independent investigator. I am currently establishing an interdisciplinary lab as a tenure-track faculty member at Michigan State University in the Department of Integrative Biology and the Department of Computational Mathematics, Science, and Engineering. My lab will work to address how animals use learned vocalizations to communicate information about their identities to others, and how brain regions for producing learned vocalizations may be sensitive to the early-life environment.</span></p> <!-- p { margin-bottom: 0.1in; line-height: 115% }a:link { so-language: zxx } --><br> <p>  Last Modified: 05/06/2024<br> Modified by: Grace&nbsp;Smith-Vidaurre</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The social learning of vocalizations, or vocal learning, has evolved multiple times across avian and mammalian lineages. This specialized form of social learning is necessary for human spoken language and may be important for navigating complex social environments. Over the last few decades, we have learned much about the brain regions for producing learned vocalizations, and how these brain regions are shared among distantly related lineages of vocal learning animals. However, learned vocalizations can display great variability across individuals of the same species, suggesting that environmental factors that individuals experience throughout their lives may influence vocal learning phenotypes. We are still missing important information about the mechanisms that underlie the sensitivity of vocal learning phenotypes to different environmental factors.      The NSF Postdoctoral Research Fellowship in Biology (PRFB) provided me with the opportunity to establish an independent line of research about vocal learning that intersected with a field of research (neuroscience) and a study system (zebra finches) that were both new to me. My main research goals were to assess how epigenetic markers in the avian brain that can regulate gene expression are associated with variation in learned vocalizations, and how these regulatory markers may be stably transmitted between generations. As a PRFB fellow, I developed new collaborations with my co-mentors Dr. Erich Jarvis at the Rockefeller University and Dr. Elizabeth Hobson at the University of Cincinnati. I gained expertise in a new field of research with a new study system, acquired a new skillset in developing tools with open-electronics equipment, disseminated my research at national and international conferences as well as invited research seminars, and engaged in competitive professional development workshops as well as peer mentoring initiatives.       One major outcome of my PRFB research was the behavioral tracking system ABISSMAL (Automated Behavioral tracking by Integrating Sensors that Survey Movements Around a target Location), which collects, curates, and integrates behavioral data. I led the development of ABISSMAL as a new collaboration with Tania Molina, a software developer and independent researcher. ABISSMAL is a modular tracking system uses multiple types of sensors to automatically record animal movements, and provides computational analyses for generating behavioral inferences (or labels) about movement events by integrating data across sensors. ABISSMAL is publicly available on GitHub with detailed documentation: https://github.com/lastralab/ABISSMAL. ABISSMAL also includes bilingual tutorials that I developed in English and Spanish to broadly disseminate basic coding and data science skills in a biological context. I used ABISSMAL to track nest attendance activities performed by adult zebra finches throughout offspring development. ABISSMAL has the potential to automate the process of data collection for different types of parental care behaviors, and can be modified for different research questions, study systems, and research settings.       Another major outcome of my PRFB research was integrating conceptual frameworks from animal sociality and neuroscience to provide a new perspective on how vocal learning could represent a form of socially learned identity signaling.      I engaged in different professional development and community activities as a PRFB fellow. I mentored an undergraduate student through a Research Experiences for Undergraduate (REU) program, disseminated my PRFB research at 3 conferences, applied for and received a second postdoctoral research fellowship, delivered 7 invited research seminars and 2 invited teaching lectures at different institutions, attended 4 competitive workshops for research training or professional development, and engaged in 4 peer mentoring initiatives through 2 professional societies.      My PRFB fellowship made it possible for me to develop an independent line of research and a vision for my long-term research program, both of which helped me to pursue my career goal to become an independent investigator. I am currently establishing an interdisciplinary lab as a tenure-track faculty member at Michigan State University in the Department of Integrative Biology and the Department of Computational Mathematics, Science, and Engineering. My lab will work to address how animals use learned vocalizations to communicate information about their identities to others, and how brain regions for producing learned vocalizations may be sensitive to the early-life environment.      Last Modified: 05/06/2024       Submitted by: GraceSmith-Vidaurre]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

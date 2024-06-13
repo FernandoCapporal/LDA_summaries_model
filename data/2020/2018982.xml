@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CC* Planning: UCCS Computational Cluster for Science]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>53935.00</AwardTotalIntnAmount>
+<AwardAmount>53935</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Thompson</SignBlockName>
+<PO_EMAI>kthompso@nsf.gov</PO_EMAI>
+<PO_PHON>7032924220</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Classified as a “high research activity” university in 2019, the University of Colorado Colorado Springs (UCCS) is a school in transition. While UCCS has good Cyber Infrastructure for educational purposes, there is an urgent need and opportunity to develop a plan for computational support for scientific research. Maximizing a computational infrastructure’s impact depends on the scale and scope of usage. A major part of this project is the analysis of the current and planned scientific computational needs at UCCS and then mapping them to design, which requires careful research to optimize. The investigators are using a multi-pronged approach to raise awareness, gather qualitative data, and collect custom data grounded within established motivational theory. This approach yields baseline data and assesses change over time with future infrastructural changes.&lt;br/&gt;&lt;br/&gt;One aim of this planning project is the design and testing of a Cyber Aspirations and Readiness Assessment (CARA) instrument. The instrument serves as a theoretically driven tool for longitudinal assessment of initial aspirations, perceptions of barriers, and opportunities for success. This planning process helps STEM faculty across campus better understand how computing could accelerate their research, and how they could utilize different computational resources. Such a model, processes, and experiences not only benefit UCCS, but could be replicated at other institutions for their risk assessment, benchmarking, and other activities during their computation infrastructure planning. This plan for a cyber infrastructure provides a much needed capability required by a broad range of science, engineering, and education teams at UCCS and beyond.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/19/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2018982</AwardID>
+<Investigator>
+<FirstName>Terrance</FirstName>
+<LastName>Boult</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Terrance E Boult</PI_FULL_NAME>
+<EmailAddress><![CDATA[tboult@vast.uccs.edu]]></EmailAddress>
+<NSF_ID>000212325</NSF_ID>
+<StartDate>12/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jessi</FirstName>
+<LastName>Smith</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jessi L Smith</PI_FULL_NAME>
+<EmailAddress><![CDATA[jsmith20@uccs.edu]]></EmailAddress>
+<NSF_ID>000073299</NSF_ID>
+<StartDate>12/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yanyan</FirstName>
+<LastName>Zhuang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yanyan Zhuang</PI_FULL_NAME>
+<EmailAddress><![CDATA[yzhuang@uccs.edu]]></EmailAddress>
+<NSF_ID>000656847</NSF_ID>
+<StartDate>12/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Colorado Springs</Name>
+<CityName>COLORADO SPRINGS</CityName>
+<ZipCode>809183733</ZipCode>
+<PhoneNumber>7192553153</PhoneNumber>
+<StreetAddress>1420 AUSTIN BLUFFS PKWY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RH87YDXC1AY5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE REGENTS OF THE UNIVERSITY OF COLORADO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Colorado at Colorado Springs]]></Name>
+<CityName/>
+<StateCode>CO</StateCode>
+<ZipCode>809183733</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8080</Code>
+<Text>Campus Cyberinfrastructure</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~53935</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>The University of Colorado Colorado Springs (UCCS) was recently classified as a "high research activity" university. With higher research&nbsp;demand,&nbsp;the decades-old educational purposes Cyber Infrastructure can no longer suffice.&nbsp;This project developed a plan that will understand and provide computational support for scientific research across campus. A major part of this project is the analysis of the current and planned scientific computational needs at UCCS and then mapping them to design. The investigators used a multi-pronged approach to raise awareness, gather qualitative data, and collect custom data grounded within established motivational theory. This approach yields baseline data and assesses change over time with future infrastructural changes.</span></p> <div class="page" title="Page 2"> <div class="section"> <div class="layoutArea"> <div class="column"> <p><span>To understand the needs at UCCS and to better fit the different areas of the CC* program, a campus-wide survey was conducted by the team, where&nbsp;</span>147 participants completed this survey. To supplement the largely quantitative data gathered with the survey, qualitative data was also gathered via interviews. A report that summarizes the findings of the survey and interviews is completed. This document summarizes the quantitative results of the assessment via a survey and triangulates with qualitative data via interviews. The outcomes of the report not only informed the team about the most needed area in the CC* program that will help the campus research community, a diverse group of researchers (including faculty and staff) also volunteered to allow the team to use their research projects as science drivers in the CC* Area 4 submission.</p> <p>The outcomes of this<span>&nbsp;planning process helped STEM faculty across campus better understand how computing could accelerate their research, and how they could utilize different computational resources. Such a model, processes, and experiences not only benefit UCCS, but could be replicated at other institutions for their risk assessment, benchmarking, and other activities during their computation infrastructure planning.&nbsp;With the results of this project, the PI of the team worked with the&nbsp;</span>Office of Information Technology (OIT) Director of UCCS on the new Computing Infrastructure (CI) plan, the infrastructure of the new cluster, and how the new infrastructure can support the on-campus research activities like those science drivers. This Area 4 proposal was submitted in the Fall of 2023.&nbsp;</p> </div> </div> </div> </div><br> <p>  Last Modified: 02/13/2024<br> Modified by: Yanyan&nbsp;Zhuang</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The University of Colorado Colorado Springs (UCCS) was recently classified as a "high research activity" university. With higher researchdemand,the decades-old educational purposes Cyber Infrastructure can no longer suffice.This project developed a plan that will understand and provide computational support for scientific research across campus. A major part of this project is the analysis of the current and planned scientific computational needs at UCCS and then mapping them to design. The investigators used a multi-pronged approach to raise awareness, gather qualitative data, and collect custom data grounded within established motivational theory. This approach yields baseline data and assesses change over time with future infrastructural changes.       To understand the needs at UCCS and to better fit the different areas of the CC* program, a campus-wide survey was conducted by the team, where147 participants completed this survey. To supplement the largely quantitative data gathered with the survey, qualitative data was also gathered via interviews. A report that summarizes the findings of the survey and interviews is completed. This document summarizes the quantitative results of the assessment via a survey and triangulates with qualitative data via interviews. The outcomes of the report not only informed the team about the most needed area in the CC* program that will help the campus research community, a diverse group of researchers (including faculty and staff) also volunteered to allow the team to use their research projects as science drivers in the CC* Area 4 submission.   The outcomes of thisplanning process helped STEM faculty across campus better understand how computing could accelerate their research, and how they could utilize different computational resources. Such a model, processes, and experiences not only benefit UCCS, but could be replicated at other institutions for their risk assessment, benchmarking, and other activities during their computation infrastructure planning.With the results of this project, the PI of the team worked with theOffice of Information Technology (OIT) Director of UCCS on the new Computing Infrastructure (CI) plan, the infrastructure of the new cluster, and how the new infrastructure can support the on-campus research activities like those science drivers. This Area 4 proposal was submitted in the Fall of 2023.         Last Modified: 02/13/2024       Submitted by: YanyanZhuang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

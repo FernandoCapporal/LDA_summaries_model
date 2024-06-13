@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Heterojunctions as the Weakest Link: A Fundamental Investigation of Damage Evolution in Electronic Devices]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>375056.00</AwardTotalIntnAmount>
+<AwardAmount>375056</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Nash</SignBlockName>
+<PO_EMAI>rnash@nsf.gov</PO_EMAI>
+<PO_PHON>7032925394</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>PROJECT ABSTRACT&lt;br/&gt;&lt;br/&gt;Proposal Title:&lt;br/&gt;Heterojunctions as the Weakest Link: A Fundamental Investigation of Damage Evolution in Electronic Devices&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Non-technical Abstract&lt;br/&gt;Reliability of microelectronic devices, such as transistors, is critical to applications. Typically, this is studied by loading the transistors to failure and then analyzing the electrical characteristics of the data. Post-mortem microscopy is also performed to visualize the damage inside the device. However, care must be taken to recreate the failure events. In this research, a novel concept is introduced where the transistor is tested inside microscopes that allow near-atomic resolution mapping of defect evolution and the role of local heat and current transport. Special consideration will be given to the interfaces between various layers inside a transistor, whose important role in device reliability has been difficult to study using conventional approaches. Such high-resolution access to mechanical, electrical and thermal domains will remove the existing challenge of identifying the local weak spots in the transistor and the fundamental mechanisms behind their impact on the global or device level failure. This unique approach will be applied to the study of high-power transistors that will be used in next generation all-electric transportation, energy storage and radio-frequency communication technologies. Success of this research will lead to transistors that will reduce the size and weight of relevant equipment in these applications while increasing power and reliability.  In addition to the advancements in the fundamental science of high-power transistor reliability, the project will ensure training of the graduate and undergraduate students with cutting edge and multi-disciplinary science and technology. Outreach activities will be performed to attract K-12 students, who are the workforce of the next generation.&lt;br/&gt;&lt;br/&gt;Technical Abstract&lt;br/&gt;The objective of this research is to investigate the role of heterojunctions in overall device reliability for power transistors. The research is motivated by the gap between the predicted and actual reliability of high power and high frequency devices touted to enable next generation all-electric transportation, energy storage and RF communication technologies. Gallium nitride based high electron mobility transistors (HEMT) will be studied to answer two fundamental questions: (a) what is the weakest component in a transistor in terms of defect nucleation and (b) is it defect nucleation or atomic diffusion that is more viral in device degradation. This research hypothesizes that diffusion across and along interfaces could be the answers and lays out a unique in-operando microscopy based validation approach. Transmission electron and thermo-reflectance microscopy will be used in real time to map and monitor the structural and transport characteristics of the devices during the onset of degradation. The high resolution, both spatially and temporally, shifts the current paradigm of looking for failure signatures in device data from the device-level to the atomic interface level. Realtime investigation of the atomic structure and chemistry of defects and interfaces, along with an understanding of their influence on electron-phonon interactions, will eliminate the roadblock of accurately identifying the dominant mechanism and quantifying its impact. The proposed research elaborately designs non-thermal experiments after isolating the various components of mechanical stress (residual, thermo-elastic and inverse piezo-electric).  The outcome of this research will provide fundamental insights on GaN HEMT failure and suggest paths towards performance and reliability improvements. It will also train graduate and undergraduate students in both class and laboratory settings. The project will also reach out to the next generation workforce, the K-12 students, to attract them toward science and technology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/18/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015795</AwardID>
+<Investigator>
+<FirstName>Md</FirstName>
+<LastName>Haque</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Md A Haque</PI_FULL_NAME>
+<EmailAddress><![CDATA[mah37@psu.edu]]></EmailAddress>
+<NSF_ID>000312731</NSF_ID>
+<StartDate>03/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Foley</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brian M Foley</PI_FULL_NAME>
+<EmailAddress><![CDATA[bxf303@psu.edu]]></EmailAddress>
+<NSF_ID>000817714</NSF_ID>
+<StartDate>03/03/2020</StartDate>
+<EndDate>08/18/2022</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168021503</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress><![CDATA[201 OLD MAIN]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPM2J7MSCF61</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE PENNSYLVANIA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>University Park</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>168021503</ZipCode>
+<StreetAddress><![CDATA[110 Technology Center Building]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA15</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>151700</Code>
+<Text>EPMD-ElectrnPhoton&amp;MagnDevices</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>100E</Code>
+<Text>Novel devices &amp; vacuum electronics</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~375056</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><div> <p>Wide bandgap electronics, such as those made from Gallium Nitride, are attractive for high-power and harsh environment applications. However, their performance and reliability often fall short of predictions, motivating this study. The core hypothesis of this project is that the interfaces of two dissimilar materials are the most vulnerable regions. This hypothesis has been experimentally validated for high-power transistors, where abrupt changes in geometry and materials make it particularly critical. We present evidence that interfaces containing highly localized and high-magnitude mechanical stress regions may significantly enhance defect generation and distribution. Interestingly, while their global average value may be close to zero, localized values can reach magnitudes on the order of a few gigapascals. Such localizations require less energy to strip electrons from their bound arrangement compared to unstressed materials. If this stress localization coincides with electrically sensitive areas, such as near the device gate region, it can influence the overall device vulnerability.</p> <p><strong>Intellectual Merits:</strong> The research findings indicate that mapping atomic- to nanoscale mechanical stress localization can lead to insights not obtainable through electrical measurements alone. We show that these stress localizations, which are the weakest links in a transistor, can potentially be the origins of damage. This opens a new avenue for identifying the nucleation of failure, advancing beyond the current practice of studying damage evolution near the point of failure. While the current approach involves post-mortem microscopy to study transistor failure, this research developed novel 'in-operando' characterization techniques. This was achieved by preparing electron-transparent transistors and operating them inside a transmission electron microscope (TEM). The TEM images the atomic-scale structure of the transistor to elucidate the nucleation and evolution of defects. It can also identify and track the diffusion of various atomic elements. Thus, this is a unique study mapping the migration of atomic elements as a device degrades. The reverse hypothesis is also impactful: if these weak links are eliminated, the transistors can survive harsh environments, such as radiation. The project also resulted in a unique post-processing technology for transistors&mdash;a room-temperature annealing technique that works in seconds. This technique saves more energy and time compared to the current high-temperature annealing methods, which may not be effective on multi-material systems.</p> <p><strong>Broader Impacts:</strong> The project identified the weakest links in power transistor performance and reliability. It experimentally validated hypotheses focusing on the birth of defects, providing insights into why power transistors do not perform up to theoretical predictions. Power transistors are vital for large-scale electrification (vehicles, ships, and aircraft), and enhancing their performance and reliability will directly impact the upcoming revolution in electrification and decarbonization. The findings can also impact other semiconductor devices, sensors, energy conversion, and storage applications. Similarly, the room-temperature annealing technique will transform current high-temperature annealing practices, finding applications in various areas involving metals and semiconductors. This project also benefited society by training two PhD students and two undergraduate students. These students published more than twenty journal articles and were trained in state-of-the-art power transistor reliability engineering, microscopy, and modeling.</p> </div> <p>&nbsp;</p><br> <p>  Last Modified: 05/24/2024<br> Modified by: Md&nbsp;A&nbsp;Haque</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2015795/2015795_10655999_1716557169912_TEMheatbias--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2015795/2015795_10655999_1716557169912_TEMheatbias--rgov-800width.jpg" title="High resolution image of AlGaN-GaN high mobility transistor"><img src="/por/images/Reports/POR/2024/2015795/2015795_10655999_1716557169912_TEMheatbias--rgov-66x44.jpg" alt="High resolution image of AlGaN-GaN high mobility transistor"></a> <div class="imageCaptionContainer"> <div class="imageCaption">In-situ heating and biasing of an AlGaN-GaN high mobility transistor inside the transmission electron microscope</div> <div class="imageCredit">Nahid Sultan Al-Mamun</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Md&nbsp;A&nbsp;Haque <div class="imageTitle">High resolution image of AlGaN-GaN high mobility transistor</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2015795/2015795_10655999_1716557380172_EWFAnnealResilient--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2015795/2015795_10655999_1716557380172_EWFAnnealResilient--rgov-800width.jpg" title="Resilient transistor"><img src="/por/images/Reports/POR/2024/2015795/2015795_10655999_1716557380172_EWFAnnealResilient--rgov-66x44.jpg" alt="Resilient transistor"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Room temperature anneal made the transistors resilient to harsh environment</div> <div class="imageCredit">Nahid Sultan Al-Mamun</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Md&nbsp;A&nbsp;Haque <div class="imageTitle">Resilient transistor</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2015795/2015795_10655999_1716556926225_Interface_weak_link1--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2015795/2015795_10655999_1716556926225_Interface_weak_link1--rgov-800width.jpg" title="AlGaN-GaN interface"><img src="/por/images/Reports/POR/2024/2015795/2015795_10655999_1716556926225_Interface_weak_link1--rgov-66x44.jpg" alt="AlGaN-GaN interface"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The AlGaN-GaN interface experiences the highest number of defects whereas the individual layers do not</div> <div class="imageCredit">Md Abu Jafar Rasel</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Md&nbsp;A&nbsp;Haque <div class="imageTitle">AlGaN-GaN interface</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Wide bandgap electronics, such as those made from Gallium Nitride, are attractive for high-power and harsh environment applications. However, their performance and reliability often fall short of predictions, motivating this study. The core hypothesis of this project is that the interfaces of two dissimilar materials are the most vulnerable regions. This hypothesis has been experimentally validated for high-power transistors, where abrupt changes in geometry and materials make it particularly critical. We present evidence that interfaces containing highly localized and high-magnitude mechanical stress regions may significantly enhance defect generation and distribution. Interestingly, while their global average value may be close to zero, localized values can reach magnitudes on the order of a few gigapascals. Such localizations require less energy to strip electrons from their bound arrangement compared to unstressed materials. If this stress localization coincides with electrically sensitive areas, such as near the device gate region, it can influence the overall device vulnerability.   Intellectual Merits: The research findings indicate that mapping atomic- to nanoscale mechanical stress localization can lead to insights not obtainable through electrical measurements alone. We show that these stress localizations, which are the weakest links in a transistor, can potentially be the origins of damage. This opens a new avenue for identifying the nucleation of failure, advancing beyond the current practice of studying damage evolution near the point of failure. While the current approach involves post-mortem microscopy to study transistor failure, this research developed novel 'in-operando' characterization techniques. This was achieved by preparing electron-transparent transistors and operating them inside a transmission electron microscope (TEM). The TEM images the atomic-scale structure of the transistor to elucidate the nucleation and evolution of defects. It can also identify and track the diffusion of various atomic elements. Thus, this is a unique study mapping the migration of atomic elements as a device degrades. The reverse hypothesis is also impactful: if these weak links are eliminated, the transistors can survive harsh environments, such as radiation. The project also resulted in a unique post-processing technology for transistorsa room-temperature annealing technique that works in seconds. This technique saves more energy and time compared to the current high-temperature annealing methods, which may not be effective on multi-material systems.   Broader Impacts: The project identified the weakest links in power transistor performance and reliability. It experimentally validated hypotheses focusing on the birth of defects, providing insights into why power transistors do not perform up to theoretical predictions. Power transistors are vital for large-scale electrification (vehicles, ships, and aircraft), and enhancing their performance and reliability will directly impact the upcoming revolution in electrification and decarbonization. The findings can also impact other semiconductor devices, sensors, energy conversion, and storage applications. Similarly, the room-temperature annealing technique will transform current high-temperature annealing practices, finding applications in various areas involving metals and semiconductors. This project also benefited society by training two PhD students and two undergraduate students. These students published more than twenty journal articles and were trained in state-of-the-art power transistor reliability engineering, microscopy, and modeling.         Last Modified: 05/24/2024       Submitted by: MdAHaque]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

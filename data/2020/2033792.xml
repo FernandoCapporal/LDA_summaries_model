@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[III: Medium: Quantifying the Unknown Unknowns for Data Integration]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>334537.00</AwardTotalIntnAmount>
+<AwardAmount>334537</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Spengler</SignBlockName>
+<PO_EMAI>sspengle@nsf.gov</PO_EMAI>
+<PO_PHON>7032927347</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>As the amount and variety of data available online explodes, it is common practice for data scientists to acquire and integrate disparate data sources to achieve higher quality results. But even with a perfectly cleaned and merged data set, two fundamental questions remain: (1) is the integrated data set complete and (2) what is the impact of any unknown (i.e., unobserved) data on query results? In this work, this project will develop and analyze techniques to estimate the impact of the unknown data (a.k.a., unknown unknowns) for analytical queries. This will help to better understand answers in the presence of incomplete information across fields ranging from business and the military to medical applications.&lt;br/&gt;&lt;br/&gt;This project will develop and exploit the following paradoxical statistical phenomenon: the ability to see certain data items more than once (across multiple data sets) enables one to estimate parameters of data items that have never been seen at all. This project will therefore develop new statistical techniques which take advantage of overlapping datasets, and software backed by both theory and experiments. This will enable users with overlapping incomplete data sets to actively "see the unseen," and in many cases perform as though they had access to missing information not represented in any of their data sources.  The project will also focus on data validation, and how to use multiple unreliable data sources to correct each other.  Further, as the proposed analysis is nuanced and novel, the project will also explore how to best convey valuable insights to the user, via interactive visualizations of the predictions. For further information see the project web site at: http://unknown-unknowns.cs.brown.edu</AbstractNarration>
+<MinAmdLetterDate>07/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/01/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2033792</AwardID>
+<Investigator>
+<FirstName>Tim</FirstName>
+<LastName>Kraska</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tim K Kraska</PI_FULL_NAME>
+<EmailAddress><![CDATA[kraska@mit.edu]]></EmailAddress>
+<NSF_ID>000635999</NSF_ID>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress><![CDATA[77 MASSACHUSETTS AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName/>
+<StateCode>MA</StateCode>
+<ZipCode>021394301</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>736400</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0116</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0117</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001617DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001718DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2016~97016</FUND_OBLG>
+<FUND_OBLG>2017~237521</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>The goal of this project was to make data exploration &ldquo;safer&rdquo; over unreliable data sources and data modalities. We aimed to develop theoretically-sound techniques to estimate the data quality &nbsp;(e.g., in the number of missing data items, or remaining data cleaning errors) of data sets and, when possible, develop techniques to automatically correct the query results over imperfect data sources.&nbsp;&nbsp;</span></p> <p>In the following we list some of the key results from this project:&nbsp;&nbsp;</p> <p><strong>Estimating the Impact of Unknown Unknowns on Aggregate Query Results</strong></p> <p>It is common practice for data scientists to acquire and integrate disparate data sources to achieve higher quality results. But even with a perfectly cleaned and merged data set, two fundamental questions remain: (1) is the integrated data set complete and (2) what is the impact of any unknown (i.e., unobserved) data on query results? We developed techniques to estimate the impact of the unknown data (a.k.a., unknown unknowns) on simple aggregate queries. The key idea is that the overlap between different data sources enables us to estimate the number and values of the missing data items. Our main techniques are parameter-free and do not assume prior knowledge about the distribution. Through a series of experiments, we show that estimating the impact of unknown unknowns is invaluable to better assess the results of aggregate queries over integrated data sources.</p> <p>&nbsp;</p> <p><strong>Investigation of the Effect of the Multiple Comparisons Problem in Visual Analysis</strong></p> <p>Comparing a visualization to a mental image is akin to performing a statistical test, thus repeated interpretation of visualizations is susceptible to the MCP. By means of a user study we showed that by not accounting for all visual comparisons made during visual data exploration, false discovery rates will be inflated even after validating user insights with further statistical testing. Furthermore, we demonstrated that a confirmatory approach can provide similar statistical guarentees to one that uses a validation dataset.</p> <p>&nbsp;</p> <p><strong>QUDE Controlling False Discoveries During Interactive Data Exploration</strong></p> <p>We developed the first automatic approach to controlling the multiple hypothesis problem during data exploration, called QUDE. We showed how the QUDE systems integrates user feedback and presented several multiple hypothesis control techniques based on &alpha;-investing, which controls mFDR, and are especially suited for controlling the error for interactive data exploration sessions. Finally, our evaluation showed that the techniques are indeed capable of controlling the number of false discoveries using synthetic and real world datasets. We consider this work as an important first step towards more sustainable discoveries in a time where the importance of data analysis is more pervasive than ever.&nbsp;</p> <p>&nbsp;</p> <p><strong>Lower bounds for using crowdsourced workers to produce a data quality metric (DQM)</strong></p> <p>We developed an adaptive algorithm to estimate the quality of a data set. In contrast to many prior approaches which queried workers non-adaptively&mdash;e.g. by asking 5 randomly chosen workers about each data item&mdash;here we allow for future queries to depend on the responses to prior querier. Such adaptive algorithms open up many more possibilities for improving performance; further, from a theoretical perspective, analyzing the entire space of adaptive algorithms to show that our algorithm is optimal in this rich class is a significant step which has implications for understanding the role of adaptivity across many other algorithmic settings. We classify adaptivity into 1) same-data adaptivity, where previous worker responses about the same data point can affect whether an algorithm continues to query workers about this data point, and 2) between-data adaptivity, where worker responses about other data points may affect whether an algorithm queries a different data point. We show, essentially, that our data quality metric makes near-optimal use of the first kind of adaptivity, while the second kind of adaptivity provably cannot improve performance.</p> <p>&nbsp;</p> <p><strong>SlicerFinder</strong></p> <p>We developed Slice Finder, a tool to efficiently discover large possibly-overlapping slices that are both interpretable and problematic. A slice is defined as a conjunction of feature-value pairs where having fewer features is considered more interpretable. A problematic slice is identified based on testing of a significant difference of model performance metrics (e.g., loss function) of the slice and its counterpart. That is, we treat each problematic slice as a hypothesis and check that the difference is statistically significant, and the magnitude of the difference is large enough according to the effect size. In comparison, clustering similar examples has the drawback of not being interpretable. In addition to testing, the slices found by Slice Finder can be used to evaluate model fairness or in applications such as fraud detection, business analytics, and anomaly detection.</p><br> <p>  Last Modified: 05/01/2024<br> Modified by: Tim&nbsp;K&nbsp;Kraska</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The goal of this project was to make data exploration safer over unreliable data sources and data modalities. We aimed to develop theoretically-sound techniques to estimate the data quality (e.g., in the number of missing data items, or remaining data cleaning errors) of data sets and, when possible, develop techniques to automatically correct the query results over imperfect data sources.   In the following we list some of the key results from this project:   Estimating the Impact of Unknown Unknowns on Aggregate Query Results   It is common practice for data scientists to acquire and integrate disparate data sources to achieve higher quality results. But even with a perfectly cleaned and merged data set, two fundamental questions remain: (1) is the integrated data set complete and (2) what is the impact of any unknown (i.e., unobserved) data on query results? We developed techniques to estimate the impact of the unknown data (a.k.a., unknown unknowns) on simple aggregate queries. The key idea is that the overlap between different data sources enables us to estimate the number and values of the missing data items. Our main techniques are parameter-free and do not assume prior knowledge about the distribution. Through a series of experiments, we show that estimating the impact of unknown unknowns is invaluable to better assess the results of aggregate queries over integrated data sources.      Investigation of the Effect of the Multiple Comparisons Problem in Visual Analysis   Comparing a visualization to a mental image is akin to performing a statistical test, thus repeated interpretation of visualizations is susceptible to the MCP. By means of a user study we showed that by not accounting for all visual comparisons made during visual data exploration, false discovery rates will be inflated even after validating user insights with further statistical testing. Furthermore, we demonstrated that a confirmatory approach can provide similar statistical guarentees to one that uses a validation dataset.      QUDE Controlling False Discoveries During Interactive Data Exploration   We developed the first automatic approach to controlling the multiple hypothesis problem during data exploration, called QUDE. We showed how the QUDE systems integrates user feedback and presented several multiple hypothesis control techniques based on -investing, which controls mFDR, and are especially suited for controlling the error for interactive data exploration sessions. Finally, our evaluation showed that the techniques are indeed capable of controlling the number of false discoveries using synthetic and real world datasets. We consider this work as an important first step towards more sustainable discoveries in a time where the importance of data analysis is more pervasive than ever.      Lower bounds for using crowdsourced workers to produce a data quality metric (DQM)   We developed an adaptive algorithm to estimate the quality of a data set. In contrast to many prior approaches which queried workers non-adaptivelye.g. by asking 5 randomly chosen workers about each data itemhere we allow for future queries to depend on the responses to prior querier. Such adaptive algorithms open up many more possibilities for improving performance; further, from a theoretical perspective, analyzing the entire space of adaptive algorithms to show that our algorithm is optimal in this rich class is a significant step which has implications for understanding the role of adaptivity across many other algorithmic settings. We classify adaptivity into 1) same-data adaptivity, where previous worker responses about the same data point can affect whether an algorithm continues to query workers about this data point, and 2) between-data adaptivity, where worker responses about other data points may affect whether an algorithm queries a different data point. We show, essentially, that our data quality metric makes near-optimal use of the first kind of adaptivity, while the second kind of adaptivity provably cannot improve performance.      SlicerFinder   We developed Slice Finder, a tool to efficiently discover large possibly-overlapping slices that are both interpretable and problematic. A slice is defined as a conjunction of feature-value pairs where having fewer features is considered more interpretable. A problematic slice is identified based on testing of a significant difference of model performance metrics (e.g., loss function) of the slice and its counterpart. That is, we treat each problematic slice as a hypothesis and check that the difference is statistically significant, and the magnitude of the difference is large enough according to the effect size. In comparison, clustering similar examples has the drawback of not being interpretable. In addition to testing, the slices found by Slice Finder can be used to evaluate model fairness or in applications such as fraud detection, business analytics, and anomaly detection.     Last Modified: 05/01/2024       Submitted by: TimKKraska]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

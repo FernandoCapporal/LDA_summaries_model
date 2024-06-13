@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Innovation and Information]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>209000.00</AwardTotalIntnAmount>
+<AwardAmount>209000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kwabena Gyimah-Brempong</SignBlockName>
+<PO_EMAI>kgyimahb@nsf.gov</PO_EMAI>
+<PO_PHON>7032927466</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Abstract&lt;br/&gt;&lt;br/&gt;This project studies how differences in firms' beliefs about project feasibility, success and future potential profits affect research and development (R&amp;D) activity. These differences may arise due to firms’ prior experience with similar projects or how farther along a firm is in R&amp;D process. Firms have an incentive to learn what their rivals know. While learning about rivals’ progress may be easier in some industries such as pharmaceuticals due to reporting regulations, it is challenging in other industries as firms protect their R&amp;D specific information.  The project is centered around three major research questions. First, the project explores firm incentives to share private information with others and its impact on the society. Second, the research examines whether firms should make R&amp;D progress public or not. Third, the project looks at the reasons behind why startups focus on radical innovations and new products whereas established firms tend to pursue incremental innovations and improvements to existing products. The project has policy and regulatory implications in understanding the role of information asymmetry and information sharing on R&amp;D activities for startups and established firms.&lt;br/&gt;&lt;br/&gt;This research focuses on R&amp;D races where rivals have asymmetric information about the feasibility of the project. The project explores three issues. First, if firms can commit to be truthful, then the benefits of better information to a firm seem to outweigh competitive concerns. Although firms should have an incentive to share what they know, this decreases the probability of success and is detrimental from a social perspective. Second, firms can invest more in R&amp;D if they do not share R&amp;D progress publicly as information on a rival abandoning a line of research has a strong discouragement effect on others. Third, the observed regularity about incremental and radical innovations can be explained in terms of information: Smaller startup firms can usually observe the R&amp;D activity of larger, established firms better than the other way around, which affects risk taking behavior. This project studies these issues in a rich setting incorporating imperfect monitoring of R&amp;D activity by firms, capital constraints and intellectual capital. The project further considers implications of incremental and radical&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/11/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2047593</AwardID>
+<Investigator>
+<FirstName>Yu</FirstName>
+<LastName>Awaya</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yu Awaya</PI_FULL_NAME>
+<EmailAddress><![CDATA[yuawaya@gmail.com]]></EmailAddress>
+<NSF_ID>000714360</NSF_ID>
+<StartDate>02/11/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Rochester]]></Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146113847</ZipCode>
+<PhoneNumber>5852754031</PhoneNumber>
+<StreetAddress><![CDATA[910 GENESEE ST]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F27KDXZMF9Y8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ROCHESTER</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Rochester]]></Name>
+<CityName>Rochester</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>146270140</ZipCode>
+<StreetAddress><![CDATA[PO Box 270401]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>132000</Code>
+<Text>Economics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1320</Code>
+<Text>ECONOMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~209000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In the current age the most important commodity in the economy is not steel or coal but information. How efficiently it is created and distributed determines the overall health of the economy. This project has theoretically studied different phenomena caused by information asymmetries among people---I know something but do not know if others do so.<br />&nbsp; &nbsp; The first part of the project studied "panic buying", an informational phenomenon widely observed during the Covid-19 pandemic. Even though there were no real shortages, people rushed out to buy and stock essential commodities. What causes such "panic buying"? A conventional explanation goes as follows. Some people naively believe rumors that there is a shortage and try to stock up on the good by rushing to buy immediately. Sophisticated people themselves do not believe the rumors (or are better informed) but know that there are naive people who do and will buy in a panic. Because they know that this itself will cause a shortage, sophisticated people buy immediately as well. People who are even more sophisticated understand the behavior of naive people as well as that of other less sophisticated people and so they too buy immediately, etc. Panic becomes widespread. At the same time, producers have the incentive to withhold supply in order to wait for higher prices---that is, they engage in "hoarding." In response, governments use emergency "anti-hoarding" regulations to combat such behavior. In 2020 such regulations were invoked in many countries, including the US, during the Covid-19 pandemic. Awaya and Krishna studied how well the price system performed in these circumstances. One might think that since panic buying will surely lead to higher prices, this should deter consumers from over-stocking, perhaps by diverting their consumption to other substitute goods. In their work, they showed that the price system could be unsuccessful in this regard---in many circumstances, it did not prevent panic buying. They then studied some remedies---in particular, a system of minimum price supports---such as those present for agricultural commodities---can alleviate panic buying.<br />&nbsp; &nbsp; In the second part of the project, Awaya and Krishna studied the following question. What kinds of information facilitates coordination among people? As an example, suppose the depositors of a bank are uncertain about its overall health. If good news about the health of the bank---say, a very favorable report on its assets and liabilities---is made public then this will surely reassure the depositors and they will not withdraw their money. But what happens if there is no trusted source that can provide such information in a timely manner? Now individual depositors must rely on their own private sources of information. It seems quite reasonable to suppose that if the private information available to different depositors is similar---that is, highly correlated---then this should have almost the same effect as public information. In their work, Awaya and Krishna show that this is not necessarily the case. An increase in the similarity of depositors information can lead to an increase in the probability of a bank run. The lesson is that for purposed of coordination, "nearly public" information can be very different from public information.<br />&nbsp; &nbsp; Policymakers often wish to inform the public about various policies and technologies---a tax credit, a new seed variety, a new digital payment system---so that the public will avail of or adopt these. The simplest way to disseminate such information is to just broadcast a public service announcement (PSA) on television, radio and other media. But there have been some doubts about the effectiveness of PSAs. For various reasons, people may pay more attention to information coming from friends and neighbors rather than mass media. It has been argued that it is then better to let the information spread via existing social networks so that people get information from trusted sources---their friends and neighbors. In their work, Awaya and Krishna look at situations where the policymaker is interested in getting people to adopt an innovation that is subject to positive externalities---I want to adopt the new technology only if others do so as well. An example is a digital payment system. How fast the information spreads depends on the structure of the social network. It will spread faster in communities in which there is a "central" person who is linked to a lot of people---say, the local grocer or gas station owner. Awaya and Krishna show that while the structure of the network affects the rate of diffusion, the rate at which the new technology is adopted is the same for all acyclic networks.</p><br> <p>  Last Modified: 05/30/2024<br> Modified by: Yu&nbsp;Awaya</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  In the current age the most important commodity in the economy is not steel or coal but information. How efficiently it is created and distributed determines the overall health of the economy. This project has theoretically studied different phenomena caused by information asymmetries among people---I know something but do not know if others do so.   The first part of the project studied "panic buying", an informational phenomenon widely observed during the Covid-19 pandemic. Even though there were no real shortages, people rushed out to buy and stock essential commodities. What causes such "panic buying"? A conventional explanation goes as follows. Some people naively believe rumors that there is a shortage and try to stock up on the good by rushing to buy immediately. Sophisticated people themselves do not believe the rumors (or are better informed) but know that there are naive people who do and will buy in a panic. Because they know that this itself will cause a shortage, sophisticated people buy immediately as well. People who are even more sophisticated understand the behavior of naive people as well as that of other less sophisticated people and so they too buy immediately, etc. Panic becomes widespread. At the same time, producers have the incentive to withhold supply in order to wait for higher prices---that is, they engage in "hoarding." In response, governments use emergency "anti-hoarding" regulations to combat such behavior. In 2020 such regulations were invoked in many countries, including the US, during the Covid-19 pandemic. Awaya and Krishna studied how well the price system performed in these circumstances. One might think that since panic buying will surely lead to higher prices, this should deter consumers from over-stocking, perhaps by diverting their consumption to other substitute goods. In their work, they showed that the price system could be unsuccessful in this regard---in many circumstances, it did not prevent panic buying. They then studied some remedies---in particular, a system of minimum price supports---such as those present for agricultural commodities---can alleviate panic buying.   In the second part of the project, Awaya and Krishna studied the following question. What kinds of information facilitates coordination among people? As an example, suppose the depositors of a bank are uncertain about its overall health. If good news about the health of the bank---say, a very favorable report on its assets and liabilities---is made public then this will surely reassure the depositors and they will not withdraw their money. But what happens if there is no trusted source that can provide such information in a timely manner? Now individual depositors must rely on their own private sources of information. It seems quite reasonable to suppose that if the private information available to different depositors is similar---that is, highly correlated---then this should have almost the same effect as public information. In their work, Awaya and Krishna show that this is not necessarily the case. An increase in the similarity of depositors information can lead to an increase in the probability of a bank run. The lesson is that for purposed of coordination, "nearly public" information can be very different from public information.   Policymakers often wish to inform the public about various policies and technologies---a tax credit, a new seed variety, a new digital payment system---so that the public will avail of or adopt these. The simplest way to disseminate such information is to just broadcast a public service announcement (PSA) on television, radio and other media. But there have been some doubts about the effectiveness of PSAs. For various reasons, people may pay more attention to information coming from friends and neighbors rather than mass media. It has been argued that it is then better to let the information spread via existing social networks so that people get information from trusted sources---their friends and neighbors. In their work, Awaya and Krishna look at situations where the policymaker is interested in getting people to adopt an innovation that is subject to positive externalities---I want to adopt the new technology only if others do so as well. An example is a digital payment system. How fast the information spreads depends on the structure of the social network. It will spread faster in communities in which there is a "central" person who is linked to a lot of people---say, the local grocer or gas station owner. Awaya and Krishna show that while the structure of the network affects the rate of diffusion, the rate at which the new technology is adopted is the same for all acyclic networks.     Last Modified: 05/30/2024       Submitted by: YuAwaya]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

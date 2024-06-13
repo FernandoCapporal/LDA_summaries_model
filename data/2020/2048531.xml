@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Electoral Systems as Incentive Structures for Interparty and Intraparty Politics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>75216.00</AwardTotalIntnAmount>
+<AwardAmount>75216</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lee Walker</SignBlockName>
+<PO_EMAI>lwalker@nsf.gov</PO_EMAI>
+<PO_PHON>7032927174</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Why does the nature of representation vary across countries, states, and localities? Despite the fact that most politicians work hard to prove they deserve re-election, citizens often express frustration with the behavior of their elected officials.  This project develops a new data set based on at least 2750 elections for national legislatures in nearly 150 countries for a 75 year period. The data will be used to test to what extent the type of representation citizens receive is a function of the electoral rules used to choose their representatives. Specifically, the project examines whether electoral rules explain variation in interparty politics — the number of parties and the variety of the policies they promise — and intraparty politics — the balance representatives strike between offering their constituents programmatic policy or particularistic rewards and constituency service.&lt;br/&gt;&lt;br/&gt;This project tests whether electoral rules explain variation in interparty politics — the effective number of parties, parties’ locations in the policy space, congruence between citizens’ preferences and policy — and intraparty politics — the content of campaigns, the amount of constituency service provided, the design of legislative institutions, levels of party discipline, and the balance struck between programmatic policy and pork barrel politics. The effort is unique in two ways. First, the project compiles a dataset with the details of the systems used to conduct more than 2,750 elections for national legislatures in nearly 150 countries for a 75-year-period.  Second, it uses simulations to transparently generate interval-level indicators of the extent to which , on the interparty dimension, electoral systems encourage voters to express their heterogeneous preferences for a wide array of offerings and, on the intraparty front, allow voters to fill legislatures with noteworthy individuals as opposed to party automatons.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2048531</AwardID>
+<Investigator>
+<FirstName>Santiago</FirstName>
+<LastName>Olivella</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Santiago Olivella</PI_FULL_NAME>
+<EmailAddress><![CDATA[olivella@unc.edu]]></EmailAddress>
+<NSF_ID>000834176</NSF_ID>
+<StartDate>12/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Chapel Hill</Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275995023</ZipCode>
+<PhoneNumber>9199663411</PhoneNumber>
+<StreetAddress>104 AIRPORT DR STE 2200</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>D3LHU66KBLD5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of North Carolina at Chapel Hill]]></Name>
+<CityName/>
+<StateCode>NC</StateCode>
+<ZipCode>275991350</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>120Y</Code>
+<Text>AIB-Acctble Institutions&amp;Behav</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~75216</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-e267646d-7fff-804c-fa39-6c1873515b62"> <p dir="ltr"><span>This project developed a computer simulation framework to explore the effects of various electoral systems on party competition. By simulating millions of elections conducted using different electoral rules while holding other conditions constant, the project was able to measure outcomes of interest in near experimental conditions&mdash;a difficult feat to achieve relying solely on historical data. The project resulted in the creation of two innovative quantitative measures of interest to electoral system scholars and engaged citizens: "Average Personalism" (AP, or the extent to which individual characteristics, like charisma, can affect electoral competition)&nbsp; and the "Total Duvergerian Effect" (TDE, or the extent to which strategic behaviors can alter the number of candidates and parties with real chances of winning office). These measures illuminate the complexities of electoral competition&mdash;both between members of the same party (i.e., the intraparty dimension) and between parties themselves (i.e., the interparty dimension).</span></p> <br /> <p dir="ltr"><span>The project's broader impact is multifaceted. It made contributions to electoral studies by enabling researchers to predict the effects of specific electoral rules on outcomes of interest, such as the number of parties in effective competition and the expected amount of party unity. The use of machine learning models, specifically tree-based gradient boosting machines, generated a novel measurement strategy that not only allows electoral studies experts to place any system in the inter- and intraparty space of party competition, but can also serve as an example of how to measure unobservable but relevant concepts in other disciplines. In turn, and based on these machine-learning models, the project generated an online dashboard that allows both researchers and the general public to explore the implications of electoral system modifications in an interactive and user-friendly manner.</span></p> <br /> <p dir="ltr"><span>A significant output of the project is the Incentives for Inter- and Intraparty Competition (I3) dataset. This public dataset, containing thousands of country-election level observations, is a valuable resource for further research. The project also emphasized the importance of open-source tools in academic research, as evidenced by the creation of an R package containing a variety of tools for simulating elections&mdash;including all of the electoral formulas used in our simulation exercise. This will not only aid in the replication of the project's findings, but will also support the broader scientific community in conducting related research.</span></p> <br /> <p dir="ltr"><span>Educationally, the project offered hands-on learning experience for two Latino graduate students, who contributed to the development of the open-source software package. This aspect highlights the project's commitment to fostering diversity and inclusion within the academic and scientific communities. Furthermore, the collaboration with the team at Washington University in St. Louis expanded the project's reach by producing educational materials that detail how electoral rules impact various political outcomes. This educational component will enhance the public's understanding of electoral systems and can support informed debate on electoral reforms.</span></p> <br /> <p dir="ltr"><span>In sum, this project made significant contributions to the understanding of how electoral systems shape political outcomes. Its innovative approach to measuring unobserved electoral phenomena, combined with the development of practical computational and educational tools for analysis and public engagement, demonstrates both intellectual merit and a broad impact on the field of electoral studies, public understanding of electoral dynamics, and the promotion of informed discourse on electoral reform.</span></p> </span></p><br> <p>  Last Modified: 02/29/2024<br> Modified by: Santiago&nbsp;Olivella</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[     This project developed a computer simulation framework to explore the effects of various electoral systems on party competition. By simulating millions of elections conducted using different electoral rules while holding other conditions constant, the project was able to measure outcomes of interest in near experimental conditionsa difficult feat to achieve relying solely on historical data. The project resulted in the creation of two innovative quantitative measures of interest to electoral system scholars and engaged citizens: "Average Personalism" (AP, or the extent to which individual characteristics, like charisma, can affect electoral competition) and the "Total Duvergerian Effect" (TDE, or the extent to which strategic behaviors can alter the number of candidates and parties with real chances of winning office). These measures illuminate the complexities of electoral competitionboth between members of the same party (i.e., the intraparty dimension) and between parties themselves (i.e., the interparty dimension).     The project's broader impact is multifaceted. It made contributions to electoral studies by enabling researchers to predict the effects of specific electoral rules on outcomes of interest, such as the number of parties in effective competition and the expected amount of party unity. The use of machine learning models, specifically tree-based gradient boosting machines, generated a novel measurement strategy that not only allows electoral studies experts to place any system in the inter- and intraparty space of party competition, but can also serve as an example of how to measure unobservable but relevant concepts in other disciplines. In turn, and based on these machine-learning models, the project generated an online dashboard that allows both researchers and the general public to explore the implications of electoral system modifications in an interactive and user-friendly manner.     A significant output of the project is the Incentives for Inter- and Intraparty Competition (I3) dataset. This public dataset, containing thousands of country-election level observations, is a valuable resource for further research. The project also emphasized the importance of open-source tools in academic research, as evidenced by the creation of an R package containing a variety of tools for simulating electionsincluding all of the electoral formulas used in our simulation exercise. This will not only aid in the replication of the project's findings, but will also support the broader scientific community in conducting related research.     Educationally, the project offered hands-on learning experience for two Latino graduate students, who contributed to the development of the open-source software package. This aspect highlights the project's commitment to fostering diversity and inclusion within the academic and scientific communities. Furthermore, the collaboration with the team at Washington University in St. Louis expanded the project's reach by producing educational materials that detail how electoral rules impact various political outcomes. This educational component will enhance the public's understanding of electoral systems and can support informed debate on electoral reforms.     In sum, this project made significant contributions to the understanding of how electoral systems shape political outcomes. Its innovative approach to measuring unobserved electoral phenomena, combined with the development of practical computational and educational tools for analysis and public engagement, demonstrates both intellectual merit and a broad impact on the field of electoral studies, public understanding of electoral dynamics, and the promotion of informed discourse on electoral reform.      Last Modified: 02/29/2024       Submitted by: SantiagoOlivella]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

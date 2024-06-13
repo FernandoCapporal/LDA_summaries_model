@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase II:  Actionable Learning Analytics for the Classroom]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>945159.00</AwardTotalIntnAmount>
+<AwardAmount>945159</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+<PO_EMAI>rmehta@nsf.gov</PO_EMAI>
+<PO_PHON>7032922174</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is the development of practical methods of collecting, analyzing and utilizing student online learning activity data to improve teaching and learning.  COVID-19 caused an accelerated adoption of educational technologies.  The new normal of education may be much more infused with technology.  This project provides the analytic tools for educators to get the data insights necessary to design effective digital learning experiences and fully support students.  Data analytics provide immense value to many online commercial organizations and businesses. These commercial analytics are used to better understand customers, promote desired customer behavior, predict future interactions and support many organizational decisions.  This project seeks to make these insights available to educators and students.  There are over three million teachers in the United States who currently have no practical way of reaping the value of analytics to gain insight into the online experiences that they are designing for their own students. The objective of this project is to provide teachers with the analytics and insights necessary to hold students accountable, provide instructional support, and design effective digital lessons. &lt;br/&gt; &lt;br/&gt;This Small Business Innovation Research (SBIR) Phase II project will explore ways to create automated processes that extract key data from student online learning activity records.  In turn, the project seeks to translate this data into useful analytics that will offer teachers insights into students’ online learning experience.  This project may improve the collection and display of targeted online learning analytics that provide educators with critical information about how students interact with online content. These advances will be coupled with doctoral research studies at East Stroudsburg University to collect and analyze student online learning data in order to create automated “Key Learning Indicators” and “Learning Experience Scores.”  This project will work toward creating an industry standard for how student online learning data should be ethically collected, analyzed, and presented to educators.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/27/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>08/27/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2054629</AwardID>
+<Investigator>
+<FirstName>Douglas</FirstName>
+<LastName>Lare</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Douglas Lare</PI_FULL_NAME>
+<EmailAddress><![CDATA[dlare@learnics.com]]></EmailAddress>
+<NSF_ID>000793901</NSF_ID>
+<StartDate>08/27/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[LEARNICS, LLC]]></Name>
+<CityName>EASTON</CityName>
+<ZipCode>180455730</ZipCode>
+<PhoneNumber>5857099290</PhoneNumber>
+<StreetAddress><![CDATA[3720 SOUTHWOOD DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NB3HK5NLM7C3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LEARNICS, LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[LEARNICS, LLC]]></Name>
+<CityName>Easton</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>180455730</ZipCode>
+<StreetAddress><![CDATA[3720 Southwood dr]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537300</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1707</Code>
+<Text>ADVANCED LEARNING TECHNOLOGIES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~945159</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Learnics is an educational software company founded in 2017.&nbsp; The company has received a big boost from the National Science Foundation through the Small Business Innovation Research grant program.&nbsp; A Phase I grant was awarded in 2019, followed by a Phase II grant in 2021.&nbsp; This support has enabled the company to conduct significant research into the online teaching/learning process.&nbsp; The result is a versatile software tool that can help students throughout the educational system improve their research skills while giving teachers, parents, and school administrators insight into what students are doing online.&nbsp; Unlike other companies which use browsing data to see what students do wrong, Learnics is focused on looking at what students do right while guiding them to become better researchers and more media literate.</p> <p>Learnics is run by experienced educators and has constantly evolved based on feedback from teachers, students, and administrators.&nbsp; While initially focused on collecting online browsing data from students and presenting the data in meaningful ways to teachers, the software has evolved into two distinct products.</p> <p>The Chrome extension called Learnics is a powerful research tool that can help students organize their work online.&nbsp; As a student conducts research online, the extension collects information about searches that can be accessed at any time.&nbsp; It records the sites visited, how long they spend there, the search sequence, the time working on the project versus time spent on research, and the search terms used.&nbsp; Only the student can &ldquo;see&rdquo; this data at this point.&nbsp; During the project, the student can take notes on a site, transfer these to a document, and arrange the notes into an outline that be the guide for writing the final report.&nbsp; Sites can be tagged and grouped accordingly.&nbsp; Once the project is completed, the student can have Learnics automatically create a bibliography in multiple formats and compile a graphic summary &ldquo;snapshot&rdquo; that can be included in the final paper.&nbsp; This snapshot can then give instructors insights into how a student&rsquo;s research skills are developing.</p> <p>There is also an instructor chrome extension called Learnics Classroom Pro.&nbsp; Embedded within this extension is an instructor dashboard that enables teachers to set up Learnics-Enabled assignments to their students.&nbsp; As with the Learnics extension, the teacher has access to individual and class wide data. &nbsp;For example, a teacher can look at charts which show how much time each student spent on a document versus how much time on research.&nbsp; The data can show whether each student is meeting expectations established by the teacher.&nbsp; Word clouds are generated which highlight search terms.&nbsp; A teacher, working with a student, can review the notes taken on various web sites.&nbsp; Classroom Pro can also detect whether a student was accessing artificial intelligence.&nbsp; As the pedagogy surrounding the use of AI evolves, this can be a valuable tool that can serve as a focal point for discussion between teachers and students.&nbsp; Finally, if a student is copying and pasting significant portions of a website into their document, this can be detected and flagged.</p> <p>The original goal of Learnics was to improve the online teaching/learning process.&nbsp; It was hoped that by illuminating what was in many cases a mystery, online research behavior would be improved.&nbsp; What was not expected was that our eventual focus during the time of the SBIR grant would be on refining a digital research notebook.&nbsp; Nor did we expect to expand our market into higher education.&nbsp; However, with the debut of Learnics U (niversity) in the Summer, 2024, we are providing students and professors with a powerful tool that will not only make research more streamlined, but will allow teachers and students the opportunity to reflect on ways to improve the research process.</p> <p>In the world of education, Learnics is sincerely unique.&nbsp; It is not monitoring software &ldquo;catching&rdquo; students going to restricted websites or keeping them &ldquo;safe&rdquo; by alerting administrators when students visit questionable sites.&nbsp; It is not a content provider or a data base that houses aritcles.&nbsp; Nor is it a learning management system that organizes instruction.&nbsp; It is an apolitical tool that can be used to document intellectual growth.</p> <p>No doubt Learnics, Learnics Classroom Pro, and LearnicsU will continue to evolve based on feedback from students and instructors.&nbsp; Our company has maintained a very personal approach to our customers and welcomes feedback.&nbsp; As a relatively novel idea in education, it is hard to imagine Learnics becoming commercially viable immediately.&nbsp; Adopting our protocols requires significant change, and education as an institution is reluctant to change.&nbsp; However, thanks to NSF funding. we have been able to take the necessary steps to become a product that educators are beginning to embrace.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 04/30/2024<br> Modified by: Douglas&nbsp;Lare</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Learnics is an educational software company founded in 2017. The company has received a big boost from the National Science Foundation through the Small Business Innovation Research grant program. A Phase I grant was awarded in 2019, followed by a Phase II grant in 2021. This support has enabled the company to conduct significant research into the online teaching/learning process. The result is a versatile software tool that can help students throughout the educational system improve their research skills while giving teachers, parents, and school administrators insight into what students are doing online. Unlike other companies which use browsing data to see what students do wrong, Learnics is focused on looking at what students do right while guiding them to become better researchers and more media literate.   Learnics is run by experienced educators and has constantly evolved based on feedback from teachers, students, and administrators. While initially focused on collecting online browsing data from students and presenting the data in meaningful ways to teachers, the software has evolved into two distinct products.   The Chrome extension called Learnics is a powerful research tool that can help students organize their work online. As a student conducts research online, the extension collects information about searches that can be accessed at any time. It records the sites visited, how long they spend there, the search sequence, the time working on the project versus time spent on research, and the search terms used. Only the student can see this data at this point. During the project, the student can take notes on a site, transfer these to a document, and arrange the notes into an outline that be the guide for writing the final report. Sites can be tagged and grouped accordingly. Once the project is completed, the student can have Learnics automatically create a bibliography in multiple formats and compile a graphic summary snapshot that can be included in the final paper. This snapshot can then give instructors insights into how a students research skills are developing.   There is also an instructor chrome extension called Learnics Classroom Pro. Embedded within this extension is an instructor dashboard that enables teachers to set up Learnics-Enabled assignments to their students. As with the Learnics extension, the teacher has access to individual and class wide data. For example, a teacher can look at charts which show how much time each student spent on a document versus how much time on research. The data can show whether each student is meeting expectations established by the teacher. Word clouds are generated which highlight search terms. A teacher, working with a student, can review the notes taken on various web sites. Classroom Pro can also detect whether a student was accessing artificial intelligence. As the pedagogy surrounding the use of AI evolves, this can be a valuable tool that can serve as a focal point for discussion between teachers and students. Finally, if a student is copying and pasting significant portions of a website into their document, this can be detected and flagged.   The original goal of Learnics was to improve the online teaching/learning process. It was hoped that by illuminating what was in many cases a mystery, online research behavior would be improved. What was not expected was that our eventual focus during the time of the SBIR grant would be on refining a digital research notebook. Nor did we expect to expand our market into higher education. However, with the debut of Learnics U (niversity) in the Summer, 2024, we are providing students and professors with a powerful tool that will not only make research more streamlined, but will allow teachers and students the opportunity to reflect on ways to improve the research process.   In the world of education, Learnics is sincerely unique. It is not monitoring software catching students going to restricted websites or keeping them safe by alerting administrators when students visit questionable sites. It is not a content provider or a data base that houses aritcles. Nor is it a learning management system that organizes instruction. It is an apolitical tool that can be used to document intellectual growth.   No doubt Learnics, Learnics Classroom Pro, and LearnicsU will continue to evolve based on feedback from students and instructors. Our company has maintained a very personal approach to our customers and welcomes feedback. As a relatively novel idea in education, it is hard to imagine Learnics becoming commercially viable immediately. Adopting our protocols requires significant change, and education as an institution is reluctant to change. However, thanks to NSF funding. we have been able to take the necessary steps to become a product that educators are beginning to embrace.           Last Modified: 04/30/2024       Submitted by: DouglasLare]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

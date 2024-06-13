@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Preparing Students for Technical Careers in Autonomous Technologies for Commercial Trucks and Off-Highway Vehicles]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>466267.00</AwardTotalIntnAmount>
+<AwardAmount>466267</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040100</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christine Delahanty</SignBlockName>
+<PO_EMAI>cdelahan@nsf.gov</PO_EMAI>
+<PO_PHON>7032928492</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[To increase safety and reduce costs, autonomous technologies are rapidly growing in commercial trucking fleets and off-highway vehicles.  Autonomous technologies require a variety of devices, including radar, lidar, video camera systems, communication systems, and differential global positioning systems. Truck service technicians need to be trained to troubleshoot, diagnose, repair, and calibrate these devices and vehicle control systems. However, technician training programs have not kept pace with the new technologies or the increasing demand for technicians with these skills. To address these needs, this project will offer training workshops for instructors in diesel and truck technician training programs. These workshops will help instructors enhance their training programs to include the knowledge, skills, and abilities needed for maintaining autonomous technologies in vehicles.  The project is led by the Minnesota State Transportation Center of Excellence, a consortium of public post-secondary colleges with transportation programs.  The project will provide consortium members with shared access to vehicles with autonomous technologies.  These vehicles will be used for the new training programs, as well as outreach. This project intends to prepare students for technical careers in a growing field that requires new skills and understanding of autonomous technologies for vehicles.&lt;br/&gt;&lt;br/&gt;The Minnesota State Transportation Center of Excellence serves as a resource hub for autonomous technologies in transportation, providing curriculum resources and subject matter experts for secondary and post-secondary educators. The goal of this project is to advance the knowledge of autonomous technologies in truck service technician programs and, thus, address the growing need for qualified, knowledgeable technicians with the ability to maintain and repair these technologies. To do so, the project will: (1) develop awareness of career opportunities and advances in autonomous technologies for secondary students, transitional workers, and veterans; (2) enhance existing technician programs through professional development for educators and curriculum development; and (3) support the technician training community with shared resources that will include a set of vehicles equipped with the latest autonomous technologies. Using faculty and student surveys, focus groups, and interviews, the project will assess the impact of career awareness activities on students, the impact of the professional development workshops on faculty, and the impact of the new training equipment on students and faculty. The project outcomes will be disseminated through national conferences and professional transportation-related associations. Educational resources developed during this project will be made available to the public through the center’s website. This project is funded by the Advanced Technological Education program that focuses on the education of technicians for the advanced-technology fields that drive the nation's economy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/22/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2054997</AwardID>
+<Investigator>
+<FirstName>Chris</FirstName>
+<LastName>Hadfield</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chris J Hadfield</PI_FULL_NAME>
+<EmailAddress><![CDATA[chris.hadfield@dctc.edu]]></EmailAddress>
+<NSF_ID>000789971</NSF_ID>
+<StartDate>03/22/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Carl</FirstName>
+<LastName>Borleis</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME>Jr</PI_SUFX_NAME>
+<PI_FULL_NAME>Carl W Borleis</PI_FULL_NAME>
+<EmailAddress><![CDATA[carl.borleis@dctc.edu]]></EmailAddress>
+<NSF_ID>000838349</NSF_ID>
+<StartDate>03/22/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shannon</FirstName>
+<LastName>Mohn</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shannon D Mohn</PI_FULL_NAME>
+<EmailAddress><![CDATA[shannon.mohn@minnesota.edu]]></EmailAddress>
+<NSF_ID>000838820</NSF_ID>
+<StartDate>03/22/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Dakota County Technical College</Name>
+<CityName>ROSEMOUNT</CityName>
+<ZipCode>550682932</ZipCode>
+<PhoneNumber>6514238319</PhoneNumber>
+<StreetAddress>1300 145TH ST E</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EEL3JSNNSUL6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MINNESOTA STATE COLLEGES &amp; UNIVERSITIES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Dakota County Technical College]]></Name>
+<CityName>Rosemount</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>550682932</ZipCode>
+<StreetAddress><![CDATA[1300 145th St E]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7412</Code>
+<Text>Advanced Tech Education Prog</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1032</Code>
+<Text>ADVANCED TECHNOLOGY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0421</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04002122DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~466267</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Preparing Students for Technical Careers in Autonomous Technologies for Commercial Trucks and Off-Highway Vehicles Project grant (DUE 2054997) at Dakota County Technical College (DCTC) was funded by the National Science Foundation's (NSF) Advanced Technological Education Program (ATE) with an award of $466K and ran April 2021 &ndash; March 2024. The Project was led by staff from the Transportation Center of Excellence, a consortium of public post-secondary colleges within Minnesota with transportation programs, and faculty from Minnesota State Community and Technical College.</p> <p>To increase safety and reduce costs, autonomous technologies are rapidly growing in commercial trucking fleets and off-highway vehicles. Autonomous technologies require a variety of devices, including radar, lidar, video camera systems, communication systems, and differential global positioning systems. Truck service technicians need to be trained to troubleshoot, diagnose, repair, and calibrate these devices and vehicle control systems.&nbsp; However, technician training programs have not kept pace with the new technologies or the increasing demand for technicians with these skills. To address these needs, this project: offered autonomous vehicle training workshops for instructors in diesel and truck technician training programs, helping instructors enhance their training programs to include the Knowledge, Skills, and Abilities (KSAs) needed for maintaining autonomous technologies in vehicles; provided shared access to vehicles with autonomous technologies available for new training programs, as well as outreach; and helped prepare students for technical careers in a growing field that requires new skills and understanding of autonomous technologies for vehicles through the creation of KSAs and curriculum designed for today&rsquo;s technician trainees.</p> <p>The Project met or exceeded its primary goals to: Goal 1) Develop awareness of career opportunities and advancements in Innovative Semi-Autonomous Truck and Off-highway Powered Equipment (ISA-TOPE) technology to a diverse array of K-12 students, transitional workers, and veterans; Goal 2) Academically strengthen Truck Driving certificate programs and Diesel Technician degree programs, in Minnesota and beyond, to meet employers&rsquo; growing need for Technicians or Drivers/Operators, especially those skilled and knowledgeable about ISA-TOPE technology with a focus on repeatability and sustainability; and Goal 3) Provide leading-edge, hands-on, real-world ISA-TOPE technology to enhance educational and outreach activities.</p> <p>The Project's merits and broad impacts include: 1) Expose high school students to ISA-TOPE technology and the related career options available to them through multiple outreach events utilizing ISA-TOPE equipment reaching over 5,000 high school students; 2) Develop connections with Workforce Development and Veterans&rsquo; Affairs offices - through existing veterans&rsquo; connections, ISA-TOPE equipment was showcased at multiple veterans' events throughout the state reaching approximately 750 veterans and their families; &nbsp;3) Curriculum consisting of 4 individual modules was created and is available for use in college-level Diesel Technician or Truck Driver training programs; 4) Provide ISA-TOPE focused Professional Development to accredited institutions&rsquo; faculty across the state to prepare Diesel Technicians to repair and service ISA-TOPE - provided 5 different PD opportunities in ISA-TOPE technologies; attended by approximately 50 instructors; 5) Provide Diesel Technician and Truck Driving graduates with the knowledge and skills needed to diagnose, repair, operate and troubleshoot ISA-TOPE technology &ndash; multiple training sessions conducted reaching approximately 150 students; and 6) Purchase ISA-TOPE technology that is mobile and available for loan to 2-year colleges for use during professional development, outreach, or training events related to ISA-TOPE allowing the work to sustainably continue past the term of the project.</p> <p>For additional information about this Project, visit the Transportation Center of Excellence ISA-TOPE page (https://www.minntran.org/isa-tope).</p> <p>&nbsp;</p><br> <p>  Last Modified: 03/20/2024<br> Modified by: Carl&nbsp;W&nbsp;Borleis</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2054997/2054997_10723475_1710955530869_IMG_7851--rgov-214x142.jpeg" original="/por/images/Reports/POR/2024/2054997/2054997_10723475_1710955530869_IMG_7851--rgov-800width.jpeg" title="First Session"><img src="/por/images/Reports/POR/2024/2054997/2054997_10723475_1710955530869_IMG_7851--rgov-66x44.jpeg" alt="First Session"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Attendees of first Professional Development session at the Midwest Teachers of Transportation and Industrial Areas (MTTIA) Annual Conference</div> <div class="imageCredit">Transportation Center of Excellence</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Carl&nbsp;W&nbsp;Borleis <div class="imageTitle">First Session</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2054997/2054997_10723475_1710955854534_20230613_115945--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2054997/2054997_10723475_1710955854534_20230613_115945--rgov-800width.jpg" title="Empow(HER) - Girls in the Trades"><img src="/por/images/Reports/POR/2024/2054997/2054997_10723475_1710955854534_20230613_115945--rgov-66x44.jpg" alt="Empow(HER) - Girls in the Trades"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Attendees of a four-day, hands-on career exploration event utilizing ISA-TOPE technology specifically for 14-17 year old women.</div> <div class="imageCredit">Transportation Center of Excellence</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Carl&nbsp;W&nbsp;Borleis <div class="imageTitle">Empow(HER) - Girls in the Trades</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2054997/2054997_10723475_1710955994716_TransportationShowcase_DCTC_Photos_11--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2054997/2054997_10723475_1710955994716_TransportationShowcase_DCTC_Photos_11--rgov-800width.jpg" title="Transportation Showcase"><img src="/por/images/Reports/POR/2024/2054997/2054997_10723475_1710955994716_TransportationShowcase_DCTC_Photos_11--rgov-66x44.jpg" alt="Transportation Showcase"></a> <div class="imageCaptionContainer"> <div class="imageCaption">PI Borleis interacting with a prospective student regarding careers in transportation related to autonomous technology.</div> <div class="imageCredit">Transportation Center of Excellence</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Carl&nbsp;W&nbsp;Borleis <div class="imageTitle">Transportation Showcase</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2054997/2054997_10723475_1710956102127_VideoPhotos_40--rgov-214x142.png" original="/por/images/Reports/POR/2024/2054997/2054997_10723475_1710956102127_VideoPhotos_40--rgov-800width.png" title="Sharing Information"><img src="/por/images/Reports/POR/2024/2054997/2054997_10723475_1710956102127_VideoPhotos_40--rgov-66x44.png" alt="Sharing Information"></a> <div class="imageCaptionContainer"> <div class="imageCaption">CoPI Hadfield sharing information about autonomous technology to a group of students during an event at the Mall of America.</div> <div class="imageCredit">Transportation Center of Excellence</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Carl&nbsp;W&nbsp;Borleis <div class="imageTitle">Sharing Information</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Preparing Students for Technical Careers in Autonomous Technologies for Commercial Trucks and Off-Highway Vehicles Project grant (DUE 2054997) at Dakota County Technical College (DCTC) was funded by the National Science Foundation's (NSF) Advanced Technological Education Program (ATE) with an award of $466K and ran April 2021  March 2024. The Project was led by staff from the Transportation Center of Excellence, a consortium of public post-secondary colleges within Minnesota with transportation programs, and faculty from Minnesota State Community and Technical College.   To increase safety and reduce costs, autonomous technologies are rapidly growing in commercial trucking fleets and off-highway vehicles. Autonomous technologies require a variety of devices, including radar, lidar, video camera systems, communication systems, and differential global positioning systems. Truck service technicians need to be trained to troubleshoot, diagnose, repair, and calibrate these devices and vehicle control systems. However, technician training programs have not kept pace with the new technologies or the increasing demand for technicians with these skills. To address these needs, this project: offered autonomous vehicle training workshops for instructors in diesel and truck technician training programs, helping instructors enhance their training programs to include the Knowledge, Skills, and Abilities (KSAs) needed for maintaining autonomous technologies in vehicles; provided shared access to vehicles with autonomous technologies available for new training programs, as well as outreach; and helped prepare students for technical careers in a growing field that requires new skills and understanding of autonomous technologies for vehicles through the creation of KSAs and curriculum designed for todays technician trainees.   The Project met or exceeded its primary goals to: Goal 1) Develop awareness of career opportunities and advancements in Innovative Semi-Autonomous Truck and Off-highway Powered Equipment (ISA-TOPE) technology to a diverse array of K-12 students, transitional workers, and veterans; Goal 2) Academically strengthen Truck Driving certificate programs and Diesel Technician degree programs, in Minnesota and beyond, to meet employers growing need for Technicians or Drivers/Operators, especially those skilled and knowledgeable about ISA-TOPE technology with a focus on repeatability and sustainability; and Goal 3) Provide leading-edge, hands-on, real-world ISA-TOPE technology to enhance educational and outreach activities.   The Project's merits and broad impacts include: 1) Expose high school students to ISA-TOPE technology and the related career options available to them through multiple outreach events utilizing ISA-TOPE equipment reaching over 5,000 high school students; 2) Develop connections with Workforce Development and Veterans Affairs offices - through existing veterans connections, ISA-TOPE equipment was showcased at multiple veterans' events throughout the state reaching approximately 750 veterans and their families; 3) Curriculum consisting of 4 individual modules was created and is available for use in college-level Diesel Technician or Truck Driver training programs; 4) Provide ISA-TOPE focused Professional Development to accredited institutions faculty across the state to prepare Diesel Technicians to repair and service ISA-TOPE - provided 5 different PD opportunities in ISA-TOPE technologies; attended by approximately 50 instructors; 5) Provide Diesel Technician and Truck Driving graduates with the knowledge and skills needed to diagnose, repair, operate and troubleshoot ISA-TOPE technology  multiple training sessions conducted reaching approximately 150 students; and 6) Purchase ISA-TOPE technology that is mobile and available for loan to 2-year colleges for use during professional development, outreach, or training events related to ISA-TOPE allowing the work to sustainably continue past the term of the project.   For additional information about this Project, visit the Transportation Center of Excellence ISA-TOPE page (https://www.minntran.org/isa-tope).        Last Modified: 03/20/2024       Submitted by: CarlWBorleis]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

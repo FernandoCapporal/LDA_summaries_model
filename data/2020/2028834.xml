@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative research: A mechanistic approach to assess the impacts of hurricanes on tropical forests]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>372995.00</AwardTotalIntnAmount>
+<AwardAmount>447593</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kendra McLauchlan</SignBlockName>
+<PO_EMAI>kmclauch@nsf.gov</PO_EMAI>
+<PO_PHON>7032922217</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The intensity and frequency of hurricanes in the Atlantic Ocean have been increasing. Hurricanes change forest structure and can increase carbon emissions to the atmosphere. Severe hurricanes favor light-loving tree species that are particularly vulnerable to wind damage, making forests more vulnerable to subsequent hurricanes. More severe hurricanes may also lead to the development of shorter forests dominated by wind-resistant species. In the short term, tree damage from severe hurricanes will reduce forest carbon storage and through accelerated decomposition, much of the carbon in dead biomass will return to the atmosphere as carbon dioxide. However, the long-term effects of more severe hurricanes on carbon dynamics are not well understood and depend on the severity of the hurricane and post-disturbance tree establishment, growth, and death. The research will use data collected after Hurricane María in Puerto Rico to improve understanding of these long-term effects. Society will benefit from the development of modeling schemes that can be used to predict forest resilience to climate change. Results will be shared with scientists and managers working in the U.S Forest Service and 28 young scientists will gain valuable experience in ecological research.&lt;br/&gt;&lt;br/&gt;The proposed research studies the unique situation caused by the passage of Hurricane María over Puerto Rico in 2017 to gain important, new knowledge about the effects of extreme wind on forests and to develop a realistic approach to representing forest responses to wind damage in earth system models. María was the strongest hurricane to make direct landfall in Puerto Rico since 1928 and may reflect changes in North Atlantic hurricanes. This project completes the seventh 5-year census of the 16 hectare Luquillo Forest Dynamics Plot to characterize post-disturbance tree recruitment, growth, and delayed mortality. The project combines data on tree damage and forest recovery after Hurricane María and two weaker storms, hurricanes Hugo (1989) and Georges (1998), with aerial laser-derived representation of tree biomechanical properties. This information will be used to characterize the relationship between canopy structure of tree species and their response to a range of hurricane severities. The data will then be used in the Ecosystem Demography model, allowing assessment of the impacts of various climate change scenarios on forest and carbon dynamics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/26/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>03/16/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028834</AwardID>
+<Investigator>
+<FirstName>Jess</FirstName>
+<LastName>Zimmerman</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jess K Zimmerman</PI_FULL_NAME>
+<EmailAddress><![CDATA[jesskz@ites.upr.edu]]></EmailAddress>
+<NSF_ID>000391643</NSF_ID>
+<StartDate>02/26/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Puerto Rico-Rio Piedras</Name>
+<CityName>SAN JUAN</CityName>
+<ZipCode>00931</ZipCode>
+<PhoneNumber>7877634949</PhoneNumber>
+<StreetAddress>39 PONCE DE LEON AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Puerto Rico</StateName>
+<StateCode>PR</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PR00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Q3LLLDFHPNL3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF PUERTO RICO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Puerto Rico]]></Name>
+<CityName>Rio Piedras</CityName>
+<StateCode>PR</StateCode>
+<ZipCode>009252512</ZipCode>
+<StreetAddress><![CDATA[17 Avenida Universidad]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Puerto Rico</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PR00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1128</Code>
+<Text>Population &amp; Community Ecology</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7381</Code>
+<Text>Ecosystem Science</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>097Z</Code>
+<Text>COVID-19 Impacts on Existing Activities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~372995</FUND_OBLG>
+<FUND_OBLG>2023~74598</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><div> <p>Climate change is reshaping our planet's climate patterns, particularly evident in the form of shifting temperatures, precipitation, and increased frequency of extreme weather events. In tropical regions, these changes are particularly pronounced, with cyclonic storms, such as hurricanes, becoming more frequent and intense. These storms, fueled by rising sea surface temperatures, pose significant threats to coastal tropical forests across various regions worldwide.</p> <p>Research indicates that as global temperatures continue to rise, cyclonic storms are expected to become more powerful, with higher wind speeds and increased precipitation rates. This poses a serious risk to the long-term resilience of tropical forests, especially those in the North Atlantic basin. The aftermath of such storms can lead to extensive tree damage and mortality, resulting in significant carbon fluxes within ecosystems.</p> <p>The impact of cyclonic storms on forest ecosystems extends beyond immediate damage. Debris from fallen trees and increased tree mortality can have profound effects on carbon cycling, altering the balance between carbon uptake and release in the atmosphere. Studies have shown that events like Hurricane Maria have led to substantial carbon losses from affected forests, highlighting the importance of understanding and predicting these dynamics for long-term climate projections.</p> <p>While ecosystems may initially act as carbon sources following disturbance, they often transition back to carbon sinks as vegetation recovers. However, the magnitude of this carbon cycle feedback depends on various factors, including changes in vegetation composition and successional patterns. Hurricanes can alter forest structure, favoring the growth of pioneer and early successional species that sequester less carbon than mature forests. Additionally, the vulnerability of different tree species to storm damage complicates predictions about long-term carbon fluxes.</p> <p>Improving our ability to model the impacts of severe windstorms on forests is essential for accurate climate projections. Current models often overlook key factors such as species-specific vulnerability to wind damage, delayed mortality, and post-disturbance recruitment dynamics. Addressing these limitations requires a more mechanistic approach that incorporates data on tree biomechanics, species traits, and long-term forest recovery patterns.</p> <p>The proposed research aims to fill these knowledge gaps by leveraging data from recent hurricanes and advanced technologies like LiDAR to develop more realistic models of forest response to extreme wind events. LiDAR, which stands for Light Detection and Ranging, is a sophisticated technology used to create detailed maps of landscapes and objects. It works by sending out laser beams and measuring the time it takes for those beams to bounce back after hitting objects. By analyzing these reflections, LiDAR can create highly accurate three-dimensional models of the Earth's surface, including forests, buildings, and terrain.&nbsp;</p> <p>This portion of the proposed research consisted of the recensus of the 16-ha (40 acre) Luquillo Forest Dynamics Plot in the Luquillo Experimental Forest whereby every new and surviving tree in the plot greater than 1 cm diameter at breast height (dbh) was measured or remeasured and identified to species. The census took place from September 2021 until December 2023 involving the measurement or mapping of over 90,000 trees.&nbsp; This will form the basis of our analysis of changes in carbon dynamics of the plot caused by Hurricane Maria.</p> <p>By understanding the mechanistic basis of species variation in response to disturbance severity, researchers hope to better predict how intensified storms will shape forest composition and carbon dynamics in the future. This knowledge is crucial for informing climate mitigation and adaptation strategies in the face of ongoing climate change.</p> </div> <p>&nbsp;</p><br> <p>  Last Modified: 03/11/2024<br> Modified by: Jess&nbsp;K&nbsp;Zimmerman</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2028834/2028834_10719590_1710188041976_post_maria_farrar--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2028834/2028834_10719590_1710188041976_post_maria_farrar--rgov-800width.jpg" title="Post-Maria"><img src="/por/images/Reports/POR/2024/2028834/2028834_10719590_1710188041976_post_maria_farrar--rgov-66x44.jpg" alt="Post-Maria"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Thirty months of vegetation change in a Puerto Rican rainforest after Hurricane Maria.</div> <div class="imageCredit">Sam Farrar</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Jess&nbsp;K&nbsp;Zimmerman <div class="imageTitle">Post-Maria</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2028834/2028834_10719590_1710189309746_PHOTO_2024_03_05_15_14_11_2--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2028834/2028834_10719590_1710189309746_PHOTO_2024_03_05_15_14_11_2--rgov-800width.jpg" title="LFDP census photo 1"><img src="/por/images/Reports/POR/2024/2028834/2028834_10719590_1710189309746_PHOTO_2024_03_05_15_14_11_2--rgov-66x44.jpg" alt="LFDP census photo 1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A research intern shows the tools of the trade for forest recensus</div> <div class="imageCredit">Monique Pic�n</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Jess&nbsp;K&nbsp;Zimmerman <div class="imageTitle">LFDP census photo 1</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2028834/2028834_10719590_1710189392228_PHOTO_2024_03_05_15_14_11--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2028834/2028834_10719590_1710189392228_PHOTO_2024_03_05_15_14_11--rgov-800width.jpg" title="LFDP recensus 2"><img src="/por/images/Reports/POR/2024/2028834/2028834_10719590_1710189392228_PHOTO_2024_03_05_15_14_11--rgov-66x44.jpg" alt="LFDP recensus 2"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Interns and a technician measure a large tree.</div> <div class="imageCredit">Monique Pic�n</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Jess&nbsp;K&nbsp;Zimmerman <div class="imageTitle">LFDP recensus 2</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Climate change is reshaping our planet's climate patterns, particularly evident in the form of shifting temperatures, precipitation, and increased frequency of extreme weather events. In tropical regions, these changes are particularly pronounced, with cyclonic storms, such as hurricanes, becoming more frequent and intense. These storms, fueled by rising sea surface temperatures, pose significant threats to coastal tropical forests across various regions worldwide.   Research indicates that as global temperatures continue to rise, cyclonic storms are expected to become more powerful, with higher wind speeds and increased precipitation rates. This poses a serious risk to the long-term resilience of tropical forests, especially those in the North Atlantic basin. The aftermath of such storms can lead to extensive tree damage and mortality, resulting in significant carbon fluxes within ecosystems.   The impact of cyclonic storms on forest ecosystems extends beyond immediate damage. Debris from fallen trees and increased tree mortality can have profound effects on carbon cycling, altering the balance between carbon uptake and release in the atmosphere. Studies have shown that events like Hurricane Maria have led to substantial carbon losses from affected forests, highlighting the importance of understanding and predicting these dynamics for long-term climate projections.   While ecosystems may initially act as carbon sources following disturbance, they often transition back to carbon sinks as vegetation recovers. However, the magnitude of this carbon cycle feedback depends on various factors, including changes in vegetation composition and successional patterns. Hurricanes can alter forest structure, favoring the growth of pioneer and early successional species that sequester less carbon than mature forests. Additionally, the vulnerability of different tree species to storm damage complicates predictions about long-term carbon fluxes.   Improving our ability to model the impacts of severe windstorms on forests is essential for accurate climate projections. Current models often overlook key factors such as species-specific vulnerability to wind damage, delayed mortality, and post-disturbance recruitment dynamics. Addressing these limitations requires a more mechanistic approach that incorporates data on tree biomechanics, species traits, and long-term forest recovery patterns.   The proposed research aims to fill these knowledge gaps by leveraging data from recent hurricanes and advanced technologies like LiDAR to develop more realistic models of forest response to extreme wind events. LiDAR, which stands for Light Detection and Ranging, is a sophisticated technology used to create detailed maps of landscapes and objects. It works by sending out laser beams and measuring the time it takes for those beams to bounce back after hitting objects. By analyzing these reflections, LiDAR can create highly accurate three-dimensional models of the Earth's surface, including forests, buildings, and terrain.   This portion of the proposed research consisted of the recensus of the 16-ha (40 acre) Luquillo Forest Dynamics Plot in the Luquillo Experimental Forest whereby every new and surviving tree in the plot greater than 1 cm diameter at breast height (dbh) was measured or remeasured and identified to species. The census took place from September 2021 until December 2023 involving the measurement or mapping of over 90,000 trees. This will form the basis of our analysis of changes in carbon dynamics of the plot caused by Hurricane Maria.   By understanding the mechanistic basis of species variation in response to disturbance severity, researchers hope to better predict how intensified storms will shape forest composition and carbon dynamics in the future. This knowledge is crucial for informing climate mitigation and adaptation strategies in the face of ongoing climate change.         Last Modified: 03/11/2024       Submitted by: JessKZimmerman]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

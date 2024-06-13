@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Mps1 and regulation of kinetochore-microtubule interactions in meiosis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>735690.00</AwardTotalIntnAmount>
+<AwardAmount>735690</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matt Buechner</SignBlockName>
+<PO_EMAI>mbuechne@nsf.gov</PO_EMAI>
+<PO_PHON>7032924675</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The ability to accurately move chromosomes within the cell is crucial for an organism’s survival.  Successful cell division depends upon first duplicating the genetic material contained within each chromosome, then actively partitioning the chromosomes into two exact sets, and finally dividing the cell so each daughter cell contains just one of the two chromosome sets. Sexually reproducing organisms have two types of cell division, mitosis and meiosis.  Mitosis produces most cell types, whereas meiosis produces gametes.  In both types of division, chromosome movement is achieved by attaching cables, called microtubules, to a connecting site on the chromosomes, called the kinetochore, and then shortening the cables to pull the chromosomes to their destinations.  The cables grow as two arrays from opposite sides of the nucleus.  To become attached to a cable end, the duplicated chromosome pair must first move towards the middle of the nucleus.  The two types of chromosome segregating events, mitosis and meiosis, share several similarities, but the molecular basis for several of their differences are not known.  Mps1 is a conserved protein that is essential in both mitosis and meiosis, but with meiosis-specific functions that may reveal fundamental differences in these processes. This project aims to distinguish the different roles and molecular mechanisms of Mps1 in mitosis and meiosis.  Mps1 localizes to kinetochores and may control chromosome movements by activating other proteins to enable chromosome movements to the middle of the microtubule arrays, connections to microtubule ends and shortening of microtubules to move the chromosomes. This Project will have a Broader Impact by providing an opportunity for Oklahoma high school and college students to perform independent hypothesis-driven basic research projects. Students from local urban high schools will have the opportunity to perform year-long research projects in which they will investigate candidate proteins that might interact with Mps1 to control chromosome movements. Each summer in a residential research program, two students from rural areas of Oklahoma will be able to participate in an eight-week research internship investigating the mechanisms by which Mps1 controls chromosome movement. This project has the combined goal of advancing understanding of a sophisticated cellular process and introducing students to a culture of basic research.&lt;br/&gt;&lt;br/&gt;Accurate segregation of chromosomes on the mitotic or meiotic spindle depends upon a series of sequential steps.  First chromosomes move towards the spindle mid-zone, a step called chromosome congression. Second correct kinetochore-microtubule (k-MT) attachments are formed.  Then kinetochore microtubules depolymerize to promote poleward chromosome migration.  But what are the signals that trigger these events? MPS1 encodes a conserved essential kinase that has been shown be involved in several key steps in cell cycle progression and chromosome segregation in both mitosis and meiosis in several organisms.  Experiments from fission yeast and mammals suggest the hypothesis that Mps1 promotes chromosome gliding, a process that moves chromosomes to the spindle mid-zone in early prometaphase.  In addition, in budding yeast meiosis, Mps1 is required for forming stable k-MT attachments, and is then needed to trigger MT de-polymerization to promote poleward chromosome movement.  This project tests the hypothesis that Mps1 is a critical regulator of multiple sequential events in chromosome segregation in budding yeast meiosis.  This project will elucidate novel mechanisms that drive ordered meiotic chromosome behavior. This project has three objectives.  The first is to determine whether several functions of Mps1 are conserved in meiosis, including the MT-dependent sliding of chromosomes from the poles to the spindle mid-zone, termed chromosome gliding. This objective will also test the hypothesis that Mps1 is necessary for regulating this process and determine its regulatory targets.  The second objective is to identify the roles that several protein phosphorylation targets of Mps1 have in the three sequential steps in the bi-orientation process: congression to the spindle mid-zone in early prometaphase, attachment of kinetochores to MTs, and depolymerization of kinetochore MTs to trigger poleward chromosome movements.  The third objective takes advantage of a separation-of-function allele of MPS1 (mps1-R170S) that exhibits very mild mitotic defects, but profound meiotic defects.  Suppressor mutations that improve meiotic chromosome segregation in mps1-R170S mutants have been isolated.  These mutants will be evaluated to identify the pathways in meiosis that are extraordinarily sensitive to Mps1 function.  Together these experiments will elucidate the manner in which Mps1 helps control and direct chromosomes at multiple steps, from congression, to microtubule attachment, to bi-orientation on the spindle in meiosis.&lt;br/&gt;&lt;br/&gt;This project is jointly funded by the Cellular Dynamics and Function cluster in the Division of Molecular and Cellular Biosciences, and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/19/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029286</AwardID>
+<Investigator>
+<FirstName>Dean</FirstName>
+<LastName>Dawson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dean Dawson</PI_FULL_NAME>
+<EmailAddress><![CDATA[dawsond@omrf.org]]></EmailAddress>
+<NSF_ID>000400718</NSF_ID>
+<StartDate>08/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Oklahoma Medical Research Foundation]]></Name>
+<CityName>OKLAHOMA CITY</CityName>
+<ZipCode>731045005</ZipCode>
+<PhoneNumber>4052716673</PhoneNumber>
+<StreetAddress><![CDATA[825 NE 13TH ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<StateCode>OK</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OK05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NGCNCJ1X6XA4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OKLAHOMA MEDICAL RESEARCH FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NGCNCJ1X6XA4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Oklahoma Medical Research Foundation]]></Name>
+<CityName>Oklahoma City</CityName>
+<StateCode>OK</StateCode>
+<ZipCode>731045005</ZipCode>
+<StreetAddress><![CDATA[825 NE 13th St.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OK05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>111400</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~735690</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>NSF Project Outcomes Report</p> <p>&nbsp;</p> <p>The scientific goal of our project was to elucidate the role of the MPS1 kinase in helping to ensure that cells carry the correct number of chromosomes.&nbsp;&nbsp;MPS1 is a conserved protein that is essential in most eukaryotic organisms. Its job is to control events that regulate the distribution of chromosomes during cell division.&nbsp;&nbsp;Prior to cell division each chromosome is duplicated then the duplicated chromosomes are partitioned, one to each daughter cell. An intricate machine of molecular motors and cables moves the chromosomes into two exact sets prior to cell division.&nbsp;&nbsp;The cables are called microtubules. The cables attach to the chromosomes and then the cables shorten to drag the chromosomes to their destination. The spot of the chromosome where the microtubule attaches is called the kinetochore. MPS1 controls the attachment of the microtubules to the kinetochores by turning on and off the activity of dozens of proteins in the cell. Our goal was to determine which steps of microtubule attachment to kinetochores are controlled by MPS1 and what proteins it regulates to achieve these steps.</p> <p>&nbsp;</p> <p>Our studies resulted in the publication of a manuscript that shows one job of MPS1 is to tell the microtubules to begin shortening after they have attached to kinetochores. How the cell triggers microtubule shortening was not known. A future goal will be to determine how MPS1 triggers this event.&nbsp;&nbsp;A second outcome is that we discovered that cells with abnormally high chromosome numbers are especially dependent on MPS1 a manuscript describing how MPS1 is required to manage these extra chromosomes is in preparation. A third outcome is that we discovered that when MPS1 carries a specific mutation, cells die at low temperatures because they cannot accurately move their chromosomes. This discovery will let us use the defective MPS1 as a tool to identity the proteins if works with ion the cell. We will identity proteins that can compensate for the defective MPS1 using genetic experiments that were devised during our NSF project. These genetic experiments are now in progress.</p> <p>&nbsp;</p> <p>A major outcome of this project was its training component. We were able to use these experiments as a training platform for four high school students and one undergraduate student. These students learned to perform and analyze hypothesis-driven cell biology experiments. Four of these students have subsequently entered college where they are pursuing STEM-related degree programs. One of these is the first to attend college in his family another is attending a historically black college. The remaining student will compete the genetic experiments described above.</p> <p>&nbsp;</p><br> <p>  Last Modified: 02/20/2024<br> Modified by: Dean&nbsp;Dawson</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2029286/2029286_10699303_1708459367237_NSF2013_figures--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2029286/2029286_10699303_1708459367237_NSF2013_figures--rgov-800width.jpg" title="Figue 1"><img src="/por/images/Reports/POR/2024/2029286/2029286_10699303_1708459367237_NSF2013_figures--rgov-66x44.jpg" alt="Figue 1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">MPS1 helps chromosomes to attach correctly to microtubules.</div> <div class="imageCredit">Dean Dawson</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Dean&nbsp;Dawson <div class="imageTitle">Figue 1</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  NSF Project Outcomes Report      The scientific goal of our project was to elucidate the role of the MPS1 kinase in helping to ensure that cells carry the correct number of chromosomes.MPS1 is a conserved protein that is essential in most eukaryotic organisms. Its job is to control events that regulate the distribution of chromosomes during cell division.Prior to cell division each chromosome is duplicated then the duplicated chromosomes are partitioned, one to each daughter cell. An intricate machine of molecular motors and cables moves the chromosomes into two exact sets prior to cell division.The cables are called microtubules. The cables attach to the chromosomes and then the cables shorten to drag the chromosomes to their destination. The spot of the chromosome where the microtubule attaches is called the kinetochore. MPS1 controls the attachment of the microtubules to the kinetochores by turning on and off the activity of dozens of proteins in the cell. Our goal was to determine which steps of microtubule attachment to kinetochores are controlled by MPS1 and what proteins it regulates to achieve these steps.      Our studies resulted in the publication of a manuscript that shows one job of MPS1 is to tell the microtubules to begin shortening after they have attached to kinetochores. How the cell triggers microtubule shortening was not known. A future goal will be to determine how MPS1 triggers this event.A second outcome is that we discovered that cells with abnormally high chromosome numbers are especially dependent on MPS1 a manuscript describing how MPS1 is required to manage these extra chromosomes is in preparation. A third outcome is that we discovered that when MPS1 carries a specific mutation, cells die at low temperatures because they cannot accurately move their chromosomes. This discovery will let us use the defective MPS1 as a tool to identity the proteins if works with ion the cell. We will identity proteins that can compensate for the defective MPS1 using genetic experiments that were devised during our NSF project. These genetic experiments are now in progress.      A major outcome of this project was its training component. We were able to use these experiments as a training platform for four high school students and one undergraduate student. These students learned to perform and analyze hypothesis-driven cell biology experiments. Four of these students have subsequently entered college where they are pursuing STEM-related degree programs. One of these is the first to attend college in his family another is attending a historically black college. The remaining student will compete the genetic experiments described above.        Last Modified: 02/20/2024       Submitted by: DeanDawson]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: NSF2026: EAGER: A Playground and Proposal for Growing an AGI]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Donlon</SignBlockName>
+<PO_EMAI>jdonlon@nsf.gov</PO_EMAI>
+<PO_PHON>7032928074</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the Robust Intelligence program in the Division of Intelligent and Information Systems (IIS) and the NSF 2026 Fund Program in the Office of Integrated Activities, investigators at Boston College and Brandeis University are addressing the challenge of creating Artificial General Intelligence by synthesizing symbolic or logical reasoning, learning through interaction with the environment, as well as state-of-the-art neural networks. Inspired by the structure of natural (e.g., human) intelligence, the resulting mental architecture deploys each of these strategies for the problems they excel at (the "Best of All Worlds”, or BAW, approach). Successful completion of this project will facilitate a range of research projects in AI and psychology/neuroscience. Long-term, the development of AGI is expected to have significant benefits to society, by enabling computers to develop abstract concepts grounded in experience with the world, and to generate novel ideas and inventions. This project will also help broaden student training and participation of women and underrepresented minorities.&lt;br/&gt;&lt;br/&gt;This project aims to prototype a new architecture and test it against an open-ended task that is difficult for artificial intelligence but mastered by human toddlers everywhere: uncovering the affordances of blocks, containers, and other small objects. The primary aims are to build a virtual world that a simulated infant can explore, manipulate, and learn from; build a working prototype of a simulated infant incorporating key aspects of the BAW mental architecture; and evaluate the performance of the agent on several difficult, open-ended tasks. This architecture facilitates incorporation of key concepts from the study of natural intelligence that are infrequently used in artificial intelligence: mental models, exploratory play, and chunking.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2033932</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Pustejovsky</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James Pustejovsky</PI_FULL_NAME>
+<EmailAddress><![CDATA[pustejovsky@gmail.com]]></EmailAddress>
+<NSF_ID>000369969</NSF_ID>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Brandeis University]]></Name>
+<CityName>WALTHAM</CityName>
+<ZipCode>024532728</ZipCode>
+<PhoneNumber>7817362121</PhoneNumber>
+<StreetAddress><![CDATA[415 SOUTH ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MXLZGAMFEKN5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BRANDEIS UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Brandeis University]]></Name>
+<CityName>Waltham</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>024549110</ZipCode>
+<StreetAddress><![CDATA[415 South Street, MS-018]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>081Y00</Code>
+<Text>NSF 2026 Fund</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~100000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>&nbsp;</p> <p>This project&rsquo;s goal was to contribute to the design of an Artificial General Intelligence (AGI), by investigating some of the core themes outlined in the "Creating Artificial General Intelligence" Idea Machine initiative. Key among these was the complexities of designing a unified system capable of grounding concepts in situational experiences, understanding language, generating novel ideas, and reasoning across new situations&mdash;capabilities intrinsic to human cognition but elusive for contemporary artificial intelligence systems.</p> <p>The focus of this approach was the conceptualization and initial prototyping of an architecture tailored for AGI, termed the "Best of All Worlds (BAW)" architecture. This framework leverages and integrated the strengths of both symbolic and neural network architectures through simulated embodied experiences, enabling the artificial agent to develop its concepts, beliefs, models of goals, and subsequent actions within this simulated world.</p> <p>The research involved three primary objectives:</p> <p>1. BabyVoxWorld: We developed a virtual environment simulating the world experienced through the eyes of a toddler. This virtual playground is populated with objects that the simulated toddler can interact with, allowing it to learn about object attributes and the outcomes of various actions, thereby mimicking the early learning experiences of human children.</p> <p>2. BabyBAW: Building on the foundational principles of the BAW architecture, we engineered some interesting generalizing capabilities of this simulated infant. The system embodies the integration of symbolic reasoning and neural processing capabilities within a framework that learns through exploration and interaction with its environment.</p> <p>3. Performance Evaluation: We tested our agent's performance on a series of complex, open-ended tasks. These tasks were designed to challenge the agent in ways that human toddlers typically perform well on, thereby providing a litmus test for the AGI's adaptability and learning capabilities.</p> <p>Our work leverages and extends existing tools and platforms, such as Unity, and incorporates models and systems developed by the project researchers, including VoxML and VoxWorld. The use of pre-existing resources has accelerated our progress and facilitated the creation of a robust testing ground for our AGI prototype.</p> <p>Intellectual Merit: The project represents significant progress in the quest for AGI, advancing our understanding of how to build systems that can learn and reason about the world in a manner akin to human intelligence. By integrating symbolic and neural approaches within the BAW architecture, we have laid the groundwork for future explorations into cognitive architectures capable of complex thought and learning.</p> <p>Broader Impacts: Beyond its contributions to the field of AI, the results and technologies developed through this project could lead to advancements in education and other areas, ultimately benefiting society with an innovative application that is capable of tackling complex challenges with human-like understanding.</p> <p>The results of our research will hopefully advance the theoretical foundations of artificial intelligence, where machines can learn from and adapt to the world with the richness and flexibility of human cognition.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 04/10/2024<br> Modified by: James&nbsp;Pustejovsky</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2033932/2033932_10695124_1712802449509_NSF_Outcomes_Pic3--rgov-214x142.png" original="/por/images/Reports/POR/2024/2033932/2033932_10695124_1712802449509_NSF_Outcomes_Pic3--rgov-800width.png" title="Concept Learning within VoxWorld"><img src="/por/images/Reports/POR/2024/2033932/2033932_10695124_1712802449509_NSF_Outcomes_Pic3--rgov-66x44.png" alt="Concept Learning within VoxWorld"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Left image shows failed attempt to balance a block on another block. Right image illustrates the baby learning folk physics (e.g., to place block over geometric center)</div> <div class="imageCredit">Nikhil Krishnaswamy</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">James&nbsp;Pustejovsky <div class="imageTitle">Concept Learning within VoxWorld</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[     This projects goal was to contribute to the design of an Artificial General Intelligence (AGI), by investigating some of the core themes outlined in the "Creating Artificial General Intelligence" Idea Machine initiative. Key among these was the complexities of designing a unified system capable of grounding concepts in situational experiences, understanding language, generating novel ideas, and reasoning across new situationscapabilities intrinsic to human cognition but elusive for contemporary artificial intelligence systems.   The focus of this approach was the conceptualization and initial prototyping of an architecture tailored for AGI, termed the "Best of All Worlds (BAW)" architecture. This framework leverages and integrated the strengths of both symbolic and neural network architectures through simulated embodied experiences, enabling the artificial agent to develop its concepts, beliefs, models of goals, and subsequent actions within this simulated world.   The research involved three primary objectives:   1. BabyVoxWorld: We developed a virtual environment simulating the world experienced through the eyes of a toddler. This virtual playground is populated with objects that the simulated toddler can interact with, allowing it to learn about object attributes and the outcomes of various actions, thereby mimicking the early learning experiences of human children.   2. BabyBAW: Building on the foundational principles of the BAW architecture, we engineered some interesting generalizing capabilities of this simulated infant. The system embodies the integration of symbolic reasoning and neural processing capabilities within a framework that learns through exploration and interaction with its environment.   3. Performance Evaluation: We tested our agent's performance on a series of complex, open-ended tasks. These tasks were designed to challenge the agent in ways that human toddlers typically perform well on, thereby providing a litmus test for the AGI's adaptability and learning capabilities.   Our work leverages and extends existing tools and platforms, such as Unity, and incorporates models and systems developed by the project researchers, including VoxML and VoxWorld. The use of pre-existing resources has accelerated our progress and facilitated the creation of a robust testing ground for our AGI prototype.   Intellectual Merit: The project represents significant progress in the quest for AGI, advancing our understanding of how to build systems that can learn and reason about the world in a manner akin to human intelligence. By integrating symbolic and neural approaches within the BAW architecture, we have laid the groundwork for future explorations into cognitive architectures capable of complex thought and learning.   Broader Impacts: Beyond its contributions to the field of AI, the results and technologies developed through this project could lead to advancements in education and other areas, ultimately benefiting society with an innovative application that is capable of tackling complex challenges with human-like understanding.   The results of our research will hopefully advance the theoretical foundations of artificial intelligence, where machines can learn from and adapt to the world with the richness and flexibility of human cognition.           Last Modified: 04/10/2024       Submitted by: JamesPustejovsky]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

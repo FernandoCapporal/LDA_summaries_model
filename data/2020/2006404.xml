@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: SHF: Small: Interactive Synthesis and Repair For Robot Programs]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>250001.00</AwardTotalIntnAmount>
+<AwardAmount>250001</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anindya Banerjee</SignBlockName>
+<PO_EMAI>abanerje@nsf.gov</PO_EMAI>
+<PO_PHON>7032927885</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Over the past few years, robots have started to be deployed in unstructured human environments. There are hundreds of robots deployed in hospitals, hotels, and supermarkets. Unfortunately, the software that runs on robots is programmed using low-level abstractions and languages, and is hard to transfer across robots and environments. In addition robotic software requires complex control logic to ensure that robots are safe and well-behaved in all situations. Thus, robot software is extraordinarily hard to write and maintain. This research project develops tools and techniques to make robot software safer, easier to write, and easier to maintain. &lt;br/&gt;&lt;br/&gt;The intellectual merits of the project are the development of (1) techniques for fixing bugs in robot software, based on advances to automatic program repair and program synthesis; (2) abstractions for writing robot software that can automatically handle certain kinds of failures, based on new programming-language design; (3) methods for checking the correctness of robot software, based on new program-verification techniques. The project's broader significance and importance are that it helps make robot software easier to write and maintain, and cheaper, safer, and more reliable. The project encourages further research at the intersection of programming languages and robotics by publishing research results and releasing open-source software. The project also involves high-school outreach workshops to broaden participation in computing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/03/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2006404</AwardID>
+<Investigator>
+<FirstName>Joydeep</FirstName>
+<LastName>Biswas</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joydeep Biswas</PI_FULL_NAME>
+<EmailAddress><![CDATA[joydeepb@cs.utexas.edu]]></EmailAddress>
+<NSF_ID>000702936</NSF_ID>
+<StartDate>06/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>Austin</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121757</ZipCode>
+<StreetAddress><![CDATA[2317 Speedway, Stop D9500]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779800</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7943</Code>
+<Text>PROGRAMMING LANGUAGES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~250001</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-94a580e5-7fff-50be-454c-5b8ead57f507"> </span></p> <p dir="ltr"><span>As robots become increasingly common in human environments such as homes, offices, and commercial establishments, users of such robots will desire the ability to ask the robots to perform novel tasks that they were not pre-programmed for. In particular, the challenges with this setting are that the robots must be able to learn new tasks with limited input from the human - be it demonstrations, corrections, or natural language descriptions. Unfortunately, such limited data is not sufficient to train data-hungry machine learning models such as neural networks.&nbsp;</span></p> <p>&nbsp;</p> <p dir="ltr"><span>This project addresses this challenge by developing novel algorithms to teach robots new tasks by synthesizing programmatic representations of new tasks. Such programmatic representations are synthesized in domain-specific languages that simultaneously constrain the search space to physically meaningful programs while allowing sufficient expressivity to learn new tasks. Programmatic representations have the additional advantage of being human readable, so a user could inspect what the robot learned, and are also amenable to repair using a few corrections from the human when the program does not exactly perform as intended (e.g., by telling a vacuum cleaning robot to drive a bit closer to the window to effectively clean the baseboard).&nbsp;</span></p> <p>&nbsp;</p> <p dir="ltr"><span>Intellectual Merit:</span></p> <p>&nbsp;</p> <p dir="ltr"><span>The project introduced several novel algorithms for programming robots, including physics-informed program synthesis, SMT-based robot transition repair, and iterative dimension-informed programming synthesis. Collectively, these algorithms form the foundations of how to perform learning from demonstration with physics-informed domain-specific languages with real robots. This project also introduced a new simulation benchmark to evaluate social navigation policies, and a benchmark to evaluate programs generated by large language models to program robots.</span></p> <p>&nbsp;</p> <p dir="ltr"><span>Broader Impacts:</span></p> <p>&nbsp;</p> <p dir="ltr"><span>This project partially supported three PhD students. Several undergraduate students were also mentored and participated in the research. The PIs gave several invited talks on the research supported by this project.</span></p> <div><span><br /></span></div> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 05/01/2024<br> Modified by: Joydeep&nbsp;Biswas</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      As robots become increasingly common in human environments such as homes, offices, and commercial establishments, users of such robots will desire the ability to ask the robots to perform novel tasks that they were not pre-programmed for. In particular, the challenges with this setting are that the robots must be able to learn new tasks with limited input from the human - be it demonstrations, corrections, or natural language descriptions. Unfortunately, such limited data is not sufficient to train data-hungry machine learning models such as neural networks.      This project addresses this challenge by developing novel algorithms to teach robots new tasks by synthesizing programmatic representations of new tasks. Such programmatic representations are synthesized in domain-specific languages that simultaneously constrain the search space to physically meaningful programs while allowing sufficient expressivity to learn new tasks. Programmatic representations have the additional advantage of being human readable, so a user could inspect what the robot learned, and are also amenable to repair using a few corrections from the human when the program does not exactly perform as intended (e.g., by telling a vacuum cleaning robot to drive a bit closer to the window to effectively clean the baseboard).      Intellectual Merit:      The project introduced several novel algorithms for programming robots, including physics-informed program synthesis, SMT-based robot transition repair, and iterative dimension-informed programming synthesis. Collectively, these algorithms form the foundations of how to perform learning from demonstration with physics-informed domain-specific languages with real robots. This project also introduced a new simulation benchmark to evaluate social navigation policies, and a benchmark to evaluate programs generated by large language models to program robots.      Broader Impacts:      This project partially supported three PhD students. Several undergraduate students were also mentored and participated in the research. The PIs gave several invited talks on the research supported by this project.             Last Modified: 05/01/2024       Submitted by: JoydeepBiswas]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

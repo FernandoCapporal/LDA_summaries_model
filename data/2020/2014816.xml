@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Distributed Mechanism Design with Learning Guarantees: Resource Allocation Among Networked Strategic Agents]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>224629.00</AwardTotalIntnAmount>
+<AwardAmount>224629</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anthony Kuh</SignBlockName>
+<PO_EMAI>akuh@nsf.gov</PO_EMAI>
+<PO_PHON>7032924714</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>During the last decades there has been significant research in understanding how strategic agents in communication, transportation, energy, economic, societal networks make decisions in the presence of uncertainty about other agents' preferences. This research is motivated by a multitude of applications in our ever-connected society and economy, and the realization that assumptions such as fully-informed or fully-compliant agents are untenable in vastly decentralized networks. The design of incentives for resource allocation problems in the presence of strategic agents falls under the research area of mechanism design (MD). There are two issues with the current state of the art in MD. First, it assumes the existence of a central entity accepting bids and being capable of communicating with each agent. Second, it does not adequately address the question of how agents converge to the designed equilibria.&lt;br/&gt; &lt;br/&gt;Intellectual Merit: Our overarching objective in this proposal is to create a new subfield of research that addresses these issues in a unified framework. We utilize this framework to design mechanisms that are distributed and have learning (i.e., convergence) guarantees for a sufficiently broad range of agents' behaviors. To achieve our objective, we plan to proceed along a path that blends in fundamental research with targeted applications. In particular, we first investigate the design of distributed mechanisms. We consider two illustrative applications, namely, rate allocation in unicast/multicast-multirate networks and demand management of energy communities. We then investigate distributed mechanisms that incorporate learning guarantees, by which the community reaches an equilibrium. Finally, we study the above two problems in the context of non-Bayesian agents with ``no-regret'' type limited rationality.&lt;br/&gt;&lt;br/&gt;Broader Impacts: Besides the two illustrative applications, research to be carried in this project will benefit a broad range of practical fields of large societal impact. Examples include smart energy and infrastructure systems, communication systems, cyber physical and human systems, social and economical systems, to name a few. The research outcomes will be utilized for curriculum development, for training undergraduate and graduate students, and for various outreach activities at the PIs’ institutions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2014816</AwardID>
+<Investigator>
+<FirstName>Jianghai</FirstName>
+<LastName>Hu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jianghai Hu</PI_FULL_NAME>
+<EmailAddress><![CDATA[jianghai@purdue.edu]]></EmailAddress>
+<NSF_ID>000489593</NSF_ID>
+<StartDate>06/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE # 1100]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YRXVL4JYCEF5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>West Lafayette</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479072035</ZipCode>
+<StreetAddress><![CDATA[465 Northwestern Ave.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>760700</Code>
+<Text>EPCN-Energy-Power-Ctrl-Netwrks</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>092E</Code>
+<Text>Control systems &amp; applications</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1653</Code>
+<Text>Adaptive &amp; intelligent systems</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~224629</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Many engineering and societal problems can be formulated as resource allocation problems: a number of players compete for a common pool of resource to satisfy their own interests. As these interests are not always aligned with one another, such problems can be formulated as non-cooperative games, whose solutions are the so-called Nash equilibriums (NE), or more precisely, generalized Nash equilibriums (GNE) due to the common resource constraints. Without outside intervention, individual players being self-interested will choose actions to maximize their own payoffs, and the resulting NE allocation will often be unfair and with poor social welfare for the whole group.</p> <p>The focus of this project is to find ways to change the selfish behaviors of the players, to encourage (but not coerce) them to cooperate with each other, and ultimately to achieve fair and socially sound NE resource allocation. This is done via mechanism design, i.e., proper modifications of the players&rsquo; payoff functions by means such as monetary rewards/penalty. Further, oftentimes the players are connected by a communication network where neighboring players can exchange information and/or resource. Such exchanges can also be utilized to facilitate the mechanism design. In sum, the project studies the mechanism design problem for resource allocation games on networks.</p> <p><strong>Intellectual Merit</strong>: &nbsp;In this project, a number of algorithms have been proposed for finding the solution of resource allocation games on networks under various settings. These algorithms advance the state of the art of the theoretical field of game theory in the following aspects: (i) They can deal with some challenging scenarios that are difficult for most existing algorithms, e.g., uncertainty in the payoff functions, players knowing only the realized values but not the functional form of their payoffs, time delay in receiving feedbacks, etc. (ii) They can be applied to solve a broader class of games than existing approaches; (iii) They have proven convergence property under proper assumptions; (iv) Some of the novel techniques developed for analyzing the proposed algorithms can be adapted for the analysis and redesign of existing ones.</p> <p><strong>Broader Impacts</strong>: Resource allocation games have an enormous number of practical applications. Examples include traffic routing, cognitive radio bandwidth allocation, portfolio management, and building energy management, to name a few. Algorithms developed in this project could be applied to such practical applications, improving the quality of their practical implementations while maintaining social fairness. Further, many current problems faced by society nowadays are at the essence resource allocation problems. Social issues arise due to the unfair and socially unproductive allocation of public resources. A central scheme of this project is to design mechanisms that can promote cooperation and resource sharing among participants. The outcomes from this project may provide insights on the policy solution of such social issues.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 05/02/2024<br> Modified by: Jianghai&nbsp;Hu</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2014816/2014816_10679668_1714701827885_Pic1--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2014816/2014816_10679668_1714701827885_Pic1--rgov-800width.jpg" title="Thermal Load Management of Building Clusters"><img src="/por/images/Reports/POR/2024/2014816/2014816_10679668_1714701827885_Pic1--rgov-66x44.jpg" alt="Thermal Load Management of Building Clusters"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Thermal load management problem for buildings clusters formulated as a resource allocation game. Right: Purdue�s Center for High Performance Buildings.</div> <div class="imageCredit">N/A</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Jianghai&nbsp;Hu <div class="imageTitle">Thermal Load Management of Building Clusters</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2014816/2014816_10679668_1714702697652_Pic5--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2014816/2014816_10679668_1714702697652_Pic5--rgov-800width.jpg" title="Validation on Rock-Paper-Scissors Game"><img src="/por/images/Reports/POR/2024/2014816/2014816_10679668_1714702697652_Pic5--rgov-66x44.jpg" alt="Validation on Rock-Paper-Scissors Game"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The proposed algorithm is validated on the classical rock-paper-scissors games, with a much improved convergence rate compared to existing algorithms.</div> <div class="imageCredit">N/A</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Jianghai&nbsp;Hu <div class="imageTitle">Validation on Rock-Paper-Scissors Game</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2014816/2014816_10679668_1714702397431_Pic3--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2014816/2014816_10679668_1714702397431_Pic3--rgov-800width.jpg" title="Online Bandit Learning Algorithm"><img src="/por/images/Reports/POR/2024/2014816/2014816_10679668_1714702397431_Pic3--rgov-66x44.jpg" alt="Online Bandit Learning Algorithm"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Our proposed bandit learning algorithm that can solve resource allocation games using feedbacks on the payoff function values only without knowing their functional forms. It can deal with information delays in receiving feedbacks.</div> <div class="imageCredit">N/A</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Jianghai&nbsp;Hu <div class="imageTitle">Online Bandit Learning Algorithm</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2014816/2014816_10679668_1714701962733_Pic2--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2014816/2014816_10679668_1714701962733_Pic2--rgov-800width.jpg" title="Traffic and Transport Routing"><img src="/por/images/Reports/POR/2024/2014816/2014816_10679668_1714701962733_Pic2--rgov-66x44.jpg" alt="Traffic and Transport Routing"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Routing problem in city traffic and transport routing problem in a highway network are examples of network resource allocation problems.</div> <div class="imageCredit">https://github.com/bstabler/TransportationNetworks</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Jianghai&nbsp;Hu <div class="imageTitle">Traffic and Transport Routing</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2014816/2014816_10679668_1714702830534_Pic6--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2014816/2014816_10679668_1714702830534_Pic6--rgov-800width.jpg" title="Validation on Transport Network Game"><img src="/por/images/Reports/POR/2024/2014816/2014816_10679668_1714702830534_Pic6--rgov-66x44.jpg" alt="Validation on Transport Network Game"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A Nash-Cournot distribution game on the transport network of the city of Oldenburg which consists of 29 nodes (markets) and 68 directed edges (roads). Our algorithm converges to the Nash equilibrium faster than existing algorithm.</div> <div class="imageCredit">N/A</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Jianghai&nbsp;Hu <div class="imageTitle">Validation on Transport Network Game</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2014816/2014816_10679668_1714702556787_Pic4--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2014816/2014816_10679668_1714702556787_Pic4--rgov-800width.jpg" title="Information Delay in Bandit Feedback"><img src="/por/images/Reports/POR/2024/2014816/2014816_10679668_1714702556787_Pic4--rgov-66x44.jpg" alt="Information Delay in Bandit Feedback"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Information latency between taking actions and receiving feedbacks often exist and can be inhomogeneous among players.</div> <div class="imageCredit">N/A</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Jianghai&nbsp;Hu <div class="imageTitle">Information Delay in Bandit Feedback</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Many engineering and societal problems can be formulated as resource allocation problems: a number of players compete for a common pool of resource to satisfy their own interests. As these interests are not always aligned with one another, such problems can be formulated as non-cooperative games, whose solutions are the so-called Nash equilibriums (NE), or more precisely, generalized Nash equilibriums (GNE) due to the common resource constraints. Without outside intervention, individual players being self-interested will choose actions to maximize their own payoffs, and the resulting NE allocation will often be unfair and with poor social welfare for the whole group.   The focus of this project is to find ways to change the selfish behaviors of the players, to encourage (but not coerce) them to cooperate with each other, and ultimately to achieve fair and socially sound NE resource allocation. This is done via mechanism design, i.e., proper modifications of the players payoff functions by means such as monetary rewards/penalty. Further, oftentimes the players are connected by a communication network where neighboring players can exchange information and/or resource. Such exchanges can also be utilized to facilitate the mechanism design. In sum, the project studies the mechanism design problem for resource allocation games on networks.   Intellectual Merit: In this project, a number of algorithms have been proposed for finding the solution of resource allocation games on networks under various settings. These algorithms advance the state of the art of the theoretical field of game theory in the following aspects: (i) They can deal with some challenging scenarios that are difficult for most existing algorithms, e.g., uncertainty in the payoff functions, players knowing only the realized values but not the functional form of their payoffs, time delay in receiving feedbacks, etc. (ii) They can be applied to solve a broader class of games than existing approaches; (iii) They have proven convergence property under proper assumptions; (iv) Some of the novel techniques developed for analyzing the proposed algorithms can be adapted for the analysis and redesign of existing ones.   Broader Impacts: Resource allocation games have an enormous number of practical applications. Examples include traffic routing, cognitive radio bandwidth allocation, portfolio management, and building energy management, to name a few. Algorithms developed in this project could be applied to such practical applications, improving the quality of their practical implementations while maintaining social fairness. Further, many current problems faced by society nowadays are at the essence resource allocation problems. Social issues arise due to the unfair and socially unproductive allocation of public resources. A central scheme of this project is to design mechanisms that can promote cooperation and resource sharing among participants. The outcomes from this project may provide insights on the policy solution of such social issues.              Last Modified: 05/02/2024       Submitted by: JianghaiHu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

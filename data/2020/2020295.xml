@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[AI Institute: Planning: Physics of the Future]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>750000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kaushik De</SignBlockName>
+<PO_EMAI>kde@nsf.gov</PO_EMAI>
+<PO_PHON>7032927480</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Physics applications of Artificial Intelligence (AI) have led to some of the most exciting recent breakthroughs, from astrophysics to regulatory genomics and cellular imaging.  Scientists at Carnegie-Mellon University (CMU) in Machine Learning, Statistics, and other departments actively collaborate with colleagues in the Department of Physics because of the opportunity for each field to spur development in the other.  This award will allow planning of a joint Physics/AI Institute that will bring cutting edge methods from AI into a broad range of physics areas, propagate successful methods from one field of Physics to another, and facilitate back-transfer from the data-rich sub-fields of physics to AI development.  This planning phase focuses on areas where CMU scientists are already leaders, with existing strong collaborations, and where rapid advances are being made: astrophysics, subatomic physics, and biophysics.  AI has obvious benefits to society in general, so this project includes education, public outreach and promotion of diversity, empowering a wide range of audiences to use AI on a broad array of data.&lt;br/&gt;&lt;br/&gt;Applying AI will lead to significant advances in the areas of dark energy and galaxy formation; new ways of extracting information about the Higgs bosons and anomalies in gluon physics; and enhanced understanding of biological networks and predictions for cancerous tissues.  Benefits in the other direction are clear as well: physics provides complex use cases and profound problems that motivate AI researchers to advance foundational AI.  Planning activities include weekly interdisciplinary, interactive seminars; a visitor program; topical conferences; planning conferences; a graduate student summer program; postdoc mentoring; and an extensive outreach program. Help in planning to scale up to the Institute level will come from partners at universities, national laboratories, and corporations, and by employing a consultant to survey and quantitatively assess the success of different programs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/25/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/05/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049, 47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2020295</AwardID>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Dodelson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Scott Dodelson</PI_FULL_NAME>
+<EmailAddress><![CDATA[sdodelso@andrew.cmu.edu]]></EmailAddress>
+<NSF_ID>000191757</NSF_ID>
+<StartDate>08/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress><![CDATA[5000 FORBES AVE]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>Pittsburgh</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133890</ZipCode>
+<StreetAddress><![CDATA[5000 Forbes St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>122100</Code>
+<Text>HEP-High Energy Physics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>125300</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>132Y00</Code>
+<Text>AI Research Institutes</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>179800</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7483</Code>
+<Text>PHYSICS OF THE UNIVERSE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~500000</FUND_OBLG>
+<FUND_OBLG>2022~250000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The NSF AI Planning Institute brought domain experts in astronomy, high energy physics, biophysics, climate science, and engineering together with experts in AI, statistics, and computer science. The common tools used by all members and visitors served to unify these very disparate topics and move forward research in all areas, so that progress in one area could immediately translate to another without wheel reinvention.</p> <p>One example of this is super-resolution simulations, developed to simulate small scale structure in the universe. <span>These<br />simulations are physics-based models of the Universe and its contents.<br />Even with enormous computational resources there are tradeoffs between<br />volume and resolution. We developed deep learning methods which<br />seamlessly extend the dynamic range of these calculations. Generative<br />neural networks trained on high resolution (HR) models are<br />conditionally applied to low resolution models, leading to full super<br />resolution (SR) simulations. We showed how statistical properties at<br />SR are remarkably consistent with full HR, but can be orders of<br />magnitude larger and more complex than standard techniques allow.<br />Deep learning can therefore combine and extend modelling of physics<br />processes, offering a route to simulation of the Universe beyond<br />current models of superclusters and galaxies and into the realm of<br />stars and planets. This work&nbsp;was the subject of press releases which<br />highlighted the work of the AI Planning Institute, and was picked up<br />by over fifty different news outlets. We learned </span>that this technique is used not only by our cosmologists, but also by climate scientists (who call the method "downsampling"), engineers, and biologists. This led to one of 5 well-attended conferences that the Institute hosted.</p> <p>An interdisciplinary seminar series was formally established, with<br />speakers covering domain areas that included climate forecasting,<br />extragalactic astronomy, nuclear fusion power, molecular biology,<br />hardware security, quantum chemistry, and particle physics. The<br />unifying themes were those of the Institute, the links between AI and<br />Physics. The seminars included 40 minutes<br />of open discussion. Participants included undergraduate and graduate<br />students, faculty members from five different CMU departments and also<br />from sixteen other institutions, including Historically Black Colleges<br />and Universities as well as national labs, and companies<br />such as Qualcomm and Amazon. Seminars were weekly<br />throughout the whole academic year and there were 102 unique<br />participants, with an average attendance per seminar of 31.<br />The seminar series was linked with a course on AI in Physics, which<br />provided opportunities for training for the diverse participants.</p> <p><span>The Institute hosted a summer REU program starting in 2021. Seven students were accepted, and six of them were from under-repsented groups. Each was embedded in a research group and produced posters at the end of their 7 weeks of research. The&nbsp;Institute housed them and provided them with 5-6 social events so that the program provided students with a well-rounded experience that offered not just access to state-of-art AI research but also the opportunity to interact with peers and become comfortable in a research setting. The success of this program led us to repeat it for all the years of the Planning Institute, and it has now been combined with other summer programs at CMU to become an independent NSF supported REU.</span></p> <p>Among the disseminations of results were interactive<br />demonstrations and presentations of AI techniques in astrohysics to<br />classes of students at Arsenal Middle School. The school body is<br />composed of 85% underrepresented minorities and 98% of students<br />qualify for free/discounted lunches. Lively discussions occurred<br />during the presentations on the role of AI in modern life and how the<br />generative models used in Minecraft are different from cosmological<br />simulations. Similar interactions occurred during a high school teacher training program that we set up that is now in its 3rd year of operation.</p> <p>We developed a course for undergraduates that was taken by students at CMU as well as other schools such as South Carolina State University and University of Maryland, Baltimore County.&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p><span><br /></span></p> <p>&nbsp;</p><br> <p>  Last Modified: 05/03/2024<br> Modified by: Scott&nbsp;Dodelson</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The NSF AI Planning Institute brought domain experts in astronomy, high energy physics, biophysics, climate science, and engineering together with experts in AI, statistics, and computer science. The common tools used by all members and visitors served to unify these very disparate topics and move forward research in all areas, so that progress in one area could immediately translate to another without wheel reinvention.   One example of this is super-resolution simulations, developed to simulate small scale structure in the universe. These simulations are physics-based models of the Universe and its contents. Even with enormous computational resources there are tradeoffs between volume and resolution. We developed deep learning methods which seamlessly extend the dynamic range of these calculations. Generative neural networks trained on high resolution (HR) models are conditionally applied to low resolution models, leading to full super resolution (SR) simulations. We showed how statistical properties at SR are remarkably consistent with full HR, but can be orders of magnitude larger and more complex than standard techniques allow. Deep learning can therefore combine and extend modelling of physics processes, offering a route to simulation of the Universe beyond current models of superclusters and galaxies and into the realm of stars and planets. This workwas the subject of press releases which highlighted the work of the AI Planning Institute, and was picked up by over fifty different news outlets. We learned that this technique is used not only by our cosmologists, but also by climate scientists (who call the method "downsampling"), engineers, and biologists. This led to one of 5 well-attended conferences that the Institute hosted.   An interdisciplinary seminar series was formally established, with speakers covering domain areas that included climate forecasting, extragalactic astronomy, nuclear fusion power, molecular biology, hardware security, quantum chemistry, and particle physics. The unifying themes were those of the Institute, the links between AI and Physics. The seminars included 40 minutes of open discussion. Participants included undergraduate and graduate students, faculty members from five different CMU departments and also from sixteen other institutions, including Historically Black Colleges and Universities as well as national labs, and companies such as Qualcomm and Amazon. Seminars were weekly throughout the whole academic year and there were 102 unique participants, with an average attendance per seminar of 31. The seminar series was linked with a course on AI in Physics, which provided opportunities for training for the diverse participants.   The Institute hosted a summer REU program starting in 2021. Seven students were accepted, and six of them were from under-repsented groups. Each was embedded in a research group and produced posters at the end of their 7 weeks of research. TheInstitute housed them and provided them with 5-6 social events so that the program provided students with a well-rounded experience that offered not just access to state-of-art AI research but also the opportunity to interact with peers and become comfortable in a research setting. The success of this program led us to repeat it for all the years of the Planning Institute, and it has now been combined with other summer programs at CMU to become an independent NSF supported REU.   Among the disseminations of results were interactive demonstrations and presentations of AI techniques in astrohysics to classes of students at Arsenal Middle School. The school body is composed of 85% underrepresented minorities and 98% of students qualify for free/discounted lunches. Lively discussions occurred during the presentations on the role of AI in modern life and how the generative models used in Minecraft are different from cosmological simulations. Similar interactions occurred during a high school teacher training program that we set up that is now in its 3rd year of operation.   We developed a course for undergraduates that was taken by students at CMU as well as other schools such as South Carolina State University and University of Maryland, Baltimore County.                  Last Modified: 05/03/2024       Submitted by: ScottDodelson]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

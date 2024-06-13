@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CAFECS: Enhancing Culturally Responsive Teaching that Helps Students Build Connections Between Exploring Computer Science and their Lives]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>229739.00</AwardTotalIntnAmount>
+<AwardAmount>229739</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jeffrey Forbes</SignBlockName>
+<PO_EMAI>jforbes@nsf.gov</PO_EMAI>
+<PO_PHON>7032925301</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The Learning Partnership, in collaboration with DePaul University and Chicago Public Schools (CPS) will address gaps in computer science (CS) course performance among Latinx students in Chicago Public Schools.  CPS uses Exploring Computer Science (ECS), a computer science curriculum designed to facilitate inquiry and equity-based instructional practices, yet Latinx students underperform in CS relative to their peers. Research shows that a learning environment that emphasizes the connection between students’ lives and academic content is particularly important for Latinx students, and the PIs postulate that this could explain the gap in outcomes for Latinx students in CPS. The goal of this proposal is to adapt the Build Connections program, a new evidence-based strategy to help teachers and students connect course content to students’ lives, as a complement to the ECS curriculum framework. The results of this project will contribute to the literature on culturally responsive pedagogy and further our understanding of the unique professional development needs of urban school districts.&lt;br/&gt;&lt;br/&gt;The Learning Partnership, in collaboration with DePaul University and Chicago Public Schools (CPS) seeks to address variations in Exploring Computer Science (ECS) course outcomes for Latinx students in Chicago Public Schools, including course performance and future course taking. Prior evidence from the CAFÉCS coaching program suggests that teachers are not fully adapting lessons to accommodate students’ backgrounds. Research shows that a learning environment that emphasizes the connection between students’ lives and academic content is particularly important for Latinx students, and the PIs conjecture that this might explain the gap in outcomes for Latinx students in CPS. The goal of this proposal is to adapt and implement the Build Connections program, an emerging evidence-based strategy that helps teachers and students connect course content to students’ lives, as a complement to the ECS curriculum framework.  The integration of the Build Connections program will help support teachers in developing the kinds of culturally responsive lesson adaptations recommended by ECS. The project will provide online professional development, integrate support for the Build Connections program into ECS instructional coaching, and mentoring for the ECS coaches from an expert in improvement science. The results of this project will provide guidance to researchers on how to test their theories in practically relevant and meaningful ways, and the research will contribute to the literature on understanding the unique professional development needs of urban districts.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031481</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Rasmussen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew Rasmussen</PI_FULL_NAME>
+<EmailAddress><![CDATA[arasmussen@cps.edu]]></EmailAddress>
+<NSF_ID>000719935</NSF_ID>
+<StartDate>09/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Chicago Public Schools]]></Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606024309</ZipCode>
+<PhoneNumber>7735531909</PhoneNumber>
+<StreetAddress><![CDATA[42 W MADISON ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KJYLZF1KNV73</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOARD OF EDUCATION OF CITY OF CH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Chicago Public Schools]]></Name>
+<CityName>Chicago</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606024309</ZipCode>
+<StreetAddress><![CDATA[42 West Madison Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>134Y00</Code>
+<Text>CSforAll-Computer Sci for All</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>023Z</Code>
+<Text>Computer Science for All (CS for All)</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~229739</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-50e9fda4-7fff-0ee1-aa21-049bb8a467d2"> </span></p> <p dir="ltr">This project sought to address variations in Exploring Computer Science (ECS) course outcomes for Hispanic students in Chicago Public Schools (CPS), including lower course performance and lower rates of future computer science course taking. Considering that nearly 50% of the students who have taken ECS are Hispanic, addressing differences in outcomes is essential for broadening participation in CS.<br />This project built upon the Build Connections program, which is an emerging evidence-based strategy that helps teachers and students connect course content to students&rsquo; lives. The goal of this project is to create an Exploring Connections to Computer Science (EC2CS) program (inspired by the Build Connections approach), which complemented the ECS and AP Computer Science Principles (CSP) curriculum frameworks to support teachers in developing the kinds of culturally responsive lesson adaptations recommended by ECS and CSP. The project also provided online professional development, integrated support for the Exploring Connections program into ECS and CSP instructional coaching, and provided mentoring for the coaches. The project supported the development of explicit coaching models that will help teachers use the data generated from Exploring Connections as part of their cycles of reflection on students&rsquo; identities that are at the heart of culturally responsive pedagogy (CRP).<br />Our research focused on the following questions:1) How can we use the Exploring Connections program to enable students to align computer science concepts with their cultural values and experiences?2) How can we increase teacher capacity to develop culturally responsive computer science lesson adaptations through instructional coaching around the Exploring Connections program?<br />The EC2CS program we developed is composed of four main elements designed to increase culturally responsive teaching in ECS. (1) Students complete a student identity survey at three time points during the year. The identity survey provides teachers with a tool to learn information about their students&rsquo; identities. This survey asks students to reflect on themselves and answer questions their gender, racial/ethnic, and linguistic backgrounds; their hobbies, skills, interests, and traditions; their future and graduation plans; what/who they value in their environments (family, school, community, friends); and their sense of belonging in computer science. Teachers are provided with the raw data and a summary of student responses. In addition, a physical bookmark is generated for each student that summarizes their responses to the identity survey. (2) EC2CS offers a model lesson for each unit in the ECS curriculum adapted to encourage the use of bookmarks to help students make connections between their identities and their learning of CS topics. (3) At the end of each EC2CS model lesson, students complete an End of Activity (EOA) survey that asks students to rate their current attitudes towards CS and their experiences with the day&rsquo;s lesson. Teachers received a summary report for each EOA survey. (4) EC2CS professional learning workshops and individual instructional coaching offers teachers additional guidance in how to use the information they learn about their students to adapt ECS lessons in culturally responsive ways.<br />In activities driven solely by a community theme, like unit 2 and the problem-solving cycle, family and community were among the most popular choices in students&rsquo; connections. While the theme of community prevailed during unit 3, the most salient connections while developing web design skills slightly shifted to more individual aspects in students&rsquo; lives, like hobbies or careers. Lastly, in learning programming skills and the use of conditionals within a given theme of culture and traditions, community and identity became more salient again among students&rsquo; connections, following aspects of students&rsquo; daily lives.<br />The results of analysis of student surveys provided evidence that when teachers are successful at scaffolding students to make connections between their lives and the content of the ECS course, students increase the value that they perceive in CS and in turn increase their interest in pursuing additional CS in the future.&nbsp;<br />One of the most salient findings regarding CRP affordances was the knowledge base that teachers received from their students&rsquo; responses to the Exploring Connections identity survey. Receiving this information was key to helping teachers make CS content more relevant to their students and, with that, increasing the representation of students&rsquo; different identities and interests in their CS classes. In addition, based on commonalities identified in the survey data, some teachers were able to engage students in collaboration and build classroom communities.<br /><br /><br /></p><br> <p>  Last Modified: 03/13/2024<br> Modified by: Andrew&nbsp;Rasmussen</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      This project sought to address variations in Exploring Computer Science (ECS) course outcomes for Hispanic students in Chicago Public Schools (CPS), including lower course performance and lower rates of future computer science course taking. Considering that nearly 50% of the students who have taken ECS are Hispanic, addressing differences in outcomes is essential for broadening participation in CS. This project built upon the Build Connections program, which is an emerging evidence-based strategy that helps teachers and students connect course content to students lives. The goal of this project is to create an Exploring Connections to Computer Science (EC2CS) program (inspired by the Build Connections approach), which complemented the ECS and AP Computer Science Principles (CSP) curriculum frameworks to support teachers in developing the kinds of culturally responsive lesson adaptations recommended by ECS and CSP. The project also provided online professional development, integrated support for the Exploring Connections program into ECS and CSP instructional coaching, and provided mentoring for the coaches. The project supported the development of explicit coaching models that will help teachers use the data generated from Exploring Connections as part of their cycles of reflection on students identities that are at the heart of culturally responsive pedagogy (CRP). Our research focused on the following questions:1) How can we use the Exploring Connections program to enable students to align computer science concepts with their cultural values and experiences?2) How can we increase teacher capacity to develop culturally responsive computer science lesson adaptations through instructional coaching around the Exploring Connections program? The EC2CS program we developed is composed of four main elements designed to increase culturally responsive teaching in ECS. (1) Students complete a student identity survey at three time points during the year. The identity survey provides teachers with a tool to learn information about their students identities. This survey asks students to reflect on themselves and answer questions their gender, racial/ethnic, and linguistic backgrounds; their hobbies, skills, interests, and traditions; their future and graduation plans; what/who they value in their environments (family, school, community, friends); and their sense of belonging in computer science. Teachers are provided with the raw data and a summary of student responses. In addition, a physical bookmark is generated for each student that summarizes their responses to the identity survey. (2) EC2CS offers a model lesson for each unit in the ECS curriculum adapted to encourage the use of bookmarks to help students make connections between their identities and their learning of CS topics. (3) At the end of each EC2CS model lesson, students complete an End of Activity (EOA) survey that asks students to rate their current attitudes towards CS and their experiences with the days lesson. Teachers received a summary report for each EOA survey. (4) EC2CS professional learning workshops and individual instructional coaching offers teachers additional guidance in how to use the information they learn about their students to adapt ECS lessons in culturally responsive ways. In activities driven solely by a community theme, like unit 2 and the problem-solving cycle, family and community were among the most popular choices in students connections. While the theme of community prevailed during unit 3, the most salient connections while developing web design skills slightly shifted to more individual aspects in students lives, like hobbies or careers. Lastly, in learning programming skills and the use of conditionals within a given theme of culture and traditions, community and identity became more salient again among students connections, following aspects of students daily lives. The results of analysis of student surveys provided evidence that when teachers are successful at scaffolding students to make connections between their lives and the content of the ECS course, students increase the value that they perceive in CS and in turn increase their interest in pursuing additional CS in the future. One of the most salient findings regarding CRP affordances was the knowledge base that teachers received from their students responses to the Exploring Connections identity survey. Receiving this information was key to helping teachers make CS content more relevant to their students and, with that, increasing the representation of students different identities and interests in their CS classes. In addition, based on commonalities identified in the survey data, some teachers were able to engage students in collaboration and build classroom communities.        Last Modified: 03/13/2024       Submitted by: AndrewRasmussen]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

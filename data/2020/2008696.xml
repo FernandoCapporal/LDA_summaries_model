@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Cosmology at a crossroads: Towards a more complex Universe]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>251893.00</AwardTotalIntnAmount>
+<AwardAmount>251893</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Hans Krimm</SignBlockName>
+<PO_EMAI>hkrimm@nsf.gov</PO_EMAI>
+<PO_PHON>7032922761</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Our current model for the content and structure of our Universe appears incapable of jointly explaining the vast array of observations made possible by current state-of-the-art telescopes. Intriguingly, these discrepancies might be the first hints that our current cosmological model is missing something fundamental. This project will explore the most promising areas where new physics could potentially play an important role in shaping the evolution of our Universe. In particular, it will focus on the possible role that “dark matter”, “dark energy”, and neutrinos could play in resolving the current discrepancies, as well as their possible interconnections. As part of this research, training will be provided to a graduate student and the principal investigator will also collaborate with a technologist to create an immersive interactive experience aimed at the general public that helps visualize the importance of dark matter to our Universe. &lt;br/&gt; &lt;br/&gt;Motivated by current tensions between different cosmological data sets, this team will perform a systematic study for the presence of new physics in the dark matter and neutrino sectors, their potential connection to each other, and their possible relation to a dark energy-like scalar field sector. Focusing exclusively on models that have natural particle physics realization and using analysis techniques that are robust to the introduction of physics beyond the standard Lambda Cold Dark Matter model, this project will determine whether well-motivated new physics related to dark matter, neutrinos, or dark energy could be the cause of the current tensions in cosmology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/17/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2008696</AwardID>
+<Investigator>
+<FirstName>Francis-Yan</FirstName>
+<LastName>Cyr-Racine</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Francis-Yan Cyr-Racine</PI_FULL_NAME>
+<EmailAddress><![CDATA[fycr@unm.edu]]></EmailAddress>
+<NSF_ID>000814618</NSF_ID>
+<StartDate>06/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of New Mexico]]></Name>
+<CityName>ALBUQUERQUE</CityName>
+<ZipCode>87131</ZipCode>
+<PhoneNumber>5052774186</PhoneNumber>
+<StreetAddress><![CDATA[1700 LOMAS BLVD NE STE 2200]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NM01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F6XLTRUQJEN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NEW MEXICO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of New Mexico]]></Name>
+<CityName>Albuquerque</CityName>
+<StateCode>NM</StateCode>
+<ZipCode>871060001</ZipCode>
+<StreetAddress><![CDATA[210 Yale Blvd NE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NM01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>121700</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~251893</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span style="text-decoration: underline;">Background:</span>&nbsp;In the last decade, our current understanding of the Universe we inhabit has been challenged as different measurements of its current expansion rate appear in disagreement with each other. Indeed, local measurements of the expansion rate based on inferring distances to relatively nearby celestial objects return a higher value of this expansion rate (called H<sub>0</sub>) than the value based on studying the relic glow from the Big Bang. This glow, the oldest known light in the Universe, is usually referred to at the cosmic microwave background (CMB) since it is currently brightest in the microwave waveband. This discrepancy between the local measurements and those inferred from CMB observations could be pointing to missing ingredients in our current cosmological model. Exploring which physics could be responsible for this was the major goal of this award.</p> <p>&nbsp;</p> <p><span style="text-decoration: underline;">Intellectual Merit:</span>&nbsp;While searching for possible physical scenarios that could explain the expansion rate discrepancy, we discovered a previously unknown symmetry of cosmological observables, which could be exploited to address the current tension between different measurements of the expansion rate. Importantly, the existence of this symmetry suggests that our Universe could be split into two different worlds that mirror each other. On the one side, we would have our familiar world with the Earth, the Sun, and all the normal matter and particles surrounding us. On the other side, we could have a dark mirror world containing all the same particles and interactions that are familiar to us, except that this matter is invisible to us except for its gravitational interaction with matter we can see. While seemingly baroque, this idea of a mirror world has been studied for decades within particle physics circles as it could address important problems in that field of physics. Our work potentially connects this well-studied idea to the current expansion rate discrepancy currently observed in cosmology.</p> <p>Another avenue of research we have pursued is to study whether neutrinos, elusive particles that barely interact with the matter that surrounds us, could have something to do with the above-mentioned H<sub>0</sub> tension. Since they interact so weakly with us, neutrinos are the least constrained particle in our current Standard Model of particle physics. The question is then whether new physics present exclusively in the neutrino sector could be responsible for the challenges that we are currently experiencing in cosmology. While our work has shown that such new physics is unlikely to explain the current discrepancy, cosmological observations suggests that yet-unknown neutrino interactions could be present in earlier epochs of the Universe.</p> <p>&nbsp;</p> <p><span style="text-decoration: underline;">Broader Impacts: </span>This award was the main source of support for a graduate student, contributing to their professional and intellectual development, as well as to the STEM workforce. The codes developed as part of this award are publicly available for anyone to use.</p> <p>&nbsp;As part of this award, several local Albuquerque schools were visited to share with the pupils the excitement of astronomy and of the mysteries of the Universe. Six public astronomy nights were organized to highlight the night sky with the public. Several public talks about the mysteries of the Universe were given by the PI and his team.</p><br> <p>  Last Modified: 03/15/2024<br> Modified by: Francis-Yan&nbsp;Cyr-Racine</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Background:In the last decade, our current understanding of the Universe we inhabit has been challenged as different measurements of its current expansion rate appear in disagreement with each other. Indeed, local measurements of the expansion rate based on inferring distances to relatively nearby celestial objects return a higher value of this expansion rate (called H0) than the value based on studying the relic glow from the Big Bang. This glow, the oldest known light in the Universe, is usually referred to at the cosmic microwave background (CMB) since it is currently brightest in the microwave waveband. This discrepancy between the local measurements and those inferred from CMB observations could be pointing to missing ingredients in our current cosmological model. Exploring which physics could be responsible for this was the major goal of this award.      Intellectual Merit:While searching for possible physical scenarios that could explain the expansion rate discrepancy, we discovered a previously unknown symmetry of cosmological observables, which could be exploited to address the current tension between different measurements of the expansion rate. Importantly, the existence of this symmetry suggests that our Universe could be split into two different worlds that mirror each other. On the one side, we would have our familiar world with the Earth, the Sun, and all the normal matter and particles surrounding us. On the other side, we could have a dark mirror world containing all the same particles and interactions that are familiar to us, except that this matter is invisible to us except for its gravitational interaction with matter we can see. While seemingly baroque, this idea of a mirror world has been studied for decades within particle physics circles as it could address important problems in that field of physics. Our work potentially connects this well-studied idea to the current expansion rate discrepancy currently observed in cosmology.   Another avenue of research we have pursued is to study whether neutrinos, elusive particles that barely interact with the matter that surrounds us, could have something to do with the above-mentioned H0 tension. Since they interact so weakly with us, neutrinos are the least constrained particle in our current Standard Model of particle physics. The question is then whether new physics present exclusively in the neutrino sector could be responsible for the challenges that we are currently experiencing in cosmology. While our work has shown that such new physics is unlikely to explain the current discrepancy, cosmological observations suggests that yet-unknown neutrino interactions could be present in earlier epochs of the Universe.      Broader Impacts: This award was the main source of support for a graduate student, contributing to their professional and intellectual development, as well as to the STEM workforce. The codes developed as part of this award are publicly available for anyone to use.   As part of this award, several local Albuquerque schools were visited to share with the pupils the excitement of astronomy and of the mysteries of the Universe. Six public astronomy nights were organized to highlight the night sky with the public. Several public talks about the mysteries of the Universe were given by the PI and his team.     Last Modified: 03/15/2024       Submitted by: Francis-YanCyr-Racine]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

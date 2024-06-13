@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PFI-TT: DNA Sensors for Rapid Detection of COVID-19 and other Viral Diseases with High Sensitivity]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>249999.00</AwardTotalIntnAmount>
+<AwardAmount>249999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samir M. Iqbal</SignBlockName>
+<PO_EMAI>smiqbal@nsf.gov</PO_EMAI>
+<PO_PHON>7032927529</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Partnerships for Innovation - Technology Translation (PFI-TT) project is the development of a rapid, reliable, simple, and affordable diagnostic test for COVID-19 and other viral diseases. This work aims to establish a nanobiosensor with a number of key benefits. These benefits include high accuracy with rapid turnaround (less than 30 minutes) to promote fast quarantine and limit potential disease spread. In addition, the sensor will be low-cost with simple detection methods such as a color change that could easily be carried out without the need for specialized equipment. This design simplicity will enable testing in a variety of settings ranging from clinics, to schools and rural or low-resource areas. In addition, the low-cost, combined with the scalable fabrication methods, can have an impact on large open communities such as college campuses or workplaces that may require testing on a regular basis. Finally, this research will extend the capabilities of this sensor to enable simultaneous detection of multiple targets. In particular, the team will focus on demonstrating the ability to simultaneously detect COVID-19 and flu, which would allow diagnosis of either or both diseases with a simple rapid and cost-effective test. &lt;br/&gt;&lt;br/&gt;This project will leverage prior basic research in design and control of dynamic DNA origami devices to develop DNA-based nanobiosensors that provide a rapid (within 30 min) readout for detection of SARS-CoV-2 RNA and other viral targets. The sensor is based on a reconfigurable DNA device that will be designed to change conformation upon binding of a target nucleic acid. This work may solve several key technical challenges related to detecting the target with high accuracy, high sensitivity, and specificity, while providing robust, rapid, and easily detectable readouts with a low-cost device. The research team will balance tunable control of the device mechanical and dynamic properties with precise design of target binding mechanisms to optimize these characteristics. In addition, sensor designs will be enhanced to enable multiplexed detection establishing methods where two targets could be simultaneously detected with two different readouts such as different color fluorescence readouts. In addition, the team will develop a mechanism for cascaded activation where an activated device can trigger activation of other sensors, which can minimize the limits of detection. Finally, this work will directly benchmark the developed sensing technologies with current standards of testing including real-time polymerase chain reaction methods and widely used rapid antigen tests.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/06/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>07/06/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2044601</AwardID>
+<Investigator>
+<FirstName>Carlos</FirstName>
+<LastName>Castro</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carlos E Castro</PI_FULL_NAME>
+<EmailAddress><![CDATA[castro.39@osu.edu]]></EmailAddress>
+<NSF_ID>000601713</NSF_ID>
+<StartDate>07/06/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLWBSLWAJWR1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OHIO STATE UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MN4MDDMN8529</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>Columbus</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>432101117</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>166200</Code>
+<Text>PFI-Partnrships for Innovation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>066E</Code>
+<Text>INSTRUMENTATION &amp; DIAGNOSTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>090E</Code>
+<Text>Chem/Bio and Physical Diagnostics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~249999</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The recent COVID-19 pandemic highlighted the need for rapid diagnostic technologies that can be quickly tailored to the detection of newly emerging diseases. The current gold standard approaches for viral diagnostics are the polymerase chain reaction (PCR) based tests that detect the presence of nucleic acids, either deoxyribonucleic acid (DNA) or ribonucleic acid (RNA), derived from the genome of the virus. These tests achieve remarkable accuracy and low detection limits, but they have key limitations including the time required (typically several hours or more) and the need for expensive equipment that is often only available in clinical diagnostic labs. Other rapid tests, such as lateral flow tests, can detect molecular signatures of the disease within minutes, but they have lower accuracy and often take months to develop. This work developed a new approach for rapid diagnostics based on DNA origami nanotechnology. DNA origami is an emerging approach to self-assemble nanoscale structures and devices made from DNA. Hinge-like DNA origami sensor devices were designed for the detection of viral nucleic acid. The hinges are held closed by a DNA strand that binds to the ends of both arms keep the two arms latched together. This latching strand is designed to be complementary to the target nucleic acid, so in the presence of the target the latching strand is removed, allowing the hinge to open. As the arms open, several light emitting fluorophore molecules along one arm are separated from several quencher molecules on the other arm, leading to a sharp increase in fluorescence emission, which signals the presence of the target. A series of hinge biosensor devices were tested to increase the number of fluorophores incorporated to boost the signal for each detection event. This work led to biosensor devices that can detect viral nucleic acids within 10-15 minutes with sensitivities better than other current rapid tests. Additional experiments also demonstrated the ability to detect viral nucleic acid in relevant samples like saliva and established unique features like capabilities for multiplexed detection. Importantly, this approach can be carried out in a single step and avoids the need for costly enzymes, making this a useful technology that could be applied in a wide variety of settings.&nbsp;&nbsp;</p> <p>More broadly, this work made important advances for the field of DNA nanotechnology and molecular diagnostics. The results demonstrated that DNA origami nanodevices are well-suited for the detection of viral nucleic acids. In addition to achieving rapid test results, these devices open up the possibility for multiplexed detection. This could allow for testing for multiple diseases at once, for example testing for both flu and COVID-19 in the same test with the same sample. The nanosensor devices can also be rapidly customized to detect new targets, making them well-suited to be adapted to new emerging threats. In addition, market analysis and customer interviews conducted through this project also revealed that this diagnostic approach could also be useful for rapid bacterial diagnostics, especially in settings where quickly learning the type of bacteria could better guide decisions for treatment.</p> <p>&nbsp;</p><br> <p>  Last Modified: 04/08/2024<br> Modified by: Carlos&nbsp;E&nbsp;Castro</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The recent COVID-19 pandemic highlighted the need for rapid diagnostic technologies that can be quickly tailored to the detection of newly emerging diseases. The current gold standard approaches for viral diagnostics are the polymerase chain reaction (PCR) based tests that detect the presence of nucleic acids, either deoxyribonucleic acid (DNA) or ribonucleic acid (RNA), derived from the genome of the virus. These tests achieve remarkable accuracy and low detection limits, but they have key limitations including the time required (typically several hours or more) and the need for expensive equipment that is often only available in clinical diagnostic labs. Other rapid tests, such as lateral flow tests, can detect molecular signatures of the disease within minutes, but they have lower accuracy and often take months to develop. This work developed a new approach for rapid diagnostics based on DNA origami nanotechnology. DNA origami is an emerging approach to self-assemble nanoscale structures and devices made from DNA. Hinge-like DNA origami sensor devices were designed for the detection of viral nucleic acid. The hinges are held closed by a DNA strand that binds to the ends of both arms keep the two arms latched together. This latching strand is designed to be complementary to the target nucleic acid, so in the presence of the target the latching strand is removed, allowing the hinge to open. As the arms open, several light emitting fluorophore molecules along one arm are separated from several quencher molecules on the other arm, leading to a sharp increase in fluorescence emission, which signals the presence of the target. A series of hinge biosensor devices were tested to increase the number of fluorophores incorporated to boost the signal for each detection event. This work led to biosensor devices that can detect viral nucleic acids within 10-15 minutes with sensitivities better than other current rapid tests. Additional experiments also demonstrated the ability to detect viral nucleic acid in relevant samples like saliva and established unique features like capabilities for multiplexed detection. Importantly, this approach can be carried out in a single step and avoids the need for costly enzymes, making this a useful technology that could be applied in a wide variety of settings.   More broadly, this work made important advances for the field of DNA nanotechnology and molecular diagnostics. The results demonstrated that DNA origami nanodevices are well-suited for the detection of viral nucleic acids. In addition to achieving rapid test results, these devices open up the possibility for multiplexed detection. This could allow for testing for multiple diseases at once, for example testing for both flu and COVID-19 in the same test with the same sample. The nanosensor devices can also be rapidly customized to detect new targets, making them well-suited to be adapted to new emerging threats. In addition, market analysis and customer interviews conducted through this project also revealed that this diagnostic approach could also be useful for rapid bacterial diagnostics, especially in settings where quickly learning the type of bacteria could better guide decisions for treatment.        Last Modified: 04/08/2024       Submitted by: CarlosECastro]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

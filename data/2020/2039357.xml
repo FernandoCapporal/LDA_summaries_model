@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Shifting to Online Instruction for Math Teachers Teaching Computing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Allyson Kennedy</SignBlockName>
+<PO_EMAI>aykenned@nsf.gov</PO_EMAI>
+<PO_PHON>7032928905</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Brown University will explore how to enable math teachers to effectively teach computing online. Bootstrap is a national-scale outreach program that helps K-12 teachers integrate introductory computing into existing classes, such as math, physics, and social studies. Like many programs, Bootstrap has shifted to virtual professional development (PD) for Summer and Fall 2020. Its teachers are also preparing to teach with a combination of remote and socially-distanced instruction. For teachers with limited prior computing background, simultaneously learning and preparing to teach computing in a new (online) format demands significant cognitive overhead. Teachers must learn to effectively use programming tools, but also how to manage attention across these tools, lecture slides, digital worksheets (that would have been on paper for in-person learning), and potentially a videoconference session. With many learners (teachers and students) working on tablets or Chromebooks without external monitors or access to printers, the cognitive demands become considerable. This EAGER project explores how teachers in the integration context experience workload and develop non-cognitive dispositions that are known to impact the effectiveness of virtual PD in computing.&lt;br/&gt;&lt;br/&gt;Brown University will seek to understand and mitigate the additional challenges that math teachers face when learning to integrate computing into their courses, both in virtual PD and in virtual teaching. Collected data will be largely qualitative, in the form of surveys, check-in questions embedded in PD sessions, interviews with teachers, and field observations during PD. Surveys will be designed to account for a variety of underlying factors, including cognitive task load, confidence, motivation, and interest. The project will result in case studies, findings about effective design of PD and instruction in virtual contexts, and curricular materials adapted for virtual instructional settings. Revised curricular materials will be freely available online. The assessments and materials will be designed for teachers in various situations, including those teaching remotely, those teaching in person but under student social-distancing, and those in rural areas, who have been requesting virtual PD independently of COVID. The latter, in particular, will make this work relevant even after in-person teaching and learning is able to resume.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/02/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2039357</AwardID>
+<Investigator>
+<FirstName>Kathryn</FirstName>
+<LastName>Fisler</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kathryn Fisler</PI_FULL_NAME>
+<EmailAddress><![CDATA[kathryn_fisler@brown.edu]]></EmailAddress>
+<NSF_ID>000131380</NSF_ID>
+<StartDate>09/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shriram</FirstName>
+<LastName>Krishnamurthi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shriram Krishnamurthi</PI_FULL_NAME>
+<EmailAddress><![CDATA[sk+17@cs.brown.edu]]></EmailAddress>
+<NSF_ID>000280993</NSF_ID>
+<StartDate>09/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Brown University]]></Name>
+<CityName>PROVIDENCE</CityName>
+<ZipCode>029129100</ZipCode>
+<PhoneNumber>4018632777</PhoneNumber>
+<StreetAddress><![CDATA[1 PROSPECT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>RI01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E3FDXZ6TBHW3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BROWN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Brown University]]></Name>
+<CityName/>
+<StateCode>RI</StateCode>
+<ZipCode>029129002</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>RI01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>055Y00</Code>
+<Text>CISE Education and Workforce</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>134Y00</Code>
+<Text>CSforAll-Computer Sci for All</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>023Z</Code>
+<Text>Computer Science for All (CS for All)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~300000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project was funded in the early stages of the pandemic, when teachers and professional development providers were all facing the need to deliver content online through video conferencing (e.g. Zoom). At the time, Bootstrap was an established provider of professional development at the intersection of computing and mathematics: we offered 3-day in-person professional development (PD) workshops for teachers. Our curricular materials were designed around the paper-and-pencil worksheets around which math teachers were used to centering lessons. Needless to say, the move to video-conference learning challenged both of these models. Under this award, we:</p> <p>- redesigned our materials to use interactive slideshows (specifically via Google's PearDeck tool) through which PD facilitators or teachers could seek student engagement without the need to see everyone's paper worksheets</p> <p>- conducted early evaluation of the new design by embedding quick check-in questions based on the NASA task load index (a 7-question scale for assessing the cognitive, emotional, and physical loads associated with a task)</p> <p>- continued to offer PD training for teachers and supported teachers in presenting online lessons to their students.</p> <p>Reflecting now, at the end of the project, we have ended up in yet another new model beyond the video-conference mode during the height of the pandemic. A combination of tightening budgets and teacher exhaustion have led to decreasing interest in multi-day in-person PD sessions (though that has come back in some places). The work we invested in creating fully online PD is now used in a more blended and time-distributed format. Rather than 3 days of in-person PD, many teachers attend PD virtually one day a month for several months. Sometimes, this is preceeded by a 1-2 day in-person initial PD. The virtual days continue to use the materials that the pandemic forced us to develop. In other words, while the initial investment by this project may have centered on the pandemic, the impacts of the work are being felt far beyond that as our PD models have continued to evolve.</p> <p>Roughly 300 teachers from over a dozen states received training with the revised materials during the span of this award. Multiple teachers praised the workshop for helping them understand not only the content, but also effective teaching practices both within and beyond online educational settings.The vast majority of the trained teachers are in mathematics; each of them was learning how to integrate aspects of computer science into the math classroom. For many of their teachers, their integrated math/computer science lessons were the primary means of exposure to computing education that their students had.</p> <p>We distributed a summary of our findings and experiences on designing effective online lessons via a blog post (https://bootstrapworld.org/blog/curriculum/Remote-Instruction.shtml), which we shared on social media. All Bootstrap curricular materials are freely available on our website (www.bootstrapworld.org); the slides and other supporting teaching materials are available to those who have attended one of our PD workshops through a password-protected area for teachers.</p><br> <p>  Last Modified: 02/19/2024<br> Modified by: Kathryn&nbsp;Fisler</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project was funded in the early stages of the pandemic, when teachers and professional development providers were all facing the need to deliver content online through video conferencing (e.g. Zoom). At the time, Bootstrap was an established provider of professional development at the intersection of computing and mathematics: we offered 3-day in-person professional development (PD) workshops for teachers. Our curricular materials were designed around the paper-and-pencil worksheets around which math teachers were used to centering lessons. Needless to say, the move to video-conference learning challenged both of these models. Under this award, we:   - redesigned our materials to use interactive slideshows (specifically via Google's PearDeck tool) through which PD facilitators or teachers could seek student engagement without the need to see everyone's paper worksheets   - conducted early evaluation of the new design by embedding quick check-in questions based on the NASA task load index (a 7-question scale for assessing the cognitive, emotional, and physical loads associated with a task)   - continued to offer PD training for teachers and supported teachers in presenting online lessons to their students.   Reflecting now, at the end of the project, we have ended up in yet another new model beyond the video-conference mode during the height of the pandemic. A combination of tightening budgets and teacher exhaustion have led to decreasing interest in multi-day in-person PD sessions (though that has come back in some places). The work we invested in creating fully online PD is now used in a more blended and time-distributed format. Rather than 3 days of in-person PD, many teachers attend PD virtually one day a month for several months. Sometimes, this is preceeded by a 1-2 day in-person initial PD. The virtual days continue to use the materials that the pandemic forced us to develop. In other words, while the initial investment by this project may have centered on the pandemic, the impacts of the work are being felt far beyond that as our PD models have continued to evolve.   Roughly 300 teachers from over a dozen states received training with the revised materials during the span of this award. Multiple teachers praised the workshop for helping them understand not only the content, but also effective teaching practices both within and beyond online educational settings.The vast majority of the trained teachers are in mathematics; each of them was learning how to integrate aspects of computer science into the math classroom. For many of their teachers, their integrated math/computer science lessons were the primary means of exposure to computing education that their students had.   We distributed a summary of our findings and experiences on designing effective online lessons via a blog post (https://bootstrapworld.org/blog/curriculum/Remote-Instruction.shtml), which we shared on social media. All Bootstrap curricular materials are freely available on our website (www.bootstrapworld.org); the slides and other supporting teaching materials are available to those who have attended one of our PD workshops through a password-protected area for teachers.     Last Modified: 02/19/2024       Submitted by: KathrynFisler]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

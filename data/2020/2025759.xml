@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase II:  Development of a Scalable, Reproducible Manufacturing Process for Lightweight, High-Temperature Neutron Shield]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>992923.00</AwardTotalIntnAmount>
+<AwardAmount>1260220</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Benaiah Schrag</SignBlockName>
+<PO_EMAI>bschrag@nsf.gov</PO_EMAI>
+<PO_PHON>7032928323</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is the improved safety and reduced cost of commercial nuclear power.  The annual, global lightweight, high-temperature neutron shield market is approximately $100 million. Better materials can increase the safety of nuclear plant operations by reducing radiation damage to both in-containment components and radiation exposure to power plant workers. This project develops a high-temperature, lightweight neutron shield material for reactor design, power plant operations, and spent fuel management.  This material platform's competitive advantages are the following: 1) it can operate at temperatures 50% higher (degrees C) than current materials 2) it is castable, instead of requiring extrusion molding or machining and 3) it is cost competitive with current low-temperature neutron shielding materials.  The primary objective is to develop a reproducible, full-scale manufacturing process for this new material. This new material platform will reduce overall plant life cycle costs by reducing the expenses associated with spent fuel management and decommissioning. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase II project advances a high-temperature, lightweight neutron shielding material for the nuclear industry.  Specific objectives for the proposed research to scale the production process for industrial volumes by the following: 1) determine a blending procedure for mixing nanoparticles into the liquid resin prior to curing, 2) establish a mixing process for evenly incorporating the catalyst into the base resin for large volume parts, 3) determine a product formation process by designing molds and the mold extraction process for the large volume parts, 4) determine quality control check points for production and 5) characterize samples to confirm material properties.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>11/16/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2025759</AwardID>
+<Investigator>
+<FirstName>Danielle</FirstName>
+<LastName>Castley</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Danielle Castley</PI_FULL_NAME>
+<EmailAddress><![CDATA[danielle.castley@gmail.com]]></EmailAddress>
+<NSF_ID>000739052</NSF_ID>
+<StartDate>07/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Neutroelectric, LLC</Name>
+<CityName>CAMDEN</CityName>
+<ZipCode>081021159</ZipCode>
+<PhoneNumber>8568899156</PhoneNumber>
+<StreetAddress>808 MARKET ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>K6LHMM5KJHV5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEUTROELECTRIC, LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Neutroelectric, LLC]]></Name>
+<CityName>Williamstown</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>080941481</ZipCode>
+<StreetAddress><![CDATA[375 N . Main Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>123E</Code>
+<Text>CENTERS: ADVANCED MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>165E</Code>
+<Text>SBIR Phase IIB</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>169E</Code>
+<Text>SBIR Tech Enhan Partner (TECP)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8021</Code>
+<Text>Materials Engineering</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~992923</FUND_OBLG>
+<FUND_OBLG>2021~198583</FUND_OBLG>
+<FUND_OBLG>2024~68714</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Technical Progress</strong></p> <p>This is the final technical report for the Phase II project. All technical tasks were successfully completed and the project goal to develop a scalable, reproducible manufacturing process for a light weight, high-temperature neutron shield material was achieved as summarized in the following highlights:</p> <ul> <li>A mixing process and a blending procedure using additive materials were developed that successfully suspends nano particles in the base monomer to achieve an even crosslinking and consistently mixed blend during the exothermic curing process for the two-part thermoset resin base matrix. &nbsp;The result produced uniform material properties and consistent shielding function throughout the final molded parts.</li> <li>Determined various catalyst combinations to achieve controlled curing times over a range from minutes to one hour.</li> <li>Mold design requirements and mold extraction processes were established.</li> <li>The scalable manufacturing process was demonstrated with the successful completion of the step ups in the pouring process in increments of 5 gallon, 25 gallon and 50 gallon (one full drum of monomer) pours with consistent results.</li> </ul> <p>Issues that were encountered and solved included the suspension of nanoparticles for the duration of long pours, control of curing times, and the minimization of shrinkage in large molds.</p> <p>Quality control checkpoints were established that ensure consistent material properties for shielding and temperature tolerance of final shield material production.&nbsp; &nbsp;They include a pre-pour check on the maximum isotherm temperature, maximum isotherm temperature of pour and post pour density checks for material samples taken at the beginning and end of the pour.</p> <p>For the related TECP extension to Phase II, Becq collaborated with Transco, a Tier 2 nuclear supplier, and demonstrated the suitability of its shielding in a reflective insulation module for nuclear piping and vessels.&nbsp; The pourability and thermal conductivity were key attributes of the Becq shielding for the successful manufacturing of the composite product.&nbsp; For the Phase II.B project, Becq confirmed the optimization capabilities of its software for its Becqshield product line.</p> <p>&nbsp;</p> <p><strong>Commercial Progress</strong></p> <p>Becq was a featured speaker at the Advanced Reactor Summit IX conference which has led to Becq&rsquo;s acquisition of shielding design for advanced reactor contracts.&nbsp; Becq&rsquo;s presentation showcased Becq&rsquo;s approach to optimized shielding materials to save weight, volume and cost of shielding installations.&nbsp; The presentation attracted the attention of many of potential customers. The increase in the number of potential customers is mostly due to this year&rsquo;s conference attendances and Becq plans to increase conference participation.&nbsp; Becq&rsquo;s customers now include the Salem Nuclear Power Plant, Sandia National Laboratory, Oak Ridge National Laboratory, Orano, Idaho National Laboratory, Southern Georgia Co., academic research reactors and Tier 1 OEM suppliers to the nuclear industry.&nbsp; &nbsp;</p> <p>&nbsp;</p> <p><strong>Path Forward</strong></p> <p>Becq&rsquo;s commercial path forward includes engaging additional advanced reactor companies to support shielding designs. These sales will form a basis for future sales of materials for reactor construction. They also will accelerate sales activity to obtain near term utility projects to reduce dose for personnel including the sale of reflective insulation containing embedded Becq shielding. Becq also purchased a new facility and now has offices in Camden, NJ and Knoxville, TN.<strong>&nbsp;</strong></p> <p>&nbsp;</p><br> <p>  Last Modified: 02/21/2024<br> Modified by: Danielle&nbsp;Castley</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Technical Progress   This is the final technical report for the Phase II project. All technical tasks were successfully completed and the project goal to develop a scalable, reproducible manufacturing process for a light weight, high-temperature neutron shield material was achieved as summarized in the following highlights:  A mixing process and a blending procedure using additive materials were developed that successfully suspends nano particles in the base monomer to achieve an even crosslinking and consistently mixed blend during the exothermic curing process for the two-part thermoset resin base matrix. The result produced uniform material properties and consistent shielding function throughout the final molded parts. Determined various catalyst combinations to achieve controlled curing times over a range from minutes to one hour. Mold design requirements and mold extraction processes were established. The scalable manufacturing process was demonstrated with the successful completion of the step ups in the pouring process in increments of 5 gallon, 25 gallon and 50 gallon (one full drum of monomer) pours with consistent results.    Issues that were encountered and solved included the suspension of nanoparticles for the duration of long pours, control of curing times, and the minimization of shrinkage in large molds.   Quality control checkpoints were established that ensure consistent material properties for shielding and temperature tolerance of final shield material production. They include a pre-pour check on the maximum isotherm temperature, maximum isotherm temperature of pour and post pour density checks for material samples taken at the beginning and end of the pour.   For the related TECP extension to Phase II, Becq collaborated with Transco, a Tier 2 nuclear supplier, and demonstrated the suitability of its shielding in a reflective insulation module for nuclear piping and vessels. The pourability and thermal conductivity were key attributes of the Becq shielding for the successful manufacturing of the composite product. For the Phase II.B project, Becq confirmed the optimization capabilities of its software for its Becqshield product line.      Commercial Progress   Becq was a featured speaker at the Advanced Reactor Summit IX conference which has led to Becqs acquisition of shielding design for advanced reactor contracts. Becqs presentation showcased Becqs approach to optimized shielding materials to save weight, volume and cost of shielding installations. The presentation attracted the attention of many of potential customers. The increase in the number of potential customers is mostly due to this years conference attendances and Becq plans to increase conference participation. Becqs customers now include the Salem Nuclear Power Plant, Sandia National Laboratory, Oak Ridge National Laboratory, Orano, Idaho National Laboratory, Southern Georgia Co., academic research reactors and Tier 1 OEM suppliers to the nuclear industry.       Path Forward   Becqs commercial path forward includes engaging additional advanced reactor companies to support shielding designs. These sales will form a basis for future sales of materials for reactor construction. They also will accelerate sales activity to obtain near term utility projects to reduce dose for personnel including the sale of reflective insulation containing embedded Becq shielding. Becq also purchased a new facility and now has offices in Camden, NJ and Knoxville, TN.        Last Modified: 02/21/2024       Submitted by: DanielleCastley]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

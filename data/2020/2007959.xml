@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[AF: Small: Solving and Simplifying Algebraic, Differential, and Difference Equations.]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>349999.00</AwardTotalIntnAmount>
+<AwardAmount>349999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Brass</SignBlockName>
+<PO_EMAI>pbrass@nsf.gov</PO_EMAI>
+<PO_PHON>7032922182</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Problems in science are often reduced to mathematical equations.&lt;br/&gt;There are many computer programs for solving various types of equations.&lt;br/&gt;The equations themselves often come from computer computation, so they&lt;br/&gt;can be large. This project aims to simplify large equations, reducing them&lt;br/&gt;when possible to smaller ones that can be solved more easily.&lt;br/&gt;&lt;br/&gt;When computers construct formulas and equations to tackle problems in science,&lt;br/&gt;their first expressions need not be the simplest ones. It is likely that simpler formulas&lt;br/&gt;or equations exist. Finding them makes subsequent computations easier and faster.&lt;br/&gt;The types of equations that this project aims to simplify are differential equations,&lt;br/&gt;recurrence relations, and algebraic equations in two variables. A common theme for&lt;br/&gt;each of these types of equations is that in order to simplify them, a key step is a&lt;br/&gt;technical analysis of their singularities.&lt;br/&gt;&lt;br/&gt;Computer algebra systems can automatically find exact solutions for various types&lt;br/&gt;of equations. They are an important part of the infrastructure for research&lt;br/&gt;and education. However, they often produce unnecessarily complicated answers.&lt;br/&gt;The techniques developed in this project will help to simplify not only equations,&lt;br/&gt;but solutions as well, making them more useful for research and teaching.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2007959</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>van Hoeij</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark van Hoeij</PI_FULL_NAME>
+<EmailAddress><![CDATA[hoeij@math.fsu.edu]]></EmailAddress>
+<NSF_ID>000483679</NSF_ID>
+<StartDate>07/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Florida State University]]></Name>
+<CityName>TALLAHASSEE</CityName>
+<ZipCode>323060001</ZipCode>
+<PhoneNumber>8506445260</PhoneNumber>
+<StreetAddress><![CDATA[874 TRADITIONS WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JF2BLNN4PJC3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida State University]]></Name>
+<CityName>Tallahassee</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>323064166</ZipCode>
+<StreetAddress><![CDATA[874 Traditions Way, 3rd Floor]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779600</Code>
+<Text>Algorithmic Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7926</Code>
+<Text>ALGORITHMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7927</Code>
+<Text>COMPLEXITY &amp; CRYPTOGRAPHY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7933</Code>
+<Text>NUM, SYMBOL, &amp; ALGEBRA COMPUT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~349999</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><br />Many scientific laws are captured as differential equations -- formulas that relates a quantity (such as position) to its derivatives (velocity and acceleration). Differential equations are common in science, mathematics and engineering. They can be solved numerically, but may also have a closed-form solution -- an exact solution written in terms of familiar functions.<br /><br />A closed form solution of an equation can be viewed as a way to reduce an equation to a simpler equation, namely, the equation for a familiar function. &nbsp;There are a number of other ways to simplify equations.<br /><br />One way is to reduce an equation to equations of lower order by factoring. &nbsp;The PI has developed and implemented algorithms to factor differential equations, as well as difference equations, the latter supported by this grant. &nbsp;Factoring is not the only way to reduce the order of an equation. The PI, with a PhD student and a postdoc, has developed theory to find all other ways in which solutions of difference equations can be expressed in terms of solutions of lower order equations. &nbsp;We also developed algorithms to perform this reduction.<br /><br />Algorithms to reduce the order are particularly beneficial because in prior work, the PI and his students have developed algorithms for closed form solutions of lower order equations, particularly order two.<br /><br />For equations where the order can not be (further) reduced, the PI and his students have developed other algorithms to simplify equations. This time, the goal is to simplify to an equation of the same order, but with (nearly) minimal coefficients. &nbsp;One such algorithm has been developed for the differential case with a former student. Another algorithm, for the difference case, is currently in progress.<br /><br />This project has directly supported two PhD students, and indirectly two more PhD students, providing valuable research opportunities. &nbsp;Students have presented research at international conferences, and have developed algorithms with the PI. &nbsp;These algorithms are being used by numerous researchers. &nbsp;Finding closed form solutions, or simplifying in general, has not only practical applications, but theoretical applications as well. There are a number of conjectures that can now be proved by using closed form solutions that would have been very difficult to find in the past, but can now be produced by our algorithms with the click of a button. For example, to prove Sun's numerous conjectured formulas for pi, one produces differential equations for the functions in the conjecture. The key step is then to simplify or reduce the equation to minimal order, and then to solve in closed form. This way, the expression ends on being written in terms of familiar functions or integrals coming from algebraic geometry. Indeed, simplifying or solving often reveal fascinating connections between diverse areas of mathematics.</p><br> <p>  Last Modified: 04/16/2024<br> Modified by: Mark&nbsp;Van Hoeij</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Many scientific laws are captured as differential equations -- formulas that relates a quantity (such as position) to its derivatives (velocity and acceleration). Differential equations are common in science, mathematics and engineering. They can be solved numerically, but may also have a closed-form solution -- an exact solution written in terms of familiar functions.  A closed form solution of an equation can be viewed as a way to reduce an equation to a simpler equation, namely, the equation for a familiar function. There are a number of other ways to simplify equations.  One way is to reduce an equation to equations of lower order by factoring. The PI has developed and implemented algorithms to factor differential equations, as well as difference equations, the latter supported by this grant. Factoring is not the only way to reduce the order of an equation. The PI, with a PhD student and a postdoc, has developed theory to find all other ways in which solutions of difference equations can be expressed in terms of solutions of lower order equations. We also developed algorithms to perform this reduction.  Algorithms to reduce the order are particularly beneficial because in prior work, the PI and his students have developed algorithms for closed form solutions of lower order equations, particularly order two.  For equations where the order can not be (further) reduced, the PI and his students have developed other algorithms to simplify equations. This time, the goal is to simplify to an equation of the same order, but with (nearly) minimal coefficients. One such algorithm has been developed for the differential case with a former student. Another algorithm, for the difference case, is currently in progress.  This project has directly supported two PhD students, and indirectly two more PhD students, providing valuable research opportunities. Students have presented research at international conferences, and have developed algorithms with the PI. These algorithms are being used by numerous researchers. Finding closed form solutions, or simplifying in general, has not only practical applications, but theoretical applications as well. There are a number of conjectures that can now be proved by using closed form solutions that would have been very difficult to find in the past, but can now be produced by our algorithms with the click of a button. For example, to prove Sun's numerous conjectured formulas for pi, one produces differential equations for the functions in the conjecture. The key step is then to simplify or reduce the equation to minimal order, and then to solve in closed form. This way, the expression ends on being written in terms of familiar functions or integrals coming from algebraic geometry. Indeed, simplifying or solving often reveal fascinating connections between diverse areas of mathematics.     Last Modified: 04/16/2024       Submitted by: MarkVan Hoeij]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

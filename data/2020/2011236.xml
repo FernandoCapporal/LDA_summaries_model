@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SHF: Small: Collaborative Research: Retraining-free Concurrent Test and Diagnosis in Emerging Neural Network Accelerators]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/05/2019</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>235000.00</AwardTotalIntnAmount>
+<AwardAmount>235000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+<PO_EMAI>sabasu@nsf.gov</PO_EMAI>
+<PO_PHON>7032927843</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Neural networks have become the go-to tool for solving many real-world recognition and classification problems in computer vision, language processing, life sciences and finance. While promising, smart and intelligent data interpretation via deep learning is extremely power hungry. To conduct power-efficient deep learning on battery-constrained edge platforms, one promising solution is to use hardware accelerators built with emerging non-volatile memory (NVM) devices, which offer high density, extremely low power consumption, as well as in-situ and parallelized data processing. While these advances are enticing, NVM devices also impose extra challenges, as their design and manufacturing technology are far less mature than CMOS. Furthermore, NVM technologies are likely to exhibit new types of errors, such as read/write disturbance, values drifting over time, and short data retention time. These errors can accumulate while the accelerator is running a deep learning application, and without careful mitigation could lead to significant accuracy degradation. To assuage these concerns, this project will develop a self-healing framework for NVM-based neural network accelerators integrating a test, diagnosis, and recovery loop that monitors and maintains the health of the accelerator. Results of this project will (1) deepen the understanding of interactions among hardware defects and errors, NVM-based accelerators, and machine learning, (2) increase community awareness of post-fabrication error debugging and fixing techniques, (3) enrich the computer engineering course curriculum, and (4) train and promote students of diverse backgrounds for both the workforce and research.&lt;br/&gt; &lt;br/&gt;This project will investigate, characterize, and mitigate errors that will affect the adoption of NVM-based neural network accelerators. While existing solutions focus on fixing errors observed at fabrication time, this project targets the NVM-specific errors that will occur over the life of the accelerator, not just at the time of manufacturing. The project will lead to four outcomes, namely, (1) measurement and characterization of the error resilience capability of neural networks with different topologies and data types, (2) cost-effective approaches for deploying neural networks alongside NVM-based accelerators which exhibit new and diverse error patterns without involving costly retraining, (3) methods for generating neural network inputs as test vectors which will be tuned to be sensitive to different levels of error accumulation and accuracy loss and will provide real-time accelerator health statistics, and (4) an algorithm and device level co-diagnosis procedure which identifies and protects the most critical and vulnerable components of the neural network and the accelerator.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>01/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>01/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011236</AwardID>
+<Investigator>
+<FirstName>Wujie</FirstName>
+<LastName>Wen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wujie Wen</PI_FULL_NAME>
+<EmailAddress><![CDATA[wwen2@ncsu.edu]]></EmailAddress>
+<NSF_ID>000705760</NSF_ID>
+<StartDate>01/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Lehigh University</Name>
+<CityName>BETHLEHEM</CityName>
+<ZipCode>180153008</ZipCode>
+<PhoneNumber>6107583021</PhoneNumber>
+<StreetAddress>526 BRODHEAD AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E13MDBKHLDB5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LEHIGH UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Lehigh University]]></Name>
+<CityName>Bethlehem</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>180153005</ZipCode>
+<StreetAddress><![CDATA[Alumni Building 27]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~235000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="Default">Neural networks (NN) have become crucial for addressing recognition and classification challenges in diverse fields such as computer vision, language processing, life sciences, and finance. A notable trend is the growing prevalence of NN services on resource-constrained edge devices. These services, while essential, often demand significant memory and computational resources, presenting challenges for edge devices with limitations in these aspects. Utilizing accelerators built upon emerging non-volatile memory (NVM) devices holds promise as a solution, given their attributes of high density, exceptionally low power consumption, and capabilities for in-situ and parallelized data processing. Nevertheless, NVM devices bring additional challenges, given their less mature design and manufacturing technology compared to CMOS. Moreover, NVM technologies are prone to encountering a variety of NVM-specific errors, including read/write disturbance, values drifting over time, and short data retention periods. If not carefully addressed, the accumulation of these errors during neural network computation could lead to significant accuracy degradation. The primary goal of this project is to develop a self-healing framework for NVM-based neural network accelerators integrating a test, diagnosis, and recovery loop that monitors and maintains the health of the accelerator, over the life.</p> <p class="Default">&nbsp;</p> <div> <p>We have accomplished these goals and more specifically: 1) We conducted a comprehensive analysis of the error resilience properties of deep neural networks (DNNs) across various topologies and applications. To address defects in non-volatile memory (NVM)-based DNN hardware accelerators, we developed fast and cost-effective weight approximation techniques. These techniques, including add/sub approximation, least significant bit (LSB) approximation, and counter-one (C-1) approximation, leverage fault-free bits in weight memory to effectively approximate weight values, mitigating accuracy drop caused by defects. Our proposed algorithms can be seamlessly applied as a one-step solution during the loading of weights to embedded devices, requiring minimal hardware support and incurring negligible runtime overhead. This technique is particularly well-suited for resource-constrained embedded devices, offering a solution without the need for retraining and with zero storage overhead and minimal hardware impact. 2) We devised cost-effective test patterns for real-time monitoring of the health status (or inference accuracy) of running NVM-based neural network accelerators. Utilizing the concept of "corner data" known to significantly confuse neural network decision-making, along with a training algorithm inspired by DNN security research, we generated a small set of test patterns tuned to be sensitive to varying levels of error accumulation and accuracy loss. Our developed "corner data" based test pattern, labeled &ldquo;C-TP," coupled with the white noise-style test pattern "O-TP," generated from scratch using the gradient descent optimization algorithm, outperforms state-of-the-art solutions (e.g., patterns based on adversarial inputs) in terms of sensitivity to different fault levels and types, while maintaining cost-effectiveness. Furthermore, in fault detection, "C-TP" achieves a higher detection rate than "O-TP" due to its increased sensitivity to confidence score changes caused by weight errors, albeit at the cost of requiring a larger number of patterns. On the other hand, "O-TP" exhibits a superior accuracy match between confidence distance and accuracy degradation in accuracy status change detection, despite utilizing fewer patterns. Both methods represent a fundamental rethinking of how to quickly and precisely test and certify the performance of neural network accelerators during runtime.Top of Form</p> </div> <p class="Default">3) We showcased the development of a comprehensive algorithmic framework designed to fortify neural networks across all layers, from the input layer to the output layer. Our proposed approach includes an intermediate-layer protection method that utilizes repetition codes to encode only the Most Significant Bits (MSBs), thereby reducing overhead. Additionally, we implemented a noise injection method at the input layer, introducing Gaussian noise during training to achieve further accuracy improvements. 4) We investigated a zero-space cost fault-tolerance solution for reliable DNN model inference. This involves strategically leveraging the inherent redundancy within large DNNs to safeguard the most critical parameters in the presence of device errors, such as stuck-at faults. Implementation of this solution can occur at the model deployment stage.</p> <p class="Default">&nbsp;</p> <p class="Default">The research outcomes of this project have been disseminated through conference papers and presentations, journal publications, a Ph.D. thesis, and the organized workshops such as the "TRAIN" (Trustworthy and Reliable AI Accelerator Design) Workshop at Embedded Systems Week (ESWEEK). The developed solutions have set new benchmarks for the community, contributing to the advancement of the field. This project forms the core of a Ph.D. student's thesis and project. Over the 4-year duration, the research project supported 6 graduate students (including 1 female student) and resulted in 14 conference papers (including one best paper) and 1 journal paper.</p> <p>&nbsp;</p><br> <p>  Last Modified: 02/09/2024<br> Modified by: Wujie&nbsp;Wen</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Neural networks (NN) have become crucial for addressing recognition and classification challenges in diverse fields such as computer vision, language processing, life sciences, and finance. A notable trend is the growing prevalence of NN services on resource-constrained edge devices. These services, while essential, often demand significant memory and computational resources, presenting challenges for edge devices with limitations in these aspects. Utilizing accelerators built upon emerging non-volatile memory (NVM) devices holds promise as a solution, given their attributes of high density, exceptionally low power consumption, and capabilities for in-situ and parallelized data processing. Nevertheless, NVM devices bring additional challenges, given their less mature design and manufacturing technology compared to CMOS. Moreover, NVM technologies are prone to encountering a variety of NVM-specific errors, including read/write disturbance, values drifting over time, and short data retention periods. If not carefully addressed, the accumulation of these errors during neural network computation could lead to significant accuracy degradation. The primary goal of this project is to develop a self-healing framework for NVM-based neural network accelerators integrating a test, diagnosis, and recovery loop that monitors and maintains the health of the accelerator, over the life.       We have accomplished these goals and more specifically: 1) We conducted a comprehensive analysis of the error resilience properties of deep neural networks (DNNs) across various topologies and applications. To address defects in non-volatile memory (NVM)-based DNN hardware accelerators, we developed fast and cost-effective weight approximation techniques. These techniques, including add/sub approximation, least significant bit (LSB) approximation, and counter-one (C-1) approximation, leverage fault-free bits in weight memory to effectively approximate weight values, mitigating accuracy drop caused by defects. Our proposed algorithms can be seamlessly applied as a one-step solution during the loading of weights to embedded devices, requiring minimal hardware support and incurring negligible runtime overhead. This technique is particularly well-suited for resource-constrained embedded devices, offering a solution without the need for retraining and with zero storage overhead and minimal hardware impact. 2) We devised cost-effective test patterns for real-time monitoring of the health status (or inference accuracy) of running NVM-based neural network accelerators. Utilizing the concept of "corner data" known to significantly confuse neural network decision-making, along with a training algorithm inspired by DNN security research, we generated a small set of test patterns tuned to be sensitive to varying levels of error accumulation and accuracy loss. Our developed "corner data" based test pattern, labeled C-TP," coupled with the white noise-style test pattern "O-TP," generated from scratch using the gradient descent optimization algorithm, outperforms state-of-the-art solutions (e.g., patterns based on adversarial inputs) in terms of sensitivity to different fault levels and types, while maintaining cost-effectiveness. Furthermore, in fault detection, "C-TP" achieves a higher detection rate than "O-TP" due to its increased sensitivity to confidence score changes caused by weight errors, albeit at the cost of requiring a larger number of patterns. On the other hand, "O-TP" exhibits a superior accuracy match between confidence distance and accuracy degradation in accuracy status change detection, despite utilizing fewer patterns. Both methods represent a fundamental rethinking of how to quickly and precisely test and certify the performance of neural network accelerators during runtime.Top of Form    3) We showcased the development of a comprehensive algorithmic framework designed to fortify neural networks across all layers, from the input layer to the output layer. Our proposed approach includes an intermediate-layer protection method that utilizes repetition codes to encode only the Most Significant Bits (MSBs), thereby reducing overhead. Additionally, we implemented a noise injection method at the input layer, introducing Gaussian noise during training to achieve further accuracy improvements. 4) We investigated a zero-space cost fault-tolerance solution for reliable DNN model inference. This involves strategically leveraging the inherent redundancy within large DNNs to safeguard the most critical parameters in the presence of device errors, such as stuck-at faults. Implementation of this solution can occur at the model deployment stage.      The research outcomes of this project have been disseminated through conference papers and presentations, journal publications, a Ph.D. thesis, and the organized workshops such as the "TRAIN" (Trustworthy and Reliable AI Accelerator Design) Workshop at Embedded Systems Week (ESWEEK). The developed solutions have set new benchmarks for the community, contributing to the advancement of the field. This project forms the core of a Ph.D. student's thesis and project. Over the 4-year duration, the research project supported 6 graduate students (including 1 female student) and resulted in 14 conference papers (including one best paper) and 1 journal paper.        Last Modified: 02/09/2024       Submitted by: WujieWen]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

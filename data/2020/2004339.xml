@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Enhance Exciton Transport in Perovskite Quantum Dot Solids through Coherent Interactions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>541521.00</AwardTotalIntnAmount>
+<AwardAmount>541521</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Lane</SignBlockName>
+<PO_EMAI>plane@nsf.gov</PO_EMAI>
+<PO_PHON>7032922453</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project uses ultrafast lasers to make “movies” of light energy traveling between tiny semiconductor nanoparticles known as quantum dots. These quantum dots are efficient light absorbers and potentially useful for devices such as solar cells or light emitting diodes. In a device, quantum dots must be closely packed together in order to facilitate energy transfer from one quantum dot to the next. As a result, the distance between quantum dots and the speed at which energy migrates has a strong effect on device efficiency. By imaging how energy moves in quantum dot solids with different packings, this research aims to provide guidelines for designing structures for efficient light energy harvesting through control of energy migration rates. To achieve these goals, synthetic strategies are developed to control the size of the quantum dots and the chemical linkers used to connect them. Then, these quantum dots are used as “artificial atoms” and assembled into well-ordered structures known as superlattices. The research team also develops microscopy techniques to record fast energy transfer events with a resolution of 10 femtoseconds (a femtosecond is one quadrillionth of a second) and to image energy migration distances with a resolution of 50 nanometers (a nanometer is one billionth of a meter).  The research and educational activities are integrated to educate the next generation of solar energy researchers through K-12, undergraduate, and graduate science education. The PIs partner with Science Express and AP Fridays at Purdue to involve K-12 students in a cutting-edge laboratory environment. Results from this project are utilized to educate the general public on new solar energy technologies using podcast and video media.&lt;br/&gt;&lt;br/&gt;Long-range exciton transport and coherence in colloidal quantum dot solids are highly desirable for their optoelectronic and quantum information applications. However, exciton transport in colloidal quantum dot solids thus far has been almost exclusively realized in the incoherent regime with excitons localized in individual quantum dots due to the relatively large energetic disorder compared to the electronic coupling strength in these systems. Incoherent transport of localized excitons presents a major limitation in obtaining long-range coherence and transport. In this project, strong dipole-dipole interactions between perovskite quantum dots are leveraged to enhance transport by promoting coherent motion of delocalized excitons. The team elucidates transport mechanisms by employing ultrafast coherent microscopy with ~10 fs time resolution and better than 50 nm spatial resolution. Exciton propagation distance, delocalization length, and coherent transport contributions are measured as a function of temperature. The extent of exciton delocalization is systematically controlled by varying inter-particle distance, electronic coupling, and dimensionality using ligand chemistry. The project provides guidelines for designing excitonic materials using perovskite quantum dots as building blocks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2004339</AwardID>
+<Investigator>
+<FirstName>Christina</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christina W Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[christinawli@purdue.edu]]></EmailAddress>
+<NSF_ID>000731349</NSF_ID>
+<StartDate>04/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Libai</FirstName>
+<LastName>Huang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Libai Huang</PI_FULL_NAME>
+<EmailAddress><![CDATA[libai-huang@purdue.edu]]></EmailAddress>
+<NSF_ID>000532239</NSF_ID>
+<StartDate>04/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress><![CDATA[2550 NORTHWESTERN AVE # 1100]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YRXVL4JYCEF5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>W Lafayette</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479072084</ZipCode>
+<StreetAddress><![CDATA[560 Oval Dr]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>176200</Code>
+<Text>SOLID STATE &amp; MATERIALS CHEMIS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>177500</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8607</Code>
+<Text>Solar Energy Capture&amp;Conver</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8615</Code>
+<Text>Nanoscale Devices and Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~541521</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The movement of light energy through a semiconducting material is a fundamental process within solar cells and light-emitting diodes. In order to develop highly-efficient devices, it is critical to understand how the structural properties of the semiconducting layer impacts the speed and efficiency of energy migration through the material. In this project, we studied the growth, structure, and optical properties of quantum dot superlattices, which are large-scale assemblies of tiny light-emitting semiconductor nanoparticles (a nanometer is 10<sup>&ndash;9</sup> meters) known as quantum dots. Each superlattice comprises tens-of-thousands of individual quantum dots packed into a dense and highly-ordered structure. We hypothesized that structural order and interparticle distance would play a key role in dictating how quickly light energy would move through the superlattice.</p> <p>A key part of this project was to develop the instrumental techniques necessary to characterize both the structure and optical properties of individual superlattices. To determine the degree of order or disorder in each superlattice, we developed a method utilizing transmission electron microscopy coupled to fast Fourier transform analysis. This technique allowed us to determine how much disorder was present in the nanocrystal size, i.e. whether a particular superlattice was composed of many identically-sized nanocrystals or a mixture of large and small nanocrystals, and if other structural defects such as grain boundaries were present. By studying a large number of individual superlattices, we showed that the nanocrystal self-assembly process improved order in nanocrystal size relative to the parent solution. In addition, we found that large-scale disorder measured on the superlattice level using our electron microscopy technique was not necessarily correlated to its energy migration properties.</p> <p>In addition to structural characterization, this project also entailed the development of microscopy techniques to measure ultrafast energy transfer events and image tiny energy migration distances over a wide temperature range. We were able to achieve time resolution of 10 femtoseconds (a femtosecond is 10<sup>&ndash;15</sup> seconds) and spatial resolution of 50 nanometers. Using this technique, we studied several individual superlattices with varying chemical linkers, which controls the distance between nanocrystals within the lattice, and varying degrees of disorder. We found that disorder, interparticle distance, and temperature are all critical parameters that strongly influence the rate of energy migration through the superlattice. Interestingly, we discovered that an intermediate temperature regime exists where thermal energy exactly balances the disorder in the sample, thereby maximizing the rate of steady-state energy transfer, a phenomenon known as environmentally-assisted quantum transport. We anticipate that these findings will provide guidelines for the design of new solid-state materials based on quantum dot superlattice structures.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 03/01/2024<br> Modified by: Libai&nbsp;Huang</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The movement of light energy through a semiconducting material is a fundamental process within solar cells and light-emitting diodes. In order to develop highly-efficient devices, it is critical to understand how the structural properties of the semiconducting layer impacts the speed and efficiency of energy migration through the material. In this project, we studied the growth, structure, and optical properties of quantum dot superlattices, which are large-scale assemblies of tiny light-emitting semiconductor nanoparticles (a nanometer is 109 meters) known as quantum dots. Each superlattice comprises tens-of-thousands of individual quantum dots packed into a dense and highly-ordered structure. We hypothesized that structural order and interparticle distance would play a key role in dictating how quickly light energy would move through the superlattice.   A key part of this project was to develop the instrumental techniques necessary to characterize both the structure and optical properties of individual superlattices. To determine the degree of order or disorder in each superlattice, we developed a method utilizing transmission electron microscopy coupled to fast Fourier transform analysis. This technique allowed us to determine how much disorder was present in the nanocrystal size, i.e. whether a particular superlattice was composed of many identically-sized nanocrystals or a mixture of large and small nanocrystals, and if other structural defects such as grain boundaries were present. By studying a large number of individual superlattices, we showed that the nanocrystal self-assembly process improved order in nanocrystal size relative to the parent solution. In addition, we found that large-scale disorder measured on the superlattice level using our electron microscopy technique was not necessarily correlated to its energy migration properties.   In addition to structural characterization, this project also entailed the development of microscopy techniques to measure ultrafast energy transfer events and image tiny energy migration distances over a wide temperature range. We were able to achieve time resolution of 10 femtoseconds (a femtosecond is 1015 seconds) and spatial resolution of 50 nanometers. Using this technique, we studied several individual superlattices with varying chemical linkers, which controls the distance between nanocrystals within the lattice, and varying degrees of disorder. We found that disorder, interparticle distance, and temperature are all critical parameters that strongly influence the rate of energy migration through the superlattice. Interestingly, we discovered that an intermediate temperature regime exists where thermal energy exactly balances the disorder in the sample, thereby maximizing the rate of steady-state energy transfer, a phenomenon known as environmentally-assisted quantum transport. We anticipate that these findings will provide guidelines for the design of new solid-state materials based on quantum dot superlattice structures.           Last Modified: 03/01/2024       Submitted by: LibaiHuang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

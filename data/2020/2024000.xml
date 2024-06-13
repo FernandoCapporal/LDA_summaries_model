@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Doctoral Dissertation Research: Combining quantitative analysis and corpus-based methodologies in the documentation of an endangered language]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>18787.00</AwardTotalIntnAmount>
+<AwardAmount>18787</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rachel M. Theodore</SignBlockName>
+<PO_EMAI>rtheodor@nsf.gov</PO_EMAI>
+<PO_PHON>7032924770</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Most phonological linguistic theory, and the cross-linguistic studies which inform it, is based on studies of a few, well-studied languages. Much less is known about the sound systems (phonology) of languages with fewer speakers. Furthermore, descriptions of understudied languages, particularly of sound systems, are easily biased by linguists' native languages. Non-native listener biases often lead to contradictory descriptions which are therefore unsuitable for cross-linguistic comparisons. &lt;br/&gt;&lt;br/&gt;This project examines the phonological system of an understudied and endangered language. Previous description of its phonological system is sparse, but existing documentation indicates that this language includes some features which are of special theoretical or typological interest. For example, the language uses uvular sounds, glottalized sonorants, and a voiceless lateral fricative. Each of these sounds (or sets of sounds) is cross-linguistically uncommon. Their appearance in this particular language is also unexpected; in comparison to other languages' sound systems, the set of sounds and features which co-occur in this system is unusual. In addition, the study is of regional interest; it will expand linguists' understanding of contact-driven language change and shed light on long-term histories of contact among groups in the region. This study combines traditional methodologies—including recording an audio-video corpus of speech, written transcription, and controlled elicitation—with quantitative experimental methodologies. The experimental component of the project targets questions of theoretical and typological interest. For example, what acoustic cues to speakers use to produce and perceive stress? Are long vowels separate segments from shorter vowels? Should 'creaky voice' be analyzed as a feature of individual segments, words, or phrases? Results from controlled experiments will be integrated with traditional, corpus-driven conclusions to develop a comprehensive phonological description of a previously undescribed system. Precise, quantitative analysis, integrated with a holistic description and publicly-available corpus of language data, will allow these results to contribute to broader questions related to sound patterns, language typology, language contact, and diachronic change.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2024000</AwardID>
+<Investigator>
+<FirstName>Patience</FirstName>
+<LastName>Epps</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Patience Epps</PI_FULL_NAME>
+<EmailAddress><![CDATA[pattieepps@austin.utexas.edu]]></EmailAddress>
+<NSF_ID>000500004</NSF_ID>
+<StartDate>09/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Paige</FirstName>
+<LastName>Wheeler</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Paige E Wheeler</PI_FULL_NAME>
+<EmailAddress><![CDATA[pewheeler@utexas.edu]]></EmailAddress>
+<NSF_ID>000820558</NSF_ID>
+<StartDate>09/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>Austin</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787595316</ZipCode>
+<StreetAddress><![CDATA[3925 W Braker Lane, Suite 3340]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>123Y00</Code>
+<Text>DLI DDRIG-DynLangInfrast DDRIG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1311</Code>
+<Text>LINGUISTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7719</Code>
+<Text>DEL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~18787</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project addresses three aspects of the Enenlhet vowel system. Enenlhet is an endangered, Indigenous language spoken in Paraguay by around 1200 people. Thorough description of the language is important because it is endangered, and because speakers wish to document and describe their language. This set of studies provides one step toward this larger end goal.</p> <p>The project relies on a set of recordings of native speakers using the language to tell stories or respond to interview questions. The recordings are all available on the Archive of the Indigenous Languages of Latin America, at UT Austin. Each vowel in these recordings was marked and measured separately. One of the contributions of this project is that it demonstrates that robust, quantiative studies can be done on languages that are currently under-described. Linguists can therefore add under-described (often endangered, Indigenous) languages to the pool of data they use to make cross-linguistic generalizations or formal theories about linguistic universals.</p> <p>The project addresses vowel quality, or the identity of the vowel. There is a cross-linguistic generalization that languages prefer to have vowels that sound very different from one another. Enenlhet (and related languages) are a counter-example to this generalization. This study of vowel quality shows that all Enenlhet vowels are actually quite similar, especially in the acoustic dimension which is most perceptually salient to listeners (F1). It proposes that future studies of vowel perception are needed to determine how speakers tell vowels apart in this cross-linguistically unusual system.</p> <p>The project also addresses vowel duration. Vowels in Enenlhet are generally longer in the places that studies of other languages suggest vowels are likely to be longer (e.g., vowels are longer right before a pause, and shorter before a voiceless consonant). However, these differences are very small in comparison to what has been found in other languages. This difference in magnitude may be due to the nature of the data; most studies rely on carefully controlled speech, rather than the spontaneous narratives used in this project. Therefore, this study suggests that future work should also try to include more natural speech in addition to controlled stimuli. This description also provides a starting point for studying changes in vowel duration across time in languages related to Enenlhet.</p> <p>The last study conducted in this project looks at characteristics of the acoustic signal that are related to the vocal folds. It finds that vowels which are adjacent to glottal stop (a sound like the one before the vowels in 'uh-oh') show acoustic indicators of more slow and irregular vocal fold vibration. This result is expected. Qualitative examination of these tokens suggests that, depending on the location of the glottal stop, the timing of these changes may vary. Future work should investigate this possibility. This study also broadly suggests that Enenlhet vowels are not prioritized by speakers. That is, they can often be relatively short, quiet, and difficult to distinguish from one another. This finding presents a major question for future work on this language and others, as vowels are very important parts of most other languages' sound systems.&nbsp;</p> <p>In sum, the three studies carried out over the course of the project both contribute to the close description of an under-studied Indigenous language and present questions for future research that challenge established generalizations in the field of phonetics and phonology. This project therefore increases diversity within the field of linguistics by making data from an under-studied language available for inclusion in cross-linguistic generalizations.</p> <p>These studies also highlight the importance of spontaneous speech in phonetic studies, showing that even when results are relatively expected (as in the duration study), spontaneous speech may be different from the elicited speech that is used in manty studies. This project also provides a detailed description of the methodology used to process the data, and therefore it can be used as a template for future studies of other under-studied languages, increasing the overall diversity of our knowledge about sound systems of the world's languages.</p> <p>Finally, documenting and describing Indigenous languages can indirectly affect the speakers of these languages. Academic studies help show that these languages are robust, fully communicative systems, countering discriminatory narratives about Indigenous people and their languages. Academic studies can also be used as evidence by Indigenous communities that their languages are worth teaching and preserving, and therefore that their communities themselves are worth investing in. In a country like Paraguay, where many Indigenous people lack socio-economic opportunities and many Indigenous communities lack government-supported infrastructure, academic studies can be a valuable tool for Indigenous people's activism and advocacy.</p><br> <p>  Last Modified: 04/30/2024<br> Modified by: Paige&nbsp;E&nbsp;Wheeler</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project addresses three aspects of the Enenlhet vowel system. Enenlhet is an endangered, Indigenous language spoken in Paraguay by around 1200 people. Thorough description of the language is important because it is endangered, and because speakers wish to document and describe their language. This set of studies provides one step toward this larger end goal.   The project relies on a set of recordings of native speakers using the language to tell stories or respond to interview questions. The recordings are all available on the Archive of the Indigenous Languages of Latin America, at UT Austin. Each vowel in these recordings was marked and measured separately. One of the contributions of this project is that it demonstrates that robust, quantiative studies can be done on languages that are currently under-described. Linguists can therefore add under-described (often endangered, Indigenous) languages to the pool of data they use to make cross-linguistic generalizations or formal theories about linguistic universals.   The project addresses vowel quality, or the identity of the vowel. There is a cross-linguistic generalization that languages prefer to have vowels that sound very different from one another. Enenlhet (and related languages) are a counter-example to this generalization. This study of vowel quality shows that all Enenlhet vowels are actually quite similar, especially in the acoustic dimension which is most perceptually salient to listeners (F1). It proposes that future studies of vowel perception are needed to determine how speakers tell vowels apart in this cross-linguistically unusual system.   The project also addresses vowel duration. Vowels in Enenlhet are generally longer in the places that studies of other languages suggest vowels are likely to be longer (e.g., vowels are longer right before a pause, and shorter before a voiceless consonant). However, these differences are very small in comparison to what has been found in other languages. This difference in magnitude may be due to the nature of the data; most studies rely on carefully controlled speech, rather than the spontaneous narratives used in this project. Therefore, this study suggests that future work should also try to include more natural speech in addition to controlled stimuli. This description also provides a starting point for studying changes in vowel duration across time in languages related to Enenlhet.   The last study conducted in this project looks at characteristics of the acoustic signal that are related to the vocal folds. It finds that vowels which are adjacent to glottal stop (a sound like the one before the vowels in 'uh-oh') show acoustic indicators of more slow and irregular vocal fold vibration. This result is expected. Qualitative examination of these tokens suggests that, depending on the location of the glottal stop, the timing of these changes may vary. Future work should investigate this possibility. This study also broadly suggests that Enenlhet vowels are not prioritized by speakers. That is, they can often be relatively short, quiet, and difficult to distinguish from one another. This finding presents a major question for future work on this language and others, as vowels are very important parts of most other languages' sound systems.   In sum, the three studies carried out over the course of the project both contribute to the close description of an under-studied Indigenous language and present questions for future research that challenge established generalizations in the field of phonetics and phonology. This project therefore increases diversity within the field of linguistics by making data from an under-studied language available for inclusion in cross-linguistic generalizations.   These studies also highlight the importance of spontaneous speech in phonetic studies, showing that even when results are relatively expected (as in the duration study), spontaneous speech may be different from the elicited speech that is used in manty studies. This project also provides a detailed description of the methodology used to process the data, and therefore it can be used as a template for future studies of other under-studied languages, increasing the overall diversity of our knowledge about sound systems of the world's languages.   Finally, documenting and describing Indigenous languages can indirectly affect the speakers of these languages. Academic studies help show that these languages are robust, fully communicative systems, countering discriminatory narratives about Indigenous people and their languages. Academic studies can also be used as evidence by Indigenous communities that their languages are worth teaching and preserving, and therefore that their communities themselves are worth investing in. In a country like Paraguay, where many Indigenous people lack socio-economic opportunities and many Indigenous communities lack government-supported infrastructure, academic studies can be a valuable tool for Indigenous people's activism and advocacy.     Last Modified: 04/30/2024       Submitted by: PaigeEWheeler]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

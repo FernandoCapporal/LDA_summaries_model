@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[The Neural and Social Bases of Creative Movement]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>49901.00</AwardTotalIntnAmount>
+<AwardAmount>59901</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Soo-Siang Lim</SignBlockName>
+<PO_EMAI>slim@nsf.gov</PO_EMAI>
+<PO_PHON>7032927878</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The purpose of this workshop is to facilitate interdisciplinary discussions of the neural and social bases of movement and creative movement, that could stimulate new research directions and catalyze creative collaborations integrating the perspectives of scientists, engineers, and artists.  The motivating scientific interest for this project is a recognition that the planning and control of movement recruit a broad array of sensory-motor circuits in the brain required for synchronization, improvisation, and coordination, not only within an individual, but also between ensembles of people. From a scientific perspective, creative movement offers a unique experimental paradigm within which a well-controlled set of actions can be examined to understand how the brain accomplishes expressive movements, how it learns them in the first place, how creative movements are coordinated with movements of others, and how such movements are supported by the underlying substrates of sensory-motor networks within the brain.&lt;br/&gt;&lt;br/&gt;The workshop’s broader goal is to foster collaborations among scientists, engineers, and artists in the study of creative movement in its many dimensions and contexts. It will advance a fundamental understanding of how the brain produces purposeful actions that are central to human well-being and quality of life. Broader impacts include the exploration of creative motion to advance therapeutic and health related goals.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/21/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2024837</AwardID>
+<Investigator>
+<FirstName>Shihab</FirstName>
+<LastName>Shamma</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shihab A Shamma</PI_FULL_NAME>
+<EmailAddress><![CDATA[sas@isr.umd.edu]]></EmailAddress>
+<NSF_ID>000461861</NSF_ID>
+<StartDate>09/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Maryland, College Park]]></Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425100</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress><![CDATA[3112 LEE BUILDING]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NPU8ULVAAS23</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland College Park]]></Name>
+<CityName>COLLEGE PARK</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207423370</ZipCode>
+<StreetAddress><![CDATA[3112 LEE BLDG 7809 Regents Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>058Y00</Code>
+<Text>M3X - Mind, Machine, and Motor</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>127Y00</Code>
+<Text>Sci of Lrng &amp; Augmented Intel</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>725200</Code>
+<Text>Perception, Action &amp; Cognition</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>059Z</Code>
+<Text>Science of Learning</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~39901</FUND_OBLG>
+<FUND_OBLG>2021~10000</FUND_OBLG>
+<FUND_OBLG>2022~10000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p style="text-align: center;"><strong>The Neural&nbsp;and&nbsp;Social&nbsp;Bases&nbsp;of&nbsp;Creative Movement</strong></p> <p>This grant supported primarily the organization of&nbsp;an international interdisciplinary workshop focused on the theme of&nbsp;<em>Creative&nbsp;Movements and the Brain</em>. The workshop recruited for the first time an exceptionally wide range of&nbsp;scientists,&nbsp;engineers,&nbsp;and&nbsp;clinicians&nbsp;to&nbsp;exchangeideas&nbsp;with,&nbsp;and&nbsp;to&nbsp;integrate&nbsp;knowledge&nbsp;and&nbsp;experience among creative movement professionals and other performing artists. Its primary goals&nbsp;are&nbsp;to&nbsp;encourage&nbsp;all&nbsp;participants&nbsp;to&nbsp;reach&nbsp;beyond&nbsp;the&nbsp;confines&nbsp;of&nbsp;their expertise to&nbsp;explore&nbsp;the&nbsp;science&nbsp;of&nbsp;learning&nbsp;to&nbsp;move,&nbsp;how&nbsp;the&nbsp;creative&nbsp;process&nbsp;is&nbsp;manifested in&nbsp;the&nbsp;brain,&nbsp;and&nbsp;how&nbsp;it&nbsp;can&nbsp;beharnessed&nbsp;to&nbsp;enhance health&nbsp;and&nbsp;the quality&nbsp;of&nbsp;life.</p> <p>The intellectal motivation for this workshop stems from the fact that in&nbsp;all&nbsp;human&nbsp;cultures,&nbsp;creative&nbsp;movement,&nbsp;and&nbsp;especially&nbsp;dance,&nbsp;serves&nbsp;as&nbsp;a&nbsp;conduit&nbsp;to&nbsp;express&nbsp;thoughts&nbsp;and feelings, both&nbsp;inwardly within the individual, and outwardly to communicate to the wider society.&nbsp;For&nbsp;theneuroscientist,&nbsp;creative&nbsp;movement&nbsp;offers&nbsp;an&nbsp;exquisite&nbsp;scientific&nbsp;paradigm&nbsp;to&nbsp;investigate&nbsp;the&nbsp;neuroplasticityassociated with learning complex sensorimotor interactions,&nbsp;and&nbsp;how they enhance&nbsp;the&nbsp;emotional states,&nbsp;cognitiveabilities,&nbsp;physical&nbsp;health,&nbsp;and&nbsp;motor&nbsp;faculties&nbsp;in&nbsp;everyday&nbsp;experience, including&nbsp;those&nbsp;of&nbsp;individuals&nbsp;with&nbsp;chronicmovement&nbsp;disorders.</p> <p>The workshop occured&nbsp;<strong>Thursday,&nbsp;&nbsp;April&nbsp;7 &ndash; Sunday, 10 April,&nbsp;2022, &nbsp;at the&nbsp;</strong><strong>Wolf&nbsp;Trap&nbsp;National&nbsp;Park&nbsp;for&nbsp;the&nbsp;Performing&nbsp;Arts,&nbsp;&nbsp;Vienna, Virginia</strong>.</p> <p>It encompassed three days&nbsp;of<em>&nbsp;</em>scientific presentations and a day of educational outreach and performances.&nbsp;Presentations included demonstrations&nbsp;within&nbsp;sessions,&nbsp;while&nbsp;public&nbsp;lectures&nbsp;and&nbsp;performances&nbsp;are&nbsp;on&nbsp;the&nbsp;fourth&nbsp;day.</p> <p>The specific topics covered were as follows:&nbsp;</p> <p><strong>Session 1</strong>:&nbsp;Anthropological and Evolutionary Biology of creative movement&nbsp;-&nbsp;Nicky Clayton&nbsp;<em>(CambridgeUniversity).</em></p> <p><em>&nbsp;</em></p> <p><strong>Session&nbsp;2</strong>:&nbsp;Cognitive&nbsp;Neuroscience&nbsp;of&nbsp;<em>creative&nbsp;movement&nbsp;-&nbsp;</em>Aga&nbsp;Burzynska<em>&nbsp;(Colorado&nbsp;State&nbsp;University)</em></p> <p><strong>Session 3</strong>: AI, Robotics, Technology and Creative movement&ndash;&nbsp;Jose Contreras-Vidal<em>&nbsp;(University of&nbsp;Houston).</em></p> <p><strong>Session&nbsp;4</strong>:&nbsp;Creative&nbsp;Movement&nbsp;for&nbsp;Health&nbsp;-&nbsp;Citlali&nbsp;Lopez-Ortiz<em>&nbsp;(UI&nbsp;Urbana-Champaign).</em></p> <p><strong>Session&nbsp;5:&nbsp;</strong>Embodied&nbsp;Cognition&nbsp;and&nbsp;Learning&nbsp;of&nbsp;Creative Movement&nbsp;<em>&ndash;&nbsp;</em>Guido&nbsp;Orgs<em>&nbsp;</em></p> <p><strong><em>(</em></strong><em>Goldsmiths.&nbsp;London)</em></p> <p><strong>Session 6</strong>: The Shared Experience of Creative Movement: Improvisation, Synchronicity, and Creative&nbsp;ChildEducation&nbsp;<em>-&nbsp;</em>Asaf&nbsp;Bachrach&nbsp;(<em>CNRS</em>).</p> <p><strong>Session 7</strong>: Educational Outreach and Performance at Wolf trap &ndash;&nbsp;Jose Contreras-Vidal and Shihab Shamma.</p> <div class="WordSection1"> <p>The workshop was supported in part&nbsp;by the National Science&nbsp;Foundation,&nbsp;&nbsp;especially in&nbsp;Sessions&nbsp;1- 4. Significant contributions&nbsp;have also&nbsp;come&nbsp;from:</p> <ul> <li>WolfTrap&nbsp;Foundation&nbsp;for&nbsp;the&nbsp;Performing&nbsp;Arts&nbsp;(Venue&nbsp;and&nbsp;Sessions&nbsp;4&nbsp;&amp;&nbsp;7)</li> <li>National&nbsp;Endowment&nbsp;for the&nbsp;Arts&nbsp;Research&nbsp;Lab&nbsp;at&nbsp;Rice&nbsp;University&nbsp;(Session&nbsp;7)</li> <li>National&nbsp;Center&nbsp;for&nbsp;Complementary and Integrative&nbsp;Health (NCCIH/NIH) (Sessions&nbsp;1, 3 &amp;&nbsp;5)</li> <li>The&nbsp;Brain&nbsp;and&nbsp;Behavior&nbsp;Institute&nbsp;<em>&amp;&nbsp;</em>the&nbsp;Arts-for-All<em>&nbsp;</em>initiative,&nbsp;University&nbsp;of&nbsp;Maryland,&nbsp;&nbsp;College&nbsp;Park</li> <li>NSF&nbsp;IUCRC&nbsp;BRAIN&nbsp;Center&nbsp;(https://nsfbrain.org)&nbsp;(Sessions&nbsp;3&nbsp;&amp; 7)</li> </ul> </div> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 04/07/2024<br> Modified by: Shihab&nbsp;A&nbsp;Shamma</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2024837/2024837_10706374_1712489607980_Dance_Brain--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2024837/2024837_10706374_1712489607980_Dance_Brain--rgov-800width.jpg" title="Dance and the Brain"><img src="/por/images/Reports/POR/2024/2024837/2024837_10706374_1712489607980_Dance_Brain--rgov-66x44.jpg" alt="Dance and the Brain"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Topics covered over the Worshop on Dance and the Brain: The neural and social bases of creative movement</div> <div class="imageCredit">SAS</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Shihab&nbsp;A&nbsp;Shamma <div class="imageTitle">Dance and the Brain</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The NeuralandSocialBasesofCreative Movement   This grant supported primarily the organization ofan international interdisciplinary workshop focused on the theme ofCreativeMovements and the Brain. The workshop recruited for the first time an exceptionally wide range ofscientists,engineers,andclinicianstoexchangeideaswith,andtointegrateknowledgeandexperience among creative movement professionals and other performing artists. Its primary goalsaretoencourageallparticipantstoreachbeyondtheconfinesoftheir expertise toexplorethescienceoflearningtomove,howthecreativeprocessismanifested inthebrain,andhowitcanbeharnessedtoenhance healthandthe qualityoflife.   The intellectal motivation for this workshop stems from the fact that inallhumancultures,creativemovement,andespeciallydance,servesasaconduittoexpressthoughtsand feelings, bothinwardly within the individual, and outwardly to communicate to the wider society.Fortheneuroscientist,creativemovementoffersanexquisitescientificparadigmtoinvestigatetheneuroplasticityassociated with learning complex sensorimotor interactions,andhow they enhancetheemotional states,cognitiveabilities,physicalhealth,andmotorfacultiesineverydayexperience, includingthoseofindividualswithchronicmovementdisorders.   The workshop occuredThursday,April7  Sunday, 10 April,2022, at theWolfTrapNationalParkforthePerformingArts,Vienna, Virginia.   It encompassed three daysofscientific presentations and a day of educational outreach and performances.Presentations included demonstrationswithinsessions,whilepubliclecturesandperformancesareonthefourthday.   The specific topics covered were as follows:   Session 1:Anthropological and Evolutionary Biology of creative movement-Nicky Clayton(CambridgeUniversity).      Session2:CognitiveNeuroscienceofcreativemovement-AgaBurzynska(ColoradoStateUniversity)   Session 3: AI, Robotics, Technology and Creative movementJose Contreras-Vidal(University ofHouston).   Session4:CreativeMovementforHealth-CitlaliLopez-Ortiz(UIUrbana-Champaign).   Session5:EmbodiedCognitionandLearningofCreative MovementGuidoOrgs   (Goldsmiths.London)   Session 6: The Shared Experience of Creative Movement: Improvisation, Synchronicity, and CreativeChildEducation-AsafBachrach(CNRS).   Session 7: Educational Outreach and Performance at Wolf trap Jose Contreras-Vidal and Shihab Shamma.    The workshop was supported in partby the National ScienceFoundation,especially inSessions1- 4. Significant contributionshave alsocomefrom:  WolfTrapFoundationforthePerformingArts(VenueandSessions4&7) NationalEndowmentfor theArtsResearchLabatRiceUniversity(Session7) NationalCenterforComplementary and IntegrativeHealth (NCCIH/NIH) (Sessions1, 3 &5) TheBrainandBehaviorInstitute&theArts-for-Allinitiative,UniversityofMaryland,CollegePark NSFIUCRCBRAINCenter(https://nsfbrain.org)(Sessions3& 7)                Last Modified: 04/07/2024       Submitted by: ShihabAShamma]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

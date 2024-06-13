@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER:  Mechanisms of defense and counter-defense in the battle between bacteria and their viruses]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/16/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>890263.00</AwardTotalIntnAmount>
+<AwardAmount>615809</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Clifford Weil</SignBlockName>
+<PO_EMAI>cweil@nsf.gov</PO_EMAI>
+<PO_PHON>7032924668</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Bacteria and bacteriophages (bacterial viruses) have evolved a sophisticated arsenal of defensive and offensive molecular weaponry targeted against each other. Phages are ten times more abundant than their bacterial hosts in every environment tested, and thus they profoundly impact the bacterial communities in all environments. Although much research is currently focused on investigating bacterial defense systems in isolation, research activities in this project will examine whether bacterial immune systems act with other cellular processes to maximize the efficiency of defense. In this project, Staphylococcus bacteria and their phages, both abundant residents of human skin, will be used as a model host-virus system. Educational activities designed to stimulate interest in science will provide hands-on research experiences to undergraduates and high school students through a phage discovery course. Undergraduates will also gain early exposure to cutting-edge genome editing tools and techniques. The research has the potential to inspire novel biotechnologies and the educational activities are expected to promote participation of underrepresented groups in STEM careers.&lt;br/&gt;&lt;br/&gt;The overarching goal of this project is to gain fundamental insight into defense and counter-defense mechanisms in S. epidermidis and its phages as a model system. CRISPR-Cas are an important class of adaptive defense systems that use small RNAs and Cas nucleases to destroy invading phages. Many staphylococci naturally possess Type III (CRISPR-Cas10) systems, which are among the most widespread in nature. Although recent research has shed light on the canonical immunity pathway of the model CRISPR-Cas10 system in S. epidermidis, the question of whether or not CRISPR-Cas10 relies upon other (non-Cas) pathways to carry out defense was never posed. Preliminary work in the PIs lab has discovered unexpected interactions between CRISPR-Cas10 and two conserved cellular pathways previously considered unrelated to immunity. These observations support the central hypothesis that CRISPR-Cas10 integrates with other cellular pathways, including other immune systems in S. epidermidis, to carry out defense. This integration in turn impacts the corresponding phage-encoded mechanisms of counter-defense. Research in this project will test this hypothesis by using a combination of biochemistry, genetic, and molecular biology approaches to 1) characterize molecular interactions between CRISPR-Cas10 and other cellular pathways, 2) determine the molecular mechanisms by which newly discovered immune system(s) operate, and 3) characterize phage-encoded mechanisms that counter these defenses. The new insights gained by this research are expected to form the basis for biotechnologies that can be used to shape and control natural Staphylococcus communities.</AbstractNarration>
+<MinAmdLetterDate>11/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>12/31/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2054755</AwardID>
+<Investigator>
+<FirstName>Asma</FirstName>
+<LastName>Hatoum</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Asma Hatoum</PI_FULL_NAME>
+<EmailAddress><![CDATA[ahatoum@illinois.edu]]></EmailAddress>
+<NSF_ID>000727584</NSF_ID>
+<StartDate>11/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<ZipCode>618013620</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress><![CDATA[506 S WRIGHT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y8CWNJRCNN91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>Champaign</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>618207406</ZipCode>
+<StreetAddress><![CDATA[1901 South First Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>111200</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7218</Code>
+<Text>RET SUPP-Res Exp for Tchr Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~140216</FUND_OBLG>
+<FUND_OBLG>2020~185846</FUND_OBLG>
+<FUND_OBLG>2021~176329</FUND_OBLG>
+<FUND_OBLG>2022~182062</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The long-term goal of this project was to understand how bacteria and their viruses (phages) interact at the molecular level through research and teaching activities that blend into one synergistic endeavor. Phages pose a constant threat to bacterial populations in nature. In response, bacteria have evolved a variety of immune systems that protect against phage infection. Although phages and anti-phage defenses have profound impacts on bacterial survival and evolution, we are only just beginning to understand their diversity, and little is known about the molecular mechanisms underpinning their interactions. Our project addressed these critical gaps by using microbiological, molecular, genetic, and biochemical approaches to discover new phages and reveal mechanisms by which bacteria defend against them, with a focus on&nbsp;<em>Staphylococcus epidermidis</em> and its phages (Figure 1) as model organisms. Our findings reveal new insights into diverse anti-phage immunity mechanisms and contribute to a broader understanding of phage-host dynamics in natural bacterial populations.</p> <p><strong><span style="text-decoration: underline;">Intellectual Merit Outcomes</span></strong><span style="text-decoration: underline;">&nbsp;</span></p> <p><strong>1. Mechanistic insights into Type III CRISPR-Cas systems. </strong>Of the six distinct CRISPR-Cas Types that have been identified, Type III systems are among the most widespread in nature and considered the most complex. Our research revealed that in <em>S. epidermidis</em>, this system recruits and/or stimulates multiple nucleases typically involved in housekeeping functions to generate mature crRNAs and block phage infection (Figure 2). These studies provide the first examples of a Type III CRISPR-Cas system co-opting host nucleases for defense functions. The prevailing paradigm has been that CRISPR-Cas systems are generally modular, self-contained, and function in isolation; however, our findings support a broader view of these systems as central coordinators of an integrated network of CRISPR-associated (Cas) and non-Cas cellular pathways.</p> <p><strong>2. Discovery and characterization of </strong><strong>a novel immune system.</strong> In order to preserve genome integrity and protect against pathogens, all organisms have evolved diverse immunity mechanisms that detect and destroy invading DNA/RNA. In bacteria, the best studied of these are restriction-modification and CRISPR-Cas systems, which typically rely upon multiple components to sense and destroy phage-derived nucleic acids. However, we discovered and rigorously characterized a new immune system composed of a single enzyme with nuclease and helicase activities that we named Nhi. Nhi is unique in both its minimal composition and ability to accomplish the challenging task of recognizing and degrading phage DNA while leaving the host unharmed (Figure 3). Our findings highlight the versatility and effectiveness of such compact weapons in anti-phage defense.</p> <p><strong>3. An expanded diversity of <em>S. epidermidis</em> phages. </strong>Although <em>S. epidermidis</em> is a major constituent of the skin microbiome, fewer than 30% of sequenced staphylococcal phage isolates specifically infect <em>S. epidermidis</em>. This lack of diversity in sequenced collections impedes efforts to gain a comprehensive understanding of the impacts of these ubiquitous entities. To fill this gap, we discovered and meticulously characterized dozens of new <em>S. epidermidis</em> phages (Figure 1). These phages not only constitute our critical toolkit for discovering and probing new immune systems, but their availability in reference genome databases will enable other researchers to identify them in metagenomic datasets. These phages are also expected to play an important role in the development of phage-based antimicrobials that can be used for broader applications such as microbiome engineering and surface decontamination.<strong>&nbsp;</strong></p> <p><strong><span style="text-decoration: underline;">Broader Impact Outcomes</span></strong></p> <p><strong>1.&nbsp;Early research experiences for undergraduates. </strong>Providing undergraduate research experiences helps to promote student retention and enhance diversity in STEM (Science, Technology, Engineering, and Mathematics) disciplines. However, undergraduate research opportunities at the University of Alabama (UA) and the University of Illinois at Urbana-Champaign (UIUC) are scarce and highly competitive, leaving many interested students unable to gain research experience. To address this issue, I developed a semester-long research-based course called <em>Phage Discovery</em>, which uses the discovery and characterization of phages as a platform to expose undergraduates to the full spectrum of activities entailed in conducting authentic scientific research. I offered the course five times at UA and UIUC during the project performance period (2018-2023). In addition to significantly contributing to the sequenced collection of <em>S. epidermidis</em> phages (Figure 1), the course provided 85 undergraduates with research experiences.</p> <p><strong>2.&nbsp;Active learning opportunities for high school students. </strong>Providing active learning opportunities has also been proven to stimulate student interest in entering STEM careers. We developed a five-day active learning module in which students conduct experiments and analyze data to understand the relationship between <em>S. epidermidis</em> and its phage called Andhra. The module explores key concepts in antibiotic resistance, phage-based therapeutics, and CRISPR-Cas technologies. We recruited and trained five high school teachers in Alabama and outfitted their classrooms with basic equipment needed to conduct the experiments. These teachers then piloted the module in their classrooms in 2019, providing dozens of students with active learning experiences. We also developed a similar module titled "Exploring the CRISPR-Cas Defense System" in collaboration with Carolina Biologicals, making the module broadly available (Figure 4). &nbsp;&nbsp;&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 04/28/2024<br> Modified by: Asma&nbsp;Hatoum</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2054755/2054755_10527733_1714326865841_Fig_4--rgov-214x142.png" original="/por/images/Reports/POR/2024/2054755/2054755_10527733_1714326865841_Fig_4--rgov-800width.png" title="Figure 4. Educational kit offered through Carolina Biologicals"><img src="/por/images/Reports/POR/2024/2054755/2054755_10527733_1714326865841_Fig_4--rgov-66x44.png" alt="Figure 4. Educational kit offered through Carolina Biologicals"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A five-day active learning module in which high school students explore the interactions between <i>S. epidermidis</i> and phage Andhra, while learning key concepts in antibiotic resistance, phage-based therapeutics, and CRISPR-Cas technologies.</div> <div class="imageCredit">Asma Hatoum-Aslan</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Asma&nbsp;Hatoum <div class="imageTitle">Figure 4. Educational kit offered through Carolina Biologicals</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2054755/2054755_10527733_1714326433345_Fig_2_alt--rgov-214x142.png" original="/por/images/Reports/POR/2024/2054755/2054755_10527733_1714326433345_Fig_2_alt--rgov-800width.png" title="Figure 2. Multiple host-encoded nucleases promote Type III CRISPR-Cas immunity"><img src="/por/images/Reports/POR/2024/2054755/2054755_10527733_1714326433345_Fig_2_alt--rgov-66x44.png" alt="Figure 2. Multiple host-encoded nucleases promote Type III CRISPR-Cas immunity"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Illustration of the Type III CRISPR-Cas system in <i>S. epidermidis</i> and the defense pathway. Grey ovals represent CRISPR-associated nucleases, and colored shapes represent host-encoded 'housekeeping' nucleases that participate in immunity. P, PNPase, R, RNase R, J, RNase J.</div> <div class="imageCredit">Asma Hatoum-Aslan</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Asma&nbsp;Hatoum <div class="imageTitle">Figure 2. Multiple host-encoded nucleases promote Type III CRISPR-Cas immunity</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2054755/2054755_10527733_1714326698838_Fig_3_alt2--rgov-214x142.png" original="/por/images/Reports/POR/2024/2054755/2054755_10527733_1714326698838_Fig_3_alt2--rgov-800width.png" title="Figure 3. Nhi, a small immune system that packs a big punch"><img src="/por/images/Reports/POR/2024/2054755/2054755_10527733_1714326698838_Fig_3_alt2--rgov-66x44.png" alt="Figure 3. Nhi, a small immune system that packs a big punch"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Nhi protects against diverse phages by using its nuclease and helicase activities to destroy phage DNA.</div> <div class="imageCredit">Asma Hatoum-Aslan</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Asma&nbsp;Hatoum <div class="imageTitle">Figure 3. Nhi, a small immune system that packs a big punch</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2054755/2054755_10527733_1714326094486_Fig_1_alt--rgov-214x142.png" original="/por/images/Reports/POR/2024/2054755/2054755_10527733_1714326094486_Fig_1_alt--rgov-800width.png" title="Figure 1. Phages of <i>S. epidermidis</i>"><img src="/por/images/Reports/POR/2024/2054755/2054755_10527733_1714326094486_Fig_1_alt--rgov-66x44.png" alt="Figure 1. Phages of <i>S. epidermidis</i>"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Representative <i>S. epidermidis</i> phages discovered by students enrolled in <i>Phage Discovery</i>, a research-based lab course.</div> <div class="imageCredit">Asma Hatoum-Aslan</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Asma&nbsp;Hatoum <div class="imageTitle">Figure 1. Phages of <i>S. epidermidis</i></div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The long-term goal of this project was to understand how bacteria and their viruses (phages) interact at the molecular level through research and teaching activities that blend into one synergistic endeavor. Phages pose a constant threat to bacterial populations in nature. In response, bacteria have evolved a variety of immune systems that protect against phage infection. Although phages and anti-phage defenses have profound impacts on bacterial survival and evolution, we are only just beginning to understand their diversity, and little is known about the molecular mechanisms underpinning their interactions. Our project addressed these critical gaps by using microbiological, molecular, genetic, and biochemical approaches to discover new phages and reveal mechanisms by which bacteria defend against them, with a focus onStaphylococcus epidermidis and its phages (Figure 1) as model organisms. Our findings reveal new insights into diverse anti-phage immunity mechanisms and contribute to a broader understanding of phage-host dynamics in natural bacterial populations.   Intellectual Merit Outcomes   1. Mechanistic insights into Type III CRISPR-Cas systems. Of the six distinct CRISPR-Cas Types that have been identified, Type III systems are among the most widespread in nature and considered the most complex. Our research revealed that in S. epidermidis, this system recruits and/or stimulates multiple nucleases typically involved in housekeeping functions to generate mature crRNAs and block phage infection (Figure 2). These studies provide the first examples of a Type III CRISPR-Cas system co-opting host nucleases for defense functions. The prevailing paradigm has been that CRISPR-Cas systems are generally modular, self-contained, and function in isolation; however, our findings support a broader view of these systems as central coordinators of an integrated network of CRISPR-associated (Cas) and non-Cas cellular pathways.   2. Discovery and characterization of a novel immune system. In order to preserve genome integrity and protect against pathogens, all organisms have evolved diverse immunity mechanisms that detect and destroy invading DNA/RNA. In bacteria, the best studied of these are restriction-modification and CRISPR-Cas systems, which typically rely upon multiple components to sense and destroy phage-derived nucleic acids. However, we discovered and rigorously characterized a new immune system composed of a single enzyme with nuclease and helicase activities that we named Nhi. Nhi is unique in both its minimal composition and ability to accomplish the challenging task of recognizing and degrading phage DNA while leaving the host unharmed (Figure 3). Our findings highlight the versatility and effectiveness of such compact weapons in anti-phage defense.   3. An expanded diversity of S. epidermidis phages. Although S. epidermidis is a major constituent of the skin microbiome, fewer than 30% of sequenced staphylococcal phage isolates specifically infect S. epidermidis. This lack of diversity in sequenced collections impedes efforts to gain a comprehensive understanding of the impacts of these ubiquitous entities. To fill this gap, we discovered and meticulously characterized dozens of new S. epidermidis phages (Figure 1). These phages not only constitute our critical toolkit for discovering and probing new immune systems, but their availability in reference genome databases will enable other researchers to identify them in metagenomic datasets. These phages are also expected to play an important role in the development of phage-based antimicrobials that can be used for broader applications such as microbiome engineering and surface decontamination.   Broader Impact Outcomes   1.Early research experiences for undergraduates. Providing undergraduate research experiences helps to promote student retention and enhance diversity in STEM (Science, Technology, Engineering, and Mathematics) disciplines. However, undergraduate research opportunities at the University of Alabama (UA) and the University of Illinois at Urbana-Champaign (UIUC) are scarce and highly competitive, leaving many interested students unable to gain research experience. To address this issue, I developed a semester-long research-based course called Phage Discovery, which uses the discovery and characterization of phages as a platform to expose undergraduates to the full spectrum of activities entailed in conducting authentic scientific research. I offered the course five times at UA and UIUC during the project performance period (2018-2023). In addition to significantly contributing to the sequenced collection of S. epidermidis phages (Figure 1), the course provided 85 undergraduates with research experiences.   2.Active learning opportunities for high school students. Providing active learning opportunities has also been proven to stimulate student interest in entering STEM careers. We developed a five-day active learning module in which students conduct experiments and analyze data to understand the relationship between S. epidermidis and its phage called Andhra. The module explores key concepts in antibiotic resistance, phage-based therapeutics, and CRISPR-Cas technologies. We recruited and trained five high school teachers in Alabama and outfitted their classrooms with basic equipment needed to conduct the experiments. These teachers then piloted the module in their classrooms in 2019, providing dozens of students with active learning experiences. We also developed a similar module titled "Exploring the CRISPR-Cas Defense System" in collaboration with Carolina Biologicals, making the module broadly available (Figure 4).            Last Modified: 04/28/2024       Submitted by: AsmaHatoum]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RII Track-4: Surviving climate change: The role of adaptation and acclimatization in tropical corals]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>241424.00</AwardTotalIntnAmount>
+<AwardAmount>241424</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01060100</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OIA</Abbreviation>
+<LongName>OIA-Office of Integrative Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrea Johnson</SignBlockName>
+<PO_EMAI>andjohns@nsf.gov</PO_EMAI>
+<PO_PHON>7032925164</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This Research Infrastructure Improvement RII Track-4 grant will study heat tolerance in coral populations. Corals are suffering thermal stress across the globe as a result of increases in water temperature of less than 2°C. Yet, some corals live in more extreme conditions. Previous coral research shows that recurrent high temperatures can induce heat tolerance in reef-building corals. These results have been derived from small populations of corals in unusual reef settings with extreme daily variation in temperature. However, it is not well known whether these environments are much more common than currently believed and whether daily increases in temperature occur regularly on coral reefs. The result will provide a model for discovering habitats where heat-resistant corals may be commonly found. The award will provide the opportunity for an early-career faculty and his graduate student from the University of Rhode Island (URI) to establish a new collaboration with professors at the Huck Institutes of the Life sciences at Pennsylvania State University. Additionally, the project will generate a new workshop called DIVERSE and a K-6 coral reef science kit aimed at increasing the interest of underrepresented minority groups in STEM. Thus, this fellowship will help to promote diversity in STEM fields and strengthen URI's and Rhode Island's aim to build capacity in bioinformatics and computational biology.&lt;br/&gt;&lt;br/&gt;This project will test the hypothesis that some reef zones repeatedly experience warmer temperatures and, as a result, harbor heat-resistant corals. The study will monitor temperature patterns across a wide range of reef habitats and locations and measure heat tolerance in one of the most threatened corals, Orbicella faveolata. To understand heat tolerance in corals and gain knowledge of where to locate heat-tolerant coral populations, this study will use a replicated Caribbean reef system and test physiological hypotheses about the mechanisms of heat tolerance. The project will specifically address the following objectives: (1) determine profile variation in temperature across ten reef systems with a variety of reef habitats and test which habitats and sites harbor heat-tolerant corals; (2) analyze the performance of colonies in reciprocal transplants and examine the role of acclimation in heat tolerance; (3) establish the degree of heat tolerance across corals from different habitats and determine the genes underlying thermotolerance in corals using genomic tools. The experiments will be designed to test if phenotypic plasticity, widely viewed as an important trait in evolutionary ecology, is key for coral's ability to cope with warmer oceans. Through manipulative trials, the project will also quantify the extent to which habitat-adapted populations are also interchangeable across habitats. The research will provide valuable information on the general rules about where to locate heat-tolerant corals, which may result in the ability to conduct a Caribbean-wide search for these habitats.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/27/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2032919</AwardID>
+<Investigator>
+<FirstName>Carlos</FirstName>
+<LastName>Prada</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carlos Prada</PI_FULL_NAME>
+<EmailAddress><![CDATA[prada@uri.edu]]></EmailAddress>
+<NSF_ID>000784370</NSF_ID>
+<StartDate>01/27/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Rhode Island]]></Name>
+<CityName>KINGSTON</CityName>
+<ZipCode>028811974</ZipCode>
+<PhoneNumber>4018742635</PhoneNumber>
+<StreetAddress><![CDATA[75 LOWER COLLEGE RD RM 103]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>RI02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CJDNG9D14MW7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF RHODE ISLAND</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NSA8T7PLC9K3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Rhode Island]]></Name>
+<CityName>KINGSTON</CityName>
+<StateCode>RI</StateCode>
+<ZipCode>028811967</ZipCode>
+<StreetAddress><![CDATA[RESEARCH OFFICE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>RI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>721700</Code>
+<Text>EPSCoR Research Infrastructure</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~241424</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong><span>Project Summary:</span></strong><span>&nbsp;The project investigated heat stress in corals, a major cause of the death of corals worldwide. Previous coral research shows that recurrent high temperatures can kill corals, but also induce heat tolerance in reef-building corals. These results derive from small populations of corals in unusual reef settings with extreme daily variation in temperature. A key question is whether these environments are much more common than currently believed and whether daily increases in temperature occur regularly on reefs. Results from the project demonstrated that heat-tolerant corals are common in backreefs, but heat tolerance is occurs across many habitats and reefs. The experiments also suggest that acclimation and genomic variation are central to generating heat tolerance in corals. Through manipulative trials, researchers found that coral populations are habitat-adapted and likely unable to be used interchangeably across habitats. The project generated the first general hypothesis about where to find heat-tolerant corals, leading to the ability to search worldwide for these habitats and facilitate coral restoration.&nbsp;The award also provided a transformative opportunity for an early-career&nbsp;</span>Hispanic faculty interested in genome science, increasing diversity in STEM fields in RI and strengthening URI's and Rhode Island's aim to build capacity in bioinformatics and computational biology.</p> <p>&nbsp;</p> <p><strong><span>Key Project Outcomes:</span></strong></p> <p><strong><span>Identification of Heat-Tolerant Coral Populations:</span></strong><span>&nbsp;Through experimental trials, the research project successfully identified populations of corals exhibiting higher levels of heat tolerance, especially in the backreefs of reefs around Southwest Puerto Rico. By comparing physiological responses across different coral populations exposed to elevated temperatures, the study pinpointed specific traits associated with heat resilience.</span></p> <p><strong><span>Characterization of Acclimation:</span></strong><span>&nbsp;The project revealed the role of acclimation in enabling corals to cope with heat stress. Through controlled laboratory experiments, we documented how corals can adjust &ndash;to a certain degree&ndash; their physiology in response to changing environmental conditions. This understanding of phenotypic plasticity provides valuable insights into the adaptive potential of corals facing future warming events.</span></p> <p><strong><span>Assessment of Habitat Interchangeability:</span></strong><span>&nbsp;The project evaluated the extent to which heat-tolerant corals can be transferred across different habitats to enhance reef resilience. Through manipulative trials, researchers demostrated how corals often die when transplanted into novel environments with varying temperature regimes. This assessment provided valuable guidance for conservation practitioners seeking to enhance the resilience of coral reef ecosystems.</span></p> <p><strong><span>Several genomic Regions Associate with Heat Stress:</span></strong><span>&nbsp;By comparing the genomes of heat-sensitive and heat-tolerant coral populations, researchers pinpointed likely pathways that confer resilience to elevated temperatures, but also highlight the complexity of the genomic signals. This understanding of the genomic basis of heat tolerance provides valuable insights into the adaptive potential of corals facing climate&nbsp;</span><span>change.</span></p> <p><strong><span>Increased opportunities for Latino researchers in Marine Biology.</span></strong><span>&nbsp;In Rhode Island, Latinos comprise 15.9% of the population, with a similar percentage in URI&rsquo;s student population (12.7%). However, URI&rsquo;s Latino faculty is less than 3%. Furthermore, young Hispanics do not see themselves as scientists as these are vulnerable communities who lack the support, tools, resources, mentoring, and role models to encourage them to pursue STEM career pathways. This EPSCoR award supported a junior Latino PI and three Latino graduate students with an interest in genomics, thereby increasing role models and diversity in STEM fields in Rhode Island. The project helped build capacity in marine science, and bioinformatics, while increasing equity and diversity in Rhode Island.</span></p> <p><strong><span>Impact and Significance:</span></strong><span>&nbsp;The project's outcomes have significant implications for the conservation and management of coral reefs in the US Caribbean and beyond.&nbsp;<span>The value of this research is that it provides a test of the first general hypothesis about where to find heat tolerant corals, leading to the ability to conduct a worldwide search for these habitats.&nbsp;</span>By advancing our understanding of heat tolerance in corals and where to find them, the research has provided a&nbsp;<span>prime conservation asset</span>&nbsp;and guided conservation actions aimed at protecting vulnerable coral reefs.&nbsp;<span>The manipulative experiment was done in coordination with the NOAA Restoration Center, and thus the findings were incorporated into on-going coral restoration and management efforts.&nbsp;</span>The project's findings have been disseminated through scientific publications, conference presentations, and outreach activities, reaching diverse audiences and contributing to global efforts to address the impacts of ocean warming on marine ecosystems.<strong><span>&nbsp;</span></strong></span></p> <p><strong><span>Future Directions:</span></strong><span>&nbsp;The award served as a critical milestone for the PI as a faculty and lifelong STEM educator, providing him with extensive training in functional genomics, physiology, and bioinformatics. Results from the project highlight the role of acclimation in heat tolerance in corals. Building on this success, future research will focus on studying how thermal history creates physiological memory in corals and testing whether this process is mediated by epigenetic (histone, and small RNA) variation. Additionally, future efforts will further refine predictive models of coral reef dynamics under different warming scenarios.</span></p> <p>&nbsp;</p> <p class="Default"><span>&nbsp;</span></p> <p>&nbsp;</p><br> <p>  Last Modified: 05/29/2024<br> Modified by: Carlos&nbsp;Prada</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Project Summary:The project investigated heat stress in corals, a major cause of the death of corals worldwide. Previous coral research shows that recurrent high temperatures can kill corals, but also induce heat tolerance in reef-building corals. These results derive from small populations of corals in unusual reef settings with extreme daily variation in temperature. A key question is whether these environments are much more common than currently believed and whether daily increases in temperature occur regularly on reefs. Results from the project demonstrated that heat-tolerant corals are common in backreefs, but heat tolerance is occurs across many habitats and reefs. The experiments also suggest that acclimation and genomic variation are central to generating heat tolerance in corals. Through manipulative trials, researchers found that coral populations are habitat-adapted and likely unable to be used interchangeably across habitats. The project generated the first general hypothesis about where to find heat-tolerant corals, leading to the ability to search worldwide for these habitats and facilitate coral restoration.The award also provided a transformative opportunity for an early-careerHispanic faculty interested in genome science, increasing diversity in STEM fields in RI and strengthening URI's and Rhode Island's aim to build capacity in bioinformatics and computational biology.      Key Project Outcomes:   Identification of Heat-Tolerant Coral Populations:Through experimental trials, the research project successfully identified populations of corals exhibiting higher levels of heat tolerance, especially in the backreefs of reefs around Southwest Puerto Rico. By comparing physiological responses across different coral populations exposed to elevated temperatures, the study pinpointed specific traits associated with heat resilience.   Characterization of Acclimation:The project revealed the role of acclimation in enabling corals to cope with heat stress. Through controlled laboratory experiments, we documented how corals can adjust to a certain degree their physiology in response to changing environmental conditions. This understanding of phenotypic plasticity provides valuable insights into the adaptive potential of corals facing future warming events.   Assessment of Habitat Interchangeability:The project evaluated the extent to which heat-tolerant corals can be transferred across different habitats to enhance reef resilience. Through manipulative trials, researchers demostrated how corals often die when transplanted into novel environments with varying temperature regimes. This assessment provided valuable guidance for conservation practitioners seeking to enhance the resilience of coral reef ecosystems.   Several genomic Regions Associate with Heat Stress:By comparing the genomes of heat-sensitive and heat-tolerant coral populations, researchers pinpointed likely pathways that confer resilience to elevated temperatures, but also highlight the complexity of the genomic signals. This understanding of the genomic basis of heat tolerance provides valuable insights into the adaptive potential of corals facing climatechange.   Increased opportunities for Latino researchers in Marine Biology.In Rhode Island, Latinos comprise 15.9% of the population, with a similar percentage in URIs student population (12.7%). However, URIs Latino faculty is less than 3%. Furthermore, young Hispanics do not see themselves as scientists as these are vulnerable communities who lack the support, tools, resources, mentoring, and role models to encourage them to pursue STEM career pathways. This EPSCoR award supported a junior Latino PI and three Latino graduate students with an interest in genomics, thereby increasing role models and diversity in STEM fields in Rhode Island. The project helped build capacity in marine science, and bioinformatics, while increasing equity and diversity in Rhode Island.   Impact and Significance:The project's outcomes have significant implications for the conservation and management of coral reefs in the US Caribbean and beyond.The value of this research is that it provides a test of the first general hypothesis about where to find heat tolerant corals, leading to the ability to conduct a worldwide search for these habitats.By advancing our understanding of heat tolerance in corals and where to find them, the research has provided aprime conservation assetand guided conservation actions aimed at protecting vulnerable coral reefs.The manipulative experiment was done in coordination with the NOAA Restoration Center, and thus the findings were incorporated into on-going coral restoration and management efforts.The project's findings have been disseminated through scientific publications, conference presentations, and outreach activities, reaching diverse audiences and contributing to global efforts to address the impacts of ocean warming on marine ecosystems.   Future Directions:The award served as a critical milestone for the PI as a faculty and lifelong STEM educator, providing him with extensive training in functional genomics, physiology, and bioinformatics. Results from the project highlight the role of acclimation in heat tolerance in corals. Building on this success, future research will focus on studying how thermal history creates physiological memory in corals and testing whether this process is mediated by epigenetic (histone, and small RNA) variation. Additionally, future efforts will further refine predictive models of coral reef dynamics under different warming scenarios.              Last Modified: 05/29/2024       Submitted by: CarlosPrada]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

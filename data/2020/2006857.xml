@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[AF: Small: Complexity of Lattice Problems for Cryptography]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>350000.00</AwardTotalIntnAmount>
+<AwardAmount>350000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Brass</SignBlockName>
+<PO_EMAI>pbrass@nsf.gov</PO_EMAI>
+<PO_PHON>7032922182</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Public-key cryptosystems are protocols that enable secure communication, even if the communicating parties have never met before. Such cryptosystems are essential to the modern Internet, where a majority of all communication is now encrypted. However, all public-key cryptosystems in widespread use today would be breakable by large-scale quantum computers. This fact, combined with recent rapid progress on quantum computing, has motivated the development and standardization of quantum-secure cryptosystems based on geometric objects called lattices, which will likely be in widespread use in the near future. This project will inform and strengthen understanding of the security of lattice-based cryptosystems, aiding ongoing standardization efforts for quantum-secure cryptography and the adoption of advanced, socially beneficial tools like encrypted computation. &lt;br/&gt;&lt;br/&gt;The security of lattice-based cryptosystems is based on the apparent intractability---even for quantum computers---of a few main computational problems on lattices. Sufficiently strong complexity results for these problems would allow for very efficient implementations of lattice based cryptosystems that simultaneously ensure high levels of security. The objective of this project is to work toward such results by showing improved hardness of approximation and fine-grained complexity results for these central problems, and to show tighter cryptographic reductions between problems assuming realistic adversaries.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2006857</AwardID>
+<Investigator>
+<FirstName>Chris</FirstName>
+<LastName>Peikert</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chris Peikert</PI_FULL_NAME>
+<EmailAddress><![CDATA[cpeikert@umich.edu]]></EmailAddress>
+<NSF_ID>000331368</NSF_ID>
+<StartDate>07/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress><![CDATA[1109 GEDDES AVE, SUITE 3300]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Michigan Ann Arbor]]></Name>
+<CityName>Ann Arbor</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091274</ZipCode>
+<StreetAddress><![CDATA[3003 South State St. Room 1062]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>779600</Code>
+<Text>Algorithmic Foundations</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>806000</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7926</Code>
+<Text>ALGORITHMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7927</Code>
+<Text>COMPLEXITY &amp; CRYPTOGRAPHY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7933</Code>
+<Text>NUM, SYMBOL, &amp; ALGEBRA COMPUT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~350000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The objective of this project was to improve what is known about the inherent difficulty, or "hardness", of certain problems on geometric objects called&nbsp;<em>lattices.</em>&nbsp;These problems have become central to cryptography, both in theory and in practice, and are of interest in theoretical computer science more broadly.</p> <p>Lattices have emerged as the most promising foundation for cryptography that is believed to remain secure against attacks by future&nbsp;<em>quantum</em>&nbsp;computers--unlike the widely deployed cryptography on the Internet today, which can be completely broken by such computers. Indeed, lattice-based cryptosystems have recently been chosen for standardization and deployment by several governments and other organizations. Improved understanding of central lattice problems helps to establish more confidence in this approach, and to undergird the long-term security of the Internet.</p> <p>The investigators focused on the two main types of lattice problems that are heavily used as a foundation for security in cryptography: the Shortest Vector Problem (SVP) and Bounded-Distance Decoding (BDD).</p> <p>They showed several improved "generic hardness" results these problems, meaning that any algorithm that solves SVP or BDD (with certain parameters) would imply similarly efficient algorithms for well studied and long-standing hard problems in computer science (known as "NP-hard" problems). The improvements were to both the specific geometric parameters of SVP and BDD, and to the tightness of the "similarly efficient" implication.</p> <p>In addition, one such result is a significantly <em>simpler</em> proof of the hardness of SVP, which may point the way toward resolving the long-standing open problem of removing randomness from such proofs.</p> <p>Related to these works, the investigators also gave algorithms for using special families of lattices for&nbsp;<em>error correction</em>, i.e., reliably transmitting information over a channel that introduces "noise" in the transmissions. These families and new algorithms achieve <em>nearly optimal</em> tolerance to noise, relative to the best possible for any family of lattices. These algorithms may also find applications in lattice-based cryptography, where error correction is used in decrypton to recover the intended information.</p> <p>Finally, in a different direction, the investigators constructed a powerful new cryptographic primitive called a <em>functional commitment&nbsp;scheme</em>&nbsp;from lattices. This allows someone who possesses a large amount of data to publish a small "commitment" to that data, and then later convincingly prove that various computations on that data have been done correctly, by giving some small and easily checked proofs. For example, one could commit to a large database and then prove that the claimed results of various rich queries are correct. This kind of tool has many applications, e.g., for outsourcing of data and/or computation to untrusted parties.</p><br> <p>  Last Modified: 04/19/2024<br> Modified by: Chris&nbsp;Peikert</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The objective of this project was to improve what is known about the inherent difficulty, or "hardness", of certain problems on geometric objects calledlattices.These problems have become central to cryptography, both in theory and in practice, and are of interest in theoretical computer science more broadly.   Lattices have emerged as the most promising foundation for cryptography that is believed to remain secure against attacks by futurequantumcomputers--unlike the widely deployed cryptography on the Internet today, which can be completely broken by such computers. Indeed, lattice-based cryptosystems have recently been chosen for standardization and deployment by several governments and other organizations. Improved understanding of central lattice problems helps to establish more confidence in this approach, and to undergird the long-term security of the Internet.   The investigators focused on the two main types of lattice problems that are heavily used as a foundation for security in cryptography: the Shortest Vector Problem (SVP) and Bounded-Distance Decoding (BDD).   They showed several improved "generic hardness" results these problems, meaning that any algorithm that solves SVP or BDD (with certain parameters) would imply similarly efficient algorithms for well studied and long-standing hard problems in computer science (known as "NP-hard" problems). The improvements were to both the specific geometric parameters of SVP and BDD, and to the tightness of the "similarly efficient" implication.   In addition, one such result is a significantly simpler proof of the hardness of SVP, which may point the way toward resolving the long-standing open problem of removing randomness from such proofs.   Related to these works, the investigators also gave algorithms for using special families of lattices forerror correction, i.e., reliably transmitting information over a channel that introduces "noise" in the transmissions. These families and new algorithms achieve nearly optimal tolerance to noise, relative to the best possible for any family of lattices. These algorithms may also find applications in lattice-based cryptography, where error correction is used in decrypton to recover the intended information.   Finally, in a different direction, the investigators constructed a powerful new cryptographic primitive called a functional commitmentschemefrom lattices. This allows someone who possesses a large amount of data to publish a small "commitment" to that data, and then later convincingly prove that various computations on that data have been done correctly, by giving some small and easily checked proofs. For example, one could commit to a large database and then prove that the claimed results of various rich queries are correct. This kind of tool has many applications, e.g., for outsourcing of data and/or computation to untrusted parties.     Last Modified: 04/19/2024       Submitted by: ChrisPeikert]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

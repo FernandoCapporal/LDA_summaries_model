@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Coherent Precipitation Extremes in a Supermodel of Future Climate]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>498733.00</AwardTotalIntnAmount>
+<AwardAmount>506733</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020106</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eric DeWeaver</SignBlockName>
+<PO_EMAI>edeweave@nsf.gov</PO_EMAI>
+<PO_PHON>7032928527</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>There is no single best way for a model to represent elements of the climate system such as clouds and ocean mixing, and climate models behave differently depending on the representations they use.  As a result each model has its own strengths and weaknesses, for instance a model could produce a very good simulation of Arctic sea ice but generate El Nino events which are too strong and too frequent.  The mixed quality of climate model simulations poses a challenge for their use in understanding the climate system, predicting short-term climate variability, and planning for the consequences of climate change.&lt;br/&gt;&lt;br/&gt;Research under this award pursues a novel strategy to take advantage of the strengths of different climate models while minimizing the effects of their weaknesses.  The strategy involves running a group of climate models interactively, so that each model influences the behavior of the other models.  Previous research shows that interacting models tend to synchronize their behavior, so that a group of models run interactively behaves like a single "supermodel".  Earlier results also suggest that such a supermodel can be trained using real-world observations so that its simulation is better than the simulations produced by any of its constituent models.  &lt;br/&gt;&lt;br/&gt;The supermodel developed in this project combines the Community Earth System Model (CESM) developed at the National Center for Atmospheric Research, the Max Planck Institute Earth System Model (MPIESM), and the Norwegian Earth System Model (NorESM).  The work focuses specifically on the ability of the supermodel to improve representation of upper-level jet streams and blocking highs.  The extent to which improved representation of these features in turn improves the supermodel's ability to simulate extreme precipitation in the middle latitudes is examined.  Assuming successful results in the present-day climate, the supermodel will be used to investigate changes in circulation features and associated precipitation extremes in warmer climates produced by greenhouse gas increases.&lt;br/&gt;&lt;br/&gt;The work is of societal as well as scientific interest given the potential of the supermodeling strategy to improve predictions of weather and climate variability and projections of climate change.  Blocking is a particular challenge for weather and climate models and poor performance in blocking adversely affects predictions of precipitation extremes.  The work also promotes international collaboration in geoscience as it is conducted in partnership with the Norwegian Synchronisation to Enhance Reliability of Climate Predictions (STERCP) project. The project also supports a postdoctoral research associate, thereby developing the next generation workforce in this research area.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/02/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>02/22/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015618</AwardID>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Duane</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gregory S Duane</PI_FULL_NAME>
+<EmailAddress><![CDATA[Gregory.Duane@Colorado.edu]]></EmailAddress>
+<NSF_ID>000126025</NSF_ID>
+<StartDate>12/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Weiss</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeffrey B Weiss</PI_FULL_NAME>
+<EmailAddress><![CDATA[Jeffrey.Weiss@colorado.edu]]></EmailAddress>
+<NSF_ID>000301024</NSF_ID>
+<StartDate>12/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>Boulder</CityName>
+<ZipCode>803090001</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress><![CDATA[3100 MARINE ST]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 481 572 UCB]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SPVKK1RC2MZ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE REGENTS OF THE UNIVERSITY OF COLORADO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName/>
+<StateCode>CO</StateCode>
+<ZipCode>803090311</ZipCode>
+<StreetAddress><![CDATA[ATOC, 311 UCB]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>574000</Code>
+<Text>Climate &amp; Large-Scale Dynamics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>097Z</Code>
+<Text>COVID-19 Impacts on Existing Activities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~506733</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>To achieve a better understanding of climate change, we need to improve our long-term forecasting capability. Whilst long-term trends in average global temperature are roughly predictable, more detailed climate change predictions are more difficult. Modern climate models are limited in the amount they can process - even with state-of-the-art computers. Models divide the Earth into a three-dimensional grid of simulation points, which are placed along every line of latitude and longitude and at more than 100 vertical levels of the atmosphere and ocean. The models assign a temperature, pressure, wind speed, and so on, to each point, which are then used to compute the same quantities at a later instant of time. The model thus offers a full simulation of the three-dimensional state of the atmosphere and oceans. Part of the uncertainty surrounding the accuracy of these simulations arises from phenomena that are smaller than the area between simulation points on the grid, such as clouds.&nbsp;</p> <p>Whilst these processes are very important to climate simulations, the models cannot compute them completely and instead make assumptions about how they affect the overall result, a method called "subgrid scale parametrisation". Simulations in different models will use different assumptions, and this leads to variations in the results among these climate models. The project sought to entirely alter the way we approach this challenge by&nbsp;<em>combining&nbsp;</em>the different models.&nbsp;</p> <p>The project specifically studied models' simulation of extreme precipitation - unusually large or small amounts of rainfall, snow, etc. These factors can lead to some of the worst effects of climate change, including flooding and severe storms. While current models already make predictions about such behaviour, the project was based on an exciting insight into a way that they could be combined and improved - adapting them to past data in a unique way.&nbsp;</p> <p>Chaotic systems such as the Earth's climate are naturally difficult to understand and predict. However, there is another natural phenomenon that can help make this job easier, and this is synchronisation. Synchronisation is the effect where multiple systems, which appear to be distinct from each other, naturally progress to the point of being "in sync". This can be seen in nature, such as when pendulum clocks placed in close proximity begin to adapt and swing in time, or the mysterious synchronisation of the hormonal cycles of female housemates.&nbsp;</p> <p>Weather models aim to take on information about the state of the real climate system and to duplicate the behaviour of the real system - synchronising the simulations with reality. Even with limited data, a simulation is able to synchronise with reality and to make predictions. The details of the model software that performs the simulations must be adapted based on a repository of real data to augment the general physical laws - a process known as "training". After training a model with 20th-century data, we can use it to predict the climate in the remainder of the 21st&nbsp;century, for which, of course, no data are available.&nbsp;</p> <p>The innovative idea of creating a "supermodel" is that instead of nudging a single simulation with data from the real world, two simulations from any two different models are nudged toward each other - and one trains only the connections between the models. The two simulations feed information to each other, causing them to develop in time so that they become synchronised (or approximately so). As with the weather models, even a small amount of connectivity between simulations can create significant synchronisation between them.&nbsp;</p> <p>The approach promises much better predictions of extreme weather events, such as storms that arise from coherent structures in the atmosphere. Unlike the traditional weighted averaging of simulations, the synchronised supermodel is much better at representing consistent atmospheric structures such as as a front (warm or cold), the jet stream, or a hurricane that can move from place to place but maintains its essential form.&nbsp;&nbsp;In the supermodel, these structures form in the same location at the same time, whereas in conventional methods, these structures can be placed differently in different models; the impacts they have on the climate are averaged out and lost.&nbsp;</p> <p>Supermodels have been shown to perform far more effectively than any one individual model.&nbsp;&nbsp;Surprisingly, two individual simulations can exhibit the same errors, yet a supermodel formed by combining them still produces a superior result instead of exacerbating the issue. The recent work showed that a supermodel constructed from two models which predicts precipitation more effectively in different regions of the globe can replicate the behaviour of the best model for precipitation in each region, without being specifically trained to do so. The current research lays&nbsp;the groundwork&nbsp;for future supermodels to be created based on a larger set of existing expert models, which will revolutionise the way we go about predicting climate and other complex systems.&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 04/01/2024<br> Modified by: Gregory&nbsp;S&nbsp;Duane</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2015618/2015618_10710014_1711978602734_ScientistsInteracting--rgov-214x142.png" original="/por/images/Reports/POR/2024/2015618/2015618_10710014_1711978602734_ScientistsInteracting--rgov-800width.png" title="Scientist Interaction Analogous to Supermodel"><img src="/por/images/Reports/POR/2024/2015618/2015618_10710014_1711978602734_ScientistsInteracting--rgov-66x44.png" alt="Scientist Interaction Analogous to Supermodel"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A supermodel, in which climate simulations interact as they run, might be compared to scientists interacting so as to form a consensus. The traditional method of averaging the output of different models is like the less effective approach of scientists simply voting or averaging their opinions.</div> <div class="imageCredit">Scientia -Global</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Gregory&nbsp;S&nbsp;Duane <div class="imageTitle">Scientist Interaction Analogous to Supermodel</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2015618/2015618_10710014_1711979093406_SupermodelClimateChange--rgov-214x142.png" original="/por/images/Reports/POR/2024/2015618/2015618_10710014_1711979093406_SupermodelClimateChange--rgov-800width.png" title="Supermodels Predict Climate Change"><img src="/por/images/Reports/POR/2024/2015618/2015618_10710014_1711979093406_SupermodelClimateChange--rgov-66x44.png" alt="Supermodels Predict Climate Change"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Supermodels formed by combining the best models produced by different research centres around the world offer a new way to represent the changing climate and  promise more confident predictions for any given region of the globe.</div> <div class="imageCredit">Scientia - Global</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Gregory&nbsp;S&nbsp;Duane <div class="imageTitle">Supermodels Predict Climate Change</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  To achieve a better understanding of climate change, we need to improve our long-term forecasting capability. Whilst long-term trends in average global temperature are roughly predictable, more detailed climate change predictions are more difficult. Modern climate models are limited in the amount they can process - even with state-of-the-art computers. Models divide the Earth into a three-dimensional grid of simulation points, which are placed along every line of latitude and longitude and at more than 100 vertical levels of the atmosphere and ocean. The models assign a temperature, pressure, wind speed, and so on, to each point, which are then used to compute the same quantities at a later instant of time. The model thus offers a full simulation of the three-dimensional state of the atmosphere and oceans. Part of the uncertainty surrounding the accuracy of these simulations arises from phenomena that are smaller than the area between simulation points on the grid, such as clouds.   Whilst these processes are very important to climate simulations, the models cannot compute them completely and instead make assumptions about how they affect the overall result, a method called "subgrid scale parametrisation". Simulations in different models will use different assumptions, and this leads to variations in the results among these climate models. The project sought to entirely alter the way we approach this challenge bycombiningthe different models.   The project specifically studied models' simulation of extreme precipitation - unusually large or small amounts of rainfall, snow, etc. These factors can lead to some of the worst effects of climate change, including flooding and severe storms. While current models already make predictions about such behaviour, the project was based on an exciting insight into a way that they could be combined and improved - adapting them to past data in a unique way.   Chaotic systems such as the Earth's climate are naturally difficult to understand and predict. However, there is another natural phenomenon that can help make this job easier, and this is synchronisation. Synchronisation is the effect where multiple systems, which appear to be distinct from each other, naturally progress to the point of being "in sync". This can be seen in nature, such as when pendulum clocks placed in close proximity begin to adapt and swing in time, or the mysterious synchronisation of the hormonal cycles of female housemates.   Weather models aim to take on information about the state of the real climate system and to duplicate the behaviour of the real system - synchronising the simulations with reality. Even with limited data, a simulation is able to synchronise with reality and to make predictions. The details of the model software that performs the simulations must be adapted based on a repository of real data to augment the general physical laws - a process known as "training". After training a model with 20th-century data, we can use it to predict the climate in the remainder of the 21stcentury, for which, of course, no data are available.   The innovative idea of creating a "supermodel" is that instead of nudging a single simulation with data from the real world, two simulations from any two different models are nudged toward each other - and one trains only the connections between the models. The two simulations feed information to each other, causing them to develop in time so that they become synchronised (or approximately so). As with the weather models, even a small amount of connectivity between simulations can create significant synchronisation between them.   The approach promises much better predictions of extreme weather events, such as storms that arise from coherent structures in the atmosphere. Unlike the traditional weighted averaging of simulations, the synchronised supermodel is much better at representing consistent atmospheric structures such as as a front (warm or cold), the jet stream, or a hurricane that can move from place to place but maintains its essential form.In the supermodel, these structures form in the same location at the same time, whereas in conventional methods, these structures can be placed differently in different models; the impacts they have on the climate are averaged out and lost.   Supermodels have been shown to perform far more effectively than any one individual model.Surprisingly, two individual simulations can exhibit the same errors, yet a supermodel formed by combining them still produces a superior result instead of exacerbating the issue. The recent work showed that a supermodel constructed from two models which predicts precipitation more effectively in different regions of the globe can replicate the behaviour of the best model for precipitation in each region, without being specifically trained to do so. The current research laysthe groundworkfor future supermodels to be created based on a larger set of existing expert models, which will revolutionise the way we go about predicting climate and other complex systems.                       Last Modified: 04/01/2024       Submitted by: GregorySDuane]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

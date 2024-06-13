@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Deriving biological principles from replication initiation control in bacteria]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>721787.00</AwardTotalIntnAmount>
+<AwardAmount>721787</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Arcady Mushegian</SignBlockName>
+<PO_EMAI>amushegi@nsf.gov</PO_EMAI>
+<PO_PHON>7032928528</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The project aims to elucidate how bacterial cells decide when to start DNA replication, and also disseminate key single-cell technologies used in the research. While DNA replication is one of the most precise processes underlying cellular reproduction, how cells maintain the precision under different growth conditions has remained unsolved for over 50 years despite extensive studies. To this end, the project brings together tools and ways of thinking from multiple disciplines, including single-cell technologies that allow continuous tracking of a large number of individual cells. These technologies were originally invented in the PI’s laboratory, and have been streamlined over the years so that even undergraduate students can perform original research alongside graduate students and postdoctoral researchers. In the proposed activities, undergraduate students from underrepresented minority groups will disseminate the single- cell technologies to the broad scientific community using modern knowledge dissemination platforms, so that a typical biological lab can implement the same approaches practically at no cost. Some of the key experiments, once completed, will be integrated into the design of a biological physics laboratory course that the PI will develop.&lt;br/&gt;&lt;br/&gt;The research program will focus on DnaA, a widely conserved master regulator of replication initiation in bacteria. Based on how cell size at initiation responds to various growth conditions, a quantitative model is proposed to explain how production of DnaA and their biochemical properties robustly control the initiation process in a physiology-independent manner. The predictions of the model will be tested by using genetic mutants of DnaA and associated proteins, as well as precision measurements of various single-cell parameters using state-of-the-art microfluidics and imaging methods. The final output of this research will provide a mechanistic insight into the precision control of DNA replication initiation generalizable to a wide range of physiological conditions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/28/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2016090</AwardID>
+<Investigator>
+<FirstName>Suckjoon</FirstName>
+<LastName>Jun</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Suckjoon Jun</PI_FULL_NAME>
+<EmailAddress><![CDATA[jun@ucsd.edu]]></EmailAddress>
+<NSF_ID>000623580</NSF_ID>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930021</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>9500 GILMAN DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UYTTZT6G9DT1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName/>
+<StateCode>CA</StateCode>
+<ZipCode>920930934</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1112</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~721787</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-29893bd2-7fff-b29d-4db5-2d91fb815a46"> <p dir="ltr"><strong>Intellectual Merit:</strong></p> <p dir="ltr"><span>Throughout our project, we have successfully addressed some of the most fundamental questions in bacterial cell physiology, with a particular focus on replication initiation. This focus allowed us to explore a class of problems related to precision control in biology. Our research has revealed two key findings:</span></p> <ol> <li dir="ltr"> <p dir="ltr"><span>In the model bacterial organism Escherichia coli, DnaA titration is utilized as a counting method to precisely time replication initiation.</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>The stabilization of initiation under a wide range of growth conditions requires two forms of DnaA (DnaA-ATP and DnaA-ADP) and their conversion.</span></p> </li> </ol> <p dir="ltr"><span>These findings have led to clear, experimentally testable predictions, one of which we have successfully validated.</span></p> <p dir="ltr"><span>Our proposed "initiator-titration model v2" is based on the balanced biosynthesis of bacterial proteins, a fundamental aspect of bacterial physiology. This concept of balanced biosynthesis, where protein concentration remains nearly constant during cell elongation, contrasts sharply with the eukaryotic cell-cycle control, which relies on programmed gene expression and protein degradation. We anticipate that our work will inspire new research on precision control under balanced biosynthesis.</span></p> <br /> <p dir="ltr"><strong>Broader Impact:</strong></p> <p dir="ltr"><span>In 2010, we introduced the microfluidic "mother machine," a tool now widely used by hundreds of laboratories globally to track thousands of cells over hundreds of generations. Despite its widespread use, the steep learning curve for image analysis with the mother machine has been a challenge. Our software (MM3), developed and refined over a decade, required programming expertise and troubleshooting skills, limiting its accessibility to non-experts. To address this, in 2023-2024, we began distributing napari-MM3, a user-friendly graphical interface, along with other essential tools for the research community.</span></p> <p dir="ltr"><span>The development of napari-MM3 coincided with the rapid advancement of deep-learning methods in image analysis. While powerful, deep-learning approaches can be opaque, making it difficult to assess data trustworthiness, compare results, and detect potential biases. Our analysis explicitly demonstrated the "What You Put Is What You Get" (WYPIWYG) principle in standard cell segmentation, highlighting a critical issue that the image analysis community has been grappling with. This is especially pertinent as many modelers and theorists rely heavily on published data for their research.</span></p> </span></p><br> <p>  Last Modified: 03/06/2024<br> Modified by: Suckjoon&nbsp;Jun</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[     Intellectual Merit:   Throughout our project, we have successfully addressed some of the most fundamental questions in bacterial cell physiology, with a particular focus on replication initiation. This focus allowed us to explore a class of problems related to precision control in biology. Our research has revealed two key findings:     In the model bacterial organism Escherichia coli, DnaA titration is utilized as a counting method to precisely time replication initiation.     The stabilization of initiation under a wide range of growth conditions requires two forms of DnaA (DnaA-ATP and DnaA-ADP) and their conversion.     These findings have led to clear, experimentally testable predictions, one of which we have successfully validated.   Our proposed "initiator-titration model v2" is based on the balanced biosynthesis of bacterial proteins, a fundamental aspect of bacterial physiology. This concept of balanced biosynthesis, where protein concentration remains nearly constant during cell elongation, contrasts sharply with the eukaryotic cell-cycle control, which relies on programmed gene expression and protein degradation. We anticipate that our work will inspire new research on precision control under balanced biosynthesis.     Broader Impact:   In 2010, we introduced the microfluidic "mother machine," a tool now widely used by hundreds of laboratories globally to track thousands of cells over hundreds of generations. Despite its widespread use, the steep learning curve for image analysis with the mother machine has been a challenge. Our software (MM3), developed and refined over a decade, required programming expertise and troubleshooting skills, limiting its accessibility to non-experts. To address this, in 2023-2024, we began distributing napari-MM3, a user-friendly graphical interface, along with other essential tools for the research community.   The development of napari-MM3 coincided with the rapid advancement of deep-learning methods in image analysis. While powerful, deep-learning approaches can be opaque, making it difficult to assess data trustworthiness, compare results, and detect potential biases. Our analysis explicitly demonstrated the "What You Put Is What You Get" (WYPIWYG) principle in standard cell segmentation, highlighting a critical issue that the image analysis community has been grappling with. This is especially pertinent as many modelers and theorists rely heavily on published data for their research.      Last Modified: 03/06/2024       Submitted by: SuckjoonJun]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

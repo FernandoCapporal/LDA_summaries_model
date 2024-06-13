@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Doctoral Dissertation Research: Considering the effects of disfluent speech on children's sentence processing capabilities and language development]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>18074.00</AwardTotalIntnAmount>
+<AwardAmount>18074</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rachel M. Theodore</SignBlockName>
+<PO_EMAI>rtheodor@nsf.gov</PO_EMAI>
+<PO_PHON>7032924770</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Many verbs can occur in different sentence structures. For example, some ditransitive verbs — verbs that have both a direct and an indirect object, like "give" — are flexible as to the object ordering, as in sentences like "Jill gave the duck a cracker" and "Jill gave a cracker to the duck."  The tendency for a verb to occur in one structure more frequently than another is called verb bias. Listeners use verb bias to anticipate how a sentence will progress. However, how a sentence progresses may go against verb bias and violate listener's predictions. Inaccurate predictions need to be revised in order to match the intended meaning of a sentence. Children under eight have immense difficulty with revising predictions. This difficulty is linked not only to the misinterpretations of sentences but also to the delayed acquisition of passive sentences and sentences with relative clauses. This dissertation project investigates whether preschoolers can use disfluencies in a speaker's utterance (e.g. thee uhh) to anticipate structures that go against verb bias, and whether using disfluencies in this way can facilitate language development. The relationship between children’s cognitive development and the use of disfluencies will also be explored. Gaining insight into these questions will advance our understanding of children's language development, language processing, and the impact of cognitive development on these processes. Furthermore, the results of this project will have implications for developing targeted language interventions in cases of developmental language delay. &lt;br/&gt;&lt;br/&gt;The research project will use behavioral and computational methods to address these questions. Behavioral studies will measure children's expectations for ditransitive sentences with and without disfluencies by using eye-tracking procedures. Children's cognitive development will be measured through a well-validated cognitive flexibility task. Throughout the behavioral studies, the expectedness of the ditransitives will be manipulated within and across sentences. A computational cognitive architecture model incorporating disfluencies as a cue for low probability structures will then be used to map children's developing understanding of ditransitives and will be validated against data from the behavioral studies. This model will be used to conduct rigorous examination of subtle and fine-grained interactions between language specific and general cognitive mechanisms. In future work, the model can be applied more broadly to study the development of children's language processing abilities and to design targeted and tailored language interventions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2041372</AwardID>
+<Investigator>
+<FirstName>Toben</FirstName>
+<LastName>Mintz</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Toben Mintz</PI_FULL_NAME>
+<EmailAddress><![CDATA[tmintz@usc.edu]]></EmailAddress>
+<NSF_ID>000094972</NSF_ID>
+<StartDate>12/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Cindy</FirstName>
+<LastName>Chiang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Cindy Chiang</PI_FULL_NAME>
+<EmailAddress><![CDATA[cindyc@usc.edu]]></EmailAddress>
+<NSF_ID>000831704</NSF_ID>
+<StartDate>12/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900890701</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress><![CDATA[3720 S FLOWER ST FL 3]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA37</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G88KLJR3KYT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTHERN CALIFORNIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>Los Angeles</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900891061</ZipCode>
+<StreetAddress><![CDATA[University Park]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>837400</Code>
+<Text>DDRI Linguistics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1311</Code>
+<Text>LINGUISTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~18074</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Being a &ldquo;fluent listener&rdquo; involves actively constructing a representation of the syntactic structure of a sentence as it is heard, word by word, and making predictions about the next words the speaker might say.&nbsp; This is true for both adults and children.&nbsp; One piece of information listeners use to make conjectures about a sentence&rsquo;s structure and upcoming words is the identity of the main verb and the structures that it can occur in. For example, after hearing <em>Jill saw ...</em>, a listener will assume that the next word(s) the speaker will say will involve the object of <em>saw </em>(e.g., <em>the cat, Sam, a bird, </em>etc.). &nbsp;Forming such expectations usually aids sentence comprehension by making it faster and more accurate.</p> <p>However, many verbs can occur in different sentence structures. For example, some verbs that have a direct and indirect object&mdash;called ditransitive verbs&mdash;like <em>give</em>,<em> </em>are flexible as to the ordering of direct and indirect objects (<em>Jill threw the duck a cracker</em> and <em>Jill threw a cracker to the duck</em>)<em>.</em> The tendency for a verb to occur in one structure more frequently than another is called verb bias. Even children are sensitive to verb bias and consider it in making expectations of what is likely to come next in an utterance. However, a sentence may go against verb bias and violate listeners&rsquo; predictions. Inaccurate predictions need to be revised in order to match the intended structure and meaning of a sentence. Children under eight have immense difficulty with revising predictions. This difficulty is linked not only to the misinterpretations of sentences but also to the delayed acquisition of some sentence structures. Hearing sentences with ordering of direct and indirect objects that are atypical for a verb could then cause problems for children in learning and understanding language.</p> <p>One source of information that might help children in these cases is the presence of a disfluency after a verb. In particular, speakers sometimes interrupt their own speech when they are about to produce an atypical structure for a verb, that is, one that goes against a verb&rsquo;s bias: <em>Jill threw <strong>theeee uhhhh</strong> duck a cracker</em>. &nbsp;If children used disfluencies as a cue that the speaker might be producing an atypical structure, they might consider alternatives to what would be predicted by the verb&rsquo;s bias.&nbsp; Can children do this?</p> <p>This project addressed this question through two studies.&nbsp; In Study 1, we conducted an eye-tracking study to investigate whether the presence of a disfluency can be used by 2 and 3-year-olds to pre-emptively anticipate alternative structures and avoid the need to revise predictions. Participants listened to ditransitive sentences with either an everyday noise&mdash;construction noises that interrupted the speaker&mdash;or a disfluency following the verb. We measured looks towards possible verb arguments&mdash;pictures of people and objects&mdash;during the everyday noises and disfluencies, as well as after the onset of the first post-verbal noun. The looks of those who heard construction noises differed from those who heard disfluencies and indicated that two and three-year-olds use disfluencies as a signal to consider multiple verb argument structures. We thus found evidence that young toddlers respond to disfluencies in a way that can help them avoid needing to revise predictions and can help them accurately interpret sentences with unexpected structures.</p> <p>Another phenomenon that arises in the normal course of listening to sentences is <em>syntactic priming</em>. This is the propensity to produce or expect to hear sentences in the near future that have similar structures to ones that were just heard.&nbsp; So, if a listener hears a ditransitive sentence where the indirect object follows the verb&mdash;as in <em>She threw the duck the cracker</em>, and <em>He drew his friend a picture</em>&mdash;they will expect to hear an indirect object after <em>The girl gave ...</em>, even though <em>gave</em> is not biased towards either a direct or indirect object. Moreover, when a sentence has an unexpected structure, it is even more likely to prime that structure in subsequent sentences.&nbsp; In Study 2, we conducted a remote eye-tracking study&mdash;testing children over the internet&mdash;with 3- and 5-year-old children.&nbsp; In this study, half the children heard priming sentences with ditransitive verbs where the structure went against the verb&rsquo;s bias.&nbsp; As in Study 1, some children heard disfluencies after the verb, and the other half heard construction noises. All children then heard test sentences with unbiased ditransitive verbs and we measured their looks towards possible verb arguments during period of construction noise following the verb. We found that when primes contained disfluencies, they resulted in reduced priming in the test sentence compared to when they had contained construction noises, and that this effect was stronger with older children. Priming has been theorized to aid in learning the structures in which verbs can occur, so these findings suggest that disfluencies could affect how children learn through priming.</p> <p>&nbsp;</p><br> <p>  Last Modified: 05/30/2024<br> Modified by: Toben&nbsp;Mintz</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Being a fluent listener involves actively constructing a representation of the syntactic structure of a sentence as it is heard, word by word, and making predictions about the next words the speaker might say. This is true for both adults and children. One piece of information listeners use to make conjectures about a sentences structure and upcoming words is the identity of the main verb and the structures that it can occur in. For example, after hearing Jill saw ..., a listener will assume that the next word(s) the speaker will say will involve the object of saw (e.g., the cat, Sam, a bird, etc.). Forming such expectations usually aids sentence comprehension by making it faster and more accurate.   However, many verbs can occur in different sentence structures. For example, some verbs that have a direct and indirect objectcalled ditransitive verbslike give, are flexible as to the ordering of direct and indirect objects (Jill threw the duck a cracker and Jill threw a cracker to the duck). The tendency for a verb to occur in one structure more frequently than another is called verb bias. Even children are sensitive to verb bias and consider it in making expectations of what is likely to come next in an utterance. However, a sentence may go against verb bias and violate listeners predictions. Inaccurate predictions need to be revised in order to match the intended structure and meaning of a sentence. Children under eight have immense difficulty with revising predictions. This difficulty is linked not only to the misinterpretations of sentences but also to the delayed acquisition of some sentence structures. Hearing sentences with ordering of direct and indirect objects that are atypical for a verb could then cause problems for children in learning and understanding language.   One source of information that might help children in these cases is the presence of a disfluency after a verb. In particular, speakers sometimes interrupt their own speech when they are about to produce an atypical structure for a verb, that is, one that goes against a verbs bias: Jill threw theeee uhhhh duck a cracker. If children used disfluencies as a cue that the speaker might be producing an atypical structure, they might consider alternatives to what would be predicted by the verbs bias. Can children do this?   This project addressed this question through two studies. In Study 1, we conducted an eye-tracking study to investigate whether the presence of a disfluency can be used by 2 and 3-year-olds to pre-emptively anticipate alternative structures and avoid the need to revise predictions. Participants listened to ditransitive sentences with either an everyday noiseconstruction noises that interrupted the speakeror a disfluency following the verb. We measured looks towards possible verb argumentspictures of people and objectsduring the everyday noises and disfluencies, as well as after the onset of the first post-verbal noun. The looks of those who heard construction noises differed from those who heard disfluencies and indicated that two and three-year-olds use disfluencies as a signal to consider multiple verb argument structures. We thus found evidence that young toddlers respond to disfluencies in a way that can help them avoid needing to revise predictions and can help them accurately interpret sentences with unexpected structures.   Another phenomenon that arises in the normal course of listening to sentences is syntactic priming. This is the propensity to produce or expect to hear sentences in the near future that have similar structures to ones that were just heard. So, if a listener hears a ditransitive sentence where the indirect object follows the verbas in She threw the duck the cracker, and He drew his friend a picturethey will expect to hear an indirect object after The girl gave ..., even though gave is not biased towards either a direct or indirect object. Moreover, when a sentence has an unexpected structure, it is even more likely to prime that structure in subsequent sentences. In Study 2, we conducted a remote eye-tracking studytesting children over the internetwith 3- and 5-year-old children. In this study, half the children heard priming sentences with ditransitive verbs where the structure went against the verbs bias. As in Study 1, some children heard disfluencies after the verb, and the other half heard construction noises. All children then heard test sentences with unbiased ditransitive verbs and we measured their looks towards possible verb arguments during period of construction noise following the verb. We found that when primes contained disfluencies, they resulted in reduced priming in the test sentence compared to when they had contained construction noises, and that this effect was stronger with older children. Priming has been theorized to aid in learning the structures in which verbs can occur, so these findings suggest that disfluencies could affect how children learn through priming.        Last Modified: 05/30/2024       Submitted by: TobenMintz]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: New class of near-infrared fluorophores derived from DNA-templated silver clusters for deep tissue imaging]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>330838.00</AwardTotalIntnAmount>
+<AwardAmount>361636</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Adam Wax</SignBlockName>
+<PO_EMAI>awax@nsf.gov</PO_EMAI>
+<PO_PHON>7032928809</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Since near-infrared (NIR) light penetrates much farther into biological tissues than visible light, NIR fluorescence microscopy allows noninvasive imaging deep into tissues and even whole organisms. However, deep tissue imaging is currently hindered by a lack of small, bright, non-toxic biolabels that emit NIR light. This project will develop brightly fluorescent NIR biolabels by harnessing a class of promising tunable nanomaterials called DNA-templated silver clusters. Silver-cluster design and discovery will be carried out with novel machine-learning algorithms that learn from experimental materials and inform design. The optimized NIR biolabels will be employed to study endocrine hormones central to metabolic and cardiovascular disease and will also be broadly applicable for biomedical research in other areas, such as tumor formation and metastasis. Undergraduate and graduate student researchers participating in this project will receive multidisciplinary training at the unique intersection of biophotonics, nanomaterials, and data science, and research opportunities for undergraduates will focus on California community college students and transfer students. &lt;br/&gt;&lt;br/&gt;In the second near-infrared window (NIR-II: 1,000-1,700 nm), biological tissues are transparent up to several centimeters depth, making this spectral window ideal for deep tissue imaging. However, most NIR-II fluorophores suffer from low fluorescence brightness, toxicity, or large physical size. This project investigates promising yet underexplored fluorescent DNA-templated silver clusters (Ag-DNAs) to develop small, stable, and modular NIR-II biolabels with broad applicability for deep tissue imaging. Ag-DNAs are composed of 10-30 silver atoms stabilized by short DNA oligonucleotides, with 500-1000 nm fluorescence colors selected by the DNA sequence. High throughput experimentation and custom multi-objective machine learning models will be developed to significantly extend the color palette of Ag-DNAs into the NIR-II and optimize Ag-DNAs as stable, biocompatible fluorophores. As a proof-of-principle, designed NIR-II-Ag-DNAs will be chemically attached to endocrine hormone proteins to track metabolic hormones in vivo. This project significantly advances the scientific framework for engineering metal clusters as novel fluorophores and, more broadly, for data-driven design of biopolymer-based biophotonic materials.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/25/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2025790</AwardID>
+<Investigator>
+<FirstName>Stacy</FirstName>
+<LastName>Copp</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stacy M Copp</PI_FULL_NAME>
+<EmailAddress><![CDATA[stacy.copp@uci.edu]]></EmailAddress>
+<NSF_ID>000816907</NSF_ID>
+<StartDate>06/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Irvine]]></Name>
+<CityName>IRVINE</CityName>
+<ZipCode>926970001</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress><![CDATA[160 ALDRICH HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA47</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MJC5FCYQTPE6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA IRVINE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Irvine]]></Name>
+<CityName>Irvine</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>926972575</ZipCode>
+<StreetAddress><![CDATA[916 Engineering Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA47</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>723600</Code>
+<Text>BioP-Biophotonics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~330838</FUND_OBLG>
+<FUND_OBLG>2023~30798</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This collaborative project developed&nbsp;a new class of small, bright, biocompatible, and near-infrared (NIR) emitting fluorophores for deep tissue biological imaging in the tissue transparency window. At NIR wavelengths, biological tissues and fluids become far more transparent to light. However, there is a general lack of suitable contrast agents that would enable NIR fluorescence imaging deep into tissues and living organisms. This project was motivated by the technological need for new probes to enable light-based deep tissue imaging.</p> <p>&nbsp;</p> <p>We exploited a promising yet underexplored nanophotonic material, the DNA-templated silver cluster (Ag<sub>N</sub>-DNA), together with high-throughput experimental screening and custom machine learning and artificial intelligence models, to design new NIR emitting fluorophores. Using machine learning-guided experiments, we designed and experimentally synthesized over 200 novel Ag<sub>N</sub>-DNAs with peak emission &gt; 800 nm. Our discoveries include the first known Ag<sub>N</sub>-DNAs with peak emission &gt; 1,000 nm, in the second tissue transparency window. We also made the unexpected discovery that certain Ag<sub>N</sub>-DNAs with enhanced chemical stabilities are stabilized by chloride ligands, which can significantly improve biocompatibility of these probes. Our investigation of a chloride-protected Ag<sub>N</sub>-DNA with known crystal structure enabled the first electronic structure calculations for a realistic Ag<sub>N</sub>-DNA system, enhancing fundamental knowledge of photophysical processes in these nanoclusters. We identified key chemical synthesis strategies to enhance yields of NIR emitting Ag<sub>N</sub>-DNAs. Finally, we uncovered correlations between the composition and surface chemistry of Ag<sub>N</sub>-DNAs and the fluorescence and chiroptical properties of these emitters.</p> <p>&nbsp;</p> <p>This project led to discovery of numerous new NIR-emitting probes that may enable new biomedical imaging modalities for diverse applications, tissue types, and systems. Moreover,&nbsp;this research project also significantly advanced the general framework for developing and applying data science tools to sequence-encoded biomolecules. This framework may help guide the development of emerging biomolecular materials beyond just Ag<sub>N</sub>-DNAs.&nbsp;</p> <p>&nbsp;</p> <p>This project enhanced the education and career development of K-12, college, and post-college trainees. Numerous participating graduate, undergraduate, and community college students and postdoctoral scholars received critical training and research opportunities at the intersection of biophotonics, data science, and nanochemistry. This unique multidisciplinary training will prepare these individuals to become future innovators who will drive the development of data science across multiple disciplines, with applications across natural sciences and engineering. Several excellent undergraduate and community college researchers coauthored publications that have resulted from this project. Moreover, we developed hands-on demonstrations that illustrate key scientific concepts from this project for K-12 students. These activities can be performed with simple household items and can be guided virtually, providing educators with an accessible tool to reach students from a wide range of backgrounds and in a wide range of settings. Demos were implemented through virtual and in-person events at local schools, museums, and summer programs.</p> <p>&nbsp;</p><br> <p>  Last Modified: 05/17/2024<br> Modified by: Stacy&nbsp;M&nbsp;Copp</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2025790/2025790_10677748_1715923885842_Figure4--rgov-214x142.png" original="/por/images/Reports/POR/2024/2025790/2025790_10677748_1715923885842_Figure4--rgov-800width.png" title="Broader impacts: enhancing biophotonics education"><img src="/por/images/Reports/POR/2024/2025790/2025790_10677748_1715923885842_Figure4--rgov-66x44.png" alt="Broader impacts: enhancing biophotonics education"></a> <div class="imageCaptionContainer"> <div class="imageCaption">PhD student researchers developed and hosted hands-on workshop activities designed to introduce K-12 students to concepts in biophotonics, biomolecular assembly, and nanochemistry.   Undergraduate researchers, including REU students, made major contributions to the research project.</div> <div class="imageCredit">Stacy Copp</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Stacy&nbsp;M&nbsp;Copp <div class="imageTitle">Broader impacts: enhancing biophotonics education</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2025790/2025790_10677748_1715922659260_Figure1--rgov-214x142.png" original="/por/images/Reports/POR/2024/2025790/2025790_10677748_1715922659260_Figure1--rgov-800width.png" title="Machine learning-guided nanocluster discovery"><img src="/por/images/Reports/POR/2024/2025790/2025790_10677748_1715922659260_Figure1--rgov-66x44.png" alt="Machine learning-guided nanocluster discovery"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Left: Schematic of workflow for machine learning-guided design of DNA-stabilized silver nanoclusters (Ag_N-DNAs).  Right: Fraction of sequences in training data (left light-colored bars) as compared to machine learning-design sequences in target color categories (right solid bars).</div> <div class="imageCredit">Stacy Copp</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Stacy&nbsp;M&nbsp;Copp <div class="imageTitle">Machine learning-guided nanocluster discovery</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2025790/2025790_10677748_1715922905874_Figure2--rgov-214x142.png" original="/por/images/Reports/POR/2024/2025790/2025790_10677748_1715922905874_Figure2--rgov-800width.png" title="Discovery of chloride-stabilized silver nanoclusters"><img src="/por/images/Reports/POR/2024/2025790/2025790_10677748_1715922905874_Figure2--rgov-66x44.png" alt="Discovery of chloride-stabilized silver nanoclusters"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Using gentle electrospray ionization mass spectrometry, we identified the presence of two chloride ions on the surface of a DNA-stabilized silver nanoclusters. This discovery enabled the first theoretical calculations of electronic structure of these fluorescent nanomaterials.</div> <div class="imageCredit">Anna Gonz�lez Rosell</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Stacy&nbsp;M&nbsp;Copp <div class="imageTitle">Discovery of chloride-stabilized silver nanoclusters</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This collaborative project developeda new class of small, bright, biocompatible, and near-infrared (NIR) emitting fluorophores for deep tissue biological imaging in the tissue transparency window. At NIR wavelengths, biological tissues and fluids become far more transparent to light. However, there is a general lack of suitable contrast agents that would enable NIR fluorescence imaging deep into tissues and living organisms. This project was motivated by the technological need for new probes to enable light-based deep tissue imaging.      We exploited a promising yet underexplored nanophotonic material, the DNA-templated silver cluster (AgN-DNA), together with high-throughput experimental screening and custom machine learning and artificial intelligence models, to design new NIR emitting fluorophores. Using machine learning-guided experiments, we designed and experimentally synthesized over 200 novel AgN-DNAs with peak emission  800 nm. Our discoveries include the first known AgN-DNAs with peak emission  1,000 nm, in the second tissue transparency window. We also made the unexpected discovery that certain AgN-DNAs with enhanced chemical stabilities are stabilized by chloride ligands, which can significantly improve biocompatibility of these probes. Our investigation of a chloride-protected AgN-DNA with known crystal structure enabled the first electronic structure calculations for a realistic AgN-DNA system, enhancing fundamental knowledge of photophysical processes in these nanoclusters. We identified key chemical synthesis strategies to enhance yields of NIR emitting AgN-DNAs. Finally, we uncovered correlations between the composition and surface chemistry of AgN-DNAs and the fluorescence and chiroptical properties of these emitters.      This project led to discovery of numerous new NIR-emitting probes that may enable new biomedical imaging modalities for diverse applications, tissue types, and systems. Moreover,this research project also significantly advanced the general framework for developing and applying data science tools to sequence-encoded biomolecules. This framework may help guide the development of emerging biomolecular materials beyond just AgN-DNAs.      This project enhanced the education and career development of K-12, college, and post-college trainees. Numerous participating graduate, undergraduate, and community college students and postdoctoral scholars received critical training and research opportunities at the intersection of biophotonics, data science, and nanochemistry. This unique multidisciplinary training will prepare these individuals to become future innovators who will drive the development of data science across multiple disciplines, with applications across natural sciences and engineering. Several excellent undergraduate and community college researchers coauthored publications that have resulted from this project. Moreover, we developed hands-on demonstrations that illustrate key scientific concepts from this project for K-12 students. These activities can be performed with simple household items and can be guided virtually, providing educators with an accessible tool to reach students from a wide range of backgrounds and in a wide range of settings. Demos were implemented through virtual and in-person events at local schools, museums, and summer programs.        Last Modified: 05/17/2024       Submitted by: StacyMCopp]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

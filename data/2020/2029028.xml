@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Bioinspired, Adaptive, and Self-Deploying Flaps for Distributed Aerodynamic Flow Control]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>474990.00</AwardTotalIntnAmount>
+<AwardAmount>474990</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ron Joslin</SignBlockName>
+<PO_EMAI>rjoslin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927030</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Next-generation micro- and avian-scale unmanned air vehicles (UAVs) must navigate unsteady environments and undergo rapid maneuvers. During the same operational conditions that may render UAVs inefficient and unstable, birds and insects are not only able to remain aloft, but can also maintain their aerodynamic efficiency. Inspired by a system of feathers on a bird’s wing, this work will enable a flow control technique that can passively adapt to and alter unsteady flow phenomena. Current flow control strategies involve relatively heavy devices that must be actively powered and require costly, complex information about the flow. In contrast, the proposed feather-inspired effectors do not require additional power to be deployed, and their ability to passively respond to unsteady flow phenomena offers a compelling low-weight, adaptive, and simple flow control paradigm.  The fundamental flow physics that govern this effector system will be explained to enable its use in future aerodynamic vehicles. The bio-inspired nature of this work presents a prime opportunity for STEM training, recruitment, and outreach. Broader impacts of this work include university level training (via undergraduate and graduate student mentoring as well as course development) and K-12 outreach (via summer engineering workshops targeted towards underrepresented minority students).&lt;br/&gt;&lt;br/&gt;High-fidelity simulations and detailed experiments of a canonical system involving an airfoil with effectors hinged at the root via a torsional elastic spring will be performed. This effector system constitutes a poorly understood fluid-structure interaction (FSI) problem. The flap dynamics will be related to the shear layer and wake dynamics and quantify the impact of this interplay on aerodynamic performance for different flap parameters, airfoil angles of attack, and Reynolds numbers. Simulations will be carried out at low Reynolds numbers, Re = 1,000, relevant to micro UAVs and insect flight. Experiments will be conducted at higher Reynolds numbers, Re ≈ 200,000, relevant to avian-scale UAVs and bird flight. Over this range of Reynolds numbers, a single flap hinged with a zero-stiffness torsional spring will be first studied and the passive flap dynamics to the shear layer dynamics, near-body and wake vortex dynamics, and aerodynamic forces will be corelated. Then, it will be examined how these FSI physics are affected by a finite stiffness torsional spring and relate any changes to resonant and non-resonant mechanisms associated with the elastic flap system. Finally, a multi-flap system will be studied to determine how multiple flaps interact in this FSI setting to alter the resultant aerodynamic forces.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/01/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029028</AwardID>
+<Investigator>
+<FirstName>Aimy</FirstName>
+<LastName>Wissa</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Aimy Wissa</PI_FULL_NAME>
+<EmailAddress><![CDATA[aw8551@princeton.edu]]></EmailAddress>
+<NSF_ID>000717791</NSF_ID>
+<StartDate>07/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andres</FirstName>
+<LastName>Goza</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andres Goza</PI_FULL_NAME>
+<EmailAddress><![CDATA[agoza@illinois.edu]]></EmailAddress>
+<NSF_ID>000801458</NSF_ID>
+<StartDate>07/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>URBANA</CityName>
+<ZipCode>618013620</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress><![CDATA[506 S WRIGHT ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y8CWNJRCNN91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>Urbana</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>618013620</ZipCode>
+<StreetAddress><![CDATA[506 S. Wright St.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>144300</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~474990</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Birds have covert feathers that are thought to aid in improving lift and flight robustness. To further understand these possible benefits and motivate engineered designs, this project explored a canonical representation of this system, with flaps fixed to an airfoil by a torsional spring. Various spring and flap mass values were considered, to fundamentally understand how these parameters affected the ensuing interplay with the surrounding air flow and, by consequence, the airfoil&rsquo;s lift behavior.</p> <p><br />Flap parameters were found that led to as much as ~25% improvements in mean lift. As part of this discovery, a new regime of behavior of the flap-airfoil system was identified. Broadly, the stiffness of the flap was found to set the mean displacement of the flap, and the implications of this angle on mean lift were identified. The inertia of the flap established the dynamics about the mean deflection, which could yield significant benefits or detriments depending on how the intrinsic flap time scales (like natural frequency) related to those of the aerodynamic flow (like vortex-shedding processes). The behavior of the flap-wing system was assessed for various flow speeds by detailed comparisons between experiments and simulations. The effect and possible benefits of multiple flaps were also investigated and reported on. Finally, a novel strategy for utilizing flaps, in which the flap stiffness was varied in time to greater benefit than the constant-stiffness case, was developed. Prescribing the flap stiffness, rather than the flap motion directly, could be more energy efficient and might have biological relevance in terms of animal muscle tensing to alter the feather response to surrounding flow behaviors.</p> <p><br />Outreach efforts were also performed within UIUC&rsquo;s Upward Bound Program. During the summer period of the funded effort, high school interns from socio-economically underrepresented communities were brought into the co-PIs&rsquo; research group. The interns worked with the funded graduate students through a series of hands-on workshops that taught key concepts in aerodynamics, bio-inspired engineering strategies, as well as coding and computational fluid dynamics. This engaging atmosphere empowered high school interns towards careers in STEM, and gave valuable experience to graduate students on mentoring and empowering the next generation of scholars and engineers.</p> <p><br />The intellectual merit of this work derives from the new fluid-structure mechanisms identified that drive the behavior of the flow-flap system, as well as the resulting wing performance. New behavioral regimes were identified for this system, and systematically explained by relating key flap timescales to those of important separation processes of the airfoil. The novel actuation paradigm that was introduced also opens a possibly bio-inspired gateway to indirectly controlling the flow by producing the desired fluid-structure interplay. This approach offers compelling control paradigms, and the insights into how stiffness changes affect the fluid-structure interaction required a detailed understanding of the fully coupled system.</p> <p><br />The broader impact of this work revolves around the potential utility of these flaps in more robust flight engineered vehicles, ranging from commercial flight to disaster recovery vehicles. The principles distilled for how the flaps can be used to improve lift are an important step towards these engineering outcomes. The behavior of the flap also has potential biological relevance for how feathers modulate bird flight, and insights from this program may aid biologists in explaining performance of natural flyers. Finally, the outreach efforts also have the broader impacts of empowering a wave of under-represented students to make their mark on the engineering and science world.</p> <p><br />Results from this project were disseminated in articles in the Journal of Fluid Mechanics, Physical Review Fluids, Journal of Computational Physics, Bioinspiration &amp; Biomimetics, Communications Engineering, Fluids, and AIAA conferences. Several conference and seminar presentations were also given for this work at APS DFD, DisCoVor, ASME's SMASIS meeting, and several universities.</p><br> <p>  Last Modified: 03/27/2024<br> Modified by: Andres&nbsp;Goza</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Birds have covert feathers that are thought to aid in improving lift and flight robustness. To further understand these possible benefits and motivate engineered designs, this project explored a canonical representation of this system, with flaps fixed to an airfoil by a torsional spring. Various spring and flap mass values were considered, to fundamentally understand how these parameters affected the ensuing interplay with the surrounding air flow and, by consequence, the airfoils lift behavior.    Flap parameters were found that led to as much as ~25% improvements in mean lift. As part of this discovery, a new regime of behavior of the flap-airfoil system was identified. Broadly, the stiffness of the flap was found to set the mean displacement of the flap, and the implications of this angle on mean lift were identified. The inertia of the flap established the dynamics about the mean deflection, which could yield significant benefits or detriments depending on how the intrinsic flap time scales (like natural frequency) related to those of the aerodynamic flow (like vortex-shedding processes). The behavior of the flap-wing system was assessed for various flow speeds by detailed comparisons between experiments and simulations. The effect and possible benefits of multiple flaps were also investigated and reported on. Finally, a novel strategy for utilizing flaps, in which the flap stiffness was varied in time to greater benefit than the constant-stiffness case, was developed. Prescribing the flap stiffness, rather than the flap motion directly, could be more energy efficient and might have biological relevance in terms of animal muscle tensing to alter the feather response to surrounding flow behaviors.    Outreach efforts were also performed within UIUCs Upward Bound Program. During the summer period of the funded effort, high school interns from socio-economically underrepresented communities were brought into the co-PIs research group. The interns worked with the funded graduate students through a series of hands-on workshops that taught key concepts in aerodynamics, bio-inspired engineering strategies, as well as coding and computational fluid dynamics. This engaging atmosphere empowered high school interns towards careers in STEM, and gave valuable experience to graduate students on mentoring and empowering the next generation of scholars and engineers.    The intellectual merit of this work derives from the new fluid-structure mechanisms identified that drive the behavior of the flow-flap system, as well as the resulting wing performance. New behavioral regimes were identified for this system, and systematically explained by relating key flap timescales to those of important separation processes of the airfoil. The novel actuation paradigm that was introduced also opens a possibly bio-inspired gateway to indirectly controlling the flow by producing the desired fluid-structure interplay. This approach offers compelling control paradigms, and the insights into how stiffness changes affect the fluid-structure interaction required a detailed understanding of the fully coupled system.    The broader impact of this work revolves around the potential utility of these flaps in more robust flight engineered vehicles, ranging from commercial flight to disaster recovery vehicles. The principles distilled for how the flaps can be used to improve lift are an important step towards these engineering outcomes. The behavior of the flap also has potential biological relevance for how feathers modulate bird flight, and insights from this program may aid biologists in explaining performance of natural flyers. Finally, the outreach efforts also have the broader impacts of empowering a wave of under-represented students to make their mark on the engineering and science world.    Results from this project were disseminated in articles in the Journal of Fluid Mechanics, Physical Review Fluids, Journal of Computational Physics, Bioinspiration & Biomimetics, Communications Engineering, Fluids, and AIAA conferences. Several conference and seminar presentations were also given for this work at APS DFD, DisCoVor, ASME's SMASIS meeting, and several universities.     Last Modified: 03/27/2024       Submitted by: AndresGoza]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

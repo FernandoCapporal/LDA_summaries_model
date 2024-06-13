@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research:  GEM--Multi-harmonic Whistler Waves, Their Origin and Contribution to Electron Scattering]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>269955.00</AwardTotalIntnAmount>
+<AwardAmount>269955</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020202</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Chia-Lin Huang</SignBlockName>
+<PO_EMAI>chihuang@nsf.gov</PO_EMAI>
+<PO_PHON>7032927544</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Multi-harmonic whistler waves are capable of scattering and accelerating electrons to high speeds in the Earth’s inner magnetosphere and other plasma environments. Understanding the origins of these waves and how they interact with electrons is important for forecasting and predicting space weather and its effects on sensitive systems such as satellites and space craft. The project supports three early career scientists and undergraduate research opportunities.&lt;br/&gt;&lt;br/&gt;There are three main objectives to this project: 1) What plasma parameters determine the possibility and rate of the whistler wave energy cascade to multi-harmonic frequencies of the electrostatic component? 2) What plasma parameters determine the possibility and rate of the whistler wave energy cascade to multi-harmonic frequencies of the electromagnetic components? 3) How does the whistler wave energy cascade to higher frequencies influence the efficiency of whistler waves in accelerating electrons? This will be accomplished by analysis of multi-harmonic whistler wave measurements from the Van Allen Probes and the Time History of Events and Macroscale Interactions during Substorms mission in the Earth’s inner magnetosphere and by the Magnetospheric Multiscale Mission in the day-side magnetopause reconnection. Spacecraft observations will be combined with numerical simulations (multi-fluid magnetohydrodynamic code) of whistler wave steepening and test-particle simulations of electron interaction with these whistler waves.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/07/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/07/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026680</AwardID>
+<Investigator>
+<FirstName>Ivan</FirstName>
+<LastName>Vasko</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ivan Vasko</PI_FULL_NAME>
+<EmailAddress><![CDATA[ivan.vasko@ssl.berkeley.edu]]></EmailAddress>
+<NSF_ID>000787776</NSF_ID>
+<StartDate>05/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress><![CDATA[1608 4TH ST STE 201]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GS3YEVSS12N6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>BERKELEY</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947101749</ZipCode>
+<StreetAddress><![CDATA[7 GAUSS WAY]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>575000</Code>
+<Text>MAGNETOSPHERIC PHYSICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~269955</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Spacecraft measurements in the solar wind as well as in the Earth magnetosphere showed that low-frequency electromagnetic (fast magnetosonic or whistler) waves are sometimes accompanied by electrostatic fluctuations, whose spectral power peaks at harmonics of the fundamental frequency of the electromagnetic waves. In the spatial domain the electrostatic fluctuations consist of spikes phase-correlated with the electromagnetic waves (Parker Solar Probe observations of this phenomenon are shown in figure 1). This project was focused on the analysis of the nonlinear process resulting in the coupling of fast-magnetosonic/whistler waves with the electrostatic fluctuations. We developed corresponding theory and verified its validity for fast magnetosonic waves observed in the near Sun solar wind aboard Parker Solar Probe.</p> <p>The main outcome of the project consists in the developed theory and numerical Hall-magnetohydrodynamic simulations, both demonstrating that fast magnetosonic/whistler waves propagating even slightly oblique to the background magnetic field can resonantly interact with the ion-sound mode. The only necessary condition for the coupling to occur is the local sound speed larger than the local Alfven speed. The resonance occurs at a certain wavenumber, where dispersion curves of fast magnetosonic/whistler and sound modes intersect. The theory delivers the wavenumber at the resonance point as well as the resonance widths in the frequency and wavenumber domains. The theory allowed establishing the typical time scale for generation of electrostatic spikes and harmonics in electric field spectra. The physics of this nonlinear process consists in the resonant generation of ion-sound waves followed by their steepening.&nbsp;&nbsp;</p> <p>The major finding is that the developed theory and Hall-magnetohydrodynamic simulations nicely reproduced electrostatic fluctuations associated with fast magnetosonic waves observed aboard Parker Solar Probe. The simulations showed that if the wavenumber of the fast magnetosonic/whistler wave is close to the resonance point the electrostatic field evolves nonlinearly resulting in the appearance of electrostatic spikes (left panels in figure 2). In contrast, when the wavenumber is sufficiently far from the resonance point no substantial evolution is observed (right panels in figure 2). The time scales revealed in the simulations are consistent with the theoretical estimates and depend on the amplitude of the fast magnetosonic/whistler waves and their obliqueness. For amplitudes typical of fast magnetosonic/whistler waves in the solar wind, the time scale of nonlinear evolution around the resonance is within about ten ion gyroperiods. The revealed process can be a potential channel of energy transfer from cyclotron particles producing the electromagnetic fluctuations to Landau resonant particles absorbing the energy of the higher-frequency electrostatic fluctuations.</p> <p>The results of the project have a broader impact, since similar process have been observed in numerous space plasma environments and can contribute to plasma heating by mediating the energy between cyclotron and Landau resonant particles of the same or different species.</p> <p>&nbsp;</p><br> <p>  Last Modified: 05/03/2024<br> Modified by: Ivan&nbsp;Vasko</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2026680/2026680_10669208_1714715895784_final_NSF_fig1_--rgov-214x142.png" original="/por/images/Reports/POR/2024/2026680/2026680_10669208_1714715895784_final_NSF_fig1_--rgov-800width.png" title="figure 1"><img src="/por/images/Reports/POR/2024/2026680/2026680_10669208_1714715895784_final_NSF_fig1_--rgov-66x44.png" alt="figure 1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Parker Solar Probe observations of the coupling  between fast magnetosonic and electrostatic fluctuations: (a) spectra of electric and magnetic fields, (b)-(e) waveforms of electric and magnetic fields along with their low-frequency (2-6 Hz) and high-frequency (above 6 Hz) constituents.</div> <div class="imageCredit">Ivan Vasko</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Ivan&nbsp;Vasko <div class="imageTitle">figure 1</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2026680/2026680_10669208_1714715924863_final_NSF_fig2__--rgov-214x142.png" original="/por/images/Reports/POR/2024/2026680/2026680_10669208_1714715924863_final_NSF_fig2__--rgov-800width.png" title="figure 2"><img src="/por/images/Reports/POR/2024/2026680/2026680_10669208_1714715924863_final_NSF_fig2__--rgov-66x44.png" alt="figure 2"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Results of numerical Hall-MHD simulations of the nonlinear evolution of electrostatic (upper panels) and magnetic (bottom panels) fields for planar 1D fast magnetosonic waves in their frame. The wavenumber is around the resonance (a) and far from the resonance (b).</div> <div class="imageCredit">Ivan Vasko</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Ivan&nbsp;Vasko <div class="imageTitle">figure 2</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Spacecraft measurements in the solar wind as well as in the Earth magnetosphere showed that low-frequency electromagnetic (fast magnetosonic or whistler) waves are sometimes accompanied by electrostatic fluctuations, whose spectral power peaks at harmonics of the fundamental frequency of the electromagnetic waves. In the spatial domain the electrostatic fluctuations consist of spikes phase-correlated with the electromagnetic waves (Parker Solar Probe observations of this phenomenon are shown in figure 1). This project was focused on the analysis of the nonlinear process resulting in the coupling of fast-magnetosonic/whistler waves with the electrostatic fluctuations. We developed corresponding theory and verified its validity for fast magnetosonic waves observed in the near Sun solar wind aboard Parker Solar Probe.   The main outcome of the project consists in the developed theory and numerical Hall-magnetohydrodynamic simulations, both demonstrating that fast magnetosonic/whistler waves propagating even slightly oblique to the background magnetic field can resonantly interact with the ion-sound mode. The only necessary condition for the coupling to occur is the local sound speed larger than the local Alfven speed. The resonance occurs at a certain wavenumber, where dispersion curves of fast magnetosonic/whistler and sound modes intersect. The theory delivers the wavenumber at the resonance point as well as the resonance widths in the frequency and wavenumber domains. The theory allowed establishing the typical time scale for generation of electrostatic spikes and harmonics in electric field spectra. The physics of this nonlinear process consists in the resonant generation of ion-sound waves followed by their steepening.   The major finding is that the developed theory and Hall-magnetohydrodynamic simulations nicely reproduced electrostatic fluctuations associated with fast magnetosonic waves observed aboard Parker Solar Probe. The simulations showed that if the wavenumber of the fast magnetosonic/whistler wave is close to the resonance point the electrostatic field evolves nonlinearly resulting in the appearance of electrostatic spikes (left panels in figure 2). In contrast, when the wavenumber is sufficiently far from the resonance point no substantial evolution is observed (right panels in figure 2). The time scales revealed in the simulations are consistent with the theoretical estimates and depend on the amplitude of the fast magnetosonic/whistler waves and their obliqueness. For amplitudes typical of fast magnetosonic/whistler waves in the solar wind, the time scale of nonlinear evolution around the resonance is within about ten ion gyroperiods. The revealed process can be a potential channel of energy transfer from cyclotron particles producing the electromagnetic fluctuations to Landau resonant particles absorbing the energy of the higher-frequency electrostatic fluctuations.   The results of the project have a broader impact, since similar process have been observed in numerous space plasma environments and can contribute to plasma heating by mediating the energy between cyclotron and Landau resonant particles of the same or different species.        Last Modified: 05/03/2024       Submitted by: IvanVasko]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

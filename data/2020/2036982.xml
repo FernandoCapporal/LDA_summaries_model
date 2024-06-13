@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF2026: EAGER: Spatio-Temporal Design of Techno-Ecological Synergies for a World without Waste and Resilient Landscapes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>299943.00</AwardTotalIntnAmount>
+<AwardAmount>299943</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce Hamilton</SignBlockName>
+<PO_EMAI>bhamilto@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With support from the CBET/ENG Environmental Sustainability program and the NSF 2026 Fund Program in the Office of Integrated Activities, the investigators are researching the ecological capacity to provide goods and services in the face of demands imposed by a technological society. To meet sustainability goals, most engineers design and operate manufacturing processes to minimize resource use and emissions, but they may not account, for example, for the capacity of a watershed to provide fresh water to all users (including non-human users) or of the atmosphere to absorb emitted CO2. Similarly, economists may exclude consideration of the impact on ecosystems. The vision of this research is that through appropriate design, human activities can explicitly account for the provisions supplied by ecosystems, and can be designed to respect ecosystem limits. The research seeks to provide a framework for designing industries and ecosystems simultaneously to operate in a mutually beneficial or synergistic manner. The resulting Techno-Ecological Synergies (TES) will rely on designing ecosystems of the future, that in fundamental concept include the built environment, to enrich the NSF2026 Idea Machine winning entries of a "World without Waste," and "Large Landscape Resilience by Design."&lt;br/&gt;&lt;br/&gt;TES design will be formulated as an optimization problem. Novel and innovative approaches for developing designs at relevant spatial and temporal scales are proposed for solving the optimization problem. One such innovation to be realized is the the development of physics-based surrogate models with deep neural networks to capture the spatio-temporal variation of pollutant concentration in a selected region for a point source under various geographical, land cover, and meteorological conditions, embracing uncertainty issues. Advanced and innovative stochastic and/or dynamic programming methods will be employed to obtain TES designs. As a test case, the developed TES approach will be applied to a power plant near Cincinnati and vegetation on the surrounding landscape. For this case study, conventional and TES designs will be compared in terms of their contribution to reducing waste at the landscape and life cycle scales. To assess large landscape resilience for conventional and TES designs, future climate change scenarios will be simulated and landscape resilience compared for conventional and TES designs in terms of regional water availability and air quality. This approach will assess the benefits of seeking synergies with nature through the TES framework. The results of this work are targeted to lay the foundation for further work toward the convergence of disciplines including ecology, sociology, economics, public policy, statistics, environmental science, and engineering. The aspiration of the TES approach is to see, with time, practical implementation of TES on the scale of industrial, urban, and agro-ecological landscape networks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2036982</AwardID>
+<Investigator>
+<FirstName>Bhavik</FirstName>
+<LastName>Bakshi</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bhavik R Bakshi</PI_FULL_NAME>
+<EmailAddress><![CDATA[bhavik.bakshi@asu.edu]]></EmailAddress>
+<NSF_ID>000107938</NSF_ID>
+<StartDate>07/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gil</FirstName>
+<LastName>Bohrer</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gil Bohrer</PI_FULL_NAME>
+<EmailAddress><![CDATA[bohrer.17@osu.edu]]></EmailAddress>
+<NSF_ID>000506281</NSF_ID>
+<StartDate>07/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joel</FirstName>
+<LastName>Paulson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joel Paulson</PI_FULL_NAME>
+<EmailAddress><![CDATA[paulson.82@osu.edu]]></EmailAddress>
+<NSF_ID>000817101</NSF_ID>
+<StartDate>07/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLWBSLWAJWR1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OHIO STATE UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MN4MDDMN8529</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>Columbus</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>432101350</ZipCode>
+<StreetAddress><![CDATA[151 West Woodruff Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>081Y00</Code>
+<Text>NSF 2026 Fund</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>764300</Code>
+<Text>EnvS-Environmtl Sustainability</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~299943</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This work advanced the idea that by explicitly accounting for the role of ecosystms in engineering activities, it is possible to develop mutually beneficial synergies between technological and ecological systems. Such synergies contribute to a world without waste since wastes from human activities get utilized as resources in ecological systems. This work focused on methods and applications that account for the spatial and temporal variation of manufacturing processes and ecological systems.</p> <p>It resulted in novel methods and open-source software for both optimization and integrated design and operation of techno-ecological landscapes.&nbsp; It demonstrated for the first time, how these methods and framework can be used to design an industrial landacape by determining where to plant native vegetation that can take up air emissions and how to operate the manufacturing process such that it respects nature's capacity to mitigate emissions. The figure shows the Pareto or trade-off curve between the cost to company on the x-axis and cost to society on the y-axis. This is for a chlor-alkali process located in Galveston, Texas.&nbsp; Cost to society includes the expenses incurred by those who are harmed by the air emissions such as nitrogen oxides and ground level ozone.&nbsp; The orange curve shows the trade-off if only technologies were used for mitigating emissions. Point A represents the solution with the lowest cost to company, but highest cost to society. With technology alone, it is possible to reach net-zero emissions (Point C), but the cost to company will increase substantially. In contrast, the techno-ecologically synergistic solutions in the green curve show that even the solution with the lowest cost to company (Point D) is win-win since the cost to society also decreases as compared to Point A.&nbsp; Point E shows that net-zero emissions can be reached at a much smaller cost to company as compared to the technology-only solution at Point C. Beyond Point E, ecosystems can provide net-positive impact manufacturing by taking up emissions from other sources in the region. The methods developed in this work are capable of designing landscapes and operating manufacturing processes to achieve such benefits.</p> <p>The resutls from this work have been disseminated to diverse audiences through journal publications, conference presentations and various invited talks at academic departments, conferences and industry. They have also been included in elective courses on sustainability taught at universities and to professionals.&nbsp; All the models, data, and code are available in on-line repositories and have been devleoped to enable reproducibility.&nbsp; The project provided partial financial support to five PhD students, two of whom were from groups that are underrepresented in engineering.</p><br> <p>  Last Modified: 04/29/2024<br> Modified by: Bhavik&nbsp;R&nbsp;Bakshi</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2036982/2036982_10688134_1714334157500_ParetoChlorAlkali4--rgov-214x142.png" original="/por/images/Reports/POR/2024/2036982/2036982_10688134_1714334157500_ParetoChlorAlkali4--rgov-800width.png" title="Techno-ecologically synergistic manufacturing of chlorine"><img src="/por/images/Reports/POR/2024/2036982/2036982_10688134_1714334157500_ParetoChlorAlkali4--rgov-66x44.png" alt="Techno-ecologically synergistic manufacturing of chlorine"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Trade-off between cost to company and cost to society from technology-only (orange) and techno-ecologically synergistic (green) designs. TES designs can be much more cost-effective in reducing societal impact while meeting industry needs.</div> <div class="imageCredit">Shah and Bakshi, 2021</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Bhavik&nbsp;R&nbsp;Bakshi <div class="imageTitle">Techno-ecologically synergistic manufacturing of chlorine</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This work advanced the idea that by explicitly accounting for the role of ecosystms in engineering activities, it is possible to develop mutually beneficial synergies between technological and ecological systems. Such synergies contribute to a world without waste since wastes from human activities get utilized as resources in ecological systems. This work focused on methods and applications that account for the spatial and temporal variation of manufacturing processes and ecological systems.   It resulted in novel methods and open-source software for both optimization and integrated design and operation of techno-ecological landscapes. It demonstrated for the first time, how these methods and framework can be used to design an industrial landacape by determining where to plant native vegetation that can take up air emissions and how to operate the manufacturing process such that it respects nature's capacity to mitigate emissions. The figure shows the Pareto or trade-off curve between the cost to company on the x-axis and cost to society on the y-axis. This is for a chlor-alkali process located in Galveston, Texas. Cost to society includes the expenses incurred by those who are harmed by the air emissions such as nitrogen oxides and ground level ozone. The orange curve shows the trade-off if only technologies were used for mitigating emissions. Point A represents the solution with the lowest cost to company, but highest cost to society. With technology alone, it is possible to reach net-zero emissions (Point C), but the cost to company will increase substantially. In contrast, the techno-ecologically synergistic solutions in the green curve show that even the solution with the lowest cost to company (Point D) is win-win since the cost to society also decreases as compared to Point A. Point E shows that net-zero emissions can be reached at a much smaller cost to company as compared to the technology-only solution at Point C. Beyond Point E, ecosystems can provide net-positive impact manufacturing by taking up emissions from other sources in the region. The methods developed in this work are capable of designing landscapes and operating manufacturing processes to achieve such benefits.   The resutls from this work have been disseminated to diverse audiences through journal publications, conference presentations and various invited talks at academic departments, conferences and industry. They have also been included in elective courses on sustainability taught at universities and to professionals. All the models, data, and code are available in on-line repositories and have been devleoped to enable reproducibility. The project provided partial financial support to five PhD students, two of whom were from groups that are underrepresented in engineering.     Last Modified: 04/29/2024       Submitted by: BhavikRBakshi]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

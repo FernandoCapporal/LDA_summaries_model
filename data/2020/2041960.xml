@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: SaTC-EDU: Teaching Security in Undergraduate Artificial Intelligence Courses Using Transparency and Contextualization]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>316000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11010000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DGE</Abbreviation>
+<LongName>Division Of Graduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ambareen Siraj</SignBlockName>
+<PO_EMAI>asiraj@nsf.gov</PO_EMAI>
+<PO_PHON>7032928182</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project will explore how to teach undergraduate computer science students about security in systems that use artificial intelligence (AI). This is important for educating a workforce that is knowledgeable about robust and trustworthy AI. The aim is to design an AI curriculum that will foster a security mindset for identifying vulnerabilities that could cause harm, whether through attacks by a malicious actor, or through perpetuating or amplifying social biases. The educational approach will focus on transparency and contextualization. Transparency involves making the inner workings of a system accessible to students, so they can understand which aspects of the system’s construction lead to its vulnerabilities. Contextualization involves situating AI techniques in real-world environments to understand their specific security implications. Contextualization is fundamental for teaching conventional security topics. For instance, accessing personal location data can serve a legitimate purpose in Google Maps, but is typically suspicious behavior in a game. The same piece of code may be used in each case, but its legitimacy is determined by its broader context. The team will conduct research on, and develop instructional materials and assessment tools for, integrating transparency and contextualization into the undergraduate AI curriculum. Since security in AI is a new area within computer science education research, the main goal is to develop initial designs for instruction and assessment that integrate transparency and contextualization at a level appropriate for undergraduates.&lt;br/&gt; &lt;br/&gt;The goal is to develop proof-of-concept instructional materials and techniques, and assessments for security concepts and skills in undergraduate AI courses. Instruction will be designed for four kinds of learning objectives. Students should: (1) know that AI systems can cause harms and are not immune to attacks; (2) be able to explain sources of vulnerabilities; (3) be able to identify vulnerabilities in a specific system, which could include attacking it; and (4) be able to defend an AI system by modifying it to mitigate threats. The team will identify AI topics in existing curricula that have security implications. The team will create tasks that illustrate the concrete security issues and conduct cognitive task analyses with experts in AI and security to see how they approach those problems. This process will yield the initial learning goals. The team will conduct an assessment survey on those goals with students who have taken the undergraduate AI course, to establish a baseline level of knowledge and elicit potential misconceptions. Based on the foundation that students have and the learning goals, the team will design initial instruction, iterating on the design through one-on-one think-alouds and small-group tutoring sessions with student participants. The team will test the instruction in a controlled experiment, comparing the AI plus security materials to AI-only materials, using pre- and post-tests to measure learning. Finally, a study using the designed instruction in an undergraduate course will illustrate how it works in a typical setting.  &lt;br/&gt;&lt;br/&gt;This project is supported by a special initiative of the Secure and Trustworthy Cyberspace (SaTC) program to foster new, previously unexplored, collaborations between the fields of cybersecurity, artificial intelligence, and education. The SaTC program aligns with the Federal Cybersecurity Research and Development Strategic Plan and the National Privacy Research Strategy to protect and preserve the growing social and economic benefits of cyber systems while ensuring security and privacy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2041960</AwardID>
+<Investigator>
+<FirstName>Suresh</FirstName>
+<LastName>Venkatasubramanian</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Suresh Venkatasubramanian</PI_FULL_NAME>
+<EmailAddress><![CDATA[suresh_venkatasubramanian@brown.edu]]></EmailAddress>
+<NSF_ID>000074075</NSF_ID>
+<StartDate>07/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eliane</FirstName>
+<LastName>Wiese</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eliane S Wiese</PI_FULL_NAME>
+<EmailAddress><![CDATA[eliane.wiese@utah.edu]]></EmailAddress>
+<NSF_ID>000782420</NSF_ID>
+<StartDate>07/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mu</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mu Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[muzhang@cs.utah.edu]]></EmailAddress>
+<NSF_ID>000814070</NSF_ID>
+<StartDate>07/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841129049</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress><![CDATA[201 PRESIDENTS CIR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LL8GLEVH6MG3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF UTAH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>SALT LAKE CITY</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>841120090</ZipCode>
+<StreetAddress><![CDATA[50 CENTRAL CAMPUS DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>806000</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>093Z</Code>
+<Text>AI Education/Workforce Develop</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0420</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0421</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04002021DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>04002122DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~300000</FUND_OBLG>
+<FUND_OBLG>2021~16000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Technology doesn't operate in a vacuum. Considering how the context of use should affect a technical implementation is part of professional ethics, and is a duty of computing professionals. Yet, computing concepts are often practiced with abstract, decontextualized assignments. This project set out to explore how to teach students to consider context while also deepening the rigor of the technical learning. Through creating an assignment for an undergraduate course on Artificial Intelligence, we found that the human concerns arising from the problem context helped us identify technical issues that students needed to understand. Further, using the assignment in the course helped the instructor identify gaps in students' technical knowledge that previous assignments hadn't. Additionally, while the vast majority of students tried to address the human needs in the problem situation, many lacked the technical skills to correctly evaluate if their proposed solution met its goals, emphasizing the importance of technical skills for verifying the appropriateness of a solution.</p> <p>The process of creating this assignment was not simple. A key outcome from the project was identifying a set of specific instructional design challenges in creating assignments where human concerns are integrated with technical ones. After identifying these challenges, we created an instructional design process to mitigate them, and tested the process on ourselves by using it to create instruction and assessment for a different computing topic. The new design process was helpful for identifying technical learning goals that are important when considering the context of use, but are likely to be overlooked when only considering abstract problems.</p> <p>To examine if attention to the broader context distracts students from learning the technical material, we conducted a randomized experiment that compared two forms of instruction: technical-only (with numerical, abstract examples and problems), and integrated (with the technical problems situated in human contexts). We did not find differences in learning between the two forms of instruction, indicating that considerations of human issues did not distract from technical learning. This finding lays the groundwork for future studies to examine how much an instructor can incorporate human concerns before there is a tradeoff with technical learning.</p> <p>This project also supported a literature review of all the research pertaining to teaching ethics in undergraduate computing that has been published by the Association of Computing Machinery (100 papers). A key finding in the review is that computing education researchers have conceptualized "ethics" in many different ways. Recommendations based on this finding are that researchers make explicit their conceptualization of ethics, explore partnerships with ethics experts, examine which strategies are best suited to teaching different conceptions of ethics, develop robust assessments, and consider how recommendations and challenges for incorporating ethics into computing curricula relate to different conceptualizations of ethics. The literature review further demonstrated the need for instructional design processes for ethics instruction and for comparison studies to examine possible tradeoffs between ethics-integrated and technical-only instruction.</p> <p>This project included many broader impacts: over 100 undergraduate students per year in an Artificial Intelligence course engaged with human concerns within a technical assignment. Over 80 undergraduate students learned about k-means and practiced applying human concerns to its implementation (through participating in the randomized experiment). Four undergraduate students gained research experience working on the project (one wrote an undergraduate thesis on it). This project also supported one Ph.D. student, including professional development from presenting this work at conferences. Finally, this project deepened engagement with ethics and human concerns among the computing faculty at the University of Utah.</p> <p>&nbsp;</p><br> <p>  Last Modified: 04/10/2024<br> Modified by: Eliane&nbsp;S&nbsp;Wiese</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Technology doesn't operate in a vacuum. Considering how the context of use should affect a technical implementation is part of professional ethics, and is a duty of computing professionals. Yet, computing concepts are often practiced with abstract, decontextualized assignments. This project set out to explore how to teach students to consider context while also deepening the rigor of the technical learning. Through creating an assignment for an undergraduate course on Artificial Intelligence, we found that the human concerns arising from the problem context helped us identify technical issues that students needed to understand. Further, using the assignment in the course helped the instructor identify gaps in students' technical knowledge that previous assignments hadn't. Additionally, while the vast majority of students tried to address the human needs in the problem situation, many lacked the technical skills to correctly evaluate if their proposed solution met its goals, emphasizing the importance of technical skills for verifying the appropriateness of a solution.   The process of creating this assignment was not simple. A key outcome from the project was identifying a set of specific instructional design challenges in creating assignments where human concerns are integrated with technical ones. After identifying these challenges, we created an instructional design process to mitigate them, and tested the process on ourselves by using it to create instruction and assessment for a different computing topic. The new design process was helpful for identifying technical learning goals that are important when considering the context of use, but are likely to be overlooked when only considering abstract problems.   To examine if attention to the broader context distracts students from learning the technical material, we conducted a randomized experiment that compared two forms of instruction: technical-only (with numerical, abstract examples and problems), and integrated (with the technical problems situated in human contexts). We did not find differences in learning between the two forms of instruction, indicating that considerations of human issues did not distract from technical learning. This finding lays the groundwork for future studies to examine how much an instructor can incorporate human concerns before there is a tradeoff with technical learning.   This project also supported a literature review of all the research pertaining to teaching ethics in undergraduate computing that has been published by the Association of Computing Machinery (100 papers). A key finding in the review is that computing education researchers have conceptualized "ethics" in many different ways. Recommendations based on this finding are that researchers make explicit their conceptualization of ethics, explore partnerships with ethics experts, examine which strategies are best suited to teaching different conceptions of ethics, develop robust assessments, and consider how recommendations and challenges for incorporating ethics into computing curricula relate to different conceptualizations of ethics. The literature review further demonstrated the need for instructional design processes for ethics instruction and for comparison studies to examine possible tradeoffs between ethics-integrated and technical-only instruction.   This project included many broader impacts: over 100 undergraduate students per year in an Artificial Intelligence course engaged with human concerns within a technical assignment. Over 80 undergraduate students learned about k-means and practiced applying human concerns to its implementation (through participating in the randomized experiment). Four undergraduate students gained research experience working on the project (one wrote an undergraduate thesis on it). This project also supported one Ph.D. student, including professional development from presenting this work at conferences. Finally, this project deepened engagement with ethics and human concerns among the computing faculty at the University of Utah.        Last Modified: 04/10/2024       Submitted by: ElianeSWiese]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

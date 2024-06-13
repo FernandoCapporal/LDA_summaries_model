@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU Site: Research Experience for Undergraduates in Genome Science and Computational Biology]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>402562.00</AwardTotalIntnAmount>
+<AwardAmount>402562</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrea Holgado</SignBlockName>
+<PO_EMAI>aholgado@nsf.gov</PO_EMAI>
+<PO_PHON>7032927076</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This REU Site award to Sam Houston State University, located in Huntsville, TX, will support the training of 10 students for 10 weeks during the summers of 2021 – 2023. It is anticipated that a total of 30 students (sophomore/junior), primarily from schools with limited research opportunities or from an under-represented group will be trained in the program. Students will conduct interdisciplinary research in Genome Science and Computational Biology and analyze genome, transcriptome, and proteome data using high-throughput computational approaches and bioinformatics tools to validate biological hypotheses. Students will learn the comprehensive scientific process and present the results at regional/national scientific conferences. Students will be encouraged to pursue graduate studies and research careers in genomics and bioinformatics. Assessment of the program will be done thru the online SALG URSSA tool. Students will be tracked after the program in order to determine their career paths.&lt;br/&gt;&lt;br/&gt;This program will focus on education and research training in computational and bioinformatic approaches on genome, transcriptome, and proteome data analyses. Students will conduct full-time summer research with faculty members from Biological Sciences, Chemistry, and Computer Science. The research activity of each student will be co-mentored by a biologist/biochemist and/or a computer scientist. Research projects include a wide range of interdisciplinary topics that include genome analysis, microbiome, gene expression, genetic networks, and phylogenetic relationships. Students will learn and use various computational methods and tools. Students will attend weekly computing workshops and lectures/discussions on basic scientific methodology. The seminars will be supplemented with activities to enhance scientific communications. Educational field trips will allow students to visit basic research laboratories, genome sequencing centers, and supercomputer facilities. Many students will present their research findings at scientific conferences and prepare research reports and/or peer-reviewed articles. Participants will be selected by the Principal Investigator and potential faculty mentors after completing an online application. More information about the program is available by visiting the program webpage (https://www.shsu.edu/research/reu-gscb/) or by directly contacting the PI (Dr. Madhusudan Choudhary at mchoudhary@shsu.edu) or the co-PI (Dr. Hyuk Cho at hyukcho@shsu.edu).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/23/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>03/22/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2050232</AwardID>
+<Investigator>
+<FirstName>Hyuk</FirstName>
+<LastName>Cho</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hyuk Cho</PI_FULL_NAME>
+<EmailAddress><![CDATA[hyukcho@shsu.edu]]></EmailAddress>
+<NSF_ID>000619798</NSF_ID>
+<StartDate>02/23/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Madhusudan</FirstName>
+<LastName>Choudhary</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Madhusudan Choudhary</PI_FULL_NAME>
+<EmailAddress><![CDATA[mchoudhary@shsu.edu]]></EmailAddress>
+<NSF_ID>000521129</NSF_ID>
+<StartDate>02/23/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Sam Houston State University]]></Name>
+<CityName>HUNTSVILLE</CityName>
+<ZipCode>773410001</ZipCode>
+<PhoneNumber>9362943621</PhoneNumber>
+<StreetAddress><![CDATA[1806 AVE J]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX17</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DJPXLZAE9931</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SAM HOUSTON STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Sam Houston State University]]></Name>
+<CityName>Huntsville</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>773412448</ZipCode>
+<StreetAddress><![CDATA[SHSU Box 2448]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>113900</Code>
+<Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~268055</FUND_OBLG>
+<FUND_OBLG>2023~134507</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The REU program at Sam Houston State University (SHSU) focused on promoting students&rsquo; knowledge and research experience in Genomics and Bioinformatics, foster a continued interest in the fields, and build their confidence and competence to pursue their graduate studies and professional careers in STEM fields. The program promoted students from underrepresented groups and women to participate. Students participated through weekly lectures, discussions, and computing workshops to learn fundamental principles, and various technologies in Genome Science. Also, students learned necessary computing skills and customize both existing big genomic data and computational/bioinformatics tools for their projects. Among a total of 81 applicants, 33 (40.7%) students were from underrepresented communities, including 16 African Americans, 16 Hispanic Latinos, and one Native American. Among the 30 selected students, 11 (36.7%) students were from underrepresented communities, including four African Americans and seven Hispanic Latinos. Also, out of 55 (68% of 81) women applied, 19 (63.3% of 30) selected for the REU program.</p> <p>This program promoted research as a part of the undergraduate educational experience by integrating courses between Biological Sciences and Computer Science departments, constituting an integral part of interdisciplinary undergraduate education. This also strengthened the research environment for further interdepartmental research collaborations. Students presented their research proposals, conducted collaborative research projects, and presented their findings in both oral and poster format in the summer program. Besides, students presented 16 posters at different state and national conferences and published three peer-reviewed articles. Inter-disciplinary research in Genome Science and Computational Biology led to a broad undergraduate education experience for Biology undergraduates, where students refined existing Bioinformatics software and tools, so that they could utilize them for their further research. REU students had opportunities to directly interact with the local community at the Huntsville Public Library and at the poster presentation in a mini conference during the last week. These community outreach activities attracted further attention of local people towards current developments and trends in basic and applied genome science research.</p> <p>Besides promoting undergraduate research experience, a sizable portion of the activities aimed towards students&rsquo; future graduate school education in STEM-related fields. These activities include visits to Ph.D. granting institutions and early exposure to graduate school preparation and the admission process. Specifically, students participated in fieldtrips at different avenues, including Baylor College of Medicine Genome Center, Rice University, and Houston Museum of National Science. At the Genome Center, students learned about sequencing technologies and genome analyses. At Rice University, students learned about the graduate program and application processes. Majority of the REU students pursue graduate programs in STEM fields. Specifically, of the total 30 students, 13 students have applied for Ph.D. program, among which six students were already admitted and the remaining seven are still waiting for the decision; six students have applied for M.S. programs, among which three students got admitted and the remaining three are waiting for the decision; six students have applied for medical schools, among which four were already admitted and the remaining two are waiting for the decision; and five students are working as technicians or admitted to post-bac research programs.&nbsp; A total of 19 (63% of 30) students are either admitted or pursuing toward STEM-related graduate programs, of which eight (42% of 19) students represent minority groups.</p> <p>Overall, the REU program at SHSU promoted undergraduate research experiences for students from underrepresented groups and women and from institutions with limited undergraduate research opportunities. After completing the REU program and subsequently finishing undergraduate programs at their home institutions, majority of students are pursuing graduate programs (Ph.D., M.S., or M.D.) in STEM-related fields. The pre- and post-assessments with SALG instruments validated that student actively engaged in all the REU activities.</p> <p>&nbsp;</p><br> <p>  Last Modified: 05/01/2024<br> Modified by: Madhusudan&nbsp;Choudhary</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2050232/2050232_10718774_1714578694564_02_REU_activity--rgov-214x142.png" original="/por/images/Reports/POR/2024/2050232/2050232_10718774_1714578694564_02_REU_activity--rgov-800width.png" title="REU Activities"><img src="/por/images/Reports/POR/2024/2050232/2050232_10718774_1714578694564_02_REU_activity--rgov-66x44.png" alt="REU Activities"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Sam Houston State University REU � Genome Science and Computational Biology (REU Activities)</div> <div class="imageCredit">SHSU</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Madhusudan&nbsp;Choudhary <div class="imageTitle">REU Activities</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2050232/2050232_10718774_1714578439482_01_REU_flyer--rgov-214x142.png" original="/por/images/Reports/POR/2024/2050232/2050232_10718774_1714578439482_01_REU_flyer--rgov-800width.png" title="REU Recruitment Flyer"><img src="/por/images/Reports/POR/2024/2050232/2050232_10718774_1714578439482_01_REU_flyer--rgov-66x44.png" alt="REU Recruitment Flyer"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Sam Houston State University REU - Genome Science and Computational Biology (Recruitment Flyer)</div> <div class="imageCredit">SHSU</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Madhusudan&nbsp;Choudhary <div class="imageTitle">REU Recruitment Flyer</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2050232/2050232_10718774_1714578829933_03_REU_assessment_with_SALG--rgov-214x142.png" original="/por/images/Reports/POR/2024/2050232/2050232_10718774_1714578829933_03_REU_assessment_with_SALG--rgov-800width.png" title="REU Program Assessment with SALG"><img src="/por/images/Reports/POR/2024/2050232/2050232_10718774_1714578829933_03_REU_assessment_with_SALG--rgov-66x44.png" alt="REU Program Assessment with SALG"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Sam Houston State University REU � Genome Science and Computational Biology (REU Program Assessment with SALG)</div> <div class="imageCredit">SALG</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Madhusudan&nbsp;Choudhary <div class="imageTitle">REU Program Assessment with SALG</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The REU program at Sam Houston State University (SHSU) focused on promoting students knowledge and research experience in Genomics and Bioinformatics, foster a continued interest in the fields, and build their confidence and competence to pursue their graduate studies and professional careers in STEM fields. The program promoted students from underrepresented groups and women to participate. Students participated through weekly lectures, discussions, and computing workshops to learn fundamental principles, and various technologies in Genome Science. Also, students learned necessary computing skills and customize both existing big genomic data and computational/bioinformatics tools for their projects. Among a total of 81 applicants, 33 (40.7%) students were from underrepresented communities, including 16 African Americans, 16 Hispanic Latinos, and one Native American. Among the 30 selected students, 11 (36.7%) students were from underrepresented communities, including four African Americans and seven Hispanic Latinos. Also, out of 55 (68% of 81) women applied, 19 (63.3% of 30) selected for the REU program.   This program promoted research as a part of the undergraduate educational experience by integrating courses between Biological Sciences and Computer Science departments, constituting an integral part of interdisciplinary undergraduate education. This also strengthened the research environment for further interdepartmental research collaborations. Students presented their research proposals, conducted collaborative research projects, and presented their findings in both oral and poster format in the summer program. Besides, students presented 16 posters at different state and national conferences and published three peer-reviewed articles. Inter-disciplinary research in Genome Science and Computational Biology led to a broad undergraduate education experience for Biology undergraduates, where students refined existing Bioinformatics software and tools, so that they could utilize them for their further research. REU students had opportunities to directly interact with the local community at the Huntsville Public Library and at the poster presentation in a mini conference during the last week. These community outreach activities attracted further attention of local people towards current developments and trends in basic and applied genome science research.   Besides promoting undergraduate research experience, a sizable portion of the activities aimed towards students future graduate school education in STEM-related fields. These activities include visits to Ph.D. granting institutions and early exposure to graduate school preparation and the admission process. Specifically, students participated in fieldtrips at different avenues, including Baylor College of Medicine Genome Center, Rice University, and Houston Museum of National Science. At the Genome Center, students learned about sequencing technologies and genome analyses. At Rice University, students learned about the graduate program and application processes. Majority of the REU students pursue graduate programs in STEM fields. Specifically, of the total 30 students, 13 students have applied for Ph.D. program, among which six students were already admitted and the remaining seven are still waiting for the decision; six students have applied for M.S. programs, among which three students got admitted and the remaining three are waiting for the decision; six students have applied for medical schools, among which four were already admitted and the remaining two are waiting for the decision; and five students are working as technicians or admitted to post-bac research programs. A total of 19 (63% of 30) students are either admitted or pursuing toward STEM-related graduate programs, of which eight (42% of 19) students represent minority groups.   Overall, the REU program at SHSU promoted undergraduate research experiences for students from underrepresented groups and women and from institutions with limited undergraduate research opportunities. After completing the REU program and subsequently finishing undergraduate programs at their home institutions, majority of students are pursuing graduate programs (Ph.D., M.S., or M.D.) in STEM-related fields. The pre- and post-assessments with SALG instruments validated that student actively engaged in all the REU activities.        Last Modified: 05/01/2024       Submitted by: MadhusudanChoudhary]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

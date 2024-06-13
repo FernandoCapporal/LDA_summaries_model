@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Stanford-Florida Program in Support of LIGO on Coatings and Core Optics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>1350000.00</AwardTotalIntnAmount>
+<AwardAmount>1350000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Marronetti</SignBlockName>
+<PO_EMAI>pmarrone@nsf.gov</PO_EMAI>
+<PO_PHON>7032927372</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award supports research in relativity and relativistic astrophysics and it addresses the priority areas of NSF's "Windows on the Universe" Big Idea. The detection of gravitational waves from coalescing black holes in 2015 launched the field of gravitational wave astronomy. Gravitational-wave detectors with a two-fold increase in sensitivity over Advanced LIGO would yield an order of magnitude increase in detection rate for black hole coalescences, and enable detection of fainter objects like binary neutron stars, greatly increasing their value for multi-messenger astronomy. All future detector upgrades and concepts rely on the development of new mirror coating materials to reduce thermal noise, which is the core research focus this collaborative project between Martin Fejer's group at Stanford University and Hai-Ping Cheng's group at the University of Florida. Reducing this noise source requires reducing the mechanical loss in the mirror coatings on the test masses. The goal of this project is to develop mirror coatings consistent with the mechanical and optical requirements for implementation in future generations of LIGO. Meeting this goal for room temperature detectors requires a solution of a longstanding problem in the physics of amorphous materials: understanding the nature of and finding means to reduce the low-energy excitations in amorphous metal oxides. On a longer time-scale, the proposed 3G detectors' cryogenic operation broadens the possible choice of low-noise mirror materials to include amorphous or crystalline semiconductors.&lt;br/&gt;&lt;br/&gt;The mid-band sensitivity of the Advanced LIGO detectors is limited by thermal noise resulting from mechanical loss in the mirror coatings, and future upgrades including Advanced LIGO Plus will seek to reduce this source of noise by a factor of two or more. The Stanford-Florida partnership, alongside collaborators in the LSC Center for Coatings Research (CCR), has identified different structural motifs associated with room-temperature vs cryogenic mechanical losses, which led to synthesis of germania (GeO2) films, giving rise to the lowest-loss amorphous oxide film other than silica. Going forward, this structural guide, based on electron and x-ray scattering atomic structure data, will serve as a paradigm informing the development of high-refractive-index amorphous coatings with lower elastic loss. Atomic modeling of coating elastic loss combined with simulations of the coating deposition process will provide guidance for the selection of candidate materials, assist in interpretation of experimental structure data, and will ultimately assist in the design of synthesis experiments. Another long-standing effort at Stanford has been measurements of the absorption of low-optical-loss materials at the sub-ppm/cm level, dating back to the down select between silica and sapphire for initial LIGO test masses. The groups will continue to use the interferometric tool developed for those studies to characterize cryogenic losses in single-crystal silicon samples to evaluate their suitability for implementation in the Voyager technology demonstrator and future cryogenic detectors.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>12/05/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011571</AwardID>
+<Investigator>
+<FirstName>Martin</FirstName>
+<LastName>Fejer</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Martin M Fejer</PI_FULL_NAME>
+<EmailAddress><![CDATA[fejer@ee.stanford.edu]]></EmailAddress>
+<NSF_ID>000163734</NSF_ID>
+<StartDate>11/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Stanford University]]></Name>
+<CityName>STANFORD</CityName>
+<ZipCode>943052004</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress><![CDATA[450 JANE STANFORD WAY]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJD6G4D6TJY5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE LELAND STANFORD JUNIOR UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stanford University]]></Name>
+<CityName>Stanford</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>943054013</ZipCode>
+<StreetAddress><![CDATA[348 Via Pueblo Mall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>125200</Code>
+<Text>LIGO RESEARCH SUPPORT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>069Z</Code>
+<Text>Windows on the Universe (WoU)</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~440440</FUND_OBLG>
+<FUND_OBLG>2022~450276</FUND_OBLG>
+<FUND_OBLG>2023~459284</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><br> <p>  Last Modified: 01/12/2024<br> Modified by: Martin&nbsp;M&nbsp;Fejer</p></div> <div class="porSideCol" ></div> </div> <div class="porColContainerHR"> <div class="porContentCol"> <h2>Addendum # 1</h2><p><p>The Stanford-Florida Program<span>&nbsp;in Support of LIGO on Coatings and Core Optics</span>, a collaboration between Stanford University and the University of Florida, has focused its efforts on improving the technologies essential for the Laser Interferometer Gravitational-Wave Observatory (LIGO) project, particularly in the development of low thermal noise mirror coatings and core optics. This initiative has brought together researchers and resources from both institutions to tackle the challenges of enhancing the sensitivity of gravitational wave detectors through advancements in optical technologies.</p> <p>The project has achieved notable successes in the study and optimization of the atomic structures of amorphous mirror coatings. By developing atomic models for titanium-doped germanium dioxide (Ti:GeO<sub>2</sub>) coatings, the team has provided insights into how the microscopic structure of these coatings affects their mechanical loss properties, a critical factor in the performance of gravitational wave detectors.</p> <p>One practical outcome of this research is the creation of a cryogenic mechanical loss measurement apparatus. This tool has allowed the measurement of how mechanical loss in various thin films changes with temperature, providing data that can help optimize the mirrors used in LIGO for better performance.</p> <p>In addition to technological advancements, the program has offered valuable training and professional development opportunities for those involved. Students and researchers participating in the project have gained hands-on experience with cutting-edge technologies and methodologies, preparing them for future challenges in their careers.</p> <p>The work conducted by the Stanford-Florida Program is grounded in scientific research and collaboration. Its contributions to the field of gravitational wave detection represent meaningful steps forward in the pursuit of understanding the universe. The findings and methodologies developed by the program have been shared with the wider scientific community, ensuring that the knowledge gained from this collaboration can benefit other researchers and projects in related fields.</p> <p>&nbsp;</p></p><br> <p>Added: 04/08/2024<br>Submitted by: Martin&nbsp;M&nbsp;Fejer</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[     Last Modified: 01/12/2024       Submitted by: MartinMFejer   The Stanford-Florida Programin Support of LIGO on Coatings and Core Optics, a collaboration between Stanford University and the University of Florida, has focused its efforts on improving the technologies essential for the Laser Interferometer Gravitational-Wave Observatory (LIGO) project, particularly in the development of low thermal noise mirror coatings and core optics. This initiative has brought together researchers and resources from both institutions to tackle the challenges of enhancing the sensitivity of gravitational wave detectors through advancements in optical technologies.   The project has achieved notable successes in the study and optimization of the atomic structures of amorphous mirror coatings. By developing atomic models for titanium-doped germanium dioxide (Ti:GeO2) coatings, the team has provided insights into how the microscopic structure of these coatings affects their mechanical loss properties, a critical factor in the performance of gravitational wave detectors.   One practical outcome of this research is the creation of a cryogenic mechanical loss measurement apparatus. This tool has allowed the measurement of how mechanical loss in various thin films changes with temperature, providing data that can help optimize the mirrors used in LIGO for better performance.   In addition to technological advancements, the program has offered valuable training and professional development opportunities for those involved. Students and researchers participating in the project have gained hands-on experience with cutting-edge technologies and methodologies, preparing them for future challenges in their careers.   The work conducted by the Stanford-Florida Program is grounded in scientific research and collaboration. Its contributions to the field of gravitational wave detection represent meaningful steps forward in the pursuit of understanding the universe. The findings and methodologies developed by the program have been shared with the wider scientific community, ensuring that the knowledge gained from this collaboration can benefit other researchers and projects in related fields.   Last Modified: 04/08/2024 Submitted by: MartinMFejer]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

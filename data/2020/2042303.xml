@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Singular Riemannian Foliations and Applications to Curvature and Invariant Theory]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>475280.00</AwardTotalIntnAmount>
+<AwardAmount>283499</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christopher Stark</SignBlockName>
+<PO_EMAI>cstark@nsf.gov</PO_EMAI>
+<PO_PHON>7032924869</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Riemannian Geometry studies the shape of smooth spaces, called Riemannian manifolds, by looking at measurable properties such as lengths, distances, angles, volumes and curvature - which quantify how much space is deformed compared to the familiar flat space. Riemannian manifolds appear everywhere in physics, modeling the membrane of a cell as well as spacetime in general relativity, and Riemannian geometry offers fundamental tools to study their properties.  One concept of paramount importance, when studying physical objects as well as Riemannian manifolds in general, is that of symmetry, that is, the degree of "self similarity" of a geometric object, which make it invariant under certain length-preserving transformations (called isometries). Symmetry can be further generalized with the idea of partitioning a geometric object into "sheets", which stay parallel to one another. This idea, formalized by the mathematical concept of singular Riemannian foliation, is at the center of the mathematical investigation of this project.  Here, we use ideas introduced by the PI and collaborators to study the local behavior of these structures, as well as use them globally to produce new  manifolds with desirable curvature.  In this project, geometry is also used as a broad concept to encompass a number of activities for the mathematical community and society in general, such as:  1) Organizing a four-weeks-long thematic program in Metric Geometry, with schools for undergraduate and graduate students, as well as a week-long conference.  2) Organizing a weekly math camp for girls in 3rd grade and up which is aimed at addressing the gender imbalance in the mathematical disciplines.&lt;br/&gt;&lt;br/&gt;The main goal of this project is to study singular Riemannian foliations, both to further understand their structure and to apply them to Invariant Theory and Riemannian Geometry.  The local study of singular Riemannian foliations, namely foliations on a Euclidean space with the origin as one leaf, generalizes orthogonal representations of Lie groups. The PI proved in a recent joint work that infinitesimal submetries have an algebraic counterpart, given by certain polynomial algebras called Laplacian algebras. This opens the door to a novel approach called "Invariant theory without groups", consisting in understanding how to read geometric properties of manifold submetries off of their Laplacian algebra, and apply these techniques to the special case in which the submetry comes from an orthogonal representation.  Globally, singular Riemannian foliations can conjecturally arise from collapsing sequences of manifolds with a uniform lower sectional curvature bound: One project will try to prove this locally. Furthermore, singular Riemannian foliations will be used to produce new examples of manifolds with non-negative and positive curvature.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/09/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>03/18/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2042303</AwardID>
+<Investigator>
+<FirstName>Marco</FirstName>
+<LastName>Radeschi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marco Radeschi</PI_FULL_NAME>
+<EmailAddress><![CDATA[marco.radeschi@gmail.com]]></EmailAddress>
+<NSF_ID>000758323</NSF_ID>
+<StartDate>02/09/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Notre Dame]]></Name>
+<CityName>NOTRE DAME</CityName>
+<ZipCode>465566031</ZipCode>
+<PhoneNumber>5746317432</PhoneNumber>
+<StreetAddress><![CDATA[836 GRACE HALL]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FPU6XGFXMBE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NOTRE DAME DU LAC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FPU6XGFXMBE9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Notre Dame]]></Name>
+<CityName>Notre Dame</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>465565708</ZipCode>
+<StreetAddress><![CDATA[940 Grace Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126500</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~83468</FUND_OBLG>
+<FUND_OBLG>2022~81903</FUND_OBLG>
+<FUND_OBLG>2023~118127</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The project of this award was to study the stucture of Singular Riemannian Foliations, i.e. partisions of geometric spaces into equidistant subspaces which generalize the classical concept of "symmetry", and use them as a tool to attack open problems in Riemannian geometry.</p> <p>Locally around a point, it was previously showed by the PI and couthors that the class of singular Riemannian Foliations is equivalent to the class of certain Algebras of polynomials, called Laplacian algebras. In a recent paper by Mendes, Lin and the PI, it was shown that there is a "Weyl Law" for Singular Riemannian foliations, which in particular implied that the Laplacian Algebra determines explicitly geometric quantities of the foliation, such as the dimension and volume of its leaf space.</p> <p>Recently, a former PhD student of the PI has generalized a result of Nabutovski and Rotman, by bounding the length of the shortest closed geodesic on a 2-dimensional orbifold in terms of its diameter. Since orbifolds arise as leaf spaces of singular Riemannian foliations, this result could be used to bound the diameter of the leaf space of a foliation in terms of its Laplacian algebra.</p> <p>Finally, in joint work with the postdoc Elahe Khalili Samani, the PI showed that given a&nbsp;singular Riemannian foliation on a simply connected space, the leaves are "nilpotent spaces" (i.e. spaces on which a number of algebraic topological tools apply) and furthermore if the leaves are "topologically simple" (i.e. rationally elliptic) then the leaf space of the foliation can be used to tell whether the foliated manifold is itself rationally elliptic.</p> <p>&nbsp;</p> <p>As for the outreach activities, the PI successfully organized and implemented, in the Fall and Spring semesters 2022-2023, the Girls Math Club (GMC) Program. This consisted in weekly,<span>&nbsp;math-themed and art-infused activities&nbsp;for a cohort of girls in 3rd and 4th grade, that introduced them to concepts of 3d geometry and spatial visualization. In addition to the PI, the activities were run by two women, a senior instructor from the Riverbend Math Center, as well as a Honors Math Student from Notre Dame. This program was successful,&nbsp;<span>in that some girls that had problems paying attention to math classes in school, would actively and enthusiastically participate to the activities of GMC. Given that</span><span>&nbsp;official data from St. Joseph County (where the PI and the University of Notre Dame are located) showed in 2022 a deep gap between 3th grade girls' and boys' performance in mathematics in standardized tests, such activities are deeply needed, as confirmed by the girls' parents.</span></span></p><br> <p>  Last Modified: 04/19/2024<br> Modified by: Marco&nbsp;Radeschi</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The project of this award was to study the stucture of Singular Riemannian Foliations, i.e. partisions of geometric spaces into equidistant subspaces which generalize the classical concept of "symmetry", and use them as a tool to attack open problems in Riemannian geometry.   Locally around a point, it was previously showed by the PI and couthors that the class of singular Riemannian Foliations is equivalent to the class of certain Algebras of polynomials, called Laplacian algebras. In a recent paper by Mendes, Lin and the PI, it was shown that there is a "Weyl Law" for Singular Riemannian foliations, which in particular implied that the Laplacian Algebra determines explicitly geometric quantities of the foliation, such as the dimension and volume of its leaf space.   Recently, a former PhD student of the PI has generalized a result of Nabutovski and Rotman, by bounding the length of the shortest closed geodesic on a 2-dimensional orbifold in terms of its diameter. Since orbifolds arise as leaf spaces of singular Riemannian foliations, this result could be used to bound the diameter of the leaf space of a foliation in terms of its Laplacian algebra.   Finally, in joint work with the postdoc Elahe Khalili Samani, the PI showed that given asingular Riemannian foliation on a simply connected space, the leaves are "nilpotent spaces" (i.e. spaces on which a number of algebraic topological tools apply) and furthermore if the leaves are "topologically simple" (i.e. rationally elliptic) then the leaf space of the foliation can be used to tell whether the foliated manifold is itself rationally elliptic.      As for the outreach activities, the PI successfully organized and implemented, in the Fall and Spring semesters 2022-2023, the Girls Math Club (GMC) Program. This consisted in weekly,math-themed and art-infused activitiesfor a cohort of girls in 3rd and 4th grade, that introduced them to concepts of 3d geometry and spatial visualization. In addition to the PI, the activities were run by two women, a senior instructor from the Riverbend Math Center, as well as a Honors Math Student from Notre Dame. This program was successful,in that some girls that had problems paying attention to math classes in school, would actively and enthusiastically participate to the activities of GMC. Given thatofficial data from St. Joseph County (where the PI and the University of Notre Dame are located) showed in 2022 a deep gap between 3th grade girls' and boys' performance in mathematics in standardized tests, such activities are deeply needed, as confirmed by the girls' parents.     Last Modified: 04/19/2024       Submitted by: MarcoRadeschi]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

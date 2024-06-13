@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Ferroelectric Nematic Liquid Crystals]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>777259.00</AwardTotalIntnAmount>
+<AwardAmount>777259</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Elizabeth Mann</SignBlockName>
+<PO_EMAI>elmann@nsf.gov</PO_EMAI>
+<PO_PHON>7032922655</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical Abstract:&lt;br/&gt;Ferroelectric nematics are fluids of essentially rod-shaped molecules that spontaneously organize into domains with macroscopic polar order. The recent discovery of this liquid crystal phase has created an opportunity to probe and understand the appearance of spontaneous polarization in a broad range of soft materials, including polymers, biomaterials, liquid crystals and colloids. The polar nature of the ferroelectric nematic makes it attractive for a host of novel applications, including electrooptical and non-linear optical devices, and will lead to new discoveries in the science and applications of nematic liquid crystals. This project offers excellent opportunities for undergraduate research participation and internships for minority high school students.&lt;br/&gt;&lt;br/&gt;Technical Abstract:&lt;br/&gt;The ferroelectric nematic (FN) is a new and essentially unexplored fluid state that occurs below the conventional nematic phase of liquid crystals, combining orientational order and spontaneous polarization for the first time in any homogeneous three-dimensional fluid. The estimated FN polarization density is larger than many solid state ferroelectrics, its magnitude implying almost perfect polar alignment of the nematic molecular dipoles.  Because of their large spontaneous polarization, FN materials give a facile, rapid orientational response to applied electric fields, giving virtually every nematic effect and application a new dimension.   A broad-based, coordinated effort of molecular design, synthesis, and physical characterization will be pursued to characterize the ferroelectric nematic state and to evolve an understanding of its nanoscale origins, emergent mesoscopic properties, and potential applications. Experimental methods including electro-optic studies, x-ray scattering, optical and SHG microscopy, and dielectric spectroscopy will be used to characterize FN molecular organization, macroscopic structure, and field response dynamics.   Continuum modeling will be developed to describe a new regime of nematic elasto-hydrodynamics where polarization space charge stabilization becomes a dominant player.&lt;br/&gt;&lt;br/&gt;This Division of Materials Research (DMR) grant supports research to understand ferroelectric nematic liquid crystals with funding from the Condensed Matter Physics (CMP) program in DMR of the Mathematical and Physical Sciences Directorate.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/13/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2005170</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Walba</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David M Walba</PI_FULL_NAME>
+<EmailAddress><![CDATA[walba@colorado.edu]]></EmailAddress>
+<NSF_ID>000461285</NSF_ID>
+<StartDate>06/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Glaser</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew A Glaser</PI_FULL_NAME>
+<EmailAddress><![CDATA[matthew.glaser@colorado.edu]]></EmailAddress>
+<NSF_ID>000426481</NSF_ID>
+<StartDate>06/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Maclennan</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joseph E Maclennan</PI_FULL_NAME>
+<EmailAddress><![CDATA[joseph.maclennan@colorado.edu]]></EmailAddress>
+<NSF_ID>000419109</NSF_ID>
+<StartDate>06/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Colorado at Boulder]]></Name>
+<CityName>Boulder</CityName>
+<ZipCode>803090001</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress><![CDATA[3100 MARINE ST]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 481 572 UCB]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SPVKK1RC2MZ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE REGENTS OF THE UNIVERSITY OF COLORADO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The Regents of the University of Colorado]]></Name>
+<CityName>Boulder</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803031058</ZipCode>
+<StreetAddress><![CDATA[3100 Marine St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>171000</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>059E</Code>
+<Text>Complex fluids</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~254816</FUND_OBLG>
+<FUND_OBLG>2021~257587</FUND_OBLG>
+<FUND_OBLG>2022~264856</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The overall goal of this project was to characterize the ferroelectric nematic and smectic liquid crystal phases and to evolve an understanding of their nanoscale origins, emergent mesoscopic properties, and potential applications through a coordinated effort of molecular design, synthesis, physical characterization, and continuum modeling.</p> <p>Principal achievements include: Observation of ideal mixing of two ferroelectric nematic materials from different molecular families; The discovery and characterization of polar ordering of ferroelectric nematics at rubbed interfaces; Investigations of alignment and field response of ferroelectric nematics on different rubbed and unrubbed substrates; The identification and characterization of the antiferroelectric SmZ<sub>A</sub> phase; Precision calorimetric investigation of the nematic to ferroelectric nematic phase transition; Theoretical analysis of the dielectric response of ferroelectric liquid crystals with high spontaneous polarization; Discovery and characterization of the ferroelectric SmA<sub>F</sub> phase; &bull; Continuum modeling of the electro-optic response of N<sub>F</sub> LCs in microchannels; Theoretical description of the splay-modulated antiferroelectric SmZ<sub>A</sub> phase. Observation of isotropic reentrant antiferroelectric phase in N<sub>F</sub> material doped with ionic liquid.</p> <p>Both graduate and undergraduate students were involved in this research, one of whom graduated with a doctorate and three of whom received bachelor's degrees with highest Latin honors. The founding of the spin-off company Polaris Electro-Optics will help to advance non-linear optical science and help create next-generation technology for ultra-fast passive and adaptive electro-optic modulation, frequency mixing, and optical information processing.</p><br> <p>  Last Modified: 05/01/2024<br> Modified by: Joseph&nbsp;E&nbsp;Maclennan</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2005170/2005170_10680662_1714608534138_twisted_states_landscape--rgov-214x142.png" original="/por/images/Reports/POR/2024/2005170/2005170_10680662_1714608534138_twisted_states_landscape--rgov-800width.png" title="Orientational states of a ferroelectric nematic liquid crystal."><img src="/por/images/Reports/POR/2024/2005170/2005170_10680662_1714608534138_twisted_states_landscape--rgov-66x44.png" alt="Orientational states of a ferroelectric nematic liquid crystal."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Uniform and twisted states in the NF phase induced by polar surface anchoring generated using antiparallel buffing, imaged in polarized light.  The red-to-blue arrow sequence represents the ferroelectric polarization orientation at increasing heights in the cell.  Scale bars: 200 microns.</div> <div class="imageCredit">Images: Xi Chen</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Joseph&nbsp;E&nbsp;Maclennan <div class="imageTitle">Orientational states of a ferroelectric nematic liquid crystal.</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The overall goal of this project was to characterize the ferroelectric nematic and smectic liquid crystal phases and to evolve an understanding of their nanoscale origins, emergent mesoscopic properties, and potential applications through a coordinated effort of molecular design, synthesis, physical characterization, and continuum modeling.   Principal achievements include: Observation of ideal mixing of two ferroelectric nematic materials from different molecular families; The discovery and characterization of polar ordering of ferroelectric nematics at rubbed interfaces; Investigations of alignment and field response of ferroelectric nematics on different rubbed and unrubbed substrates; The identification and characterization of the antiferroelectric SmZA phase; Precision calorimetric investigation of the nematic to ferroelectric nematic phase transition; Theoretical analysis of the dielectric response of ferroelectric liquid crystals with high spontaneous polarization; Discovery and characterization of the ferroelectric SmAF phase;  Continuum modeling of the electro-optic response of NF LCs in microchannels; Theoretical description of the splay-modulated antiferroelectric SmZA phase. Observation of isotropic reentrant antiferroelectric phase in NF material doped with ionic liquid.   Both graduate and undergraduate students were involved in this research, one of whom graduated with a doctorate and three of whom received bachelor's degrees with highest Latin honors. The founding of the spin-off company Polaris Electro-Optics will help to advance non-linear optical science and help create next-generation technology for ultra-fast passive and adaptive electro-optic modulation, frequency mixing, and optical information processing.     Last Modified: 05/01/2024       Submitted by: JosephEMaclennan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

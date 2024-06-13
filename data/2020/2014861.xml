@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Analyzing Dependent Extremes via Joint Quantile Regression]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>149999.00</AwardTotalIntnAmount>
+<AwardAmount>149999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yong Zeng</SignBlockName>
+<PO_EMAI>yzeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927299</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>What is common between Hurricane Harvey and the Great Recession? Both are examples of ordinary and loosely connected processes attaining extraordinary levels in a synchronized manner. Accurately predicting the size and frequency of synchronized extreme outcomes is crucial to robust risk management. But this task remains a difficult challenge to data science that has been mostly built around the notions of average behavior and independence. A case in point is regression analyses where one studies how a group of outcomes are simultaneously influenced by a common set of predictors. Current statistical methods can either address inter-dependency between multiple outcomes, or model transitions from ordinary to extraordinary levels of a single outcome. But nothing satisfactory exists to handle both. This research fills this gap with new data analysis tools based on quantile driven regression analysis. The new tools are specialized for analyzing data recorded over space and time or within network clusters. They are subjected to detailed mathematical scrutiny for accuracy and reliability. Applications to finance and environmental sciences are carried out to assess the usefulness of the new tools in scientific investigation and policy making. The project integrates statistical research with software development and graduate education. &lt;br/&gt;&lt;br/&gt;Quantiles are simply percentiles expressed in terms of a level varying from zero through one, as opposed to a percentage point. The quantiles of a variable give direct access to its smooth transitions between ordinary and extraordinary levels. In standard quantile regression, one estimates the effects of predictors at any given quantile level of an outcome. Such estimation is easy to carry out when observation units are mutually independent; there is no need of a detailed probabilistic model for the predictor-outcome relation. But data with known dependency structures present a far more complex challenge; accurate estimation requires adjusting for intrinsic noise correlation between units in close proximity. Such a task remains beyond the scope of ordinary quantile regression methods due to their model-free nature and their focus on single quantiles in isolation. In contrast, joint quantile regression makes this task feasible by incorporating a full probabilistic model for the outcome and enabling a joint estimation at all quantile levels at once. The research investigates the use of copula modeling to address noise correlation in joint quantile regression, focusing greatly on appropriate customization of the copula formulation for each data type. A rigorous asymptotic analysis is carried out toward statistical guarantees of the resulting tools. Quantitative and visualization-based diagnostic tools will be developed for model assessment and selection. All tools will be incorporated in the R package “qrjoint” available through The Comprehensive R Archive Network.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2014861</AwardID>
+<Investigator>
+<FirstName>Surya</FirstName>
+<LastName>Tokdar</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Surya T Tokdar</PI_FULL_NAME>
+<EmailAddress><![CDATA[st118@stat.duke.edu]]></EmailAddress>
+<NSF_ID>000548769</NSF_ID>
+<StartDate>06/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress><![CDATA[2200 W MAIN ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>Durham</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277054010</ZipCode>
+<StreetAddress><![CDATA[2200 W. Main St, Suite 710]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>126900</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~149999</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Extreme events, whether be it heavy rainfall or large wildfires, pose risk to life and property. Statistical analysis of such events is challenging. On the one hand, extreme events are rare and atypical. On the other hand, statistical methods are largely built for analyzing the average or the typical outcome. Extreme value theory, a branch of statistics, offers concepts and tools to target extreme outcomes, but its practice leaves many gaps. Current approaches often resort to isolating large outcomes from historical records, so that inference on the extreme is not overwhelmed by the more numerous typical values. Such thresholding throws away potentially valuable information, especially when records are correlated. Also, identifying an appropriate threshold can be more art than science.&nbsp;</p> <p>This award has supported research on statistical theory and methods that target analysis of extreme outcomes without thresholding; attempting to extract maximum possible information out of limited data. Our results show that it is feasible to combine ideas from extreme value theory with modeling and computational tools from Bayesian statistics to create new methodology which judiciously utilizes information from more typical but extreme-adjacent records to improve estimation and prediction of extreme outcomes. Our mathematical analysis shows that this new methodology is adaptive: it makes optimal use of the data to determine how deep into the typical range one needs to reach to improve estimation of the extreme realizations. The improvement is sometimes dramatic! Thresholding methods are prone to producing excessively wide ranges of estimated values, sometimes extending orders of magnitude above and beyond the truth. In contrast, the new methodology produces provably good bounds that are also tight enough to be useful in practice.&nbsp;</p> <p>A second important outcome of this award has been the development of a regression analysis framework which can investigate how the association between a response variable and a given set of predictors varies between typical and atypical levels. This type of regression analysis falls under the label of quantile regression. However, existing methods could carry out only a localized analysis at a given percentile level of the response and are reliable mostly in the typical range. New research tools developed under this award allow the synthesis of extreme value theory and Bayesian estimation to be brought over into the field of quantile regression and provide important customizations for analyzing correlated records commonly encountered in environmental sciences.&nbsp;</p> <p>The award has supported one doctoral student in their dissertation research and professional development. It has also supported creation of research projects for MS students aspiring to go into doctoral programs in statistics. Research findings were disseminated widely via publication of peer reviewed journal articles, presentation at prestigious domestic and international academic conferences, and creation and release of publicly available software packages to carry out statistical analyses on large data sets using the new methodology developed under this award.&nbsp;&nbsp;The research publications have attracted attention from researchers in environmental sciences and have helped foster new collaborations.&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 02/15/2024<br> Modified by: Surya&nbsp;T&nbsp;Tokdar</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Extreme events, whether be it heavy rainfall or large wildfires, pose risk to life and property. Statistical analysis of such events is challenging. On the one hand, extreme events are rare and atypical. On the other hand, statistical methods are largely built for analyzing the average or the typical outcome. Extreme value theory, a branch of statistics, offers concepts and tools to target extreme outcomes, but its practice leaves many gaps. Current approaches often resort to isolating large outcomes from historical records, so that inference on the extreme is not overwhelmed by the more numerous typical values. Such thresholding throws away potentially valuable information, especially when records are correlated. Also, identifying an appropriate threshold can be more art than science.   This award has supported research on statistical theory and methods that target analysis of extreme outcomes without thresholding; attempting to extract maximum possible information out of limited data. Our results show that it is feasible to combine ideas from extreme value theory with modeling and computational tools from Bayesian statistics to create new methodology which judiciously utilizes information from more typical but extreme-adjacent records to improve estimation and prediction of extreme outcomes. Our mathematical analysis shows that this new methodology is adaptive: it makes optimal use of the data to determine how deep into the typical range one needs to reach to improve estimation of the extreme realizations. The improvement is sometimes dramatic! Thresholding methods are prone to producing excessively wide ranges of estimated values, sometimes extending orders of magnitude above and beyond the truth. In contrast, the new methodology produces provably good bounds that are also tight enough to be useful in practice.   A second important outcome of this award has been the development of a regression analysis framework which can investigate how the association between a response variable and a given set of predictors varies between typical and atypical levels. This type of regression analysis falls under the label of quantile regression. However, existing methods could carry out only a localized analysis at a given percentile level of the response and are reliable mostly in the typical range. New research tools developed under this award allow the synthesis of extreme value theory and Bayesian estimation to be brought over into the field of quantile regression and provide important customizations for analyzing correlated records commonly encountered in environmental sciences.   The award has supported one doctoral student in their dissertation research and professional development. It has also supported creation of research projects for MS students aspiring to go into doctoral programs in statistics. Research findings were disseminated widely via publication of peer reviewed journal articles, presentation at prestigious domestic and international academic conferences, and creation and release of publicly available software packages to carry out statistical analyses on large data sets using the new methodology developed under this award.The research publications have attracted attention from researchers in environmental sciences and have helped foster new collaborations.        Last Modified: 02/15/2024       Submitted by: SuryaTTokdar]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

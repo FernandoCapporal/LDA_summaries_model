@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Quantized Symmetries in Operator Algebras and Quantum Information]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>243828.00</AwardTotalIntnAmount>
+<AwardAmount>243828</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marian Bocea</SignBlockName>
+<PO_EMAI>mbocea@nsf.gov</PO_EMAI>
+<PO_PHON>7032922595</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>For over a century it has been known that our physical universe is governed by quantum mechanics.  A fundamental feature of quantum mechanics is that if you perform a measurement on a physical system, it has the effect of permanently altering the state of the system.  This means that the order in which one performs measurements on certain physical systems matters.  In this context, we say that measurement is "non-commutative".  The inherent non-commutativity of quantum mechanics is described by the theory of operator algebras, which is the branch of mathematics that investigates how to efficiently manipulate and encode arbitrarily large matrices of numerical data.  Today,  operator algebras and quantum theory are both well-established and independent branches of the mathematical sciences. However, in recent years, with the advent of quantum computation and quantum information science, there has been a resurgence of fruitful interactions between the more mathematical theory of operator algebras and the more physical theory of quantum mechanics.  The primary goal of this project is to explore and deepen the emerging connections between operator algebra theory and quantum information theory (QIT).  The central objects of study in this project are quantized symmetries in operator algebras and QIT.  Understanding the symmetries of systems has long been a powerful tool in mathematical and physical problems, and the highly non-commutative nature of both operator algebras and QIT naturally leads to the discovery of more flexible notions of symmetries, called quantum symmetries.  In this project, we will use various mathematical incarnations of quantum symmetries to provide a link between operator algebra theory and QIT, and we will use this link to provide new insights into both of these important fields. This project will contribute to the development of the US workforce through the training of graduate and undergraduate students.&lt;br/&gt;&lt;br/&gt;This research project breaks up into two main directions. The first direction concerns the structural theory of some new and interesting classes of operator algebras arising from quantum isomorphism spaces.  Quantum isomorphism spaces appear naturally in the study of quantum teleportation and super-dense coding schemes in QIT, and also in the representation theory of quantum permutation groups.  The study of these algebras leads us to propose a quantum analogue of Lueck’s determinant conjecture from geometric group theory and investigate its potential applications to constructing new examples of strongly 1-bounded and strongly solid von Neumann algebras. The second direction of this project relates to the Principal Investigator's pioneering work on the interactions between quantum symmetries and QIT. Here, geometric and representation-theoretic tools will be used to find applications of non-local games arising in QIT to the construction of new examples of hyperlinear discrete quantum groups.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/21/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2000331</AwardID>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Rowell</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eric C Rowell</PI_FULL_NAME>
+<EmailAddress><![CDATA[rowell@math.tamu.edu]]></EmailAddress>
+<NSF_ID>000440202</NSF_ID>
+<StartDate>07/12/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Kuan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeffrey Kuan</PI_FULL_NAME>
+<EmailAddress><![CDATA[jkuan@tamu.edu]]></EmailAddress>
+<NSF_ID>000673709</NSF_ID>
+<StartDate>06/21/2022</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Brannan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael Brannan</PI_FULL_NAME>
+<EmailAddress><![CDATA[mbrannan@math.tamu.edu]]></EmailAddress>
+<NSF_ID>000677828</NSF_ID>
+<StartDate>04/01/2020</StartDate>
+<EndDate>07/12/2021</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Texas A&M University]]></Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778454375</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress><![CDATA[400 HARVEY MITCHELL PKY S STE 30]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JF6XLNB4CDJ5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A &amp; M UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&M University Main Campus]]></Name>
+<CityName>College Station</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778433368</ZipCode>
+<StreetAddress><![CDATA[3368 TAMU]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>128100</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~243828</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Symmetries of &ldquo;classical&rdquo; systems are typically described by a group of transformations: for example, in solid state physics one studies crystals by considering the group of rotations and reflections that preserve the geometry of the crystal.&nbsp; In quantum systems the symmetries are unsurprisingly more complicated, requiring a diverse array of tools from several mathematical fields to describe them, such as Operator Algebras, Fusion Categories, Low-dimensional Topology, Probability Theory and Representation Theory.&nbsp; Besides the academic interest in describing these symmetries there is a significant compelling added value in this pursuit: they are needed to study and classify models for quantum computation and quantum information and to analyze their computational power.&nbsp; This project was dedicated to the study of quantum symmetries with an emphasis on the applications to quantum information.</p> <p>&nbsp;</p> <p>One important class of problems in quantum information is that of quantum games.&nbsp; These can be thought of as strategies for playing games that employ a quantum resource. Many classical games have a quantum counterpart that can be efficiently analyzed when the classical version is very difficult.&nbsp; Interesting examples of this phenomena can be found in the study of quantum graphs.&nbsp; One can generalize the well-known statistics of classical graphs to the quantum setting and analyze them.&nbsp; Several papers in this direction were published as a result of this project.&nbsp; Another direction is to derive inequalities that can be brought to bear to quantify errors and to understand the bounds of the computational power of quantum systems.&nbsp; These were all accomplished using ideas from Operator Algebras.</p> <p>&nbsp;</p> <p>One of the most compelling approaches to quantum computation uses ideas from topology to mitigate errors from the instability of quantum systems due to the interaction with the environment&mdash;i.e. decoherence.&nbsp; In condensed matter physics there are systems whose symmetries have a distinctly topological quality, which are expected to be robust against errors due to the invariance of the topological features of these systems under small local perturbations.&nbsp; In two special dimensions these systems are modelled by modular tensor categories, with point-like excitations called anyons.&nbsp; Several results were obtained on classification of such categories, including a new method for constructing G-crossed braided fusion categories, which are essential for the description of symmetry enriched topological orders.&nbsp; Two other papers realize fermionic modular data found by a group of physicists and show how to reconstruct some modular categories from their fusion rules.&nbsp; 3-dimensional topological phase are also of interest: here the elementary excitations are knots, so that a new approach is needed to understand their motions.&nbsp; Some headway on this problem was achieved in collaboration with mathematicians in the UK.</p> <p>&nbsp;</p> <p>The 17+ papers published by the PIs, the co-PI and their students and postdocs made significant contributions to our understanding of quantum systems and their applications to quantum information.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>Besides the scientific advances achieved, the training of a diverse scientific workforce was also a key outcome of this project. Several mini-courses and semester-long focused workshops were taught on quantum information and the application of the mathematical topics mentioned above. The audiences were researchers of all levels, from undergraduate students to postdocs and to tenured faculty.&nbsp; For example, one of the PIs co-taught a program for undergraduate faculty (i.e. faculty at primarily undergraduate-focused institutions) at the summer Park City Math Institute.&nbsp; One of the PIs co-organized a long program in Germany, which welcomed an international group of students and featured lectures by world experts on quantum information.&nbsp; The papers published by the funded personnel included several graduate students and postdocs and was remarkably diverse: 10 distinct coauthors are women.&nbsp; These papers were published in leading journals, which extends the reach of the research performed by means of the high profile of these journals.&nbsp; Numerous talks were given by the PIs and their co-authors, disseminating the research to an even broader audience and fostering deeper connections and future collaborations.</p> <p>&nbsp;</p><br> <p>  Last Modified: 03/28/2024<br> Modified by: Eric&nbsp;C&nbsp;Rowell</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Symmetries of classical systems are typically described by a group of transformations: for example, in solid state physics one studies crystals by considering the group of rotations and reflections that preserve the geometry of the crystal. In quantum systems the symmetries are unsurprisingly more complicated, requiring a diverse array of tools from several mathematical fields to describe them, such as Operator Algebras, Fusion Categories, Low-dimensional Topology, Probability Theory and Representation Theory. Besides the academic interest in describing these symmetries there is a significant compelling added value in this pursuit: they are needed to study and classify models for quantum computation and quantum information and to analyze their computational power. This project was dedicated to the study of quantum symmetries with an emphasis on the applications to quantum information.      One important class of problems in quantum information is that of quantum games. These can be thought of as strategies for playing games that employ a quantum resource. Many classical games have a quantum counterpart that can be efficiently analyzed when the classical version is very difficult. Interesting examples of this phenomena can be found in the study of quantum graphs. One can generalize the well-known statistics of classical graphs to the quantum setting and analyze them. Several papers in this direction were published as a result of this project. Another direction is to derive inequalities that can be brought to bear to quantify errors and to understand the bounds of the computational power of quantum systems. These were all accomplished using ideas from Operator Algebras.      One of the most compelling approaches to quantum computation uses ideas from topology to mitigate errors from the instability of quantum systems due to the interaction with the environmenti.e. decoherence. In condensed matter physics there are systems whose symmetries have a distinctly topological quality, which are expected to be robust against errors due to the invariance of the topological features of these systems under small local perturbations. In two special dimensions these systems are modelled by modular tensor categories, with point-like excitations called anyons. Several results were obtained on classification of such categories, including a new method for constructing G-crossed braided fusion categories, which are essential for the description of symmetry enriched topological orders. Two other papers realize fermionic modular data found by a group of physicists and show how to reconstruct some modular categories from their fusion rules. 3-dimensional topological phase are also of interest: here the elementary excitations are knots, so that a new approach is needed to understand their motions. Some headway on this problem was achieved in collaboration with mathematicians in the UK.      The 17+ papers published by the PIs, the co-PI and their students and postdocs made significant contributions to our understanding of quantum systems and their applications to quantum information.         Besides the scientific advances achieved, the training of a diverse scientific workforce was also a key outcome of this project. Several mini-courses and semester-long focused workshops were taught on quantum information and the application of the mathematical topics mentioned above. The audiences were researchers of all levels, from undergraduate students to postdocs and to tenured faculty. For example, one of the PIs co-taught a program for undergraduate faculty (i.e. faculty at primarily undergraduate-focused institutions) at the summer Park City Math Institute. One of the PIs co-organized a long program in Germany, which welcomed an international group of students and featured lectures by world experts on quantum information. The papers published by the funded personnel included several graduate students and postdocs and was remarkably diverse: 10 distinct coauthors are women. These papers were published in leading journals, which extends the reach of the research performed by means of the high profile of these journals. Numerous talks were given by the PIs and their co-authors, disseminating the research to an even broader audience and fostering deeper connections and future collaborations.        Last Modified: 03/28/2024       Submitted by: EricCRowell]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

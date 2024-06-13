@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Oligotrophic ocean metabolism from underwater glider observations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>233082.00</AwardTotalIntnAmount>
+<AwardAmount>233082</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cynthia Suchman</SignBlockName>
+<PO_EMAI>csuchman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922092</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Aquatic photosynthesis and respiration rates regulate the flux of organic matter into the ocean’s interior, a process that impacts Earth’s climate by sequestering carbon dioxide from the atmosphere and that provides most of the energy necessary to support the requirements of the organisms inhabiting the dark depths of the ocean. Recent improvements in sensor technology enabled the estimation of photosynthesis and respiration using accurate measurements of the concentration of oxygen dissolved in seawater collected by autonomous underwater vehicles and floats, even in regions of the ocean with low biological activity such as the subtropical gyres. This project is analyzing data collected in the North Pacific ocean during 7 years using autonomous underwater vehicles in order to obtain an unprecedented number of estimates of metabolic rates for a region of the ocean that is representative of one of the largest oceanic ecosystems. This novel analysis helps constrain the amount of oxygen produced in the sea and improves our understanding of how variations in photosynthesis and respiration influence the flux of organic carbon towards the bottom of the ocean. Two undergraduate students from the University of Hawaii are supported and trained as part of this project. &lt;br/&gt;&lt;br/&gt;This project is analyzing publicly available observations of temperature, salinity, dissolved oxygen, chlorophyll fluorescence, and optical backscatter collected using underwater gliders in the North Pacific Subtropical Gyre between 2008 and 2014 (&gt;1,000 days of observations). The analyses are used to: (i) quantify in situ rates of gross primary production and respiration in the mixed layer from diel oxygen oscillations, and determine their short-term variability and seasonality; (ii) quantify the net biological oxygen production (both in the mixed layer and in the lower euphotic zone) and determine its seasonality; (iii) quantify annual net community production, from which one can infer the net biological flux of organic C into the ocean’s interior; and (iv) assess how temporal changes in biomass are linked to changes in metabolic rates by comparing oxygen-based metabolic rates with optical proxies of phytoplankton biomass (backscatter and chlorophyll fluorescence). This investigation will better constrain the role of the ocean in regulating Earth’s climate by improved understanding of the mechanisms driving the temporal variability of metabolic rates in the oligotrophic ocean that covers a large fraction of our planet.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/05/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2048435</AwardID>
+<Investigator>
+<FirstName>Sara</FirstName>
+<LastName>Ferron</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sara Ferron</PI_FULL_NAME>
+<EmailAddress><![CDATA[sferron@hawaii.edu]]></EmailAddress>
+<NSF_ID>000783960</NSF_ID>
+<StartDate>01/05/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Benedetto</FirstName>
+<LastName>Barone</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Benedetto Barone</PI_FULL_NAME>
+<EmailAddress><![CDATA[bbarone@hawaii.edu]]></EmailAddress>
+<NSF_ID>000807646</NSF_ID>
+<StartDate>01/05/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Hawaii]]></Name>
+<CityName>HONOLULU</CityName>
+<ZipCode>968222247</ZipCode>
+<PhoneNumber>8089567800</PhoneNumber>
+<StreetAddress><![CDATA[2425 CAMPUS RD SINCLAIR RM 1]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Hawaii</StateName>
+<StateCode>HI</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>HI01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NSCKLFSSABF2</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF HAWAII</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Hawaii]]></Name>
+<CityName/>
+<StateCode>HI</StateCode>
+<ZipCode>968222234</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Hawaii</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>HI01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>165000</Code>
+<Text>BIOLOGICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>167000</Code>
+<Text>Chemical Oceanography</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1315</Code>
+<Text>JOINT GLOBAL OCEAN FLUX STUDY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1670</Code>
+<Text>CHEMICAL OCEANOGRAPHY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~233082</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Underwater gliders are robots that autonomously sample the ocean following the instructions of oceanographers. These gliders provide depth-resolved measurements of physical, chemical, and biological properties of the ocean over extended periods of time, and are able to measure ecological changes on temporal scales that are difficult to observe with ships. Recent improvements in the sensors mounted on gliders allow the characterization of diurnal changes in dissolved oxygen, which can be used to estimate rates of photosynthesis and respiration. These processes regulate the flux of organic matter into the ocean&rsquo;s interior thus impacting Earth&rsquo;s climate by sequestering carbon dioxide from the atmosphere. Phytoplankton photosynthesis is also the primary source of energy and organic carbon into marine ecosystems and serves as the base of the complex marine food web that includes fish and humans. Despite its importance, our understanding of plankton metabolism is incomplete due to the paucity of ocean observations, which limits our ability to predict how the ocean will respond to climate change. The use of autonomous platforms to estimate metabolic rates could soon address this issue by providing a large number of new measurements that are easier and less expensive to obtain than those obtained using traditional methods from a ship.</p> <p>This project sought to analyze a large set of depth-resolved oceanographic observations collected by underwater gliders in the North Pacific Subtropical Gyre since 2008. These measurements were thoroughly curated and calibrated and they were later used to investigate the variability in plankton metabolisms in relation to changes in phytoplankton biomass and suspended particle concentration (estimated using optical proxies). The dataset comprises 20,000 vertical profiles collected during 18 glider deployments in the open ocean north of the Hawaiian Islands. The gliders were equipped with sensors to measure temperature, salinity, pressure, dissolved oxygen concentration, chlorophyll <em>a</em> concentration from fluorescence, and the concentration of suspended particles from optical backscatter.</p> <p>The raw observations were quality-controlled following procedures developed for this project, as well as calibrated using accurate shipboard observations, resulting in a robust dataset that is inter-comparable among the different glider deployments. Detailed descriptions of the data processing, quality control metrics, calibration methods, and a technical validation against observations from the HOT program at Station ALOHA, have been submitted as a manuscript for publication in the journal <em>Scientific Data</em> that is currently under revision. The curated dataset is available without restrictions at the Zenodo open access research data repository (<a href="https://zenodo.org/records/10416616">https://zenodo.org/records/10416616</a>), and will also be available in BCO-DMO. The code used to analyze the data has been shared through GitHub (<a href="https://github.com/cathygarcia/SeagliderDataprocessing">https://github.com/cathygarcia/SeagliderDataprocessing</a>).</p> <p>Our work shows the capabilities of underwater gliders to investigate biogeochemical dynamics at spatial and temporal scales that are hard to capture using shipboard or satellite observations. The high-frequency observations of the ALOHA glider dataset allow for the exploration of both seasonal and subseasonal processes, such as aperiodic phytoplankton blooms. For example, in a study published in the journal<em> Oceanography</em>, we found that temporal changes in phytoplankton biomass, monitored as changes in chlorophyll a and particle backscatter, were associated with changes in primary production derived from glider observations.&nbsp;</p> <p>From the diel oxygen pattern measured by gliders, we are able to precisely derive ocean metabolism at different depths, down to approximately 100 m. The analysis of the temporal variability in metabolic rates is being finalized and it will soon be submitted for publication. Our results include a validation against traditional methods employed in the same environment, and provides new insights on the dynamics leading to the sequestration of carbon dioxide in the vast regions of the ocean known as subtropical gyres. A parallel effort focused on the analysis of optical backscatter is also shining new light on the relationship between its diurnal variability and metabolic rates. Gliders measure backscatter at a few wavelengths, and our analyses indicate that different microbial processes impact these wavelengths to different degrees. While this finding warrants caution on the use of the diurnal cycles of backscatter as a proxy for metabolic rates, it also indicates that these cycles contain information about additional microbial processes (one example could be cell division).</p> <p>In the future, oceanography will rely a lot more on autonomous measurements so it is important to understand how these observations compare with the shipboard observations that represented the backbone of our understanding of the ocean. Our effort is an important benchmark in the transition towards autonomous sampling because it produced a consistently-processed and calibrated data set that reproduces the main patterns of variability observed in one of the best sampled environments of the open ocean (Station ALOHA). Even though we used this data set to investigate some of our scientific questions, we are confident that the data will be mined and used by other researchers for new investigations in their area of expertise. We look forward to learning more about the ocean from these efforts.</p><br> <p>  Last Modified: 05/01/2024<br> Modified by: Sara&nbsp;Ferron</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Underwater gliders are robots that autonomously sample the ocean following the instructions of oceanographers. These gliders provide depth-resolved measurements of physical, chemical, and biological properties of the ocean over extended periods of time, and are able to measure ecological changes on temporal scales that are difficult to observe with ships. Recent improvements in the sensors mounted on gliders allow the characterization of diurnal changes in dissolved oxygen, which can be used to estimate rates of photosynthesis and respiration. These processes regulate the flux of organic matter into the oceans interior thus impacting Earths climate by sequestering carbon dioxide from the atmosphere. Phytoplankton photosynthesis is also the primary source of energy and organic carbon into marine ecosystems and serves as the base of the complex marine food web that includes fish and humans. Despite its importance, our understanding of plankton metabolism is incomplete due to the paucity of ocean observations, which limits our ability to predict how the ocean will respond to climate change. The use of autonomous platforms to estimate metabolic rates could soon address this issue by providing a large number of new measurements that are easier and less expensive to obtain than those obtained using traditional methods from a ship.   This project sought to analyze a large set of depth-resolved oceanographic observations collected by underwater gliders in the North Pacific Subtropical Gyre since 2008. These measurements were thoroughly curated and calibrated and they were later used to investigate the variability in plankton metabolisms in relation to changes in phytoplankton biomass and suspended particle concentration (estimated using optical proxies). The dataset comprises 20,000 vertical profiles collected during 18 glider deployments in the open ocean north of the Hawaiian Islands. The gliders were equipped with sensors to measure temperature, salinity, pressure, dissolved oxygen concentration, chlorophyll a concentration from fluorescence, and the concentration of suspended particles from optical backscatter.   The raw observations were quality-controlled following procedures developed for this project, as well as calibrated using accurate shipboard observations, resulting in a robust dataset that is inter-comparable among the different glider deployments. Detailed descriptions of the data processing, quality control metrics, calibration methods, and a technical validation against observations from the HOT program at Station ALOHA, have been submitted as a manuscript for publication in the journal Scientific Data that is currently under revision. The curated dataset is available without restrictions at the Zenodo open access research data repository (https://zenodo.org/records/10416616), and will also be available in BCO-DMO. The code used to analyze the data has been shared through GitHub (https://github.com/cathygarcia/SeagliderDataprocessing).   Our work shows the capabilities of underwater gliders to investigate biogeochemical dynamics at spatial and temporal scales that are hard to capture using shipboard or satellite observations. The high-frequency observations of the ALOHA glider dataset allow for the exploration of both seasonal and subseasonal processes, such as aperiodic phytoplankton blooms. For example, in a study published in the journal Oceanography, we found that temporal changes in phytoplankton biomass, monitored as changes in chlorophyll a and particle backscatter, were associated with changes in primary production derived from glider observations.   From the diel oxygen pattern measured by gliders, we are able to precisely derive ocean metabolism at different depths, down to approximately 100 m. The analysis of the temporal variability in metabolic rates is being finalized and it will soon be submitted for publication. Our results include a validation against traditional methods employed in the same environment, and provides new insights on the dynamics leading to the sequestration of carbon dioxide in the vast regions of the ocean known as subtropical gyres. A parallel effort focused on the analysis of optical backscatter is also shining new light on the relationship between its diurnal variability and metabolic rates. Gliders measure backscatter at a few wavelengths, and our analyses indicate that different microbial processes impact these wavelengths to different degrees. While this finding warrants caution on the use of the diurnal cycles of backscatter as a proxy for metabolic rates, it also indicates that these cycles contain information about additional microbial processes (one example could be cell division).   In the future, oceanography will rely a lot more on autonomous measurements so it is important to understand how these observations compare with the shipboard observations that represented the backbone of our understanding of the ocean. Our effort is an important benchmark in the transition towards autonomous sampling because it produced a consistently-processed and calibrated data set that reproduces the main patterns of variability observed in one of the best sampled environments of the open ocean (Station ALOHA). Even though we used this data set to investigate some of our scientific questions, we are confident that the data will be mined and used by other researchers for new investigations in their area of expertise. We look forward to learning more about the ocean from these efforts.     Last Modified: 05/01/2024       Submitted by: SaraFerron]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

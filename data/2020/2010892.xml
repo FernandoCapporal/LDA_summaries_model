@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF Postdoctoral Fellowship in Biology FY 2020: From genomes to geographic distributions: testing the eco-evolutionary mechanisms of species range limits]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>138000.00</AwardTotalIntnAmount>
+<AwardAmount>207000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joel Abraham</SignBlockName>
+<PO_EMAI>jkabraha@nsf.gov</PO_EMAI>
+<PO_PHON>7032924694</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This action funds an NSF Postdoctoral Research Fellowship in Biology for FY 2020, Integrative Research Investigating the Rules of Life Governing Interactions Between Genomes, Environment and Phenotypes. The fellowship supports research and training of the fellow that will contribute to the area of Rules of Life in innovative ways. One of the central questions of ecology and evolutionary biology is what limits species’ distributions — given the power of natural selection to produce adaptations to novel environments, why does every species occupy only a small portion of the Earth’s habitat? Related to this, what enables invasive species to rapidly expand their range while many native species have been in the same place for hundreds of generations? The ability of a species to expand its range will be determined by how quickly the environment changes across space and time, and the genetics underlying adaptation to new environments. This research will use experiments, genomics, and modeling to uncover the factors that promote and hinder adaptation of populations expanding across the landscape, while training undergraduates in key research methods and supporting informal, public science education. When the factors limiting species’ distributions are known, it will be possible to better manage invasive species, and more accurately predict how species’ ranges will shift in a changing climate. &lt;br/&gt;&lt;br/&gt;This project will use a complementary suite of approaches to elucidate the eco-evolutionary dynamics that promote and hinder adaptation across ecological gradients. First, the fellow will use experimental evolution of the red flour beetle (Tribolium castaneum) to test the potentially interactive effects of gradient shape, dispersal potential, and temporal environmental variation on range expansion and adaptation to novel environments. The research will then use population genomic data from this experiment to understand the genetic changes underlying adaptation during range expansion, the genetic mechanisms preventing adaptation at stable range limits, and how gradient type, dispersal, and temporal variation influence range dynamics through population genetic effects. Finally, a novel individual-based simulation model will be built, parameterized with the experimental data, and extends recent range limit models by including temporal variation in selective environments. The fellow will recruit undergraduate students through the Wyoming Research Scholars Program, focusing on groups underrepresented in STEM fields, and mentor these students through the proposed research and support of individual projects. Outside the university, the fellow will bring engaging biology lessons to informal, public venues. Upon completion of this fellowship the fellow will have extensive, complementary experience in a range of theoretical, empirical, and genomics approaches.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/19/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2010892</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Benning</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John W Benning</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000733042</NSF_ID>
+<StartDate>05/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Benning, John W]]></Name>
+<CityName>Saint Paul</CityName>
+<ZipCode>55108</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wyoming]]></Name>
+<CityName>Laramie</CityName>
+<StateCode>WY</StateCode>
+<ZipCode>820712000</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wyoming</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WY00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>112700</Code>
+<Text>Evolutionary Processes</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>727500</Code>
+<Text>Cross-BIO Activities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>097Z</Code>
+<Text>COVID-19 Impacts on Existing Activities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>1V21</Code>
+<Name>R&amp;RA ARP Act DEFC V</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>010V2122DB</Code>
+<Name><![CDATA[R&RA ARP Act DEFC V]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~138000</FUND_OBLG>
+<FUND_OBLG>2021~69000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>During my NSF postdoctoral fellowship, I made significant contributions to our understanding of how environmental variation in both space and time shapes the evolution and spread of populations across landscapes. My primary research used simulation models to understand the role of ecological and evolutionary processes during range expansion. The first paper "Increasing temporal variance leads to stable species range limits," challenged the conventional wisdom that spatial environmental gradients are the primary determinant of species range dynamics. Through a combination of analytical and individual-based evolutionary models, I demonstrated that temporal variation in environmental conditions can greatly alter predictions for range dynamics compared to temporally static environments. Specifically, I found that the interaction between the degree of temporal autocorrelation in environmental fluctuations and the steepness of the spatial environmental gradient determines whether a species expands or goes extinct. Furthermore, I showed that stable range limits can form where the magnitude of temporal variance increases sufficiently to prevent local persistence due to increased maladaptation. These findings highlight the pivotal role of temporal variation in determining the likelihood of populations colonizing novel habitats and the location of species range limits.&nbsp;In another paper, "Environmental gradients mediate dispersal evolution during biological invasions," I used an eco-evolutionary model to explore how environmental gradients influence dispersal evolution and, in turn, modulate the speed and predictability of range expansions. I found that environmental gradients oppose evolution of increased dispersal during invasion, and even lead to evolution of reduced dispersal along steeper gradients. This reduced dispersal could, counterintuitively, allow for faster expansion by minimizing maladaptive gene flow and facilitating adaptation. These findings have important implications for predicting and managing the spread of invasive species in heterogeneous landscapes.<br /><br />In addition to this work, I published two other papers that further advanced our understanding of the factors shaping rapid evolution and species responses to environmental change. In "Rapid evolution during climate change: demographic and genetic constraints on adaptation to severe drought," I combined long-term demographic and environmental data, quantitative genetic analyses, a resurrection experiment, and individual-based evolutionary simulations to gain insights into why some populations and traits evolve in response to extreme environmental perturbations while others do not. This research suggested that gene flow through time via seed banks can be an important, underappreciated control on rapid evolution in response to extreme events like severe droughts. In "The spatial scale of adaptation in a native annual plant and its implications for responses to climate change," I used data from a large-scale reciprocal transplant experiment to show that the spatial scale of adaptation in the native annual plant common ragweed is large, and that climate change has likely already caused maladaptation, especially across the southern portion of the species' range. This work has important implications for predicting and managing species responses to ongoing climate change.<br /><br />Throughout my fellowship, I also made contributions to the broader scientific community. I trained and mentored four undergraduate students, helping to develop the next generation of scientists. I organized and led the symposium, "Evolution in Action," at the annual meeting for the Society for the Study of Evolution. I also established the Tribolium system for experimental work in my lab, though experiments were unfortunately delayed due to pathogen outbreaks in the stock populations. Finally, I developed new skills in theoretical modeling that will enable me to continue to increase our understanding of eco-evolutionary dynamics in changing environments.<br /><br />In summary, my NSF postdoctoral fellowship resulted in significant advances in our understanding of how environmental variation in both space and time shapes species range dynamics and responses to global change. My work has important implications for predicting and managing the impacts of ongoing climate change and other anthropogenic environmental changes on biodiversity. Furthermore, through my mentoring and training activities, I have contributed to the development of the next generation of scientists who will continue this important work into the future.<br /><br /><strong>Works Cited</strong></p> <p>Benning JW, Hufbauer RA, and Weiss-Lehman C. 2022. Increasing temporal variance leads to stable species range limits.&nbsp;<em>Proceedings of the Royal Society B</em>, 289:20220202.<br /><br />Benning JW, Clark EI, Hufbauer RA, and Weiss-Lehman C. 2023. Environmental gradients mediate dispersal evolution during biological invasions.&nbsp;<em>In press, Ecology Letters</em>.</p> <p>Benning JW, Faulkner A, and Moeller DA. 2023. Rapid evolution during climate change: demographic and genetic constraints on adaptation to severe drought.&nbsp;<em>Proceedings of the Royal Society B</em>, 290:20230336.</p> <p>Gorton AJ*,&nbsp;Benning JW*, Tiffin PL, and Moeller DA. 2022. The spatial scale of adaptation in a native annual plant and its implications for responses to climate change.&nbsp;<em>Evolution</em>, 76:2916-2929. (* equal contribution)</p> <p>&nbsp;</p><br> <p>  Last Modified: 05/23/2024<br> Modified by: John&nbsp;W&nbsp;Benning</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  During my NSF postdoctoral fellowship, I made significant contributions to our understanding of how environmental variation in both space and time shapes the evolution and spread of populations across landscapes. My primary research used simulation models to understand the role of ecological and evolutionary processes during range expansion. The first paper "Increasing temporal variance leads to stable species range limits," challenged the conventional wisdom that spatial environmental gradients are the primary determinant of species range dynamics. Through a combination of analytical and individual-based evolutionary models, I demonstrated that temporal variation in environmental conditions can greatly alter predictions for range dynamics compared to temporally static environments. Specifically, I found that the interaction between the degree of temporal autocorrelation in environmental fluctuations and the steepness of the spatial environmental gradient determines whether a species expands or goes extinct. Furthermore, I showed that stable range limits can form where the magnitude of temporal variance increases sufficiently to prevent local persistence due to increased maladaptation. These findings highlight the pivotal role of temporal variation in determining the likelihood of populations colonizing novel habitats and the location of species range limits.In another paper, "Environmental gradients mediate dispersal evolution during biological invasions," I used an eco-evolutionary model to explore how environmental gradients influence dispersal evolution and, in turn, modulate the speed and predictability of range expansions. I found that environmental gradients oppose evolution of increased dispersal during invasion, and even lead to evolution of reduced dispersal along steeper gradients. This reduced dispersal could, counterintuitively, allow for faster expansion by minimizing maladaptive gene flow and facilitating adaptation. These findings have important implications for predicting and managing the spread of invasive species in heterogeneous landscapes.  In addition to this work, I published two other papers that further advanced our understanding of the factors shaping rapid evolution and species responses to environmental change. In "Rapid evolution during climate change: demographic and genetic constraints on adaptation to severe drought," I combined long-term demographic and environmental data, quantitative genetic analyses, a resurrection experiment, and individual-based evolutionary simulations to gain insights into why some populations and traits evolve in response to extreme environmental perturbations while others do not. This research suggested that gene flow through time via seed banks can be an important, underappreciated control on rapid evolution in response to extreme events like severe droughts. In "The spatial scale of adaptation in a native annual plant and its implications for responses to climate change," I used data from a large-scale reciprocal transplant experiment to show that the spatial scale of adaptation in the native annual plant common ragweed is large, and that climate change has likely already caused maladaptation, especially across the southern portion of the species' range. This work has important implications for predicting and managing species responses to ongoing climate change.  Throughout my fellowship, I also made contributions to the broader scientific community. I trained and mentored four undergraduate students, helping to develop the next generation of scientists. I organized and led the symposium, "Evolution in Action," at the annual meeting for the Society for the Study of Evolution. I also established the Tribolium system for experimental work in my lab, though experiments were unfortunately delayed due to pathogen outbreaks in the stock populations. Finally, I developed new skills in theoretical modeling that will enable me to continue to increase our understanding of eco-evolutionary dynamics in changing environments.  In summary, my NSF postdoctoral fellowship resulted in significant advances in our understanding of how environmental variation in both space and time shapes species range dynamics and responses to global change. My work has important implications for predicting and managing the impacts of ongoing climate change and other anthropogenic environmental changes on biodiversity. Furthermore, through my mentoring and training activities, I have contributed to the development of the next generation of scientists who will continue this important work into the future.  Works Cited   Benning JW, Hufbauer RA, and Weiss-Lehman C. 2022. Increasing temporal variance leads to stable species range limits.Proceedings of the Royal Society B, 289:20220202.  Benning JW, Clark EI, Hufbauer RA, and Weiss-Lehman C. 2023. Environmental gradients mediate dispersal evolution during biological invasions.In press, Ecology Letters.   Benning JW, Faulkner A, and Moeller DA. 2023. Rapid evolution during climate change: demographic and genetic constraints on adaptation to severe drought.Proceedings of the Royal Society B, 290:20230336.   Gorton AJ*,Benning JW*, Tiffin PL, and Moeller DA. 2022. The spatial scale of adaptation in a native annual plant and its implications for responses to climate change.Evolution, 76:2916-2929. (* equal contribution)        Last Modified: 05/23/2024       Submitted by: JohnWBenning]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

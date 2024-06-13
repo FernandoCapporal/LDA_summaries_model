@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative: The STARS Aligned: How the STARS Computing Corps Broadens Participation in Computing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>570052.00</AwardTotalIntnAmount>
+<AwardAmount>570052</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Allyson Kennedy</SignBlockName>
+<PO_EMAI>aykenned@nsf.gov</PO_EMAI>
+<PO_PHON>7032928905</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award is a one-year extension of the STARS Computing Corps Alliance for Broadening Participation in Computing (BPC). The primary research aim of extension is to investigate research questions around the impact of the STARS Computing Corps Alliance on its past and current efforts to broaden participation in computing. This longitudinal evaluation has the potential to elucidate successful components of BPC Alliances and their role as national resources on issues of diversity, equity, and inclusion in computing. Further, the results of this study could further extend knowledge about practices designed to increase persistence and support career advancement in computing for undergraduate students, graduate students, and faculty, particularly for those from underrepresented groups. The conferences, communities, and networks supported through STARS will continue to create significant institutional and human resources that could increase the reach of BPC research to a larger audience of researchers, educators, administrators, CS departments, and K-20 students.&lt;br/&gt;&lt;br/&gt;In addition to understanding the longitudinal impact of the STARS Computing Corps on computing persistence and career advancement for underrepresented students and faculty, the work also aims to 1) formalize existing STARS efforts for propagating best-practices for BPC; 2) expand STARS online resources designed to build capacity for engaging in BPC evaluation and research; 3) develop a virtual STARS alumni community; and 4) continue to support an academic community for BPC through STARS Celebration and RESPECT.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2023391</AwardID>
+<Investigator>
+<FirstName>Elizabeth</FirstName>
+<LastName>Bizot</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elizabeth B Bizot</PI_FULL_NAME>
+<EmailAddress><![CDATA[bizot@cra.org]]></EmailAddress>
+<NSF_ID>000804686</NSF_ID>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Burcin</FirstName>
+<LastName>Campbell</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Burcin Campbell</PI_FULL_NAME>
+<EmailAddress><![CDATA[burcin@cra.org]]></EmailAddress>
+<NSF_ID>000772597</NSF_ID>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Heather</FirstName>
+<LastName>Wright</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Heather Wright</PI_FULL_NAME>
+<EmailAddress><![CDATA[heather@cra.org]]></EmailAddress>
+<NSF_ID>000772598</NSF_ID>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tom</FirstName>
+<LastName>McKlin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tom McKlin</PI_FULL_NAME>
+<EmailAddress><![CDATA[tom.mcklin@gmail.com]]></EmailAddress>
+<NSF_ID>000558342</NSF_ID>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jamie</FirstName>
+<LastName>Payton</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jamie J Payton</PI_FULL_NAME>
+<EmailAddress><![CDATA[jamie.payton@temple.edu]]></EmailAddress>
+<NSF_ID>000723533</NSF_ID>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Temple University</Name>
+<CityName>PHILADELPHIA</CityName>
+<ZipCode>191226104</ZipCode>
+<PhoneNumber>2157077547</PhoneNumber>
+<StreetAddress>1805 N BROAD ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QD4MGHFDJKU1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEMPLE UNIVERSITY-OF THE COMMONWEALTH SYSTEM OF HIGHER EDUCATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QD4MGHFDJKU1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Temple University]]></Name>
+<CityName>Philadelphia</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>191226003</ZipCode>
+<StreetAddress><![CDATA[1801 N. Broad Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>055y</Code>
+<Text>CISE Education and Workforce</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7482</Code>
+<Text>BROADENING PARTIC IN COMPUTING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~570052</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-68b16697-7fff-ebae-b6fe-63d6655bda19"> <span id="docs-internal-guid-eb6ae8da-7fff-bb75-2563-aafb853ee285"> </span></span></p> <p dir="ltr"><span>The STARS Computing Corps Alliance for Broadening Participation in Computing (BPC) is a national community of practice that has engaged computing faculty and students at more than 50 institutions of higher education with a shared commitment to taking action to advance diversity, equity, and inclusion in computing. This project further developed STARS as a national resource to build capacity for research and practice, ignite action, and foster an academic community for broadening participation of underrepresented groups in computing. Specifically, this project aimed to:</span></p> <p dir="ltr"><span>1) investigate the longitudinal impact of STARS on computing persistence and career advancement for undergraduates, graduate students, and faculty, particularly those from underrepresented groups, and on creating a community that promotes research on and propagation of evidence-based BPC practices,</span></p> <p dir="ltr"><span>2) formalize existing STARS efforts for propagating best-practices for BPC and expand the collection of STARS online resources designed to build student and faculty capacity for engaging in BPC research,&nbsp;&nbsp;</span></p> <p dir="ltr"><span>3) continue to support an academic community for BPC through the STARS Celebration and RESPECT conferences.&nbsp;</span></p> <p dir="ltr"><strong>Intellectual Merit:</strong><span> This project explored research questions that advance our understanding of the impact of the STARS Computing Corps Alliance on efforts to broaden participation of underrepresented groups in computing. The results of this study has extended our knowledge about practices designed to increase persistence and support career advancement in computing for undergraduate students, graduate students, and faculty, particularly for those from underrepresented groups.&nbsp;</span></p> <p dir="ltr"><span>We conducted a series of analyses to understand the impact of participation in STARS on intentions to persist in computing. We discovered that there is a &ldquo;dosage effect&rdquo; on computing persistence intentions attributed to STARS. Students who spent more hours participating in STARS each week had significantly higher computing persistence intentions attributed to STARS, even controlling for their initial intentions to persist. Moreover, this analysis found enhanced impacts of STARS participation for Black, Hispanic, and Asian students, even when initial intentions to persist and hours in STARS were controlled. The conclusion that participating in STARS improves students&rsquo; persistence in computing was supported by additional analyses; for example, we found that 92% of alumni survey respondents are still in computing degree programs or the computing workforce. In addition, among the 15% of students who start the STARS program with no long-term interest in staying in the field of computing, 87% report that participating in STARS increased their commitment to a career in computing. We also conducted analyses to determine: 1) which features of multi-featured BPC programs are most important for increasing students&rsquo; persistence in computing, and 2) how features of a BPC programs differentially impact students of intersecting gender and racial identities, with a particular focus on the experiences of Black women. We found that, of the STARS program elements, those that &ldquo;Increased my awareness of career opportunities,&rdquo; and, &ldquo;Increased my collaboration with faculty,&rdquo; were most important for Black women in increasing intentions to persist in computing, and, &ldquo;Provided me with the chance to network professionally,&rdquo; is most important for Black men with respect to increasing persistence in computing.</span></p> <p dir="ltr"><strong>Broader Impacts</strong><span><strong>: </strong>This project supported the expansion of the STARS Computing Corps BPC Alliance as a national resource to address issues of diversity, equity, and inclusion in computing. The conferences, communities, and networks supported through STARS have created significant institutional and human resources that can increase the reach of BPC research to a larger audience of researchers, educators, administrators, CS departments, and K-20 students and can dramatically increase the number of people taking action to broaden participation in computing. In particular, the STARS Celebration leadership conference has propagated evidence-based approaches for BPC to faculty and students, and supported students in academic and professional development. In this project, over 150 undergraduate and graduate students from across the U.S. were supported to engage in the STARS Ignite program. In this program, students attend the STARS Celebration conference to participate in training to conduct K12 computing outreach, engage in academic and professional development activities, and to grow their network to include a diverse group of computing students and faculty with shared experiences and commitments to broadening participation in computing; following the conference, students supported in the following academic year to lead cohort-based efforts to broaden participation in computing at their home institutions with the support and guidance of a STARS faculty leader. STARS also provided professional development and training for undergraduate students and K12 teachers through the STARS CS for All Scholars program, which provided teams of undergraduate students, graduate students, and high school teachers with research training focused on the development of curricular materials for K12 computer science education;&nbsp; the teams produced over 70 curricular items for use in K12 CS Principles courses. Finally, this project served to supported the RESPECT BPC research conference, which provides a venue for peer-reviewed scholarship on equity, diversity, and inclusion in computing.</span></p> <p>&nbsp;</p><br> <p>  Last Modified: 02/15/2024<br> Modified by: Jamie&nbsp;J&nbsp;Payton</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[       The STARS Computing Corps Alliance for Broadening Participation in Computing (BPC) is a national community of practice that has engaged computing faculty and students at more than 50 institutions of higher education with a shared commitment to taking action to advance diversity, equity, and inclusion in computing. This project further developed STARS as a national resource to build capacity for research and practice, ignite action, and foster an academic community for broadening participation of underrepresented groups in computing. Specifically, this project aimed to:   1) investigate the longitudinal impact of STARS on computing persistence and career advancement for undergraduates, graduate students, and faculty, particularly those from underrepresented groups, and on creating a community that promotes research on and propagation of evidence-based BPC practices,   2) formalize existing STARS efforts for propagating best-practices for BPC and expand the collection of STARS online resources designed to build student and faculty capacity for engaging in BPC research,   3) continue to support an academic community for BPC through the STARS Celebration and RESPECT conferences.   Intellectual Merit: This project explored research questions that advance our understanding of the impact of the STARS Computing Corps Alliance on efforts to broaden participation of underrepresented groups in computing. The results of this study has extended our knowledge about practices designed to increase persistence and support career advancement in computing for undergraduate students, graduate students, and faculty, particularly for those from underrepresented groups.   We conducted a series of analyses to understand the impact of participation in STARS on intentions to persist in computing. We discovered that there is a dosage effect on computing persistence intentions attributed to STARS. Students who spent more hours participating in STARS each week had significantly higher computing persistence intentions attributed to STARS, even controlling for their initial intentions to persist. Moreover, this analysis found enhanced impacts of STARS participation for Black, Hispanic, and Asian students, even when initial intentions to persist and hours in STARS were controlled. The conclusion that participating in STARS improves students persistence in computing was supported by additional analyses; for example, we found that 92% of alumni survey respondents are still in computing degree programs or the computing workforce. In addition, among the 15% of students who start the STARS program with no long-term interest in staying in the field of computing, 87% report that participating in STARS increased their commitment to a career in computing. We also conducted analyses to determine: 1) which features of multi-featured BPC programs are most important for increasing students persistence in computing, and 2) how features of a BPC programs differentially impact students of intersecting gender and racial identities, with a particular focus on the experiences of Black women. We found that, of the STARS program elements, those that Increased my awareness of career opportunities, and, Increased my collaboration with faculty, were most important for Black women in increasing intentions to persist in computing, and, Provided me with the chance to network professionally, is most important for Black men with respect to increasing persistence in computing.   Broader Impacts: This project supported the expansion of the STARS Computing Corps BPC Alliance as a national resource to address issues of diversity, equity, and inclusion in computing. The conferences, communities, and networks supported through STARS have created significant institutional and human resources that can increase the reach of BPC research to a larger audience of researchers, educators, administrators, CS departments, and K-20 students and can dramatically increase the number of people taking action to broaden participation in computing. In particular, the STARS Celebration leadership conference has propagated evidence-based approaches for BPC to faculty and students, and supported students in academic and professional development. In this project, over 150 undergraduate and graduate students from across the U.S. were supported to engage in the STARS Ignite program. In this program, students attend the STARS Celebration conference to participate in training to conduct K12 computing outreach, engage in academic and professional development activities, and to grow their network to include a diverse group of computing students and faculty with shared experiences and commitments to broadening participation in computing; following the conference, students supported in the following academic year to lead cohort-based efforts to broaden participation in computing at their home institutions with the support and guidance of a STARS faculty leader. STARS also provided professional development and training for undergraduate students and K12 teachers through the STARS CS for All Scholars program, which provided teams of undergraduate students, graduate students, and high school teachers with research training focused on the development of curricular materials for K12 computer science education; the teams produced over 70 curricular items for use in K12 CS Principles courses. Finally, this project served to supported the RESPECT BPC research conference, which provides a venue for peer-reviewed scholarship on equity, diversity, and inclusion in computing.        Last Modified: 02/15/2024       Submitted by: JamieJPayton]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

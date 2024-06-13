@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RI: Small: Learning to Optimize: Designing and Improving Optimizers by Machine Learning Algorithms]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>450000.00</AwardTotalIntnAmount>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vladimir Pavlovic</SignBlockName>
+<PO_EMAI>vpavlovi@nsf.gov</PO_EMAI>
+<PO_PHON>7032928318</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The goal of optimization is to find the best parameters to minimize an objective function. Existing optimizers are typically designed by humans and are often not good enough when facing more complex problems. For example, when training deep neural networks at scale, existing optimizers require a lot of tuning and may not find a good solution. It is hard for humans to design a perfect optimizer, but can a machine automatically design an optimizer based on the experiences on solving many different problems? To answer this question, the project investigates how to use machine learning to automatically design optimizers, and how to improve existing optimizers by machine learning. This new family of optimizers will be broadly applicable across the whole of data science. The developed algorithms and evaluation platforms will be made available to stimulate future work in this new research area. The project supports education and diversity through the recruitment of a diverse team, and incorporation of research results into courses at UCLA. &lt;br/&gt;&lt;br/&gt;The goal of this project is to use Machine Learning (ML) to improve and automate existing optimization algorithms. In particular, the project focuses on two families of approaches: ML-learned optimizers and ML-assisted optimizers. For ML-learned optimizers, the update rule is modeled as a neural network with parameters learned from experience, and a series of studies are conducted to ensure the effectiveness and soundness of the designs. For ML-assisted optimizers, machine learning algorithms are developed to improve existing optimizers in terms of batch selection, learning rate scheduling, and automatic hyper-parameter tuning. A unified and comprehensive evaluation framework is developed to evaluate existing and newly developed optimizers by benchmarking their scalability, efficiency, robustness, and the performance under various computation budgets.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/25/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/19/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2008173</AwardID>
+<Investigator>
+<FirstName>Cho-Jui</FirstName>
+<LastName>Hsieh</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Cho-Jui Hsieh</PI_FULL_NAME>
+<EmailAddress><![CDATA[chohsieh@cs.ucla.edu]]></EmailAddress>
+<NSF_ID>000711637</NSF_ID>
+<StartDate>08/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900244200</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress><![CDATA[10889 WILSHIRE BLVD STE 700]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA36</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RN64EPNH8JC6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, LOS ANGELES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[UCLA Computer Science Dept.]]></Name>
+<CityName>Los Angeles</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900951406</ZipCode>
+<StreetAddress><![CDATA[404 Westwood Blvd., Rm. 284 E6]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA36</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>749500</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~450000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-70d9c173-7fff-980d-d59b-1ed273a33ef9"><span>Optimization algorithms are designed to find the most optimal parameters that minimize an objective function. However, current optimizers, typically crafted by humans, often fall short when tackling complex problems. For instance, when scaling up deep neural network training, these optimizers require extensive tuning and may still fail to yield satisfactory results. Moreover, a general-purpose optimizer may not work well for every specific optimization task, and it is impossible for human to design a dedicated optimizer for every specific problem. To tackle these hurdles, this project pioneers an optimizer search framework capable of autonomously discovering optimizers that surpass human-designed ones. To achieve this goal, we have formulated diverse search spaces for optimizer exploration and devised a suite of efficient algorithms for optimizer discovery. Our findings showcase that the optimizer search framework excels in identifying task-specific optimizers across a spectrum of tasks, outperforming established human-designed counterparts. In particular, our search has discovered a stochastic gradient descent variant that outshines human-designed optimizers in large-scale neural network training, leading to </span><span>&nbsp;faster training and reduced memory usage. </span><span>Beyond optimizer search, we demonstrate the potential of using AI to improve existing optimizers, including real-time hyper-parameter tuning and data subset selection to enhance training efficiency. Several optimizers designed by this endeavor have found widespread application. The outcomes of this funded project have been disseminated through publications in various venues such as ICML, NeurIPS, ICLR, CVPR, and ECCV, </span><span>which are leading conferences in machine learning. </span><span>&nbsp;Furthermore, the principal investigator has developed several graduate-level machine learning courses at UCLA, fostering the academic growth of several Ph.D. students supported by this project's funding.</span></span></p><br> <p>  Last Modified: 04/14/2024<br> Modified by: Cho-Jui&nbsp;Hsieh</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Optimization algorithms are designed to find the most optimal parameters that minimize an objective function. However, current optimizers, typically crafted by humans, often fall short when tackling complex problems. For instance, when scaling up deep neural network training, these optimizers require extensive tuning and may still fail to yield satisfactory results. Moreover, a general-purpose optimizer may not work well for every specific optimization task, and it is impossible for human to design a dedicated optimizer for every specific problem. To tackle these hurdles, this project pioneers an optimizer search framework capable of autonomously discovering optimizers that surpass human-designed ones. To achieve this goal, we have formulated diverse search spaces for optimizer exploration and devised a suite of efficient algorithms for optimizer discovery. Our findings showcase that the optimizer search framework excels in identifying task-specific optimizers across a spectrum of tasks, outperforming established human-designed counterparts. In particular, our search has discovered a stochastic gradient descent variant that outshines human-designed optimizers in large-scale neural network training, leading to faster training and reduced memory usage. Beyond optimizer search, we demonstrate the potential of using AI to improve existing optimizers, including real-time hyper-parameter tuning and data subset selection to enhance training efficiency. Several optimizers designed by this endeavor have found widespread application. The outcomes of this funded project have been disseminated through publications in various venues such as ICML, NeurIPS, ICLR, CVPR, and ECCV, which are leading conferences in machine learning. Furthermore, the principal investigator has developed several graduate-level machine learning courses at UCLA, fostering the academic growth of several Ph.D. students supported by this project's funding.     Last Modified: 04/14/2024       Submitted by: Cho-JuiHsieh]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

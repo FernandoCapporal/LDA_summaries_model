@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Illuminating the effects of a COVID-19 elimination of diver disturbance on reef fish behavior, distribution and ecosystem functioning in the Galapagos Marine Reserve]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cynthia Suchman</SignBlockName>
+<PO_EMAI>csuchman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922092</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Large-scale changes in the magnitude of human influence on the biosphere have occurred due to travel restrictions and quarantines to contain the COVID-19 pandemic. The reduction in the number of visits to natural areas is providing an unprecedented opportunity to study the effects of people on wildlife and ecosystems. Previous studies indicate that humans can impact the entire ecosystem by frightening animals and altering their behaviors. The COVID-19 quarantine has created a "natural experiment" in the ocean at scuba-diving destinations worldwide by suspending dive tourism and temporarily eliminating the effects of diver-induced fear in reef fish communities. In the Galapagos Islands, the number of scuba divers dropped from 18,000 divers a year to zero in March 2020 when the government of Ecuador halted dive tourism. This study is measuring the changes reef fish behavior, populations and ecological interactions between species to gain an understanding of how dive activity affects the functioning of this marine ecosystem. The effects of changes in diver disturbance are being determined by comparing reef fish communities during and after the quarantine to those from a long-term pre-COVID-19 baseline study. Broader impacts include training opportunities for undergraduate students through participation in field research and senior thesis projects. Public outreach is focused on presentations to the general public and high school students in the US and in the Galapagos. A YouTube video on the ecological effects of diving activity in the Galapagos Marine Reserve is being produced and made publicly available. Insights from this project is increasing awareness of how humans impact subtidal marine ecosystems, which is aiding marine conservation efforts of marine protected areas in the Galapagos and elsewhere.&lt;br/&gt;&lt;br/&gt;The intellectual contribution of the research lies in its ability to test hypotheses about the role of humans in influencing consumptive and non-consumptive interactions in shaping the structure, complexity and functioning of marine ecosystems. While it is known that reef fish react to humans as potential predators, less is known about how the fear of predation, a major type of non-consumptive interaction, affects subtidal marine communities, particularly on large spatial scales relevant to conservation. An integrated, observational - experimental research program is addressing this knowledge gap in the Galapagos Marine Reserve by comparing current conditions with existing pre-COVID-19 data. Four hypotheses or predictions related to pandemic spillover effects are being tested: 1) diver disturbance results in behavioral shifts in reef fishes; 2) divers decrease the abundance and diversity of reef fishes and this effect is currently reduced; 3) emergence or increased abundance of previously wary herbivorous and /or predatory fish results in greater consumption of benthic organisms during and immediately after the COVID-19 period; and 4) decreased diver disturbance associated with the pandemic changes the complexity of behavioral networks (aggressive and positive interactions) among reef fish, sharks and sea lions. The hypotheses are being tested at 14 sites over the course of three research trips using underwater observations and experiments involving fish counts, video camera deployments to record fish behaviors, feeding rates, interactions between species and underwater boat noise from dive tour boats. This project has implications for understanding how fish communities in the Galapagos Marine Reserve ecosystem will respond to future perturbations, while also providing unique insight into the ecological ramifications of a human pandemic.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2035354</AwardID>
+<Investigator>
+<FirstName>Jon</FirstName>
+<LastName>Witman</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jon D Witman</PI_FULL_NAME>
+<EmailAddress><![CDATA[jon_witman@brown.edu]]></EmailAddress>
+<NSF_ID>000191152</NSF_ID>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Brown University</Name>
+<CityName>PROVIDENCE</CityName>
+<ZipCode>029129100</ZipCode>
+<PhoneNumber>4018632777</PhoneNumber>
+<StreetAddress>1 PROSPECT ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>RI01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E3FDXZ6TBHW3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BROWN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Charles Darwin Research Station]]></Name>
+<CityName>Puerto Ayora Galapagos</CityName>
+<StateCode/>
+<ZipCode/>
+<StreetAddress><![CDATA[Avenida Charles Darwin]]></StreetAddress>
+<CountryCode>EC</CountryCode>
+<CountryName>Ecuador</CountryName>
+<StateName>RI REQUIRED</StateName>
+<CountryFlag>0</CountryFlag>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_PERF>""</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1650</Code>
+<Text>BIOLOGICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~200000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>By preventing access, the COVID -19 quarantine created a human exclusion experiment termed the anthropause and an opportunity to assess how natural communities function in the absence of people. We wanted to find out if the indirect effects of a human pandemic could spill over to influence Galapagos marine ecosystems. Scuba diving there was abruptly terminated in March 2020 due to the quarantine. &nbsp;Reasoning that wary fish would be emboldened by a reduction of tourist diver disruption (boat noise, diver presence) and responding by increasing their feeding activity, interactions with other species and consequently their level of sound production, we investigated reef fish ecology and their acoustic soundscape at 3 high and 3 low diver visitation sites in the Galapagos during (September &ndash; November 2020, January 2021) and after the quarantine (July-August 2021, January 2022, July-August 2022). Our methodology consisted of a 2 pronged effort by deploying hydrophones (<a href="https://www.oceaninstruments.co.nz/soundtrap-300/">https://www.oceaninstruments.co.nz/soundtrap-300/</a>) and video cameras on stands at 10-15 m depth to record the sound produced by fish while simultaneously video recording their behaviors (Figure 1). Hydrophones were deployed for 2 &ndash; 8 days per site during each period, recording 98 times per second (Hertz, Hz). The long duration video cameras were specially fabricated (https://marineimagingtech.com/cameras-housings/housings/) for 6-10 hours recording per deployment. &nbsp;In total, we analyzed 1875 hours, (1.3 terabytes) of sound data. PI Jon Witman and post-docs Robert Lamb and Franz Smith supervised all of the various types of data analyses, &nbsp;but the detailed analysis of the soundscape was done by Glennie LeBaron for her Senior Honors thesis at Brown University.</p> <p>The videos also provided a trove of novel information about reef fish behaviors from the anthropause to the resumption of diving tourism. More specifically, we were able to record spatial and temporal variation in fish abundance, diversity, herbivory, cleaning and flight behaviors as well as behavioral indirect responses of fish to megafaunal predators (4 shark species, 1 sea lion). &nbsp;We termed these fast passes by megafaunal predators sending prey fish scattering, strafes. 605 strafes and other behaviors in 1500 videos (220 hours) were carefully analyzed by Rebecca Ward-Dioro for her Senior Honors thesis at Brown. <sup>&nbsp;</sup>We also evaluated changes in fish behavior and abundance directly while scuba diving.</p> <p>Some of the key results of this research are enumerated and summarized below.</p> <p>1.&nbsp;&nbsp;&nbsp;&nbsp; There were large, predictable differences in the sound produced by organisms from day to night at all 6 sites regardless of their designation as high or low diver visitation sites. This increase in sound pressure levels began around 6 PM and ended around 6 AM (Figure 2), indicating that the acoustic record is primarily biologic. This interpretation is strengthened by the fact that dive tourism is prohibited at night<em>. </em>It also indicates that a minimum of 24 hrs is needed to characterize the shallow Galapagos soundscape.</p> <p>2.&nbsp;&nbsp;&nbsp;&nbsp; Fish vocalizations were found at all 6 sites occurring under the 1500 Hz frequency band. These vocalizations occur for 2 -5 seconds and were found more often at night. Sea lion barks operated in a wider band between 100 to 2000 Hz.<em> </em>Unlike fish vocalizations, snapping shrimp appeared as a constant presence in all acoustic records with varying levels of strength.</p> <p>3.&nbsp;&nbsp;&nbsp;&nbsp; A multifactor statistical model evaluating a hierarchy of factors influencing the magnitude of biotic sound production indicated that diel variation had the largest effect, followed by site effects, then period (the anthropause) and season.</p> <p>4.&nbsp;&nbsp;&nbsp;&nbsp; Peak abundance of two species of sharks occurred a year after the anthropause &nbsp;(January 2022), not during it.&nbsp;</p> <p>5.&nbsp;&nbsp;&nbsp;&nbsp; Of the megafaunal predators potentially causing changes in prey behavior during and after the anthropause, sea lions had significantly faster swimming speed during a strafe than sharks.&nbsp; Divers were the slowest, &nbsp;but this was based on a small sample of natural encounters of tourist divers swimming by the video cameras.</p> <p>6.&nbsp;&nbsp;&nbsp;&nbsp; Fish fled from sea lions and white tip sharks faster than any other species, including divers.</p> <p>7.&nbsp;&nbsp;&nbsp;&nbsp; Strafes by two thirds of the shark and sea lion species decreased fish species richness and delayed the return to herbivory by reef fish.</p> <p>In summary, with one exception of fish cleaning behavior (still being analyzed), we did not find significant change in biological sound production or species interactions among reef fish that was correlated with the timing of the anthropause. Rather, spatial and diel patterns were prominent in the Galapagos marine soundscape. We discovered many ecologically important behavioral indirect effects among reef fish and megafaunal predators but they were mostly species specific. &nbsp;Our continued data analyses may indicate that the Galapagos marine region may be a relatively intact soundscape that is not highly impacted by anthropogenic activity. Therefore, even though a doubling of anthropogenic activity level was detected, it may still be below the threshold necessary to cause long-term change to reef fish behaviors and communities.</p> <p>&nbsp;</p><br> <p>  Last Modified: 03/05/2024<br> Modified by: Jon&nbsp;D&nbsp;Witman</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2035354/2035354_10681305_1709649408176_Figure_2._--rgov-214x142.png" original="/por/images/Reports/POR/2024/2035354/2035354_10681305_1709649408176_Figure_2._--rgov-800width.png" title="Spectrogram ad Sound Pressure"><img src="/por/images/Reports/POR/2024/2035354/2035354_10681305_1709649408176_Figure_2._--rgov-66x44.png" alt="Spectrogram ad Sound Pressure"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 2. A 96 hour spectrogram showing diel variation in sound levels. The turquoise bands represent nighttime sound (6 pm - 6 am) demarcated by red lines. Sound Pressure Levels (SPLs) from the same data are shown below illustrating an increase of 6-7 decibels of sound from day-night.  Y axis of th</div> <div class="imageCredit">Jon Witman</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Jon&nbsp;D&nbsp;Witman <div class="imageTitle">Spectrogram ad Sound Pressure</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2035354/2035354_10681305_1709648411278_Figure_1.--rgov-214x142.png" original="/por/images/Reports/POR/2024/2035354/2035354_10681305_1709648411278_Figure_1.--rgov-800width.png" title="Hydrophone and video camera"><img src="/por/images/Reports/POR/2024/2035354/2035354_10681305_1709648411278_Figure_1.--rgov-66x44.png" alt="Hydrophone and video camera"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 1.  Photo of one of the stainless steel stands deployed with a long-duration video camera (black cylindrical housing) on top and a SoundTrap 300 hydrophone mounted on the side. The camera recorded reef fish abundance and behaviors as the hydrophone recorded sound for 2-8 days per deployment.</div> <div class="imageCredit">Jon Witman</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Jon&nbsp;D&nbsp;Witman <div class="imageTitle">Hydrophone and video camera</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  By preventing access, the COVID -19 quarantine created a human exclusion experiment termed the anthropause and an opportunity to assess how natural communities function in the absence of people. We wanted to find out if the indirect effects of a human pandemic could spill over to influence Galapagos marine ecosystems. Scuba diving there was abruptly terminated in March 2020 due to the quarantine. Reasoning that wary fish would be emboldened by a reduction of tourist diver disruption (boat noise, diver presence) and responding by increasing their feeding activity, interactions with other species and consequently their level of sound production, we investigated reef fish ecology and their acoustic soundscape at 3 high and 3 low diver visitation sites in the Galapagos during (September  November 2020, January 2021) and after the quarantine (July-August 2021, January 2022, July-August 2022). Our methodology consisted of a 2 pronged effort by deploying hydrophones (https://www.oceaninstruments.co.nz/soundtrap-300/) and video cameras on stands at 10-15 m depth to record the sound produced by fish while simultaneously video recording their behaviors (Figure 1). Hydrophones were deployed for 2  8 days per site during each period, recording 98 times per second (Hertz, Hz). The long duration video cameras were specially fabricated (https://marineimagingtech.com/cameras-housings/housings/) for 6-10 hours recording per deployment. In total, we analyzed 1875 hours, (1.3 terabytes) of sound data. PI Jon Witman and post-docs Robert Lamb and Franz Smith supervised all of the various types of data analyses, but the detailed analysis of the soundscape was done by Glennie LeBaron for her Senior Honors thesis at Brown University.   The videos also provided a trove of novel information about reef fish behaviors from the anthropause to the resumption of diving tourism. More specifically, we were able to record spatial and temporal variation in fish abundance, diversity, herbivory, cleaning and flight behaviors as well as behavioral indirect responses of fish to megafaunal predators (4 shark species, 1 sea lion). We termed these fast passes by megafaunal predators sending prey fish scattering, strafes. 605 strafes and other behaviors in 1500 videos (220 hours) were carefully analyzed by Rebecca Ward-Dioro for her Senior Honors thesis at Brown. We also evaluated changes in fish behavior and abundance directly while scuba diving.   Some of the key results of this research are enumerated and summarized below.   1. There were large, predictable differences in the sound produced by organisms from day to night at all 6 sites regardless of their designation as high or low diver visitation sites. This increase in sound pressure levels began around 6 PM and ended around 6 AM (Figure 2), indicating that the acoustic record is primarily biologic. This interpretation is strengthened by the fact that dive tourism is prohibited at night. It also indicates that a minimum of 24 hrs is needed to characterize the shallow Galapagos soundscape.   2. Fish vocalizations were found at all 6 sites occurring under the 1500 Hz frequency band. These vocalizations occur for 2 -5 seconds and were found more often at night. Sea lion barks operated in a wider band between 100 to 2000 Hz. Unlike fish vocalizations, snapping shrimp appeared as a constant presence in all acoustic records with varying levels of strength.   3. A multifactor statistical model evaluating a hierarchy of factors influencing the magnitude of biotic sound production indicated that diel variation had the largest effect, followed by site effects, then period (the anthropause) and season.   4. Peak abundance of two species of sharks occurred a year after the anthropause (January 2022), not during it.   5. Of the megafaunal predators potentially causing changes in prey behavior during and after the anthropause, sea lions had significantly faster swimming speed during a strafe than sharks. Divers were the slowest, but this was based on a small sample of natural encounters of tourist divers swimming by the video cameras.   6. Fish fled from sea lions and white tip sharks faster than any other species, including divers.   7. Strafes by two thirds of the shark and sea lion species decreased fish species richness and delayed the return to herbivory by reef fish.   In summary, with one exception of fish cleaning behavior (still being analyzed), we did not find significant change in biological sound production or species interactions among reef fish that was correlated with the timing of the anthropause. Rather, spatial and diel patterns were prominent in the Galapagos marine soundscape. We discovered many ecologically important behavioral indirect effects among reef fish and megafaunal predators but they were mostly species specific. Our continued data analyses may indicate that the Galapagos marine region may be a relatively intact soundscape that is not highly impacted by anthropogenic activity. Therefore, even though a doubling of anthropogenic activity level was detected, it may still be below the threshold necessary to cause long-term change to reef fish behaviors and communities.        Last Modified: 03/05/2024       Submitted by: JonDWitman]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

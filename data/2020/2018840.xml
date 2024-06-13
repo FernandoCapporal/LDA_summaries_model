@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Acquisition of an Electron Microprobe]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>975000.00</AwardTotalIntnAmount>
+<AwardAmount>975000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Amanda Keen-Zebert</SignBlockName>
+<PO_EMAI>akeenzeb@nsf.gov</PO_EMAI>
+<PO_PHON>7032924984</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This Major Research Instrumentation Program (MRI) grant supports acquisition of an Electron probe microanalyzer (EPMA).  Support is also leveraged with funds from the Division of Earth Sciences Instrumentation and Facilities Program.  EMPA analysis is a critical and multi-functional technique for chemical characterization of natural and synthetic solid materials. EPMA is by far the most important method for quantifying the abundance of major and trace elements in minerals, and EPMA data are crucial for our understanding of planetary formation, ore-forming processes, volcano dynamics, processes in the Earth’s interior, abiotic and biotic mineral formation, and incorporation of Rare Earth Elements and other economically valuable trace elements into minerals. EPMA is also becoming increasingly relevant to a broader spectrum of materials science and engineering, with innovative work now possible on, for example, batteries, CO2 sequestration, and impurity distribution through synthetic inorganic solids. The new EMPA will replace an aging instrument which was commissioned in 1988 and is now obsolete and vulnerable to critical failure of major components. This instrument also lacks key functionality for modern research. The new instrument will support ongoing research efforts at Virginia Tech (VT) and will facilitate new research directions and improved educational opportunities within and outside geosciences and at regional institutions.&lt;br/&gt;&lt;br/&gt;EPMA provides quantification of the compositions of materials at the micrometer scale through detection and characterization of the X-Rays that are produced when an electron beam is focused on a sample. A modern and reliable EPMA is essential to directly support the work of many researchers at VT and to provide valuable ‘pre-processing’ links to other instrumentation on campus, such as transmission electron microscopy (TEM) and secondary ion mass spectrometry (SIMS). During the past half-century, data from VT’s EPMA labs have contributed to science and engineering studies related to hundreds of published abstracts, papers, and student theses. Within Earth Sciences at VT, EPMA is critical for groups researching the origin and evolution of Earth’s crust, deep mantle processes in Earth and extraterrestrial planets, the early evolution of life, ore-forming processes, the evolution of volcanic systems, processes governing the equilibration of minerals in natural and synthetic systems, and Earth’s volatile cycles (particularly concerning carbon and sulfur). EPMA analysis will support field-based research, geochronologic studies, crustal-fluids experimentation, and deep-planet experimental petrology. Acquisition of a new EPMA will provide VT with new capabilities, including simultaneous cathodoluminescence imaging and trace/major elemental mapping, which is increasingly important for the geochronological work of several faculty. It will also permit precise quantification of the abundance and distribution of critical light elements in natural and synthetic materials. Finally, it will improve capabilities to detect and quantify trace metals by an order of magnitude in some cases.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/07/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2018840</AwardID>
+<Investigator>
+<FirstName>Shuhai</FirstName>
+<LastName>Xiao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shuhai Xiao</PI_FULL_NAME>
+<EmailAddress><![CDATA[xiao@vt.edu]]></EmailAddress>
+<NSF_ID>000105683</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Caddick</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark J Caddick</PI_FULL_NAME>
+<EmailAddress><![CDATA[caddick@vt.edu]]></EmailAddress>
+<NSF_ID>000595445</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Bodnar</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert J Bodnar</PI_FULL_NAME>
+<EmailAddress><![CDATA[rjb@vt.edu]]></EmailAddress>
+<NSF_ID>000212625</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Megan</FirstName>
+<LastName>Duncan</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Megan S Duncan</PI_FULL_NAME>
+<EmailAddress><![CDATA[msduncan19@vt.edu]]></EmailAddress>
+<NSF_ID>000784756</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Law</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Richard D Law</PI_FULL_NAME>
+<EmailAddress><![CDATA[rdlaw@vt.edu]]></EmailAddress>
+<NSF_ID>000245421</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240603359</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress><![CDATA[300 TURNER ST NW]]></StreetAddress>
+<StreetAddress2><![CDATA[STE 4200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QDE5UHE5XD16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA POLYTECHNIC INSTITUTE &amp; STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M515A1DKXAN8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>Blacksburg</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>240610001</ZipCode>
+<StreetAddress><![CDATA[Geosciences, Derring Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>118900</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>158000</Code>
+<Text>Instrumentation &amp; Facilities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1580</Code>
+<Text>INSTRUMENTATION &amp; FACILITIES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~975000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This Major Research Instrumentation Award was used to develop an electron microprobe facility at Virginia Tech. Electron microprobe analysis permits the quantification of sample composition at high spatial resolution (several micrometers) and with high dynamic range (compositions can be accurately determined in the range &lt; 100&nbsp;ppm to 100&nbsp;%, given appropriate standards). Materials that are stable under vacuum, can be prepared to have a relatively smooth surface, and are either electrically conductive or can be coated with a conductive film are appropriate for non-destructive analysis. A beam of electrons is focused on the sample, with various detectors tuned to monitor X-rays, photons, or electrons produced or scattered by beam&ndash;sample interactions. In addition to quantitative compositional analysis of small sample volumes, automated positioning and movement of the samples permits two-dimensional mapping of the distribution of elements in user-defined regions ranging from less than 100 square microns to several square centimeters.</p> <p>&nbsp;</p> <p>For several decades, electron microprobe analysis has been a crucial tool for developing an understanding of&nbsp;geoscientific materials, also having important applications in materials characterization across many engineering and science disciplines in academic and industrial settings. Accordingly, we purchased an instrument configured to permit&nbsp;maximum utility across diverse disciplines, choosing a JEOL JXA-iHP200F. This field-emission source instrument has five wavelength dispersive spectrometers, an energy dispersive spectrometer, and a&nbsp;cathodoluminescence&nbsp;detector. It can detect most elements heavier than boron and has a stable beam over a large range of beam currents and accelerating voltages.&nbsp;It replaced an approximately 30-year-old microprobe that was unmaintainable, now unsupported by its original manufacturer, and lacking several key capabilities of new-generation instruments. In addition to greatly improved stability, efficiency, and technical capabilities, the new instrument provides a far more approachable workflow for the user, helping our mission to serve a diverse student and professional user base.</p> <p>&nbsp;</p> <p>Virginia Tech provided space in a building designed for housing state-of-the-art analytical instrumentation and with easy access for university and visiting users. Virginia Tech also provided support for a laboratory manager, who consulted during the instrument configuration and installation, works closely with JEOL for instrument maintenance, and is the point-person for training and mentoring lab users. The instrument was configured, ordered, built, delivered, installed, and tested during this award, with final sign-off in early 2023. The instrument now facilitates research supported by awards from the NSF, other federal agencies, and industry sponsors. To date, it has analyzed natural and experimentally grown rocks, steels, lightweight aerospace and other proprietary alloys, meteorites, high entropy materials, mine tailings, and other processed mineral separates. This work has been undertaken by undergraduate, graduate, and professional researchers at Virginia Tech, other academic institutions in Virginia, collaborators from across the SE of the United States, and scientists from Central and South America. It has been utilized in taught courses at the undergraduate and graduate levels and will continue to be a key component of student training in several disciplines at and beyond Virginia Tech.</p><br> <p>  Last Modified: 04/12/2024<br> Modified by: Mark&nbsp;J&nbsp;Caddick</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This Major Research Instrumentation Award was used to develop an electron microprobe facility at Virginia Tech. Electron microprobe analysis permits the quantification of sample composition at high spatial resolution (several micrometers) and with high dynamic range (compositions can be accurately determined in the range       For several decades, electron microprobe analysis has been a crucial tool for developing an understanding ofgeoscientific materials, also having important applications in materials characterization across many engineering and science disciplines in academic and industrial settings. Accordingly, we purchased an instrument configured to permitmaximum utility across diverse disciplines, choosing a JEOL JXA-iHP200F. This field-emission source instrument has five wavelength dispersive spectrometers, an energy dispersive spectrometer, and acathodoluminescencedetector. It can detect most elements heavier than boron and has a stable beam over a large range of beam currents and accelerating voltages.It replaced an approximately 30-year-old microprobe that was unmaintainable, now unsupported by its original manufacturer, and lacking several key capabilities of new-generation instruments. In addition to greatly improved stability, efficiency, and technical capabilities, the new instrument provides a far more approachable workflow for the user, helping our mission to serve a diverse student and professional user base.      Virginia Tech provided space in a building designed for housing state-of-the-art analytical instrumentation and with easy access for university and visiting users. Virginia Tech also provided support for a laboratory manager, who consulted during the instrument configuration and installation, works closely with JEOL for instrument maintenance, and is the point-person for training and mentoring lab users. The instrument was configured, ordered, built, delivered, installed, and tested during this award, with final sign-off in early 2023. The instrument now facilitates research supported by awards from the NSF, other federal agencies, and industry sponsors. To date, it has analyzed natural and experimentally grown rocks, steels, lightweight aerospace and other proprietary alloys, meteorites, high entropy materials, mine tailings, and other processed mineral separates. This work has been undertaken by undergraduate, graduate, and professional researchers at Virginia Tech, other academic institutions in Virginia, collaborators from across the SE of the United States, and scientists from Central and South America. It has been utilized in taught courses at the undergraduate and graduate levels and will continue to be a key component of student training in several disciplines at and beyond Virginia Tech.     Last Modified: 04/12/2024       Submitted by: MarkJCaddick]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

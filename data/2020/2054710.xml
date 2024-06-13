@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Smart Vehicle Platooning Built upon Real-Time Learning and Distributed Optimization]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>85000.00</AwardTotalIntnAmount>
+<AwardAmount>83897</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Siqian Shen</SignBlockName>
+<PO_EMAI>siqshen@nsf.gov</PO_EMAI>
+<PO_PHON>7032927048</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Emerging connected and autonomous vehicle (CAV) technologies offer great potentials to reduce traffic congestion and improve traffic efficiency. However, much of the CAV related work focuses on individual vehicles' safety, which compromises traffic efficiency when mixed traffic (CAVs and human-driven vehicles) are on the road interacting with each other. This project aims to study how a group of CAVs can respond to exogenous disturbances resulting from human-driven vehicles, lane change requests and abnormal traffic and cyber conditions through cooperative speed or acceleration control. The research will improve road safety and traffic efficiency of future transportation systems involving CAVs. This project will disseminate research and education outcomes to broader audiences, including under-represented college and K-12 students with a particular focus on minority students. &lt;br/&gt;&lt;br/&gt;The specific research objectives of this project are to develop vehicle platoon centered optimal, adaptive, and resilient vehicle platooning control under various normal or abnormal traffic and/or cyber conditions. The project will develop (a) advanced model predictive control integrating distributed optimization for optimal vehicle platooning control under normal traffic/cyber conditions; (b) mixed integer programming based model predictive control for optimal vehicle platooning control adaptive to lane change requests; (c) resilient vehicle platooning control integrating real-time learning and distributed optimization under abnormal traffic and/or cyber conditions.  The project will integrate the state of the art from multiple fields including traffic flows, control, optimization, learning, and distributed computation and will establish an interdisciplinary foundation for coordinated and automated vehicle platoon centered traffic control under complex real-world traffic conditions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>12/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2054710</AwardID>
+<Investigator>
+<FirstName>Jiaqi</FirstName>
+<LastName>Ma</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jiaqi Ma</PI_FULL_NAME>
+<EmailAddress><![CDATA[jiaqima@ucla.edu]]></EmailAddress>
+<NSF_ID>000766504</NSF_ID>
+<StartDate>12/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900244200</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 WILSHIRE BLVD STE 700</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA36</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RN64EPNH8JC6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, LOS ANGELES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName/>
+<StateCode>CA</StateCode>
+<ZipCode>900951406</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA36</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1631</Code>
+<Text>CIS-Civil Infrastructure Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>029E</Code>
+<Text>INFRASTRUCTURE SYSTEMS MGT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~83897</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Project Overview:</strong><br /> This project aimed at harnessing the potential of emerging connected and autonomous vehicle (CAV) technologies to alleviate traffic congestion and enhance traffic efficiency. The focus was on developing a cooperative mechanism whereby a platoon of CAVs could dynamically adjust to disturbances caused by human-driven vehicles, lane change requests, and various traffic and cyber conditions. This was achieved through advanced vehicle platooning controls based on real-time learning and distributed optimization, targeting improved road safety and traffic efficiency in future transportation systems. The work of PI Ma focused on field testing of new platooning solutions.</p> <p><strong>Intellectual Merit:</strong><br /> The project's research objectives centered on crafting vehicle platoon-centered, optimal, adaptive, and resilient controls under a variety of traffic and cyber conditions. This involved:</p> <ul> <li>Developing      advanced model predictive control mechanisms integrating distributed      optimization for optimal vehicle platooning.</li> <li>Utilizing      mixed-integer programming for adaptive vehicle platooning control      responsive to lane changes.</li> <li>Implementing      resilient vehicle platooning control that incorporates real-time learning      and distributed optimization under abnormal conditions.</li> <li>Advanced      testing methodologies that can enable comprehensive testing of new      platooning algorithms under various scenarios using both physical vehicles      and simulation</li> </ul> <p>By integrating expertise from traffic flow, control systems, optimization, machine learning, and distributed computing, and advanced vehicular testing, the project laid an interdisciplinary foundation for automated vehicle platoon-centric traffic control under complex traffic scenarios.</p> <p><strong>Broader Impacts:</strong><br /> The project aimed to disseminate its findings to a broad audience, emphasizing outreach to under-represented college and K-12 students, particularly from minority backgrounds. Through this approach, the project sought to inspire the next generation of scientists and engineers while advancing the state of traffic systems management towards sustainability, safety, and efficiency.</p> <p><strong>Field Experiments and Outcomes:</strong><br /> The project's focal point, led by the Principal Investigator (PI)'s team, was Goal 4: conducting hardware-in-the-loop field experiments alongside numerical simulations to validate the proposed control algorithms. This involved:</p> <ul> <li>Adapting      and fine-tuning platooning algorithms for implementation with the CARMA      software platform and testing in the CARLA simulation under various      scenarios.</li> <li>Conducting      a three-vehicle experiment at the Florida Suntrax test track, yielding      promising results for practical application.</li> </ul> <p>A significant component of the research was the execution of field experiments to bridge the gap between simulated environments and real-world application. These experiments utilized a state-of-the-art cooperative automated driving system (C-ADS) platform, demonstrating the effectiveness of a multi-lane platooning algorithm in improving traffic system performance. Key achievements from these experiments include:</p> <ul> <li>Validation      of the platooning algorithm's compatibility with existing C-ADS platforms      and its ability to maintain reduced intra-platoon gaps, enhancing traffic      efficiency and safety.</li> <li>Successful      real-world deployment of the platooning algorithm, marking a pioneering      step in multi-lane cooperative platooning tests.<br /> <br /> </li> </ul> <p><strong>Key Outcomes or Other Achievements:</strong><br /> Outcomes of this work include the development of a platooning algorithm suitable for modern automated driving systems, co-simulation capabilities for testing and enhancing CDA algorithms, and valuable field data from physical vehicle tests.</p> <p>The research efforts culminated in academic dissemination through 4 journal articles and multiple conference presentations, alongside organized sessions on simulation-based testing at the Automated Vehicle Symposium 2020; and presentation of software-in-the-loop testing work at the Automated Vehicle Symposium 2021.</p> <p><strong>Training and Professional Development:</strong><br /> A crucial aspect of the project was providing training opportunities for a PhD student and other supporting students, covering algorithm development, simulation, and testing. Regular meetings and presentations facilitated an enriching learning environment, equipping students with the necessary skills for future research endeavors.</p> <p><strong>Conclusion:</strong><br /> This project has made significant strides toward realizing the potential of smart vehicle platooning in improving the efficiency and safety of future transportation systems. Through a combination of innovative research, field testing, and community engagement, the project outcomes not only highlight the intellectual merit of the work but also its broad impacts on society, paving the way for the next generation of transportation technologies.</p> <p>&nbsp;</p><br> <p>  Last Modified: 02/11/2024<br> Modified by: Jiaqi&nbsp;Ma</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Project Overview:  This project aimed at harnessing the potential of emerging connected and autonomous vehicle (CAV) technologies to alleviate traffic congestion and enhance traffic efficiency. The focus was on developing a cooperative mechanism whereby a platoon of CAVs could dynamically adjust to disturbances caused by human-driven vehicles, lane change requests, and various traffic and cyber conditions. This was achieved through advanced vehicle platooning controls based on real-time learning and distributed optimization, targeting improved road safety and traffic efficiency in future transportation systems. The work of PI Ma focused on field testing of new platooning solutions.   Intellectual Merit:  The project's research objectives centered on crafting vehicle platoon-centered, optimal, adaptive, and resilient controls under a variety of traffic and cyber conditions. This involved:  Developing      advanced model predictive control mechanisms integrating distributed      optimization for optimal vehicle platooning. Utilizing      mixed-integer programming for adaptive vehicle platooning control      responsive to lane changes. Implementing      resilient vehicle platooning control that incorporates real-time learning      and distributed optimization under abnormal conditions. Advanced      testing methodologies that can enable comprehensive testing of new      platooning algorithms under various scenarios using both physical vehicles      and simulation    By integrating expertise from traffic flow, control systems, optimization, machine learning, and distributed computing, and advanced vehicular testing, the project laid an interdisciplinary foundation for automated vehicle platoon-centric traffic control under complex traffic scenarios.   Broader Impacts:  The project aimed to disseminate its findings to a broad audience, emphasizing outreach to under-represented college and K-12 students, particularly from minority backgrounds. Through this approach, the project sought to inspire the next generation of scientists and engineers while advancing the state of traffic systems management towards sustainability, safety, and efficiency.   Field Experiments and Outcomes:  The project's focal point, led by the Principal Investigator (PI)'s team, was Goal 4: conducting hardware-in-the-loop field experiments alongside numerical simulations to validate the proposed control algorithms. This involved:  Adapting      and fine-tuning platooning algorithms for implementation with the CARMA      software platform and testing in the CARLA simulation under various      scenarios. Conducting      a three-vehicle experiment at the Florida Suntrax test track, yielding      promising results for practical application.    A significant component of the research was the execution of field experiments to bridge the gap between simulated environments and real-world application. These experiments utilized a state-of-the-art cooperative automated driving system (C-ADS) platform, demonstrating the effectiveness of a multi-lane platooning algorithm in improving traffic system performance. Key achievements from these experiments include:  Validation      of the platooning algorithm's compatibility with existing C-ADS platforms      and its ability to maintain reduced intra-platoon gaps, enhancing traffic      efficiency and safety. Successful      real-world deployment of the platooning algorithm, marking a pioneering      step in multi-lane cooperative platooning tests.        Key Outcomes or Other Achievements:  Outcomes of this work include the development of a platooning algorithm suitable for modern automated driving systems, co-simulation capabilities for testing and enhancing CDA algorithms, and valuable field data from physical vehicle tests.   The research efforts culminated in academic dissemination through 4 journal articles and multiple conference presentations, alongside organized sessions on simulation-based testing at the Automated Vehicle Symposium 2020; and presentation of software-in-the-loop testing work at the Automated Vehicle Symposium 2021.   Training and Professional Development:  A crucial aspect of the project was providing training opportunities for a PhD student and other supporting students, covering algorithm development, simulation, and testing. Regular meetings and presentations facilitated an enriching learning environment, equipping students with the necessary skills for future research endeavors.   Conclusion:  This project has made significant strides toward realizing the potential of smart vehicle platooning in improving the efficiency and safety of future transportation systems. Through a combination of innovative research, field testing, and community engagement, the project outcomes not only highlight the intellectual merit of the work but also its broad impacts on society, paving the way for the next generation of transportation technologies.        Last Modified: 02/11/2024       Submitted by: JiaqiMa]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase II:  Instance Segmentation in Support of Sustainable Development]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>999805.00</AwardTotalIntnAmount>
+<AwardAmount>999805</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this Small Business Innovation Research (SBIR) Phase II project will be to improve the efficiency of food production and supply chains for small-scale farming systems. This project advances high-resolution, in-season crop yield forecasts, focusing on maize yields in Sub-Saharan Africa with technologies that can be extended to global small-holder agriculture. The project will address three needs: 1) the design of financial products and services for small-holder farmers, including credit and crop insurance models; 2) the planning of harvest operations and efficient linkage of produce to markets; and 3) the detection of lower than average yields, and the mitigation of resulting threats to food security. This can help service providers, producer groups, traders and aggregators, and government policy-makers. In addition to commercial and societal impacts, this innovation will advance the state of the science in yield forecasting, by adapting methods used in large-scale commercial production for the smaller-scale, heterogeneous farm plots typical of the developing world. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase II project will develop a novel method for forecasting plot-level maize yields, using high resolution satellite imagery and other remotely sensed data as inputs. The method is calibrated and tested using field data from four countries in Sub-Saharan Africa. A first research objective is to implement and evaluate a variety of computationally efficient modeling approaches for in-season crop area classification, at the level of the small-holder plot (for which no method is currently established). A second objective is to design and calibrate a pixel-level yield forecasting model that generates estimates at multiple timepoints across the growing season. Various calibration approaches will be tested, using both public and proprietary data on historical yield anomalies. The project addresses several persistent challenges in yield forecasting, including the needs for: flexible fusion of remote sensing data that span multiple spatial resolutions, temporal frequencies, and sensing modalities; model architectures that can handle sparse data (given limited access to field-level ground-truth data for calibration and validation); and scalable approaches that can perform in different geographies and agro-ecologies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/07/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2025894</AwardID>
+<Investigator>
+<FirstName>George</FirstName>
+<LastName>Azzari</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>George Azzari</PI_FULL_NAME>
+<EmailAddress><![CDATA[george@atlasai.co]]></EmailAddress>
+<NSF_ID>000793028</NSF_ID>
+<StartDate>12/21/2020</StartDate>
+<EndDate>05/23/2022</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Vivek</FirstName>
+<LastName>Sakhrani</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vivek A Sakhrani</PI_FULL_NAME>
+<EmailAddress><![CDATA[vivek@atlasai.us]]></EmailAddress>
+<NSF_ID>000856291</NSF_ID>
+<StartDate>05/23/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[ATLAS AI P.B.C.]]></Name>
+<CityName>SAN RAFAEL</CityName>
+<ZipCode>949012477</ZipCode>
+<PhoneNumber>9492282260</PhoneNumber>
+<StreetAddress><![CDATA[54 LOCHINVAR RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KA5AMLMJLYP4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ATLAS AI P.B.C</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KA5AMLMJLYP4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[ATLAS AI P.B.C.]]></Name>
+<CityName>Palo Alto</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>943011811</ZipCode>
+<StreetAddress><![CDATA[459 Hamilton Avenue, Suite 201]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>537300</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6856</Code>
+<Text>ARTIFICIAL INTELL &amp; COGNIT SCI</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~999805</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Atlas AI investigated the technical potential of a new commercially-oriented technology for producing high resolution agricultural yield forecasts for the heterogeneous farming systems found in most developing countries. Our approach advanced the state of the art by adapting satellite-based deep learning methods and biophysical crop modeling for the complex farming systems that are characteristic of Sub-Saharan Africa (SSA).</p> <p>The product approach is to launch the capability as a Software-as-a-Service (SaaS) platform, with a variety of applications for the agricultural and related verticals. Applications directly associated with the agricultural vertical include agricultural credit and insurance design, agribusiness (farm) management, and international food security efforts. Related non-agricultural applications address the economic well-being of rural economies in the areas of nutrition and public health, agricultural mechanization, productive use of energy in agriculture, and linkages such as transportation and environment.</p> <p>The specific Major Achievements and Developments were as follows:</p> <ul> <li>We completed the Crop Area Mapping and Crop Yield Prediction experiments that were the core of our original proposal, including the engineering aspects of In-Season Yield Estimation.</li> <li>Our in-season results from this reporting period suggest that technology is still heavily reliant on the type and quality of ground data for fully assessing the robustness and quality of our models. Forecasting either end-of-season or in-season yield directly for commercial applications cannot yet be undertaken in the absence of high-quality and large sample field data.</li> <li>We systematically tested an important alternative approach -- in-season forecasting of yield proxies such as Green Chlorophyll Vegetation Index (GCVI) instead of yield, as proxies have been documented in the literature to be highly correlated with yield. Results of the new approach for in-season forecasting of yield proxies was productive and promising with forecast models scoring well in quality and output. This approach can help the technology to better generalize across geographies and scales.</li> <li>We advanced the design, engineering, and deployment of our geospatial artificial intelligence (GeoAI) Software-as-a-Service architecture <em>Aperture<sup>(R)</sup></em>&nbsp;in a manner that responds directly to market feedback and engagement with our customers to date.&nbsp;</li> <li>The flexible deployment modalities include:    <ul> <li><strong>Feature Store for Analysis-Ready Data (ARD)</strong>: Consuming analysis ready data directly in the form of a geospatial feature store for downstream model building and hypothesis testing</li> <li><strong>Machine Learning Operations (MLOps) Model Library</strong>: Accessing one or more model templates in an automated and parallelized manner so that the models can make use of the Atlas AI feature store, the customer&rsquo;s own data (first-party data), or data from other publishers (third-party data)</li> <li><strong>Application Layer Delivery and Reporting</strong>: Insights, recommendations, and operational indicators source directly into the customer&rsquo;s operational environment and business intelligence platforms to inform business planning, operations, and performance monitoring.</li> </ul> </li> </ul> <p>The SaaS development efforts helped us secure the following Key Outcomes:</p> <ul> <li>Launched a beneficiary micro-segmentation application in eleven countries in collaboration with a leading nutrition and public health actor to support program targeting and monitoring for addressing the needs of zero-dose children, using our Aperture<sup>(R)</sup> SaaS solution.<em>&nbsp;</em></li> <li>Launched a high resolution spatio-temporal demand forecasting stack for a global aviation customer in in South East Asia, to deliver five- to fifteen-year ahead forecasts with monthly time steps at the city-pair level for use in capital intensive investment decision making.</li> <li>Deployed for a agricultural / agri-tech sector commercial Software-as-a-Service customer to serve predictive analytics and machine learning based insights for predictive utilization of tractors in response to agricultural demand also through Aperture<span><sup>(R)</sup></span>, and to deliver four downstream business applications that leverage demand forecasting.</li> <li>Extended the delivery of vulnerability and socio-economic indicators to the United Nations Food and Agriculture Organization (UN FAO) to inform research, policy, and country assistance programs for the FAO's <a href="https://www.fao.org/hand-in-hand/en">Hand-in-Hand</a> geospatial platform program.</li> <li>Delivered high resolution data products, the open access data platform, and stakeholder workshops for The Rockefeller Foundation --&nbsp;<em>Interconnected Pathways to Development</em> initiative for five focus countries in Sub-Saharan Africa: Ethiopia, Nigeria, Kenya, Uganda, and Rwanda   <ul> </ul> </li> </ul> <ul> <li>Atlas AI was named a <a href="https://cloud.google.com/blog/topics/sustainability/urgent-humanitarian-issues-get-fresh-solutions-with-atlas-ai/">Google Cloud Ready Sustainability Partner</a> in late 2022 and also announced as a key <a href="https://cloud.google.com/blog/products/data-analytics/atlas-ai-geospatial-ai-platform-built-with-bigquery">Supply Chain delivery partner</a> in 2023.</li> </ul> <p>In summary, while the yield forecasting applications were found to have signficant practical and commercial limitations in terms of technology robustness, the underlying technology capability of the GeoAI platform has signficant economic value potential for policy, industry, and practice.</p><br> <p>  Last Modified: 04/05/2024<br> Modified by: Vivek&nbsp;A&nbsp;Sakhrani</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Atlas AI investigated the technical potential of a new commercially-oriented technology for producing high resolution agricultural yield forecasts for the heterogeneous farming systems found in most developing countries. Our approach advanced the state of the art by adapting satellite-based deep learning methods and biophysical crop modeling for the complex farming systems that are characteristic of Sub-Saharan Africa (SSA).   The product approach is to launch the capability as a Software-as-a-Service (SaaS) platform, with a variety of applications for the agricultural and related verticals. Applications directly associated with the agricultural vertical include agricultural credit and insurance design, agribusiness (farm) management, and international food security efforts. Related non-agricultural applications address the economic well-being of rural economies in the areas of nutrition and public health, agricultural mechanization, productive use of energy in agriculture, and linkages such as transportation and environment.   The specific Major Achievements and Developments were as follows:  We completed the Crop Area Mapping and Crop Yield Prediction experiments that were the core of our original proposal, including the engineering aspects of In-Season Yield Estimation. Our in-season results from this reporting period suggest that technology is still heavily reliant on the type and quality of ground data for fully assessing the robustness and quality of our models. Forecasting either end-of-season or in-season yield directly for commercial applications cannot yet be undertaken in the absence of high-quality and large sample field data. We systematically tested an important alternative approach -- in-season forecasting of yield proxies such as Green Chlorophyll Vegetation Index (GCVI) instead of yield, as proxies have been documented in the literature to be highly correlated with yield. Results of the new approach for in-season forecasting of yield proxies was productive and promising with forecast models scoring well in quality and output. This approach can help the technology to better generalize across geographies and scales. We advanced the design, engineering, and deployment of our geospatial artificial intelligence (GeoAI) Software-as-a-Service architecture Aperture(R)in a manner that responds directly to market feedback and engagement with our customers to date. The flexible deployment modalities include:     Feature Store for Analysis-Ready Data (ARD): Consuming analysis ready data directly in the form of a geospatial feature store for downstream model building and hypothesis testing Machine Learning Operations (MLOps) Model Library: Accessing one or more model templates in an automated and parallelized manner so that the models can make use of the Atlas AI feature store, the customers own data (first-party data), or data from other publishers (third-party data) Application Layer Delivery and Reporting: Insights, recommendations, and operational indicators source directly into the customers operational environment and business intelligence platforms to inform business planning, operations, and performance monitoring.      The SaaS development efforts helped us secure the following Key Outcomes:  Launched a beneficiary micro-segmentation application in eleven countries in collaboration with a leading nutrition and public health actor to support program targeting and monitoring for addressing the needs of zero-dose children, using our Aperture(R) SaaS solution. Launched a high resolution spatio-temporal demand forecasting stack for a global aviation customer in in South East Asia, to deliver five- to fifteen-year ahead forecasts with monthly time steps at the city-pair level for use in capital intensive investment decision making. Deployed for a agricultural / agri-tech sector commercial Software-as-a-Service customer to serve predictive analytics and machine learning based insights for predictive utilization of tractors in response to agricultural demand also through Aperture(R), and to deliver four downstream business applications that leverage demand forecasting. Extended the delivery of vulnerability and socio-economic indicators to the United Nations Food and Agriculture Organization (UN FAO) to inform research, policy, and country assistance programs for the FAO's Hand-in-Hand geospatial platform program. Delivered high resolution data products, the open access data platform, and stakeholder workshops for The Rockefeller Foundation --Interconnected Pathways to Development initiative for five focus countries in Sub-Saharan Africa: Ethiopia, Nigeria, Kenya, Uganda, and Rwanda        Atlas AI was named a Google Cloud Ready Sustainability Partner in late 2022 and also announced as a key Supply Chain delivery partner in 2023.    In summary, while the yield forecasting applications were found to have signficant practical and commercial limitations in terms of technology robustness, the underlying technology capability of the GeoAI platform has signficant economic value potential for policy, industry, and practice.     Last Modified: 04/05/2024       Submitted by: VivekASakhrani]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

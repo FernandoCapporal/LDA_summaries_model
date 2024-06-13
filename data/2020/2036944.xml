@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[FMSG: Electrochemical Upcycling of Waste Nitrates for Eco-Manufacturing of Nitrogen-Based Chemicals]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kenneth Moloy</SignBlockName>
+<PO_EMAI>kmoloy@nsf.gov</PO_EMAI>
+<PO_PHON>7032928441</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nitrogen-based compounds are indispensable chemicals critically valuable to many industrial applications. However, today they are manufactured directly or indirectly from ammonia. Ammonia is manufactured via the Haber-Bosch process and demands heavy use of fossil fuels, high temperature, and pressure. This results in large carbon dioxide emissions. Meanwhile, huge amounts of nitrate are generated as a notorious and hazardous pollutant in wastewaters from many industrial processes and as agricultural run-off. Costly mitigation of nitrate pollution is often required to maintain healthy ecological systems. Led by Professors Wenzhen Li and Mark Mba-Wright at Iowa State University, and Professor Shuang Gu at Wichita State University, the team is conducting pioneering research on “electrochemical nitrate upcycling”. This process is turning harmful nitrate wastes into useful nitrogen-based chemicals, without continuously depleting the dwindling fossil energy sources. By leveraging inexpensive and over-generated wind electricity, especially in Midwest agricultural areas, the proposed innovative eco-manufacturing system could lay the foundation for distributed, cost-effective, and ecofriendly future manufacturing of versatile nitrogen-based chemicals. Fusing the interests from chemical industry, power plants, and environmental sectors, the project is strengthening American leadership in advanced manufacturing by helping address three grand global challenges: sustainability, climate change, and clean water. This project is jointly funded by the Division of Chemistry, the Division of Chemical, Bioengineering, Environmental and Transport Systems, and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;The project team led by Professors Li (Iowa State), Mba-Wright (Iowa State), and Gu (Wichita State), focuses its research on the desirable transition from waste nitrate to valuable hydroxylamine (NH2OH) and its useful derivatives, by integrating their expertise across nitrate concentrating &amp; polymer science, selective nitrate reduction &amp; nitrate electrochemistry, techno-economic analysis &amp; data-driven decision making, and device engineering &amp; system integration. This project aims to 1) acquire the fundamental material sciences of both nitrate-reduction catalysts and nitrate-exchange polymers; 2) advance the scientific understanding of functional processes including selective nitrate reduction, nitrate concentrating, and hydroxylamine separation; and 3) examine the promising future manufacturing system based on the “electrochemical nitrate upcycling” for nitrogen-based chemicals. The achieved research outcomes are to be incorporated into existing elective courses. A teaching module on eco-manufacturing is to be developed for local community college students. The team is actively working with the Bioeconomy Institute and Electric Power Research Center at Iowa State, with a long-term goal of producing a new generation workforce in the fields of advanced manufacturing. This project is jointly funded by the Division of Chemistry, the Division of Chemical, Bioengineering, Environmental and Transport Systems, and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2036944</AwardID>
+<Investigator>
+<FirstName>Wenzhen</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wenzhen Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[wzli@iastate.edu]]></EmailAddress>
+<NSF_ID>000513491</NSF_ID>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Mba Wright</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark Mba Wright</PI_FULL_NAME>
+<EmailAddress><![CDATA[markmw@iastate.edu]]></EmailAddress>
+<NSF_ID>000630236</NSF_ID>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shuang</FirstName>
+<LastName>Gu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shuang Gu</PI_FULL_NAME>
+<EmailAddress><![CDATA[shuang.gu@wichita.edu]]></EmailAddress>
+<NSF_ID>000641407</NSF_ID>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Iowa State University]]></Name>
+<CityName>AMES</CityName>
+<ZipCode>500112103</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress><![CDATA[1350 BEARDSHEAR HALL]]></StreetAddress>
+<StreetAddress2><![CDATA[515 MORRILL ROAD]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DQDBM7FGJPC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DQDBM7FGJPC5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Iowa State University of Science and Technology]]></Name>
+<CityName>Ames</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>500112103</ZipCode>
+<StreetAddress><![CDATA[1138 Pearson Hall, 505 Morrill R]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>142Y00</Code>
+<Text>FM-Future Manufacturing</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>915000</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8650</Code>
+<Text>Sustainable Chemistry</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~500000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="x_elementToProof"><span>Nitrogen-based compounds are indispensable chemicals critically valuable to many industrial applications. However, their current manufacturing are directly or indirectly from ammonia. Ammonia is manufactured via the Haber-Bosch process and demands heavy use of fossil fuels, high temperature, and pressure, resulting in substantial carbon dioxide emissions. Moreover, significant amounts of nitrate are generated as a notorious and hazardous pollutant in wastewaters from many industrial processes and agricultural run-off, requiring costly mitigation efforts to safeguard ecological systems.&nbsp;</span></p> <p><span>&nbsp;</span></p> <p><span>This research initiated an innovative eco-manufacturing platform for nitrogen-based chemicals from waste nitrogen streams. It has stimulated fundamental research and education in nitrogen-centered electrochemistry and materials sciences, laying a solid foundation for future manufacturing study on green manufacturing of nitrogen-based chemicals and fertilizers.</span></p> <p><span>&nbsp;</span></p> <p>We developed high-performance nitrate-to-ammonia (NO<sub>3</sub><sup>&minus;</sup>-to-NH<sub>3</sub>) conversion in a scalable, versatile, and cost-effective membrane-free alkaline electrolyzer (MFAEL). A high NH<sub>3</sub>&nbsp;partial current density of 4.22 A/cm<span style="font-size: 10px;"><sup>2</sup></span>&nbsp;with a faradaic efficiency of 85% was achieved. The unique configuration of MFAEL allows for the continuous production of fertilizers and chemicals without the need for additional separation procedures. Our comprehensive techno-economic analysis (TEA) revealed the economic competitiveness of upcycling waste nitrogen from dilute sources by combining nitrate reduction in MFAEL and a low-energy cost electrodialysis process for efficient nitrate concentrating. We also found that pairing nitrate reduction with the oxidation of organic reactive nitrogen compounds at the anode of MFAEL enables the convergent transformation of N-O and C-N bonds into ammonia as the sole N-containing product.</p> <p><span>&nbsp;</span></p> <p>We established an efficient electrodialysis (ED) process to concentrate nitrate from very dilute solutions to high concentrations. With&nbsp;an ultrathin intermembrane distance of 500 um and an optimal fluid velocity of 10 cm/s,&nbsp;we experimentally demonstrated the effective ED operation for NO<sub>3</sub><sup>&minus;</sup>&nbsp;from concentrating 7.14 mM (100 ppm NO<sub>3</sub><sup>&minus;</sup>-N) into 2 M NO<sub>3</sub><sup>&minus;</sup>&nbsp;(28,000 ppm NO<sub>3</sub><sup>&minus;</sup>-N) at an appropriate ED current density of 1 mA/cm<sup>2</sup>. Along with 75% of the designed nitrate recovery, the observed initial and final pair voltage was 0.39 and 0.63 V, respectively, both of which are highly consistent with the theoretical predictions. A very high level of coulombic efficiency (such as 96%) was achieved for nitrate concentrating by ED operation.</p> <p><span>&nbsp;</span></p> <p>We conducted a techno-economic analysis (TEA) and a life cycle assessment (LCA) of the electrochemical conversion of nitrate present in wastewater to hydroxylamine (NH<span style="font-size: 10px;"><sub>2</sub></span>OH), a valuable nitrogen chemical intermediate.&nbsp;Projections suggest that future cost reduction could lower NH<span style="font-size: 10px;"><sub>2</sub></span>OH production costs for the small- and large-scale facilities to $2.79/kg-NH<span style="font-size: 10px;"><sub>2</sub></span>OH and $2.06/kg-NH<span style="font-size: 10px;"><sub>2</sub></span>OH (current market price: $1.72/kg), respectively, with improvements in the sensitivity analysis parameters. LCA results indicate that the electrochemical pathway for NH<span style="font-size: 10px;"><sub>2</sub></span>OH production has lower life cycle impacts compared to conventional pathway.</p> <p><span>&nbsp;</span></p> <p>We also investigated selective electrocatalytic nitrate reduction to nitrite or ammonia on oxide-derived silver (OD-Ag) with tunable selectivity. Up to 98% selectivity and 95% Faradaic efficiency (FE) of nitrite&nbsp;were observed and maintained under a wide potential window. Further reduction of accumulated nitrite to ammonia&nbsp;was well regulated by the cathodic potential and achieved an ammonia&nbsp;FE of 89%. Density functional theory (DFT) computations provided insights into the unique nitrite&nbsp;selectivity on Ag electrodes compared with Cu, showing the critical role of a proton-assisted mechanism. We further designed a novel electrocatalytic-catalytic combined process for denitrifying real-world nitrate-containing agricultural wastewater, leading to 95+% of nitrate&nbsp;conversion to N<sub>2</sub>&nbsp;with minimal emission of greenhouse gas N<sub>2</sub>O.</p> <p><span>&nbsp;</span></p> <p class="x_elementToProof"><span>In addition to advancing eco-manufacturing of nitrogen chemicals, this project also served as a training platform for over 10 graduate and several undergraduate students. All doctoral students involved in the project and who graduated have secured employment in engineering fields. The project has resulted in 6 published articles and 15 presentations. Collaborating with local industries and ISU's EPRC, the team has explored the application of renewable electricity for green nitrogen chemical manufacturing and ammonia-based CO<sub>2</sub>&nbsp;capture and conversion. The knowledge gained was incorporated into an elective course, Electrochemical Engineering, to educate students at Iowa State University on renewable energy production, utilization, and electrochemical manufacturing.</span></p><br> <p>  Last Modified: 05/15/2024<br> Modified by: Wenzhen&nbsp;Li</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Nitrogen-based compounds are indispensable chemicals critically valuable to many industrial applications. However, their current manufacturing are directly or indirectly from ammonia. Ammonia is manufactured via the Haber-Bosch process and demands heavy use of fossil fuels, high temperature, and pressure, resulting in substantial carbon dioxide emissions. Moreover, significant amounts of nitrate are generated as a notorious and hazardous pollutant in wastewaters from many industrial processes and agricultural run-off, requiring costly mitigation efforts to safeguard ecological systems.      This research initiated an innovative eco-manufacturing platform for nitrogen-based chemicals from waste nitrogen streams. It has stimulated fundamental research and education in nitrogen-centered electrochemistry and materials sciences, laying a solid foundation for future manufacturing study on green manufacturing of nitrogen-based chemicals and fertilizers.      We developed high-performance nitrate-to-ammonia (NO3-to-NH3) conversion in a scalable, versatile, and cost-effective membrane-free alkaline electrolyzer (MFAEL). A high NH3partial current density of 4.22 A/cm2with a faradaic efficiency of 85% was achieved. The unique configuration of MFAEL allows for the continuous production of fertilizers and chemicals without the need for additional separation procedures. Our comprehensive techno-economic analysis (TEA) revealed the economic competitiveness of upcycling waste nitrogen from dilute sources by combining nitrate reduction in MFAEL and a low-energy cost electrodialysis process for efficient nitrate concentrating. We also found that pairing nitrate reduction with the oxidation of organic reactive nitrogen compounds at the anode of MFAEL enables the convergent transformation of N-O and C-N bonds into ammonia as the sole N-containing product.      We established an efficient electrodialysis (ED) process to concentrate nitrate from very dilute solutions to high concentrations. Withan ultrathin intermembrane distance of 500 um and an optimal fluid velocity of 10 cm/s,we experimentally demonstrated the effective ED operation for NO3from concentrating 7.14 mM (100 ppm NO3-N) into 2 M NO3(28,000 ppm NO3-N) at an appropriate ED current density of 1 mA/cm2. Along with 75% of the designed nitrate recovery, the observed initial and final pair voltage was 0.39 and 0.63 V, respectively, both of which are highly consistent with the theoretical predictions. A very high level of coulombic efficiency (such as 96%) was achieved for nitrate concentrating by ED operation.      We conducted a techno-economic analysis (TEA) and a life cycle assessment (LCA) of the electrochemical conversion of nitrate present in wastewater to hydroxylamine (NH2OH), a valuable nitrogen chemical intermediate.Projections suggest that future cost reduction could lower NH2OH production costs for the small- and large-scale facilities to $2.79/kg-NH2OH and $2.06/kg-NH2OH (current market price: $1.72/kg), respectively, with improvements in the sensitivity analysis parameters. LCA results indicate that the electrochemical pathway for NH2OH production has lower life cycle impacts compared to conventional pathway.      We also investigated selective electrocatalytic nitrate reduction to nitrite or ammonia on oxide-derived silver (OD-Ag) with tunable selectivity. Up to 98% selectivity and 95% Faradaic efficiency (FE) of nitritewere observed and maintained under a wide potential window. Further reduction of accumulated nitrite to ammoniawas well regulated by the cathodic potential and achieved an ammoniaFE of 89%. Density functional theory (DFT) computations provided insights into the unique nitriteselectivity on Ag electrodes compared with Cu, showing the critical role of a proton-assisted mechanism. We further designed a novel electrocatalytic-catalytic combined process for denitrifying real-world nitrate-containing agricultural wastewater, leading to 95+% of nitrateconversion to N2with minimal emission of greenhouse gas N2O.      In addition to advancing eco-manufacturing of nitrogen chemicals, this project also served as a training platform for over 10 graduate and several undergraduate students. All doctoral students involved in the project and who graduated have secured employment in engineering fields. The project has resulted in 6 published articles and 15 presentations. Collaborating with local industries and ISU's EPRC, the team has explored the application of renewable electricity for green nitrogen chemical manufacturing and ammonia-based CO2capture and conversion. The knowledge gained was incorporated into an elective course, Electrochemical Engineering, to educate students at Iowa State University on renewable energy production, utilization, and electrochemical manufacturing.     Last Modified: 05/15/2024       Submitted by: WenzhenLi]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

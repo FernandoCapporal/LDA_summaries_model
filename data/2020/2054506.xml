@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Framework: Software: NSCI : Computational and data innovation implementing a national community hydrologic modeling framework for scientific discovery]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>593517.00</AwardTotalIntnAmount>
+<AwardAmount>593517</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Varun Chandola</SignBlockName>
+<PO_EMAI>vchandol@nsf.gov</PO_EMAI>
+<PO_PHON>7032922656</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award supports the design and implementation of a software framework to simulate the movement of water at various scales. Understanding the movement and availability of water locally and across the country is of paramount importance to economic productivity and human health of our nation. Hydrologic scientists, are actively tackling these challenges using increasingly complex computational methods. However, modeling advances have not been easily translated to the broader community of scientists and professionals due to technical barriers to entry. This software platform draws from computer models and employs supercomputers capable of analyzing big data to provide unprecedented simulations of water movement over the continental US. Combining hydrologists and computer scientists the team behind the project envision a broad community of users who will have multiple ways to interact with the software framework. For the hydrologic scientist who is interested in generating their own scenarios the framework will facilitate direct interaction with the hydrologic models and the ability to generate simulations on the fly. Conversely, the framework will also provide a set of static output and a range of tools for a broader set of users who would like to evaluate hydrologic projections locally or extract model data for use in other analyses.&lt;br/&gt;&lt;br/&gt;Continental scale simulation of water flow through rivers, streams and groundwater is an identified grand challenge in hydrology. Decades of model development, combined with advances in solver technology and software engineering have enabled large-scale, high-resolution simulations of the hydrologic cycle over the US, yet substantial technical and communication challenges remain. With support from this award, an interdisciplinary team of computer scientists and hydrologists is developing a framework to leverage advances in computer science transforming simulation and data-driven discovery in the Hydrologic Sciences and beyond. This project is advancing the science behind these national scale hydrologic models, accelerating their capabilities and building novel interfaces for user interaction. The framework brings computational and domain science (hydrology) communities together to move more quickly from tools (models, big data, high-performance computing) to discoveries. It facilitates decadal, national scale simulations, which are an unprecedented resource for both the hydrologic community and the much broader community of people working in water dependent systems (e.g., biological system, energy and food production). These simulations will enable the community to address scientific questions about water availability and dynamics from the watershed to the national scale. Additionally, this framework is designed to facilitate multiple modes of interaction and engage a broad spectrum of users outside the hydrologic community. We will provide easy-to-access pre-processed datasets that can be visualized and plotted using built-in tools that will require no computer science or hydrology background. Recognizing that most hydrology training does not generally include High Performance Computing and data analytics or software engineering, this framework will provide a gateway for computationally enhanced hydrologic discovery. Additionally, for educators we will develop packaged videos and educational modules on different hydrologic systems geared towards K-12 classrooms.&lt;br/&gt;&lt;br/&gt;This award by the NSF Office of Advanced Cyberinfrastructure is jointly supported by the Cross-Cutting Activities Program of the Division of Earth Sciences within the NSF Directorate for Geosciences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>10/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2054506</AwardID>
+<Investigator>
+<FirstName>Reed</FirstName>
+<LastName>Maxwell</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Reed M Maxwell</PI_FULL_NAME>
+<EmailAddress><![CDATA[reedmaxwell@princeton.edu]]></EmailAddress>
+<NSF_ID>000510653</NSF_ID>
+<StartDate>10/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Princeton University</Name>
+<CityName>PRINCETON</CityName>
+<ZipCode>085442001</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress>1 NASSAU HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NJ1YPQXQG7U5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF PRINCETON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>Princeton</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>085442020</ZipCode>
+<StreetAddress><![CDATA[Guyot Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7222</Code>
+<Text>XC-Crosscutting Activities Pro</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>077Z</Code>
+<Text>CSSI-1: Cyberinfr for Sustained Scientif</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7925</Code>
+<Text>LARGE PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~593517</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project, called HydroFrame, developed an open software framework and datasets for simulating the water cycle over the entire US.&nbsp;&nbsp;This project was a broad collaboration between hydrologists, computer scientists, software engineers, and education and outreach specialists.&nbsp;&nbsp;The funding from this project trained several graduate students and postdoctoral scholars.&nbsp;&nbsp;The HydroFrame platform merges recent advances in hydrologic modeling and computational approaches making them available to the hydrologic community and others.&nbsp;&nbsp;These platform and simulations will continue to enable scientific discovery across scales and user groups over the coming years.</p> <p><strong>HydroFrame Platform</strong> (<a href="https://hydroframe.org/">https://hydroframe.org</a>)</p> <p>The HydroFrame software platform makes the datasets, models, software and education tools available to a broad audience.&nbsp;&nbsp;This landing page (shown in Figure 1) allows seamless, unified access to all current project components and is designed to be easily expanded in the future to include additional capabilities.&nbsp;&nbsp;Organizing all these software, modeling, and data components in one place, along with extensive documentation, makes them broadly accessible and increases productivity.</p> <p><strong>SubsetTools and HydroData</strong></p> <p>A central goal of this NSF CyberInfrastructure project was to make the model development process much easier.&nbsp;&nbsp;Two modules, HydroData and SubsetTools were central to realizing this goal.&nbsp;&nbsp;The HydroData project pulled together a wide range of observations and model inputs and made them easily accessible via a public API (Application Program Interface) served from a Princeton data center.&nbsp;&nbsp;To facilitate this, we created a catalog system for all of the data products developed across the project. The goal of the these efforts is to provide a seamless, FAIR (Findable, Accessible, Interoperable and Reusable), way for users both inside and outside the project to search for and interact with our data products.&nbsp;&nbsp;The SubsetTools package allows users to choose any geographic region in the continental US and will use HydroData to automatically build a working hydrologic model of that region.&nbsp;&nbsp;This reduces the time it takes to build a hydrologic model from months to minutes.</p> <p><strong>Continental-Scale Hydrology Mode</strong>l (CONUS2)</p> <p>Our project completed the development of subsurface inputs for the national model and the model was spun up and simulated surface and subsurface flow over the entire US. Development of the national subsurface configuration was led by a hydrology team comprised of faculty, students and postdoctoral staff.&nbsp;&nbsp;All inputs are published in the open literature, documented, and made available through the HydroFrame platform. Our hydrology team at Princeton and the University of Arizona completed an extensive set of model tests on three subdomains (Upper Colorado, Little Washita, OK and the Mid-Atlantic) spanning a range of hydrogeologic settings and locations across the US. Based on the results of these subdomain tests we selected the best input datasets for the national model. We then simulated groundwater and surface water over the US using this model which provided the basis for the SubsetTools and HydroData capabilities described above.</p> <p><strong>Education and Outreach</strong> (<a href="https://hydroframe.org/parflow-sandtank-model">https://hydroframe.org/parflow-sandtank-model</a>)</p> <p>The most popular educational module we developed for this project was the ParFlow Sandtank (<a href="https://sandtank.hydroframe.org/">https://sandtank.hydroframe.org</a>).&nbsp;&nbsp;The Sandtank (Figure 2) is a gamified way to teach hydrology and groundwater flow to a wide audience.&nbsp;&nbsp;The HydroFrame project developed an ongoing partnership with the Watershed Institute, an organization in Pennington, NJ, that supports a wealth of community focused education, advocacy, and stewardship initiatives. Through the Watershed Institute&rsquo;s Watershed Academy program for high school students, researchers from the HydroFrame project were given the opportunity to develop a week-long educational camp, focused on water and climate (Figure 3).</p> <p><strong>Metrics</strong>&nbsp;</p> <p>The HydroFrame platform has already become very popular.&nbsp;&nbsp;We tracked metrics over the project duration.&nbsp;&nbsp;For example, the Sandtank education platform was accessed more than 56,000 times since launching in early 2020 and has more than 32,000 users.&nbsp;&nbsp;The HydroData and SubsetTools platforms launched in late 2023 with a sign up and registration process. These modules already have 156 registered, regular users, have download over 100MB of data from 10 datasets representing over 50 variables via more than 180,000 API calls.</p><br> <p>  Last Modified: 02/28/2024<br> Modified by: Reed&nbsp;M&nbsp;Maxwell</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2054506/2054506_10582396_1709132123416_sandtank--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2054506/2054506_10582396_1709132123416_sandtank--rgov-800width.jpg" title="The Sandtank Teaching Module"><img src="/por/images/Reports/POR/2024/2054506/2054506_10582396_1709132123416_sandtank--rgov-66x44.jpg" alt="The Sandtank Teaching Module"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The ParFlow Sandtank teaching module provides an easy, gamified way to teach hydrology to a broad audience.</div> <div class="imageCredit">Reed Maxwell</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Reed&nbsp;M&nbsp;Maxwell <div class="imageTitle">The Sandtank Teaching Module</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2054506/2054506_10582396_1709132477822_watershed_Institute_hydroframe--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2054506/2054506_10582396_1709132477822_watershed_Institute_hydroframe--rgov-800width.jpg" title="The Watershed Academy Summer Program"><img src="/por/images/Reports/POR/2024/2054506/2054506_10582396_1709132477822_watershed_Institute_hydroframe--rgov-66x44.jpg" alt="The Watershed Academy Summer Program"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The HydroFrame project partnered with the Watershed Institute to develop a week long summer program for high school students.</div> <div class="imageCredit">Lisa Gallagher</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Reed&nbsp;M&nbsp;Maxwell <div class="imageTitle">The Watershed Academy Summer Program</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2054506/2054506_10582396_1709132222146_HydroFrame--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2054506/2054506_10582396_1709132222146_HydroFrame--rgov-800width.jpg" title="The HydroFrame webpage"><img src="/por/images/Reports/POR/2024/2054506/2054506_10582396_1709132222146_HydroFrame--rgov-66x44.jpg" alt="The HydroFrame webpage"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The HydroFrame webpage organizes all the modules and components developed as part of this project.</div> <div class="imageCredit">Reed Maxwell</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Reed&nbsp;M&nbsp;Maxwell <div class="imageTitle">The HydroFrame webpage</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project, called HydroFrame, developed an open software framework and datasets for simulating the water cycle over the entire US.This project was a broad collaboration between hydrologists, computer scientists, software engineers, and education and outreach specialists.The funding from this project trained several graduate students and postdoctoral scholars.The HydroFrame platform merges recent advances in hydrologic modeling and computational approaches making them available to the hydrologic community and others.These platform and simulations will continue to enable scientific discovery across scales and user groups over the coming years.   HydroFrame Platform (https://hydroframe.org)   The HydroFrame software platform makes the datasets, models, software and education tools available to a broad audience.This landing page (shown in Figure 1) allows seamless, unified access to all current project components and is designed to be easily expanded in the future to include additional capabilities.Organizing all these software, modeling, and data components in one place, along with extensive documentation, makes them broadly accessible and increases productivity.   SubsetTools and HydroData   A central goal of this NSF CyberInfrastructure project was to make the model development process much easier.Two modules, HydroData and SubsetTools were central to realizing this goal.The HydroData project pulled together a wide range of observations and model inputs and made them easily accessible via a public API (Application Program Interface) served from a Princeton data center.To facilitate this, we created a catalog system for all of the data products developed across the project. The goal of the these efforts is to provide a seamless, FAIR (Findable, Accessible, Interoperable and Reusable), way for users both inside and outside the project to search for and interact with our data products.The SubsetTools package allows users to choose any geographic region in the continental US and will use HydroData to automatically build a working hydrologic model of that region.This reduces the time it takes to build a hydrologic model from months to minutes.   Continental-Scale Hydrology Model (CONUS2)   Our project completed the development of subsurface inputs for the national model and the model was spun up and simulated surface and subsurface flow over the entire US. Development of the national subsurface configuration was led by a hydrology team comprised of faculty, students and postdoctoral staff.All inputs are published in the open literature, documented, and made available through the HydroFrame platform. Our hydrology team at Princeton and the University of Arizona completed an extensive set of model tests on three subdomains (Upper Colorado, Little Washita, OK and the Mid-Atlantic) spanning a range of hydrogeologic settings and locations across the US. Based on the results of these subdomain tests we selected the best input datasets for the national model. We then simulated groundwater and surface water over the US using this model which provided the basis for the SubsetTools and HydroData capabilities described above.   Education and Outreach (https://hydroframe.org/parflow-sandtank-model)   The most popular educational module we developed for this project was the ParFlow Sandtank (https://sandtank.hydroframe.org).The Sandtank (Figure 2) is a gamified way to teach hydrology and groundwater flow to a wide audience.The HydroFrame project developed an ongoing partnership with the Watershed Institute, an organization in Pennington, NJ, that supports a wealth of community focused education, advocacy, and stewardship initiatives. Through the Watershed Institutes Watershed Academy program for high school students, researchers from the HydroFrame project were given the opportunity to develop a week-long educational camp, focused on water and climate (Figure 3).   Metrics   The HydroFrame platform has already become very popular.We tracked metrics over the project duration.For example, the Sandtank education platform was accessed more than 56,000 times since launching in early 2020 and has more than 32,000 users.The HydroData and SubsetTools platforms launched in late 2023 with a sign up and registration process. These modules already have 156 registered, regular users, have download over 100MB of data from 10 datasets representing over 50 variables via more than 180,000 API calls.     Last Modified: 02/28/2024       Submitted by: ReedMMaxwell]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

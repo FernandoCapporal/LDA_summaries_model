@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[START UP SJV: STEM Teachers Alliance for Regional Tech thinking through Underrepresented Professional development in the San Joaquin Valley]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>299999.00</AwardTotalIntnAmount>
+<AwardAmount>299999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jill Denner</SignBlockName>
+<PO_EMAI>jdenner@nsf.gov</PO_EMAI>
+<PO_PHON>7032924340</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The University of California, Merced in collaboration with local school administration officials, teacher preparation program staff, and both in-service and pre-service teachers, will develop a Research Practitioner Partnership focused on High School.  The goal of the project is to create a self-sustaining and scalable professional development program, called START UP SJV, to support high school teachers who teach Computer Science. The START UP SJV program will aim to help teachers improve their own computer programming and computational thinking skills, so that they can better teach their students.&lt;br/&gt;&lt;br/&gt;The START UP SJV project will develop an online and supported educational and engagement platform called Compass to leverage existing tools and curriculum from ECS and TEALS, and set up the materials with accompanying exercises on the online Compass educational platform. The Compass system allows participants to read materials, work on code, and get support all in one place. To provide real-time support on the system, the PIs will recruit advanced Computer Science Engineering undergraduate students from UC Merced, a Hispanic-serving institution, who will sign up for course credit, and serve as support personnel on the system, answering participant's questions and providing overall guidance and support.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031522</AwardID>
+<Investigator>
+<FirstName>Stefano</FirstName>
+<LastName>Carpin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stefano Carpin</PI_FULL_NAME>
+<EmailAddress><![CDATA[scarpin@ucmerced.edu]]></EmailAddress>
+<NSF_ID>000345837</NSF_ID>
+<StartDate>08/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Angelo</FirstName>
+<LastName>Kyrilov</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Angelo Kyrilov</PI_FULL_NAME>
+<EmailAddress><![CDATA[akyrilov@ucmerced.edu]]></EmailAddress>
+<NSF_ID>000801763</NSF_ID>
+<StartDate>08/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chelsea</FirstName>
+<LastName>Arnold</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chelsea L Arnold</PI_FULL_NAME>
+<EmailAddress><![CDATA[carnold4@ucmerced.edu]]></EmailAddress>
+<NSF_ID>000825969</NSF_ID>
+<StartDate>08/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California - Merced]]></Name>
+<CityName>MERCED</CityName>
+<ZipCode>953435001</ZipCode>
+<PhoneNumber>2092012039</PhoneNumber>
+<StreetAddress><![CDATA[5200 N LAKE RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FFM7VPAG8P92</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, MERCED</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California - Merced]]></Name>
+<CityName>Merced</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>953435001</ZipCode>
+<StreetAddress><![CDATA[5200 N Lake Rd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>055Y00</Code>
+<Text>CISE Education and Workforce</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>023Z</Code>
+<Text>Computer Science for All (CS for All)</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~299999</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The START UP&nbsp;<span><span>SJV</span></span>&nbsp;project was an effort create a community of educators, administrators, and researchers&nbsp;in the heart of California's Central Valley, aimed at increasing participation in Computing for the local population. Hosted and administered at the University of California,&nbsp;<span><span>Merced</span></span>&nbsp;(<span><span>UC</span></span>&nbsp;<span><span>Merced</span></span>), educators and administrators from&nbsp;<span><span>Merced</span></span>&nbsp;Union High School District (<span><span>MUHSD</span></span>), and&nbsp;<span><span>MercedCounty</span></span>&nbsp;Office of Education (<span><span>MCOE</span></span>) participated in the project throughout its various stages.</p> <p>There were a total of 8 high school teachers, from 7 different schools, &nbsp;who participated in Summer&nbsp;<span><span>Bootcamp</span></span>&nbsp;workshops, conducted by researchers at&nbsp;<span><span>UCMerced</span></span>. The aim of these week-long workshops was to get teachers from different schools together, discuss the challenges they face in delivering their AP Computer Science courses, and collaboratively come up with solutions that would work for everyone.</p> <p>The first challenge identified in the group was that the teachers had a different degree of familiarity with the AP Computer Science A material, and the Java programming language. To address this, we designed Professional Development materials that all participants went through, in an effort to improve their own programming and computational thinking skills.</p> <p>Another challenge for the project was the lack of uniformity across&nbsp;the different schools with respect to curriculum, and IT infrastructure. Every participating teacher was using different course materials, from various providers, and none of them had the ability to install software development tools on student computers. In most cases students were provided with&nbsp;<span><span>Chromebooks</span></span>, making it difficult to install compilers, while others had lab spaces with PCs for the students to use, but lacked the adequate support from their IT departments. To address this challenge, we hosted an&nbsp;<span><span>online</span></span>&nbsp;<span><span>IDE</span></span>&nbsp;with the Java compiler&nbsp;<span><span>preinstalled</span></span>, and made it accessible to students through their web browser. This alleviated the technical difficulties, allowing students to compile and run the code they were writing.</p> <p>We anticipated that teachers would need additional support in their classrooms, so we setup an upper-division course at&nbsp;<span><span>UC</span></span>&nbsp;<span><span>Merced</span></span>, with 5&nbsp;advancedundergraduate students, who served as learning assistants for the high school students. Since we had an&nbsp;<span><span>online</span></span>&nbsp;<span><span>IDE</span></span>, the learning assistants could login to a student's workspace in the cloud and communicate with the student via text or video chat, offering help on their programming exercises.</p> <p>The final challenge was related to administrative support for AP Computer Science A in our district. We discovered that teachers who offered AP Computer Science A were not given separate sections to teach these classes, instead having the AP Computer Science students sit in their regular class that they were teaching, and work quietly on their own.&nbsp;</p> <p>The reason for this was that there were not enough students interested in AP Computer Science A, so the school administrators could not justify opening a section for them. Indeed, each school had no more than 3-4 students taking AP Computer Science A, while some schools had none.</p> <p>The rest of the time in the project was spent attempting to determine the reason why there are so few students interested in taking AP Computer Science A in high school. The primary reason identified by the teachers involved in the program was the financial cost associated with taking AP exams. All 8 teachers were unanimous on this, indicating that cost of taking an AP exam is prohibitively expensive for many families in our district. Upon further investigation, we found that the district sponsors up to two AP exams for every students, but&nbsp;counselorsare advising students to take other AP classes, such as English and Calculus, which students are told would be more useful in college, as they satisfy Math and Writing requirements.&nbsp;</p> <p>In an interview with a senior local administrator, we were told that instead of AP Computer Science A, a lot of students are opting to take Introduction to Programming courses at their local Community Colleges. It is the opinion of this administrator that AP Computer Science A enrollments will continue to decline in our district, and that our efforts would be best suited elsewhere.</p> <p>As an unintended positive outcome, a Graduate Student Researcher (<span><span>GSR</span></span>) who was supported by the project became interested in pursuing a full-time career in Computer Science Education, and is currently applying for Teaching Faculty positions in the San Joaquin Valley. This particular&nbsp;<span><span>GSR</span></span>&nbsp;grew up in the area, is a member of an underrepresented minority group, and is a&nbsp;<span><span>DACA</span></span>&nbsp;recipient. In our quest to broaden participation for underrepresented groups in the Central Valley of California, we have raised a future faculty member from an underrepresented group, who will undoubtedly do much for Computer Science Education in our area.</p><br> <p>  Last Modified: 04/15/2024<br> Modified by: Angelo&nbsp;Kyrilov</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The START UPSJVproject was an effort create a community of educators, administrators, and researchersin the heart of California's Central Valley, aimed at increasing participation in Computing for the local population. Hosted and administered at the University of California,Merced(UCMerced), educators and administrators fromMercedUnion High School District (MUHSD), andMercedCountyOffice of Education (MCOE) participated in the project throughout its various stages.   There were a total of 8 high school teachers, from 7 different schools, who participated in SummerBootcampworkshops, conducted by researchers atUCMerced. The aim of these week-long workshops was to get teachers from different schools together, discuss the challenges they face in delivering their AP Computer Science courses, and collaboratively come up with solutions that would work for everyone.   The first challenge identified in the group was that the teachers had a different degree of familiarity with the AP Computer Science A material, and the Java programming language. To address this, we designed Professional Development materials that all participants went through, in an effort to improve their own programming and computational thinking skills.   Another challenge for the project was the lack of uniformity acrossthe different schools with respect to curriculum, and IT infrastructure. Every participating teacher was using different course materials, from various providers, and none of them had the ability to install software development tools on student computers. In most cases students were provided withChromebooks, making it difficult to install compilers, while others had lab spaces with PCs for the students to use, but lacked the adequate support from their IT departments. To address this challenge, we hosted anonlineIDEwith the Java compilerpreinstalled, and made it accessible to students through their web browser. This alleviated the technical difficulties, allowing students to compile and run the code they were writing.   We anticipated that teachers would need additional support in their classrooms, so we setup an upper-division course atUCMerced, with 5advancedundergraduate students, who served as learning assistants for the high school students. Since we had anonlineIDE, the learning assistants could login to a student's workspace in the cloud and communicate with the student via text or video chat, offering help on their programming exercises.   The final challenge was related to administrative support for AP Computer Science A in our district. We discovered that teachers who offered AP Computer Science A were not given separate sections to teach these classes, instead having the AP Computer Science students sit in their regular class that they were teaching, and work quietly on their own.   The reason for this was that there were not enough students interested in AP Computer Science A, so the school administrators could not justify opening a section for them. Indeed, each school had no more than 3-4 students taking AP Computer Science A, while some schools had none.   The rest of the time in the project was spent attempting to determine the reason why there are so few students interested in taking AP Computer Science A in high school. The primary reason identified by the teachers involved in the program was the financial cost associated with taking AP exams. All 8 teachers were unanimous on this, indicating that cost of taking an AP exam is prohibitively expensive for many families in our district. Upon further investigation, we found that the district sponsors up to two AP exams for every students, butcounselorsare advising students to take other AP classes, such as English and Calculus, which students are told would be more useful in college, as they satisfy Math and Writing requirements.   In an interview with a senior local administrator, we were told that instead of AP Computer Science A, a lot of students are opting to take Introduction to Programming courses at their local Community Colleges. It is the opinion of this administrator that AP Computer Science A enrollments will continue to decline in our district, and that our efforts would be best suited elsewhere.   As an unintended positive outcome, a Graduate Student Researcher (GSR) who was supported by the project became interested in pursuing a full-time career in Computer Science Education, and is currently applying for Teaching Faculty positions in the San Joaquin Valley. This particularGSRgrew up in the area, is a member of an underrepresented minority group, and is aDACArecipient. In our quest to broaden participation for underrepresented groups in the Central Valley of California, we have raised a future faculty member from an underrepresented group, who will undoubtedly do much for Computer Science Education in our area.     Last Modified: 04/15/2024       Submitted by: AngeloKyrilov]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

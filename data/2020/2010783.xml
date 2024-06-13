@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF Postdoctoral Fellowship in Biology FY 2020: A mechanistic approach to how the interaction of ecology and evolution determine the response of communities to temperature]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>138000.00</AwardTotalIntnAmount>
+<AwardAmount>207000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joel Abraham</SignBlockName>
+<PO_EMAI>jkabraha@nsf.gov</PO_EMAI>
+<PO_PHON>7032924694</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This action funds an NSF Postdoctoral Research Fellowship in Biology for FY 2020, Broadening Participation of Groups Under-represented in Biology. The fellowship supports a research and training plan for the Fellow that will increase the participation of groups underrepresented in biology. To conserve biodiversity in a changing climate, it is important to understand how species respond to changing temperatures in both the short and long term. However, this task is not easy since temperature affects individuals in multiple ways, from molecules to ecosystems and in how they interact with other species. Recent scientific progress in genetics, evolutionary biology, ecology, and mathematical modelling makes possible a comprehensive approach to understanding how organisms respond to temperature increase. Just as this research takes a broad approach to address the effects of temperature on biological systems, it is necessary to take a broad approach to increase diversity in the field of biology. The fellow will focus this effort on increasing the participation of women of color, who are underrepresented in science. &lt;br/&gt;&lt;br/&gt;The fellow will combine laboratory experiments and mathematical models to investigate how increasing temperature alters individual and generational performance. Furthermore, this research will investigate how species interactions (via bacterial infection), and the type of spatial landscape, alter the ability to adapt to temperature changes. The experimental system is made up of two model species, a well-studied fruit fly and a bacterial pathogen that is widespread in humans and wild animals. The fellow will use data from this experimental system to parameterize a mathematical model of how temperature change alters species dynamics and extinction probability. Not only will this model be useful to aid in vulnerability assessments of natural species and communities of interest, it also will provide useful information about how temperature alters the virulence of a common pathogen of humans and wild animals. To support women of color in strengthening their science identities, the fellow will conduct high school, undergraduate and graduate student outreach. These actions include developing a module for use in the classroom to allow students to investigate the effect of temperature on biological communities. Furthermore, the fellow will develop a web-based international women’s mentoring chain, connecting scientists in Ecology and Evolution from seniors in high school to university professors.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/03/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2010783</AwardID>
+<Investigator>
+<FirstName>Anna</FirstName>
+<LastName>Vinton</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anna C Vinton</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000811600</NSF_ID>
+<StartDate>06/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Vinton, Anna Christina]]></Name>
+<CityName>New Haven</CityName>
+<ZipCode>06511</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Oxford]]></Name>
+<CityName>Oxford OX1 3SZ</CityName>
+<StateCode/>
+<ZipCode/>
+<StreetAddress/>
+<CountryCode>UK</CountryCode>
+<CountryName>United Kingdom</CountryName>
+<StateName>RI REQUIRED</StateName>
+<CountryFlag>0</CountryFlag>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_PERF>""</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>112700</Code>
+<Text>Evolutionary Processes</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>727500</Code>
+<Text>Cross-BIO Activities</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>097Z</Code>
+<Text>COVID-19 Impacts on Existing Activities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>1V21</Code>
+<Name>R&amp;RA ARP Act DEFC V</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>010V2122DB</Code>
+<Name><![CDATA[R&RA ARP Act DEFC V]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~138000</FUND_OBLG>
+<FUND_OBLG>2021~69000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Title:</strong> Mechanistic Approach to Investigate How the Interaction of Ecology and Evolution Determine the Response of Biological Communities to Temperature Change</p> <p><strong>Overview:</strong> Our project, conducted at Oxford University, has made significant strides in understanding the complex interplay of ecology and evolution in the context of temperature change. Focusing on the fruit fly, <em>Drosophila melanogaster</em>, as our model organism, we have explored the implications of temperature variation on biological communities. Our research has brought to light groundbreaking insights into the adaptive mechanisms of species in a changing environment.</p> <p><strong>Intellectual Merit:</strong> This project's intellectual merit lies in its novel approach to dissecting the multifaceted effects of temperature on species. Our methodology has been designed to unravel the complexities of (i) individual and (ii) interspecies physiological responses, as well as (iii) responses within heterogeneous environments. This stepwise approach allowed us to isolate and understand the mechanisms of these responses. Our findings have significantly advanced the understanding of physiological adaptations to temperature changes, species interactions, and the influence of environmental stochasticity.</p> <p><strong>Broader Impacts:</strong> A pivotal aspect of our project is its contribution to diversity in the sciences, specifically focusing on increasing the participation of underrepresented groups in scientific research. We implemented educational outreach at various levels, from high school to graduate studies, in collaboration with the Oxford Learning Institute and Oxford Sparks. This included developing an educational video, mentoring students, and delivering lectures. These efforts aimed to strengthen science identities among underrepresented students in biology and scientific research.</p> <p><strong>Significant Results:</strong> Our experiments yielded several significant findings:</p> <ol> <li> <p><strong>Single Generation Experiment:</strong> Revealed tradeoffs in fecundity and survival rates as well as in developmental rates, indicating a more nuanced understanding of fitness in changing environments.</p> </li> <li> <p><strong>Multi-Generation Experiment:</strong> Showed distinct fitness differences in flies evolved under various thermal environments, underscoring the importance of evolutionary history in species' adaptive responses.</p> </li> <li> <p><strong>Methodological Framework:</strong> The novel framework developed is now published and widely cited, demonstrating its impact on the scientific community.</p> </li> <li> <p><strong>Manuscripts in Progress:</strong> We are in the process of preparing two additional manuscripts to the first two in Trends in Ecology and Evolution, detailing our findings.</p> </li> </ol> <p><strong>Training and Mentorship:</strong> The project provided extensive training in laboratory techniques, mentorship, leadership, and communication. This training was instrumental in mentoring four students, two of whom were part of UNIQ+, a program aimed at increasing diversity in biology research. Our outreach extended to creating accessible lab protocols.</p> <p><strong>Dissemination and Outreach:</strong> Our research was presented at multiple British Ecological Society meetings and shared widely through open-access platforms. A popular science video with Oxford Sparks, scheduled for release in February 2024, will further disseminate our findings.</p> <p><strong>Impact on Research Directions:</strong> The framework and methodologies developed during this project are guiding new research directions and hypotheses in evolutionary biology and ecology. Our work encourages integrating the impacts of plasticity and fast-scale evolution into ecological models, considering environmental variability in a more nuanced manner.</p> <p><strong>Conclusion:</strong> Our research has not only contributed to the scientific understanding of how biological communities respond to temperature changes but also impacted educational outreach and diversity in science. The methodologies and frameworks developed are shaping future research, and our findings have significant implications for land management, agriculture, and insect management strategies. As we continue to disseminate our results, we expect a broader impact on both the scientific community and the general public's understanding of ecological and evolutionary dynamics in a rapidly changing world.</p> <p>&nbsp;</p><br> <p>  Last Modified: 02/16/2024<br> Modified by: Anna&nbsp;C&nbsp;Vinton</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Title: Mechanistic Approach to Investigate How the Interaction of Ecology and Evolution Determine the Response of Biological Communities to Temperature Change   Overview: Our project, conducted at Oxford University, has made significant strides in understanding the complex interplay of ecology and evolution in the context of temperature change. Focusing on the fruit fly, Drosophila melanogaster, as our model organism, we have explored the implications of temperature variation on biological communities. Our research has brought to light groundbreaking insights into the adaptive mechanisms of species in a changing environment.   Intellectual Merit: This project's intellectual merit lies in its novel approach to dissecting the multifaceted effects of temperature on species. Our methodology has been designed to unravel the complexities of (i) individual and (ii) interspecies physiological responses, as well as (iii) responses within heterogeneous environments. This stepwise approach allowed us to isolate and understand the mechanisms of these responses. Our findings have significantly advanced the understanding of physiological adaptations to temperature changes, species interactions, and the influence of environmental stochasticity.   Broader Impacts: A pivotal aspect of our project is its contribution to diversity in the sciences, specifically focusing on increasing the participation of underrepresented groups in scientific research. We implemented educational outreach at various levels, from high school to graduate studies, in collaboration with the Oxford Learning Institute and Oxford Sparks. This included developing an educational video, mentoring students, and delivering lectures. These efforts aimed to strengthen science identities among underrepresented students in biology and scientific research.   Significant Results: Our experiments yielded several significant findings:     Single Generation Experiment: Revealed tradeoffs in fecundity and survival rates as well as in developmental rates, indicating a more nuanced understanding of fitness in changing environments.     Multi-Generation Experiment: Showed distinct fitness differences in flies evolved under various thermal environments, underscoring the importance of evolutionary history in species' adaptive responses.     Methodological Framework: The novel framework developed is now published and widely cited, demonstrating its impact on the scientific community.     Manuscripts in Progress: We are in the process of preparing two additional manuscripts to the first two in Trends in Ecology and Evolution, detailing our findings.     Training and Mentorship: The project provided extensive training in laboratory techniques, mentorship, leadership, and communication. This training was instrumental in mentoring four students, two of whom were part of UNIQ+, a program aimed at increasing diversity in biology research. Our outreach extended to creating accessible lab protocols.   Dissemination and Outreach: Our research was presented at multiple British Ecological Society meetings and shared widely through open-access platforms. A popular science video with Oxford Sparks, scheduled for release in February 2024, will further disseminate our findings.   Impact on Research Directions: The framework and methodologies developed during this project are guiding new research directions and hypotheses in evolutionary biology and ecology. Our work encourages integrating the impacts of plasticity and fast-scale evolution into ecological models, considering environmental variability in a more nuanced manner.   Conclusion: Our research has not only contributed to the scientific understanding of how biological communities respond to temperature changes but also impacted educational outreach and diversity in science. The methodologies and frameworks developed are shaping future research, and our findings have significant implications for land management, agriculture, and insect management strategies. As we continue to disseminate our results, we expect a broader impact on both the scientific community and the general public's understanding of ecological and evolutionary dynamics in a rapidly changing world.        Last Modified: 02/16/2024       Submitted by: AnnaCVinton]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

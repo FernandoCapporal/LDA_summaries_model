@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CNS CORE: Small: Scalable ACID Transactions for Persistent Memory Databases]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>214996.00</AwardTotalIntnAmount>
+<AwardAmount>214996</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jason Hallstrom</SignBlockName>
+<PO_EMAI>jhallstr@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project addresses the inability of current database systems to keep up with the ever growing demands of applications that analyze and extract information from machine-generated data sets, such as Internet-of-Things sensors and machine-learning systems. Intuitively, doubling a system's computing resources should double the load that the system can process per unit of time, but that is not true of today's databases: beyond a fairly modest system size, adding more computing resources does not scale to proportionate gains in performance.  The key reason is that databases, to perform correctly, must limit concurrent access to some critical data structures: adding more resources increases competition for access to these data structures, creating a bottleneck for the system's performance.  This project introduces a key innovation towards scalable databases. It frees the database from the need, whenever a databases record is modified,  to  immediately update  range indexes---a common form of data organization in databases that tend to become  a hotspot when databases try to scale up their computing resources. To remove this bottleneck, this project develops a  new scalable interface: per-processor-core queues absorb index updates and merge them  in the shared range index data structures periodically, in the background. Eliminating synchronous updates to range indices does not weaken the database guarantees:  the standard correctness criterion of serializability is achieved by globally ordering transactional updates using multi-part timestamps derived from a system-wide clock; data durability is achieved by storing per-core queues in non-volatile memory;  and a new data structure ensures that reads performed on individual records return their most-recently committed value.&lt;br/&gt;&lt;br/&gt;Databases are a critical component of modern planet-scale applications. By eliminating scalability bottlenecks and leveraging emerging non volatile memory technology, this project will dramatically reduce the cost to provision databases. In particular, a large fraction of operational cost in multi-billion-dollar data centers is spent on powering a growing number of servers. Improving the scalability of multiple processor cores will increase the density of database deployments, reducing drastically the number of servers required to provision a database: the savings can defer the need for new data centers and storage devices, as more useful work is achieved with existing servers, or reduce energy consumption for existing workloads. The work will also influence  the education of the next generation of database engineers. Proposed lecture and project materials will prepare students to identify scalable database designs when responding to future changes in hardware and application workloads.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/19/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2008667</AwardID>
+<Investigator>
+<FirstName>Lorenzo</FirstName>
+<LastName>Alvisi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lorenzo Alvisi</PI_FULL_NAME>
+<EmailAddress><![CDATA[la13@cornell.edu]]></EmailAddress>
+<NSF_ID>000217257</NSF_ID>
+<StartDate>08/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>341 PINE TREE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G56PUALJ3KT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CORNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>Ithaca</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148537501</ZipCode>
+<StreetAddress><![CDATA[107 Hoy Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~214996</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-74fcd019-7fff-6905-43ef-728fb02d310a"> </span></p> <p dir="ltr"><span>This project focused on enhancing the scalability of modern database systems, with two main goals: 1) improving &nbsp;the performance and usability of persistent memory databases by developing solutions&nbsp;that can efficiently handle increasing data volumes and write-heavy workloads; and 2)&nbsp;<span>improving the performance &nbsp;of &nbsp;geo-replicated data stores under workloads, prevalent in real-world applications, &nbsp;where multiple transactions concurrently access the same data.</span></span></p> <p dir="ltr"><span>A key milestone towards the first goal was the development of ScaleDB, a serializable in-memory relational database with SQL support, tailored for multi-core machines. A significant innovation within ScaleDB is the introduction of the "indexlet", a transformative construct for managing range indexes in databases. Indexlets enable asynchronous updates, allowing for more efficient write operations by reducing the bottlenecks typically associated with traditional indexing methods. Their design is particularly advantageous in write-heavy environments, enhancing performance and scalability. This innovation enables databases to efficiently scale with the increasing number of cores in contemporary hardware architectures, contributing significantly to the adaptability and responsiveness of persistent memory databases. Complementing the development of indexlets, ScaleDB introduces the asynchronous concurrency control (ACC) protocol. This protocol is pivotal in managing scalable serializable transactions, particularly in conjunction with indexlets. It ensures that database operations are efficiently processed, maintaining data consistency even under high workloads, which is critical for applications requiring real-time data processing and analysis.</span></p> <p dir="ltr">A significant contribution towards the second goal was the development of Morty,&nbsp;<span id="docs-internal-guid-0bf42ba3-7fff-7389-e01b-2396de14bc51"><span>&nbsp;a novel storage system that leverages the newly developed notion of conflict windows to capture the fundamental limits to the ability of conflicting transactions to execute concurrently while guaranteeing a correct outcome. Intuitively, transactions with overlapping conflict windows must not &nbsp;execute at the same time; Morty demonstrates that&nbsp;</span></span>&nbsp;restarting a transaction as soon as it detects that its conflict window overlaps with that of another transaction can shift conflict windows &nbsp;to minimize overlaps and significantly improve the number of transactions that can be successfully completed &nbsp;in a given time interval.</p> <p dir="ltr"><span id="docs-internal-guid-0bf42ba3-7fff-7389-e01b-2396de14bc51"><span>&nbsp;</span></span>The project's findings were widely disseminated through various channels. ScaleDB was presented at OSDI 2023 and Morty was published at Eurosys '23. Both were made available on Github. Other notable contributions include the publication of zIO and HeMem, both aimed at accelerating IO-intensive applications and improving memory management in big data applications. The project formed the basis for four Ph.D. theses and had a significant impact on teaching, with key concepts integrated in graduate-level courses.</p> <p dir="ltr"><span>&nbsp;The project's success in addressing key challenges in the scalability of &nbsp;both in memory and geo-replicated data stores marks significant advancements in database design and implementation, with implications extending beyond academia into practical industry applications. The project lays a foundation for future research and development in database technologies, aligning with evolving hardware and software landscapes.</span></p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 02/12/2024<br> Modified by: Lorenzo&nbsp;Alvisi</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      This project focused on enhancing the scalability of modern database systems, with two main goals: 1) improving the performance and usability of persistent memory databases by developing solutionsthat can efficiently handle increasing data volumes and write-heavy workloads; and 2)improving the performance of geo-replicated data stores under workloads, prevalent in real-world applications, where multiple transactions concurrently access the same data.   A key milestone towards the first goal was the development of ScaleDB, a serializable in-memory relational database with SQL support, tailored for multi-core machines. A significant innovation within ScaleDB is the introduction of the "indexlet", a transformative construct for managing range indexes in databases. Indexlets enable asynchronous updates, allowing for more efficient write operations by reducing the bottlenecks typically associated with traditional indexing methods. Their design is particularly advantageous in write-heavy environments, enhancing performance and scalability. This innovation enables databases to efficiently scale with the increasing number of cores in contemporary hardware architectures, contributing significantly to the adaptability and responsiveness of persistent memory databases. Complementing the development of indexlets, ScaleDB introduces the asynchronous concurrency control (ACC) protocol. This protocol is pivotal in managing scalable serializable transactions, particularly in conjunction with indexlets. It ensures that database operations are efficiently processed, maintaining data consistency even under high workloads, which is critical for applications requiring real-time data processing and analysis.   A significant contribution towards the second goal was the development of Morty,a novel storage system that leverages the newly developed notion of conflict windows to capture the fundamental limits to the ability of conflicting transactions to execute concurrently while guaranteeing a correct outcome. Intuitively, transactions with overlapping conflict windows must not execute at the same time; Morty demonstrates thatrestarting a transaction as soon as it detects that its conflict window overlaps with that of another transaction can shift conflict windows to minimize overlaps and significantly improve the number of transactions that can be successfully completed in a given time interval.   The project's findings were widely disseminated through various channels. ScaleDB was presented at OSDI 2023 and Morty was published at Eurosys '23. Both were made available on Github. Other notable contributions include the publication of zIO and HeMem, both aimed at accelerating IO-intensive applications and improving memory management in big data applications. The project formed the basis for four Ph.D. theses and had a significant impact on teaching, with key concepts integrated in graduate-level courses.   The project's success in addressing key challenges in the scalability of both in memory and geo-replicated data stores marks significant advancements in database design and implementation, with implications extending beyond academia into practical industry applications. The project lays a foundation for future research and development in database technologies, aligning with evolving hardware and software landscapes.              Last Modified: 02/12/2024       Submitted by: LorenzoAlvisi]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

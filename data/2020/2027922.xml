@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Internet Traffic and Compliance with Government Stay-at-Home Measures]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>193987.00</AwardTotalIntnAmount>
+<AwardAmount>193987</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deepankar Medhi</SignBlockName>
+<PO_EMAI>dmedhi@nsf.gov</PO_EMAI>
+<PO_PHON>7032922935</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Public health measures such as quarantine, stay-at-home and shelter-at-home are considered effective ways to limit the spread of infectious diseases. This research effort is motivated by a simple observation - as citizens comply with such measures and move to e-learning and to work remotely, one expects to see significant changes in daily network traffic patterns. This project explores the potential for using such changes as a privacy-preserving proxy of citizen compliance with stay-at-home-like measures. &lt;br/&gt;&lt;br/&gt;This effort will leverage the vantage point of a global content distribution network (CDN) service to understand changes on demand before and after official lockdowns or stay-at-home policies take effect at different locales. To understand the relation between these public health measures and network traffic, it will rely on natural experiments, in which users in a region in a treated group (where public health measures are in place) will be matched with similar users in an untreated group, in order to effectively assess compliance and network traffic changes across geographic regions. &lt;br/&gt;&lt;br/&gt;This research will enable understanding how state-at-home measures are working and characterizing the degree of compliance by observing network traffic demand in different regions over time, while preserving privacy. The results from this work will help provide public health authorities with a basis for an evidence-based analysis of their effectiveness. &lt;br/&gt;&lt;br/&gt;The tools developed and the derived data will be made available to the community. All research products will be made available at the following website http://aqualab.cs.northwestern.edu/projects/elpis/ &lt;br/&gt;The site will remain accessible for at least a year after the completion of the work.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027922</AwardID>
+<Investigator>
+<FirstName>Fabian</FirstName>
+<LastName>Bustamante</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Fabian E Bustamante</PI_FULL_NAME>
+<EmailAddress><![CDATA[fabianb@cs.northwestern.edu]]></EmailAddress>
+<NSF_ID>000208180</NSF_ID>
+<StartDate>04/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>EVANSTON</CityName>
+<ZipCode>602080001</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress><![CDATA[633 CLARK ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EXZVPWZBLUE8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHWESTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>Evanston</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>602083106</ZipCode>
+<StreetAddress><![CDATA[2233 Tech Drive, Third Floor]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y00</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~193987</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-c08b696a-7fff-6c18-49fa-90a3fc0beb00"> </span></p> <p dir="ltr"><span>The COVID-19 pandemic profoundly reshaped daily life worldwide, beginning in early 2020 with the rapid global spread of the virus. The United States witnessed its initial confirmed case on January 20, 2020, in Snohomish County, Washington State, followed by widespread transmission across all states within two months.</span></p> <p dir="ltr"><span>Countries worldwide swiftly implemented large-scale interventions to contain the virus, starting with the complete lockdown of Wuhan, China, where the outbreak originated. By early April 2020, various state and local governments across the US implemented diverse social distancing measures, such as shelter-at-home orders and temporary closures of non-essential establishments, albeit with varying degrees of enforcement.&nbsp;</span></p> <p dir="ltr"><span>While non-pharmaceutical interventions (NPIs) like these proved effective in curbing the virus's spread, their implementation sparked controversy due to political, ethical, and socioeconomic considerations. Part of the challenge is the non-obvious link between the level of compliance with such measures and their effectiveness, particularly when the severity of the illness associated with the infection renders controlled-human infection studies controversial.</span></p> <p dir="ltr"><span>This study investigates the hypothesis that demand for networked services, such as web usage, can serve as a proxy for community adherence to social distancing measures, offering a novel method for evaluating their effectiveness. Utilizing extensive data from a leading global content distribution network (CDN), which hosts and delivers a significant portion of web content, the research explores the correlation between CDN demand and user mobility patterns, as captured by Google's Community Mobility Reports. By leveraging CDN demand as an indicator of social distancing practices, the study examines the efficacy of various NPIs in mitigating virus transmission.</span></p> <p dir="ltr"><span>Analysis revealed a robust correlation between shifts in CDN demand and changes in user mobility, suggesting that usage patterns of networked services offer a reliable metric for assessing adherence to social distancing protocols. Furthermore, the study identified a significant association between fluctuations in CDN demand and COVID-19 case growth rates in specific counties, underscoring the potential of networked services data in evaluating containment measures' effectiveness. Additionally, the investigation extends to evaluating the impact of individual NPIs, such as school closures and mask mandates, on the dynamics of virus transmission. By examining the interplay between CDN demand, mobility trends, and COVID-19 incidence rates, the study provides further evidence supporting the efficacy of these interventions in curtailing virus spread.</span></p> <p dir="ltr"><span>Despite the remarkable success of vaccine distribution efforts globally, coverage remains uneven, with only 70.6% of the world's population having received at least one vaccine dose by 2024, and less than 33% in low-income countries. Moreover, given the recent surge in communicable disease outbreaks and the multifaceted factors contributing to pandemics, experts warn of the potential for future health crises. Thus, understanding the continued importance of non-pharmaceutical interventions remains paramount.</span></p> <p dir="ltr"><span>Our work offered a new approach to evaluating the effectiveness of non-pharmaceutical interventions based on the demand users impose on networked systems. It demonstrated the potential of using demand changes as a proxy of citizen compliance with such measures, with the long-term goal of providing public health authorities with the basis for an evidence-based analysis of their effectiveness. In addition, the work was key in the education and training of graduate and postdoctoral students. The effort had a direct impact on education through the incorporation of the tools and insights gathered as modules for networking and distributed systems classes.</span></p> <div><span><br /></span></div> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 05/07/2024<br> Modified by: Fabian&nbsp;E&nbsp;Bustamante</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2027922/2027922_10666456_1715132232921_mask_high_demand--rgov-214x142.png" original="/por/images/Reports/POR/2024/2027922/2027922_10666456_1715132232921_mask_high_demand--rgov-800width.png" title="Mask-mandated and high CDN demand."><img src="/por/images/Reports/POR/2024/2027922/2027922_10666456_1715132232921_mask_high_demand--rgov-66x44.png" alt="Mask-mandated and high CDN demand."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Trends in 7-day average of new COVID-19 cases per 100,000 population among mask-mandated/non-mask-mandated and high-demand/low-demand counties in Kansas. The figure shows mask-mandated counties with high CDN demand.</div> <div class="imageCredit">Northwestern U.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Fabian&nbsp;E&nbsp;Bustamante <div class="imageTitle">Mask-mandated and high CDN demand.</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2027922/2027922_10666456_1715131973438_New_Jersey_Bergen--rgov-214x142.png" original="/por/images/Reports/POR/2024/2027922/2027922_10666456_1715131973438_New_Jersey_Bergen--rgov-800width.png" title="CDN Demand and Mobility"><img src="/por/images/Reports/POR/2024/2027922/2027922_10666456_1715131973438_New_Jersey_Bergen--rgov-66x44.png" alt="CDN Demand and Mobility"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Examples of the similarity between the trends of percentage difference of mobility and percentage difference of demand for the month of April 2020 for Bergen County (New Jersey).</div> <div class="imageCredit">Northwestern U.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Fabian&nbsp;E&nbsp;Bustamante <div class="imageTitle">CDN Demand and Mobility</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2027922/2027922_10666456_1715132167642_mask_low_demand--rgov-214x142.png" original="/por/images/Reports/POR/2024/2027922/2027922_10666456_1715132167642_mask_low_demand--rgov-800width.png" title="Mask-mandated and low CDN demand."><img src="/por/images/Reports/POR/2024/2027922/2027922_10666456_1715132167642_mask_low_demand--rgov-66x44.png" alt="Mask-mandated and low CDN demand."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Trends in 7-day average of new COVID-19 cases per 100,000 population among mask-mandated/non-mask-mandated and high-demand/low-demand counties in Kansas. The figure shows mask-mandated counties with low CDN demand.</div> <div class="imageCredit">Northwestern U.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Fabian&nbsp;E&nbsp;Bustamante <div class="imageTitle">Mask-mandated and low CDN demand.</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      The COVID-19 pandemic profoundly reshaped daily life worldwide, beginning in early 2020 with the rapid global spread of the virus. The United States witnessed its initial confirmed case on January 20, 2020, in Snohomish County, Washington State, followed by widespread transmission across all states within two months.   Countries worldwide swiftly implemented large-scale interventions to contain the virus, starting with the complete lockdown of Wuhan, China, where the outbreak originated. By early April 2020, various state and local governments across the US implemented diverse social distancing measures, such as shelter-at-home orders and temporary closures of non-essential establishments, albeit with varying degrees of enforcement.   While non-pharmaceutical interventions (NPIs) like these proved effective in curbing the virus's spread, their implementation sparked controversy due to political, ethical, and socioeconomic considerations. Part of the challenge is the non-obvious link between the level of compliance with such measures and their effectiveness, particularly when the severity of the illness associated with the infection renders controlled-human infection studies controversial.   This study investigates the hypothesis that demand for networked services, such as web usage, can serve as a proxy for community adherence to social distancing measures, offering a novel method for evaluating their effectiveness. Utilizing extensive data from a leading global content distribution network (CDN), which hosts and delivers a significant portion of web content, the research explores the correlation between CDN demand and user mobility patterns, as captured by Google's Community Mobility Reports. By leveraging CDN demand as an indicator of social distancing practices, the study examines the efficacy of various NPIs in mitigating virus transmission.   Analysis revealed a robust correlation between shifts in CDN demand and changes in user mobility, suggesting that usage patterns of networked services offer a reliable metric for assessing adherence to social distancing protocols. Furthermore, the study identified a significant association between fluctuations in CDN demand and COVID-19 case growth rates in specific counties, underscoring the potential of networked services data in evaluating containment measures' effectiveness. Additionally, the investigation extends to evaluating the impact of individual NPIs, such as school closures and mask mandates, on the dynamics of virus transmission. By examining the interplay between CDN demand, mobility trends, and COVID-19 incidence rates, the study provides further evidence supporting the efficacy of these interventions in curtailing virus spread.   Despite the remarkable success of vaccine distribution efforts globally, coverage remains uneven, with only 70.6% of the world's population having received at least one vaccine dose by 2024, and less than 33% in low-income countries. Moreover, given the recent surge in communicable disease outbreaks and the multifaceted factors contributing to pandemics, experts warn of the potential for future health crises. Thus, understanding the continued importance of non-pharmaceutical interventions remains paramount.   Our work offered a new approach to evaluating the effectiveness of non-pharmaceutical interventions based on the demand users impose on networked systems. It demonstrated the potential of using demand changes as a proxy of citizen compliance with such measures, with the long-term goal of providing public health authorities with the basis for an evidence-based analysis of their effectiveness. In addition, the work was key in the education and training of graduate and postdoctoral students. The effort had a direct impact on education through the incorporation of the tools and insights gathered as modules for networking and distributed systems classes.             Last Modified: 05/07/2024       Submitted by: FabianEBustamante]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

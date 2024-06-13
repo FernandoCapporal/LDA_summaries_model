@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Characterizing microbial transformation of marine DOM at the molecular level using untargeted metabolomic]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>485100.00</AwardTotalIntnAmount>
+<AwardAmount>449100</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Elizabeth Canuel</SignBlockName>
+<PO_EMAI>ecanuel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927938</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Collaborative Research: Characterizing microbial transformation of marine dissolved organic matter at the molecular level using untargeted metabolomics&lt;br/&gt;&lt;br/&gt;Dissolved organic matter is an important component of the global carbon cycle. Dissolved organic matter provides food and energy for microbes living in the ocean and influences microbial diversity. Microbes convert some dissolved organic matter to CO2 (respiration) whereas other forms of dissolved organic matter are altered by microbial processes and persist in the ocean. Thus, it is  important to understand how microbes change dissolved organic matter composition and reactivity. This project will examine the chemical structure of dissolved organic matter to identify: 1) molecules that fulfill carbon demand (biomass produced minus losses from respiration) and 2) transformation processes that result from microbial activity. The project will combine lab experiments and field studies at the Moorea Coral Reef Long Term Ecological Research site. The project will support training for three graduate students in marine biogeochemistry. Undergraduate training is aimed at sustained mentoring of underrepresented minority (URM) students. Undergraduates will be recruited from existing programs at Minority Serving Institutions at San Diego State University and the University of Hawaiʻi at Mānoa. Undergraduates will participate in the Scripps Institution of Oceanography SURF Research Experiences for Undergraduates program, where they will conduct research in marine chemistry. The goal is to provide a mentoring approach that can successfully overcome roadblocks to URM engagement in STEM and increase retention of these students in marine science.&lt;br/&gt;&lt;br/&gt;This work will combine field and lab studies using advanced molecular-level chemical characterization tools to explore how bacteria alter the composition and bioreactivity of organic compounds dissolved in seawater. Additionally, this project will develop informatics-based tools to identify a larger proportion of chemical structures in marine dissolved organic matter (DOM) than is currently possible using traditional approaches. The project will use tandem mass spectrometry and networking techniques to comprehensively classify organic compounds into molecular families and determine common chemical transformations. Then, using a well-developed field-based experimental ecosystem to produce diverse labile DOM pools the research team will track microbial transformation using expression of hydrolytic enzymes and measure selection for particular microbial taxa and metabolisms. This approach defines the reactivity of individual molecules and broader compound classes participating in carbon fluxes that underpin DOM-microbe interactions. Field surveys conducted within the Moorea Coral Reef Long Term Ecological Research program will explore methods to track transformation of specific molecules in the environment and validate experimental observations of compound classes that appear to accumulate as semi-labile DOM. By integrating laboratory and field experiments and oceanographic surveys with the refinement of analytical tools for untargeted metabolomics, this project will characterize the fate of reactive DOM in the ocean.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/07/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/26/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2023509</AwardID>
+<Investigator>
+<FirstName>Lihini</FirstName>
+<LastName>Aluwihare</LastName>
+<PI_MID_INIT>I</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lihini I Aluwihare</PI_FULL_NAME>
+<EmailAddress><![CDATA[laluwihare@ucsd.edu]]></EmailAddress>
+<NSF_ID>000095210</NSF_ID>
+<StartDate>08/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Pieter</FirstName>
+<LastName>Dorrestein</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pieter C Dorrestein</PI_FULL_NAME>
+<EmailAddress><![CDATA[pdorrestein@ucsd.edu]]></EmailAddress>
+<NSF_ID>000575733</NSF_ID>
+<StartDate>08/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of California-San Diego Scripps Inst of Oceanography]]></Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920931500</ZipCode>
+<PhoneNumber>8585341293</PhoneNumber>
+<StreetAddress><![CDATA[8622 DISCOVERY WAY # 116]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QJ8HMDK7MRM3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QJ8HMDK7MRM3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[UCSD Scripps Inst of Oceanography]]></Name>
+<CityName>San Diego</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920930244</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>165000</Code>
+<Text>BIOLOGICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>167000</Code>
+<Text>Chemical Oceanography</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1195</Code>
+<Text>LONG TERM ECOLOGICAL RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1389</Code>
+<Text>CARBON CYCLE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8811</Code>
+<Text>Marine Microbial Ecology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~449100</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Benthic primary producers on reefs, including corals and algae have been shown to release significant amounts of organic matter into the surrounding water. However, organic matter does not typically accumulate in healthy reef systems due to the tight coupling between production and removal processes. Our research on the reefs of Mo&rsquo;orea, French Polynesia, has shown that the microbial community plays a crucial role in degrading locally produced organic matter and may also be important for utilizing compounds that are transported onto the reef from offshore environments. This efficient uptake allows the reef to retain nutrients and provides energy and cellular building blocks to reef organisms.&nbsp; In this work, we used a well-developed field-based experimental ecosystem to produce diverse labile dissolved organic matter (DOM) pools. We then identified compounds and compounds classes that were unique to specific benthic producers and subsequently examined how microbial degradation changed the composition and diversity of newly produced DOM. The impact of this work is that it will be able to define the lability of numerous individual compounds and broader compound classes that participate in the upper ocean carbon cycle and provide new mechanistic insights into DOM-microbe interactions through both producer-specific and consumer-specific lenses. A second goal of our research was to use the molecular level identifications from our experimental system to track specific compounds <em>in situ</em> and to compare our experimental designations of lability with field distributions of the same compounds. We achieved this through field surveys where we examined DOM dynamics across habitat gradients on more realistic timescales. The figures highlight some of the primary experimental and field data collection efforts and outcomes. Using a field-based experimental approach (Figure 1A), unique compounds released by benthic primary producers were detected and their structures were validated using both mass spectrometry and authentic standards (Figure 1B). Subsequent experiments further categorized these compounds into more or less- labile categories. Using initial mass-spectrometric based identification, standard compounds unique to specific benthic producers and exhibiting different lability in previous experiments were purchased and used in controlled degradation experiments with microorganisms specific to the backreef (Figure 2A). By measuring changes in the abundance of specific compounds over time (Figure 2B) and monitoring oxygen drawdown and cell proliferation, we were able to determine whether these compounds were labile over the lifetime of our experiments. Purchased compounds also served as authentic standards and we were able to unequivocally identify their presence in a variety of environmental metabolomic datasets from our controlled, DOM production experiments in Mo&rsquo;orea and also in DOM samples isolated from other oceanic regions. Thus, results from the current work are relevant for DOM cycling globally. Finally, by combining these experimental approaches and comparing them with field surveys that followed offshore waters as they entered the reef and moved across the backreef (Figure 3A), we were able to determine how specific primary producers were influencing the DOM accumulating on the reef at a molecular level (Figure 3B). As we think more broadly about the role of DOM in sequestering carbon dioxide, this study, by identifying longer and shorter lived molecules and their broad compound class affiliations and linking them to specific sources and removal pathways, provides structural models that may be used to track the carbon dioxide removal potential of marine ecosystems.</p> <p>In terms of broader impacts, our past and ongoing work centering the role of microbes in coral reef ecosystem science has consistently addressed the importance of microbial processes in ecosystem-based management. Our work particularly has been important for addressing the ongoing problem of phase shifts from coral to algal dominance in tropical reefs. The collaborative project has trained 5 PhD students overall, and this project, specifically, has directly trained three, diverse, graduate students. Results have also been disseminated broadly to the public and at scientific conferences. The analytical approaches pioneered by the graduate students involved in this project have also been shared widely with the relevant research communities. The students have been tireless in educating their peers all over the world on these methods and as such, have played an important role in moving the entire field of environmental metabolomics forward.</p> <p>&nbsp;</p><br> <p>  Last Modified: 04/20/2024<br> Modified by: Lihini&nbsp;I&nbsp;Aluwihare</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2023509/2023509_10693948_1711737949876_Figure_2_outcomes--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2023509/2023509_10693948_1711737949876_Figure_2_outcomes--rgov-800width.jpg" title="Figure 2"><img src="/por/images/Reports/POR/2024/2023509/2023509_10693948_1711737949876_Figure_2_outcomes--rgov-66x44.jpg" alt="Figure 2"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Experimental set up for compound-specific degradation experiments using natural reef water and microbes (A). Rapid drawdown of diiodotyrosine as detected by mass spectrometry of extracted incubation water (B)</div> <div class="imageCredit">Garcia, Torres, Aluwihare</div> <div class="imagePermisssions">Royalty-free (restricted use - cannot be shared)</div> <div class="imageSubmitted">Lihini&nbsp;I&nbsp;Aluwihare <div class="imageTitle">Figure 2</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2023509/2023509_10693948_1711736869092_Figure_1_outcomes_2024--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2023509/2023509_10693948_1711736869092_Figure_1_outcomes_2024--rgov-800width.jpg" title="Figure 1"><img src="/por/images/Reports/POR/2024/2023509/2023509_10693948_1711736869092_Figure_1_outcomes_2024--rgov-66x44.jpg" alt="Figure 1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The field-based experimental system used to identify benthic primary producer-specific DOM compounds (A). An example of a network of related molecule that were released primarily by a single coral species (B) and used for later experiments to test lability.</div> <div class="imageCredit">Wegley Kelley, Nelson, Haas, Aluwihare, Koester and Quinlan</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Lihini&nbsp;I&nbsp;Aluwihare <div class="imageTitle">Figure 1</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2023509/2023509_10693948_1711738812835_Figure_3_outcomes_2024--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2023509/2023509_10693948_1711738812835_Figure_3_outcomes_2024--rgov-800width.jpg" title="Figure 3"><img src="/por/images/Reports/POR/2024/2023509/2023509_10693948_1711738812835_Figure_3_outcomes_2024--rgov-66x44.jpg" alt="Figure 3"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Following water masses as they come over the reef crest from offshore to examine changes in DOM composition in real time (A). Compound networks that are found to be enriched on the backreef and examples of compounds that can be linked to specific sources from the experiments (B)</div> <div class="imageCredit">Koester, Aluwihare, Wegley-Kelly and Nelson</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Lihini&nbsp;I&nbsp;Aluwihare <div class="imageTitle">Figure 3</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Benthic primary producers on reefs, including corals and algae have been shown to release significant amounts of organic matter into the surrounding water. However, organic matter does not typically accumulate in healthy reef systems due to the tight coupling between production and removal processes. Our research on the reefs of Moorea, French Polynesia, has shown that the microbial community plays a crucial role in degrading locally produced organic matter and may also be important for utilizing compounds that are transported onto the reef from offshore environments. This efficient uptake allows the reef to retain nutrients and provides energy and cellular building blocks to reef organisms. In this work, we used a well-developed field-based experimental ecosystem to produce diverse labile dissolved organic matter (DOM) pools. We then identified compounds and compounds classes that were unique to specific benthic producers and subsequently examined how microbial degradation changed the composition and diversity of newly produced DOM. The impact of this work is that it will be able to define the lability of numerous individual compounds and broader compound classes that participate in the upper ocean carbon cycle and provide new mechanistic insights into DOM-microbe interactions through both producer-specific and consumer-specific lenses. A second goal of our research was to use the molecular level identifications from our experimental system to track specific compounds in situ and to compare our experimental designations of lability with field distributions of the same compounds. We achieved this through field surveys where we examined DOM dynamics across habitat gradients on more realistic timescales. The figures highlight some of the primary experimental and field data collection efforts and outcomes. Using a field-based experimental approach (Figure 1A), unique compounds released by benthic primary producers were detected and their structures were validated using both mass spectrometry and authentic standards (Figure 1B). Subsequent experiments further categorized these compounds into more or less- labile categories. Using initial mass-spectrometric based identification, standard compounds unique to specific benthic producers and exhibiting different lability in previous experiments were purchased and used in controlled degradation experiments with microorganisms specific to the backreef (Figure 2A). By measuring changes in the abundance of specific compounds over time (Figure 2B) and monitoring oxygen drawdown and cell proliferation, we were able to determine whether these compounds were labile over the lifetime of our experiments. Purchased compounds also served as authentic standards and we were able to unequivocally identify their presence in a variety of environmental metabolomic datasets from our controlled, DOM production experiments in Moorea and also in DOM samples isolated from other oceanic regions. Thus, results from the current work are relevant for DOM cycling globally. Finally, by combining these experimental approaches and comparing them with field surveys that followed offshore waters as they entered the reef and moved across the backreef (Figure 3A), we were able to determine how specific primary producers were influencing the DOM accumulating on the reef at a molecular level (Figure 3B). As we think more broadly about the role of DOM in sequestering carbon dioxide, this study, by identifying longer and shorter lived molecules and their broad compound class affiliations and linking them to specific sources and removal pathways, provides structural models that may be used to track the carbon dioxide removal potential of marine ecosystems.   In terms of broader impacts, our past and ongoing work centering the role of microbes in coral reef ecosystem science has consistently addressed the importance of microbial processes in ecosystem-based management. Our work particularly has been important for addressing the ongoing problem of phase shifts from coral to algal dominance in tropical reefs. The collaborative project has trained 5 PhD students overall, and this project, specifically, has directly trained three, diverse, graduate students. Results have also been disseminated broadly to the public and at scientific conferences. The analytical approaches pioneered by the graduate students involved in this project have also been shared widely with the relevant research communities. The students have been tireless in educating their peers all over the world on these methods and as such, have played an important role in moving the entire field of environmental metabolomics forward.        Last Modified: 04/20/2024       Submitted by: LihiniIAluwihare]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase II:  Smart Sensor for Precision Agriculture]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>999617.00</AwardTotalIntnAmount>
+<AwardAmount>999617</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+<PO_EMAI>rmehta@nsf.gov</PO_EMAI>
+<PO_PHON>7032922174</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This SBIR Phase II project will deploy an innovative technology used in academia into a cost-effective solution for better precision and efficiency in agricultural practices. The envisioned product is a tool for ordinary farmers to increase their production and reduce unnecessary and unpredictable costs, reducing negative impacts on the environment and leading to higher quality food on the table. By converting once complicated, slow, inaccurate practices of insect identification to automated and highly accurate and in real time, this technology will be a part of the automation and data driven industrialization wave transforming the agricultural sector. The quick reaction to pest infestation will allow farmers to better target their response, ultimately making farming more efficient and sustainable. &lt;br/&gt;&lt;br/&gt;Effective pest control in agriculture is imperative for growers to prevent major crop loss. Certain insect pests are responsible for such significant crop damage which provokes growers to invest in expensive and time-consuming measures to minimize pest effects. The reaction of the grower to the pest is time-sensitive; the timing of the treatment application will directly determine its effectiveness. The proposed technology is an innovative ground-based sensor system that detects plurality of airborne pests in real-time along with their geolocation information. It has capabilities for differentiation and identification of different insect species detected in flight. The instantaneous knowledge of the location of the pest allows for a targeted spray rather than spraying an entire field. Targeted sprays reduce unnecessary spraying and promote more sustainable pest treatment practices. The low-cost sensor that is adequately accurate finally places growers a few steps ahead of the problem, leading them to make wiser treatment decisions such as choosing the time of day to avoid harming beneficial pests and for mitigating drift. The sensor replaces and completely automates the current methods for monitoring insect activity in the crop field, with much better efficiency.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/13/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>04/13/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2052213</AwardID>
+<Investigator>
+<FirstName>Morann</FirstName>
+<LastName>Dagan</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Morann S Dagan</PI_FULL_NAME>
+<EmailAddress><![CDATA[msdagan@atolla.tech]]></EmailAddress>
+<NSF_ID>000780790</NSF_ID>
+<StartDate>04/13/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ATOLLA TECH LLC</Name>
+<CityName>ROCKVILLE CENTRE</CityName>
+<ZipCode>115704373</ZipCode>
+<PhoneNumber>5163161323</PhoneNumber>
+<StreetAddress>184 MAPLE AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JSH5ZW41SGX6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ATOLLA TECH LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New Lab]]></Name>
+<CityName>Brooklyn</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>112051905</ZipCode>
+<StreetAddress><![CDATA[Building 128, 19 Morris Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1238</Code>
+<Text>TECH FOR SUSTAINABLE ENVIRONMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8028</Code>
+<Text>Sensor Technology</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~999617</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Project Summary:</strong></p> <p>Under the auspice of the Phase II NSF project, Atolla Tech has made a significant leap forward in agricultural technology by developing a state-of-the-art field prototype designed to automate the process of identifying airborne insects, a key factor in integrated pest management. Our team's dedication has culminated in a robust hardware system tailored for the rigors of agricultural fields, coupled with sophisticated software that achieves three pivotal goals:</p> <ol> <li>A substantial reduction in false      positives, paired with enhanced detection reliability.</li> <li>Real-time identification capabilities.</li> <li>Generation of a comprehensive visual map      of insect activity.</li> </ol> <p>This dual-environment design allows seamless operation both in open agricultural fields and controlled greenhouse settings.</p> <p><strong>Field Trials and Findings:</strong></p> <p>We rigorously tested our system in diverse agricultural settings: tracking Coffee Berry Borers (CBB) in coffee plantations, monitoring bumblebees in tomato crops, and observing honeybees in blueberry fields and African Basil. These trials provided invaluable insights into the effectiveness of our technology in real-world scenarios.</p> <p><strong>Broader Impacts:</strong></p> <p>The implications of this project extend far beyond the confines of traditional pest management:</p> <ul> <li><strong>Sustainable Crop Management:</strong> Our technology empowers farmers with      precise data on insect populations, facilitating the early detection and      targeted treatment of pests. This level of control is pivotal for      sustainable agriculture, reducing reliance on chemical pesticides, and      preserving beneficial insect populations.</li> <li><strong>Environmental Stewardship:</strong> By minimizing pesticide use, our      solution contributes to a healthier ecosystem, safeguarding biodiversity      and reducing chemical runoff into the environment.</li> <li><strong>Economic Efficiency:</strong> Precise monitoring translates into      optimized resource allocation. Farmers can now apply interventions      strategically, reducing costs and enhancing crop yield and quality.</li> <li><strong>Global Food Security:</strong> At a broader scale, our innovation is a      step towards bolstering global food security. By enhancing crop protection      and yield through sustainable means, we contribute to the global effort in      feeding the ever-growing population.</li> </ul> <p>In conclusion, the Atolla Tech project under the NSF Phase II grant has not only achieved its objectives but has set a new standard in integrated pest management. Our technology promises a future where agricultural practices are more sustainable, environmentally friendly, and economically viable, ensuring a healthier planet and a secure food supply.</p><br> <p>  Last Modified: 02/20/2024<br> Modified by: Morann&nbsp;S&nbsp;Dagan</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Project Summary:   Under the auspice of the Phase II NSF project, Atolla Tech has made a significant leap forward in agricultural technology by developing a state-of-the-art field prototype designed to automate the process of identifying airborne insects, a key factor in integrated pest management. Our team's dedication has culminated in a robust hardware system tailored for the rigors of agricultural fields, coupled with sophisticated software that achieves three pivotal goals:  A substantial reduction in false      positives, paired with enhanced detection reliability. Real-time identification capabilities. Generation of a comprehensive visual map      of insect activity.    This dual-environment design allows seamless operation both in open agricultural fields and controlled greenhouse settings.   Field Trials and Findings:   We rigorously tested our system in diverse agricultural settings: tracking Coffee Berry Borers (CBB) in coffee plantations, monitoring bumblebees in tomato crops, and observing honeybees in blueberry fields and African Basil. These trials provided invaluable insights into the effectiveness of our technology in real-world scenarios.   Broader Impacts:   The implications of this project extend far beyond the confines of traditional pest management:  Sustainable Crop Management: Our technology empowers farmers with      precise data on insect populations, facilitating the early detection and      targeted treatment of pests. This level of control is pivotal for      sustainable agriculture, reducing reliance on chemical pesticides, and      preserving beneficial insect populations. Environmental Stewardship: By minimizing pesticide use, our      solution contributes to a healthier ecosystem, safeguarding biodiversity      and reducing chemical runoff into the environment. Economic Efficiency: Precise monitoring translates into      optimized resource allocation. Farmers can now apply interventions      strategically, reducing costs and enhancing crop yield and quality. Global Food Security: At a broader scale, our innovation is a      step towards bolstering global food security. By enhancing crop protection      and yield through sustainable means, we contribute to the global effort in      feeding the ever-growing population.    In conclusion, the Atolla Tech project under the NSF Phase II grant has not only achieved its objectives but has set a new standard in integrated pest management. Our technology promises a future where agricultural practices are more sustainable, environmentally friendly, and economically viable, ensuring a healthier planet and a secure food supply.     Last Modified: 02/20/2024       Submitted by: MorannSDagan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CyberTraining: Pilot: EBCS-TMPS: An Evidence Based Cybersecurity Training and Mentorship Program for Students]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>298189.00</AwardTotalIntnAmount>
+<AwardAmount>298189</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joseph Whitmeyer</SignBlockName>
+<PO_EMAI>jwhitmey@nsf.gov</PO_EMAI>
+<PO_PHON>7032927808</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Evidence Based Cybersecurity Training and Mentorship Program for Students (EBCS-TMPS) leverages an existing cyberinfrastructure to prepare students to become effective cybersecurity and law enforcement researchers.  Through this program, students are exposed to theoretical knowledge, practical skills, and hands-on experience that are most sought by governmental, industrial and law enforcement organizations.  This is accomplished using a standalone cyberinfrastructure created and maintained by researchers and practitioners in the Evidence Based Cybersecurity Research group in Georgia State University that enables the production of evidence-based cybersecurity research and supports the training of cybercrime researchers.  Among ultimate benefits are improved cybersecurity and a more secure and crime-free online environment.&lt;br/&gt;&lt;br/&gt;The EBCS-TMPS engages academics and practicing cybersecurity professionals as co-creators of research outcomes.  During a two-months-long summer workshop, existing and strong academic-industry-law-enforcement partnerships are leveraged to train 30 undergraduate and graduate students in the deployment of better scientific efforts aimed at advancing CI-enabled and reliable research. The training program implements a wide range of activities to deliver key methodological and technical skills that are necessary for developing a cost effective cybersecurity posture for organizations (for industry track students), as well as for enforcing policies and laws aimed at disrupting online criminal activities in an effective manner (for both industry and law enforcement tracks). The interdisciplinary team of educators (composed of Criminology, Computer Science and Computer Information System scholars) supports students’ development of knowledge in cybersecurity areas such as gathering and preserving evidence, implementing effective security policies, and technical aspects of security. The industry and law enforcement mentors support both the development of an industry-relevant curriculum for the EBCS-TMPS, and guided internships with their teams.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/24/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2017624</AwardID>
+<Investigator>
+<FirstName>Yubao</FirstName>
+<LastName>Wu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yubao Wu</PI_FULL_NAME>
+<EmailAddress><![CDATA[ywu28@gsu.edu]]></EmailAddress>
+<NSF_ID>000738710</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Harrison</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert W Harrison</PI_FULL_NAME>
+<EmailAddress><![CDATA[rwh@gsu.edu]]></EmailAddress>
+<NSF_ID>000210560</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Maimon</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David Maimon</PI_FULL_NAME>
+<EmailAddress><![CDATA[dmaimon@gsu.edu]]></EmailAddress>
+<NSF_ID>000582071</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Baskerville</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Richard Baskerville</PI_FULL_NAME>
+<EmailAddress><![CDATA[baskerville@gsu.edu]]></EmailAddress>
+<NSF_ID>000252754</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia State University Research Foundation, Inc.</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303032921</ZipCode>
+<PhoneNumber>4044133570</PhoneNumber>
+<StreetAddress>58 EDGEWOOD AVE NE</StreetAddress>
+<StreetAddress2><![CDATA[FL 3]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MNS7B9CVKDN7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia State University]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303032529</ZipCode>
+<StreetAddress><![CDATA[55 Park Place]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>044Y</Code>
+<Text>CyberTraining - Training-based</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0420</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>04002021DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~298189</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In the ever-evolving landscape of cybersecurity, the Evidence-Based Cybersecurity Training and Mentorship Program (EBCS-TMPS) has emerged as a beacon of excellence, transforming the educational experiences of students and bridging the gap between academia and industry needs. Over the course of three years, the program has not only attracted participation from more than 30 companies but has also seen the successful graduation of over 60 students, with some securing coveted positions within the companies they interned for.</p> <p>1. Holistic Skill Development: The EBCS-TMPS program has redefined the approach to teaching cybersecurity by emphasizing a holistic and hands-on learning experience. The curriculum spans diverse topics, ranging from understanding the cybercrime ecosystem to effective communication of findings. This approach ensures that students not only grasp theoretical concepts but also acquire practical skills that are directly applicable to the challenges they will face in the professional arena.</p> <p>Guided laboratory experiments, case studies, and red/black team exercises have become integral components of the program, providing students with an opportunity to apply their knowledge in simulated real-world scenarios. The result is a cohort of graduates who not only understand cybersecurity theories but can also navigate and address complex challenges through practical application.</p> <p>**2. Integration of Real-World Scenarios: One of the key impacts of the program is its successful integration of real-world scenarios into the learning process. By examining famous cybersecurity incidents and engaging in capture-the-flag exercises, students gain a firsthand understanding of the challenges they may encounter in professional settings. This approach not only enhances the educational experience but also prepares students for the dynamic and rapidly evolving nature of cybersecurity threats.</p> <p>The unique cyberinfrastructure provided by EBCS further enriches this aspect of the program. Students have the opportunity to examine famous accidents in a closed and safe computer system, replicating real-world examples in a controlled environment. This practical exposure contributes significantly to their ability to handle real-time incidents and develop effective cybersecurity strategies.</p> <p>**3. Industry Collaboration and Expert Insights: The involvement of more than 30 companies in the program underscores its industry relevance. Industry partners such as Johnny Lee, Max Gracia, Ria Aiken, and Wes Knight actively contribute to the educational experience by sharing insights, providing guidance, and offering a realistic perspective on the challenges faced in the cybersecurity profession.</p> <p>The collaborative nature of the program ensures that students are exposed to the latest industry trends, tools, and practices. This not only enhances their knowledge but also facilitates the development of a professional network. The inclusion of industry experts in the teaching process bridges the gap between academia and industry, offering students a well-rounded education that aligns with the practical demands of the field.</p> <p>**4. Impactful Training Modules: The program's training modules cover a wide array of topics essential for cybersecurity professionals. From understanding the cybercrime ecosystem to mastering data analysis and research methods, students receive a comprehensive education that extends beyond conventional boundaries.</p> <p>Critical reading and critical thinking skills are emphasized, fostering a culture of inquiry and analytical thinking among students. The inclusion of theories of human behavior and an overview of online research designs ensures that graduates are not only skilled in technical aspects but also possess a deep understanding of the human elements and research methodologies relevant to cybersecurity.</p> <p>**5. Success Stories and Career Opportunities: One of the most notable outcomes of the EBCS-TMPS program is the success stories of its graduates. Over 60 students have completed the program, and several have successfully secured positions within the companies they interned for. This achievement not only speaks to the program's effectiveness in preparing students for the workforce but also highlights the strong connections and partnerships forged between the educational institution and industry stakeholders.</p> <p>The program's focus on effective communication and presentation of findings, as endorsed by industry professionals such as Ria Aiken and Wes Knight, has equipped students with soft skills crucial for success in the business environment. Graduates are not only adept at technical aspects but can also articulate complex ideas and contextualize evidence&mdash;a valuable asset in the cybersecurity field.</p> <p>6. Inclusive Teaching Approach: The teaching approach adopted by EBCS-TMPS combines lectures, guided experiments, and independent work, creating a well-rounded educational experience. The use of the EBCS unique cyberinfrastructure further supports students in activities such as data collection, analysis, and practical exercises. The focus on Python programming language and the utilization of big data programming tools ensures that students gain practical programming skills applicable in real-world scenarios.</p> <p>In conclusion, the Evidence-Based Cybersecurity Training and Mentorship Program has successfully redefined cybersecurity education by providing a holistic, hands-on, and industry-relevant experience. The program's impact on teaching and educational experiences is evident in the transformed skill sets, real-world exposure, and successful career transitions of its graduates.&nbsp;</p> <p>&nbsp;</p><br> <p>  Last Modified: 02/09/2024<br> Modified by: David&nbsp;Maimon</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  In the ever-evolving landscape of cybersecurity, the Evidence-Based Cybersecurity Training and Mentorship Program (EBCS-TMPS) has emerged as a beacon of excellence, transforming the educational experiences of students and bridging the gap between academia and industry needs. Over the course of three years, the program has not only attracted participation from more than 30 companies but has also seen the successful graduation of over 60 students, with some securing coveted positions within the companies they interned for.   1. Holistic Skill Development: The EBCS-TMPS program has redefined the approach to teaching cybersecurity by emphasizing a holistic and hands-on learning experience. The curriculum spans diverse topics, ranging from understanding the cybercrime ecosystem to effective communication of findings. This approach ensures that students not only grasp theoretical concepts but also acquire practical skills that are directly applicable to the challenges they will face in the professional arena.   Guided laboratory experiments, case studies, and red/black team exercises have become integral components of the program, providing students with an opportunity to apply their knowledge in simulated real-world scenarios. The result is a cohort of graduates who not only understand cybersecurity theories but can also navigate and address complex challenges through practical application.   **2. Integration of Real-World Scenarios: One of the key impacts of the program is its successful integration of real-world scenarios into the learning process. By examining famous cybersecurity incidents and engaging in capture-the-flag exercises, students gain a firsthand understanding of the challenges they may encounter in professional settings. This approach not only enhances the educational experience but also prepares students for the dynamic and rapidly evolving nature of cybersecurity threats.   The unique cyberinfrastructure provided by EBCS further enriches this aspect of the program. Students have the opportunity to examine famous accidents in a closed and safe computer system, replicating real-world examples in a controlled environment. This practical exposure contributes significantly to their ability to handle real-time incidents and develop effective cybersecurity strategies.   **3. Industry Collaboration and Expert Insights: The involvement of more than 30 companies in the program underscores its industry relevance. Industry partners such as Johnny Lee, Max Gracia, Ria Aiken, and Wes Knight actively contribute to the educational experience by sharing insights, providing guidance, and offering a realistic perspective on the challenges faced in the cybersecurity profession.   The collaborative nature of the program ensures that students are exposed to the latest industry trends, tools, and practices. This not only enhances their knowledge but also facilitates the development of a professional network. The inclusion of industry experts in the teaching process bridges the gap between academia and industry, offering students a well-rounded education that aligns with the practical demands of the field.   **4. Impactful Training Modules: The program's training modules cover a wide array of topics essential for cybersecurity professionals. From understanding the cybercrime ecosystem to mastering data analysis and research methods, students receive a comprehensive education that extends beyond conventional boundaries.   Critical reading and critical thinking skills are emphasized, fostering a culture of inquiry and analytical thinking among students. The inclusion of theories of human behavior and an overview of online research designs ensures that graduates are not only skilled in technical aspects but also possess a deep understanding of the human elements and research methodologies relevant to cybersecurity.   **5. Success Stories and Career Opportunities: One of the most notable outcomes of the EBCS-TMPS program is the success stories of its graduates. Over 60 students have completed the program, and several have successfully secured positions within the companies they interned for. This achievement not only speaks to the program's effectiveness in preparing students for the workforce but also highlights the strong connections and partnerships forged between the educational institution and industry stakeholders.   The program's focus on effective communication and presentation of findings, as endorsed by industry professionals such as Ria Aiken and Wes Knight, has equipped students with soft skills crucial for success in the business environment. Graduates are not only adept at technical aspects but can also articulate complex ideas and contextualize evidencea valuable asset in the cybersecurity field.   6. Inclusive Teaching Approach: The teaching approach adopted by EBCS-TMPS combines lectures, guided experiments, and independent work, creating a well-rounded educational experience. The use of the EBCS unique cyberinfrastructure further supports students in activities such as data collection, analysis, and practical exercises. The focus on Python programming language and the utilization of big data programming tools ensures that students gain practical programming skills applicable in real-world scenarios.   In conclusion, the Evidence-Based Cybersecurity Training and Mentorship Program has successfully redefined cybersecurity education by providing a holistic, hands-on, and industry-relevant experience. The program's impact on teaching and educational experiences is evident in the transformed skill sets, real-world exposure, and successful career transitions of its graduates.        Last Modified: 02/09/2024       Submitted by: DavidMaimon]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

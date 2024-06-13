@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase II:  Internet-Connected Urinalysis System for Passive Health Monitoring]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>1000000.00</AwardTotalIntnAmount>
+<AwardAmount>1307760</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Benaiah Schrag</SignBlockName>
+<PO_EMAI>bschrag@nsf.gov</PO_EMAI>
+<PO_PHON>7032928323</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research Phase II (SBIR) project is to help remote monitoring of patients with chronic liver disease to reduce unnecessary procedures, improve quality of care, and lower costs. This project will advance a novel internet-of-things (IoT) smart-toilet for passive urine testing.  This project will help provide a passive way to monitor the 4.5 million liver disease patients in the United States, an estimated market valued at $860 million. The proposed solution will enable quality care to be delivered at home and in remote locations, improving treatment for traditionally underserved populations. It can potentially be used for other medical conditions as well. &lt;br/&gt;&lt;br/&gt;This SBIR Phase II project will develop a novel urinalysis system. The systems engineering include integration of: mechanical and electrical engineering solutions to power passive, automated mechatronics and sensor-testing equipment, biomedical engineering for the development of biosensors, signal analysis to measure physiological urinary biomarkers, software engineering related to the aspects of firmware and internet-connected data processing, and data science for algorithm development informed by longitudinal health data.  The technical tasks include: hardware design for manufacturing and assembly compatibility; development of architecture for database management, device registration, over-the-air (OTA) updates, and error handling; and front-end development for both web and mobile data integration and visualization.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/11/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>02/20/2024</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026127</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Bender</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brian Bender</PI_FULL_NAME>
+<EmailAddress><![CDATA[brian@intake.health]]></EmailAddress>
+<NSF_ID>000738296</NSF_ID>
+<StartDate>09/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Bender Tech, LLC</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276011793</ZipCode>
+<PhoneNumber>9109881333</PhoneNumber>
+<StreetAddress>105 S BLOODWORTH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NWS8DRSJTCC1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BENDER TECH, LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Bender Tech, LLC]]></Name>
+<CityName>Raleigh</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>276011793</ZipCode>
+<StreetAddress><![CDATA[414 Fayetteville Street, 4th Flo]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>066E</Code>
+<Text>INSTRUMENTATION &amp; DIAGNOSTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>090E</Code>
+<Text>Chem/Bio and Physical Diagnostics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1639</Code>
+<Text>SENSORS AND SENSING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>165E</Code>
+<Text>SBIR Phase IIB</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>169E</Code>
+<Text>SBIR Tech Enhan Partner (TECP)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002425DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~1000000</FUND_OBLG>
+<FUND_OBLG>2021~16000</FUND_OBLG>
+<FUND_OBLG>2022~199999</FUND_OBLG>
+<FUND_OBLG>2024~91761</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The objectives of this SBIR project were to develop an internet-connected, passive urinalysis device for the health and wellness industry. This required mechanical and electrical designs equipped for mass manufacturing and assembly, firmware capable of over-the-air (OTA) updates and data-logging, and algorithms capable of measuring urinary biomarkers passively. We have achieved these objectives during our grant period, bringing our novel system from ideation through to commercialization. Our product, InFlow, has now been in the market for over one year for use in real-time hydration monitoring. During our Phase II project period, our company pivoted both our technological approach and our commercial approach. Technologically, challenges during early beta testing revealed longevity concerns which required a change in our hardware and corresponding algorithms. This change enabled more robust biomarker collection over time and a simpler product assembly process. Commercially, we shifted from a healthcare-first approach towards a sports and wellness-first approach as customer discovery interviews identified a strong market demand within athletics and a shorter time to market. These changes allowed our product to move through product development phases, including manufacturing and production, through to commercialization. InFlow has now been sold to athletic and workplace organizations globally for use in real-time hydration monitoring. Most of our initial customers are within elite U.S. sports markets, including teams in the NFL, NBA, NHL, MLS, MLB, and NCAA. InFlow has also entered the workplace and tactical markets. One of the primary value drivers for InFlow is its tendency to bring awareness to hydration and spur positive behavior change, which Intake Health continues to study and optimize. After the launch of our first product version, a Phase IIB project has led to the completion of version 2 that improves upon manufacturing reliability as well as added features to our algorithms for improved performance. Our company plans to expand InFlow into new markets, build improvements to this system over time, expand its feature set, and build additional products with new health and wellness applications in the future.</p> <p>&nbsp;</p><br> <p>  Last Modified: 02/23/2024<br> Modified by: Brian&nbsp;Bender</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2026127/2026127_10706542_1708705561033_InFlow_Image_2--rgov-214x142.png" original="/por/images/Reports/POR/2024/2026127/2026127_10706542_1708705561033_InFlow_Image_2--rgov-800width.png" title="InFlow, by Intake Health"><img src="/por/images/Reports/POR/2024/2026127/2026127_10706542_1708705561033_InFlow_Image_2--rgov-66x44.png" alt="InFlow, by Intake Health"></a> <div class="imageCaptionContainer"> <div class="imageCaption">InFlow was developed by Intake Health for real-time hydration testing. InFlow uses suction cups to adhere to the back wall of urinal (A). During normal use, an individual urinates into the cup to run the urinalysis test. Instant LED feedback is provided on hydration status (B-D).</div> <div class="imageCredit">Intake Health, Inc.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Brian&nbsp;Bender <div class="imageTitle">InFlow, by Intake Health</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The objectives of this SBIR project were to develop an internet-connected, passive urinalysis device for the health and wellness industry. This required mechanical and electrical designs equipped for mass manufacturing and assembly, firmware capable of over-the-air (OTA) updates and data-logging, and algorithms capable of measuring urinary biomarkers passively. We have achieved these objectives during our grant period, bringing our novel system from ideation through to commercialization. Our product, InFlow, has now been in the market for over one year for use in real-time hydration monitoring. During our Phase II project period, our company pivoted both our technological approach and our commercial approach. Technologically, challenges during early beta testing revealed longevity concerns which required a change in our hardware and corresponding algorithms. This change enabled more robust biomarker collection over time and a simpler product assembly process. Commercially, we shifted from a healthcare-first approach towards a sports and wellness-first approach as customer discovery interviews identified a strong market demand within athletics and a shorter time to market. These changes allowed our product to move through product development phases, including manufacturing and production, through to commercialization. InFlow has now been sold to athletic and workplace organizations globally for use in real-time hydration monitoring. Most of our initial customers are within elite U.S. sports markets, including teams in the NFL, NBA, NHL, MLS, MLB, and NCAA. InFlow has also entered the workplace and tactical markets. One of the primary value drivers for InFlow is its tendency to bring awareness to hydration and spur positive behavior change, which Intake Health continues to study and optimize. After the launch of our first product version, a Phase IIB project has led to the completion of version 2 that improves upon manufacturing reliability as well as added features to our algorithms for improved performance. Our company plans to expand InFlow into new markets, build improvements to this system over time, expand its feature set, and build additional products with new health and wellness applications in the future.        Last Modified: 02/23/2024       Submitted by: BrianBender]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

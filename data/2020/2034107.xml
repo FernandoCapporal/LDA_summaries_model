@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Doctoral Dissertation Improvement Award: Historical Ecology of Alluvial Landscapes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>31700.00</AwardTotalIntnAmount>
+<AwardAmount>31700</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John Yellen</SignBlockName>
+<PO_EMAI>jyellen@nsf.gov</PO_EMAI>
+<PO_PHON>7032928759</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>In recent decades, archaeological research has provided critical understanding about the history of environmental impacts of crop domestication, low-level cultivation, and the spread of agriculture in diverse landscapes. Mounting paleo-botanical evidence has demonstrated that pre-colonial societies, starting millennia ago, had the tools and knowledge to modify and adapt to environmental variability. Present-day communities are facing new challenges from shifting seasonal patterns, recurring droughts, and intense and more frequent hurricanes.  Geoarchaeological records from around the world have provided examples of how past communities adapted to similar challenges, and thus supply lessons for guiding future land-use management decisions. This project contributes to the emerging scholarship of the Anthropocene in island settings by identifying different episodes of social and environmental change during the pre-colonial period in a region that is highly underrepresented in geoarchaeological research. Local undergraduate and graduate students from multiple disciplines will participate in the field and laboratory components of this research, where they will learn geoarchaeological methods, theoretical frameworks, and analyses. Through these experiences, students build skills and gain knowledge that are crucial to their own and societal resilience. &lt;br/&gt;&lt;br/&gt;This doctoral dissertation project traces the long-term history of human land-use and its impacts in two lower catchments of alluvial valleys that are susceptible to environmental variability and human land-use, but which have been preferred locations for settlement. The investigators ask: how has the vegetation and hydrology of the region changed over time? How do episodes of landscape change relate to contemporary human land-use in these catchments? What are the ecological legacies of these anthropogenic landscapes and how are present-day communities still adapting to these cumulative legacies? To address these questions, the project assesses long-term environmental changes associated with settlement patterns and subsistence economies. Specifically, the researchers will systematically collect sediments cores from these river floodplains and a lagoon, and then analyze their chemistry and physical properties, phytoliths, and radiocarbon dates. These various lines of paleoenvironmental evidence will be combined with archival information about archaeological sites within the boundaries the catchment basins.  The project will produce and test models of human occupation of both catchments from early periods to the present.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>11/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2034107</AwardID>
+<Investigator>
+<FirstName>Arlene</FirstName>
+<LastName>Rosen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Arlene Rosen</PI_FULL_NAME>
+<EmailAddress><![CDATA[amrosen@austin.utexas.edu]]></EmailAddress>
+<NSF_ID>000630052</NSF_ID>
+<StartDate>11/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lara</FirstName>
+<LastName>Sánchez-Morales</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lara M Sánchez-Morales</PI_FULL_NAME>
+<EmailAddress><![CDATA[lara.sanchezmorales@utexas.edu]]></EmailAddress>
+<NSF_ID>000827824</NSF_ID>
+<StartDate>11/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress><![CDATA[110 INNER CAMPUS DR]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>Austin</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787595316</ZipCode>
+<StreetAddress><![CDATA[3925 W Braker Lane, Suite 3340]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>760600</Code>
+<Text>Archaeology DDRI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1391</Code>
+<Text>ARCHAEOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~31700</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project lies at the intersection of archaeology, hydrogeomorphology and climate change studies. Our results provide new evidence about the landscape management practices of Archaic societies in the Caribbean, adding to a growing field investigating the ecological impacts of early human settlement in insular environments. In terms of pedology and hydrogeomorphology, these results provide new evidence of tropical catchments and how these respond to climate changes based on a multi-proxy methodology that allowed us to reconstruct stability and instability events resulting from dryer/wetter local climate conditions, and the chemical and physical characterization of ancient soils.</p> <p>The specific activities conducted over the duration of the project included: coring of deep sedimentary sequences (~5m depth) at two lowland alluvial valleys and a coastal lagoon in northcentral Puerto Rico; training of undergraduate and graduate students in geoarchaeological fieldwork and laboratory techniques; analysis of sediment physical and chemical properties; identification of microbotanical remains (phytoliths); dissemination of results at academic and community spaces. Students used this project&rsquo;s samples to learn fieldwork and laboratory techniques and then applied this knowledge to develop their own thesis projects. The co-PI worked alongside Puerto Rican grassroots leaders involved in conservation, restoration, and administration of the island&rsquo;s socioecosystems through community projects focused on the intersections between arts, museums, archaeology, soils, and hydrology.</p> <p>In islands like Puerto Rico, lowland alluvial valleys constitute rich ecosystem resources that are susceptible to climate change and human land use, and communities in the present are again facing new challenges associated to shifting seasonality patterns, frequent droughts, and the most intense hurricanes seen in the last &gt;100 years. In the midst of this scenario, the geoarchaeological record may have examples of how past communities adapted to similar challenges, providing lessons for future managerial decisions.</p> <p>Thus far, the general results are:</p> <ol> <li>The alluvial sedimentary sequences from the Rio Grande de Manati (RGM) and Rio Grande de Arecibo (RGA) span from ~5410 cal BC &ndash; cal AD 715 (Archaic to Late Ceramic periods in Puerto Rico). Dates were obtained from bulk sediment of paleosol units.</li> <li>A total of 15 units at the RGM and 2 units at the RGA present characteristics consistent with pedogenesis (higher organic matter content, higher content of phytoliths, and finer textures, among others). These units are interpreted as ancient surfaces (paleosols) representing various stability events in the catchment. These paleosols formed and were buried by higher energy events (i.e., coarser textures, less organic content, and phytolith numbers very low). Paleosols show different states of pedogenesis as they formed under different climatic conditions.</li> <li>The RGM and RGA floodplains aggraded at different rates over the Mid-to Late Holocene as a these responded to fluctuations in relative sea level, upland sediment production and transport between drier/wetter climate conditions. </li> <li>Carbon isotope values and phytoliths from these paleosol units show some correlations in trends. Vegetation in the lower catchment (i.e., floodplains) shifted from a C3 to C4 dominated landscape from ~5400 cal BC (pre-human baseline) to ~2895 cal BC (Archaic settlements). The reasons for this shift in vegetation are still under investigation but preliminary explanations are considering the arrival of Archaic societies to the catchment. The presence of charcoal particles at the bottom of one of the cores (MN-E, western RGM floodplain) suggest the presence of fires which are most likely related to human activities, although these changes also coincide with the onset of drier conditions.</li> <li>At Tortuguero Lagoon the results showed a histosol forming in shallow water before ~3,800 cal BC. By ~2,360 cal BC increase in relative sea level led to brought increase of the lagoon&rsquo;s depth and rapid sediment deposition. The sequence shows a ~3,000-year deposition hiatus from ca. 2,360 BC until ca. AD 900, which correlates with a shift towards local drier conditions. This hiatus is interpreted as potential desiccation of the lagoon and correlates with previous observations made by Burney et al. 1994. Finally, we were able to show that the last 1,000 years of the sedimentary record at Tortuguero have been lost to historical disturbance (dredging during the 1970&rsquo;s).</li> </ol> <p>Our evidence shows that our very first settlers (Archaic societies) significantly altered lowland catchment vegetation through their human niche construction activities since the Mid-Holocene, and that ecological inheritance (e.g., in the form of changed vegetation habitats) over generations led to different landscape outcomes. These results have come at a crucial time for Puerto Ricans because they speak to a younger generation&rsquo;s interest in understanding the social processes that shaped have shaped our landscapes for millennia. Grassroots organizers and younger generations are developing a new &lsquo;ethos&rsquo; of human-environment interactions as they seek more integrative perspectives to face current climate (and social) challenges.</p> <p>&nbsp;</p><br> <p>  Last Modified: 03/31/2024<br> Modified by: Lara&nbsp;M&nbsp;Sánchez-Morales</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)          </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2034107/2034107_10708559_1711877643043_Lag_Tortuguero_Coring_w_TBeach--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2034107/2034107_10708559_1711877643043_Lag_Tortuguero_Coring_w_TBeach--rgov-800width.jpg" title="Coring of Tortuguero Lagoon"><img src="/por/images/Reports/POR/2024/2034107/2034107_10708559_1711877643043_Lag_Tortuguero_Coring_w_TBeach--rgov-66x44.jpg" alt="Coring of Tortuguero Lagoon"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Coring of Tortuguero Lagoon, Puerto Rico (July 2021).</div> <div class="imageCredit">Roberto Matos</div> <div class="imagePermisssions">Royalty-free (restricted use - cannot be shared)</div> <div class="imageSubmitted">Lara&nbsp;M&nbsp;Sánchez-Morales <div class="imageTitle">Coring of Tortuguero Lagoon</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2034107/2034107_10708559_1711877791449_Cleaning_MN_A__2018_--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2034107/2034107_10708559_1711877791449_Cleaning_MN_A__2018_--rgov-800width.jpg" title="Sampling Manati Profile"><img src="/por/images/Reports/POR/2024/2034107/2034107_10708559_1711877791449_Cleaning_MN_A__2018_--rgov-66x44.jpg" alt="Sampling Manati Profile"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Sampling of 5-meter deep exposed cutbank profile at the R�o Grande de Manat� floodplain (June 2019).</div> <div class="imageCredit">Iuliana Rosario</div> <div class="imagePermisssions">Royalty-free (restricted use - cannot be shared)</div> <div class="imageSubmitted">Lara&nbsp;M&nbsp;Sánchez-Morales <div class="imageTitle">Sampling Manati Profile</div> </div> </li><li> <a href="/por/images/Reports/POR/2024/2034107/2034107_10708559_1711878126795_IMG_3189--rgov-214x142.JPG" original="/por/images/Reports/POR/2024/2034107/2034107_10708559_1711878126795_IMG_3189--rgov-800width.JPG" title="Stratigraphic change in core section"><img src="/por/images/Reports/POR/2024/2034107/2034107_10708559_1711878126795_IMG_3189--rgov-66x44.JPG" alt="Stratigraphic change in core section"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Sediment core section from site MN-E (Manat� floodplain) showing stratigraphic changes and paleosol unit (November 2019).</div> <div class="imageCredit">Lara M. S�nchez-Morales</div> <div class="imagePermisssions">Royalty-free (restricted use - cannot be shared)</div> <div class="imageSubmitted">Lara&nbsp;M&nbsp;Sánchez-Morales <div class="imageTitle">Stratigraphic change in core section</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project lies at the intersection of archaeology, hydrogeomorphology and climate change studies. Our results provide new evidence about the landscape management practices of Archaic societies in the Caribbean, adding to a growing field investigating the ecological impacts of early human settlement in insular environments. In terms of pedology and hydrogeomorphology, these results provide new evidence of tropical catchments and how these respond to climate changes based on a multi-proxy methodology that allowed us to reconstruct stability and instability events resulting from dryer/wetter local climate conditions, and the chemical and physical characterization of ancient soils.   The specific activities conducted over the duration of the project included: coring of deep sedimentary sequences (~5m depth) at two lowland alluvial valleys and a coastal lagoon in northcentral Puerto Rico; training of undergraduate and graduate students in geoarchaeological fieldwork and laboratory techniques; analysis of sediment physical and chemical properties; identification of microbotanical remains (phytoliths); dissemination of results at academic and community spaces. Students used this projects samples to learn fieldwork and laboratory techniques and then applied this knowledge to develop their own thesis projects. The co-PI worked alongside Puerto Rican grassroots leaders involved in conservation, restoration, and administration of the islands socioecosystems through community projects focused on the intersections between arts, museums, archaeology, soils, and hydrology.   In islands like Puerto Rico, lowland alluvial valleys constitute rich ecosystem resources that are susceptible to climate change and human land use, and communities in the present are again facing new challenges associated to shifting seasonality patterns, frequent droughts, and the most intense hurricanes seen in the last 100 years. In the midst of this scenario, the geoarchaeological record may have examples of how past communities adapted to similar challenges, providing lessons for future managerial decisions.   Thus far, the general results are:  The alluvial sedimentary sequences from the Rio Grande de Manati (RGM) and Rio Grande de Arecibo (RGA) span from ~5410 cal BC  cal AD 715 (Archaic to Late Ceramic periods in Puerto Rico). Dates were obtained from bulk sediment of paleosol units. A total of 15 units at the RGM and 2 units at the RGA present characteristics consistent with pedogenesis (higher organic matter content, higher content of phytoliths, and finer textures, among others). These units are interpreted as ancient surfaces (paleosols) representing various stability events in the catchment. These paleosols formed and were buried by higher energy events (i.e., coarser textures, less organic content, and phytolith numbers very low). Paleosols show different states of pedogenesis as they formed under different climatic conditions. The RGM and RGA floodplains aggraded at different rates over the Mid-to Late Holocene as a these responded to fluctuations in relative sea level, upland sediment production and transport between drier/wetter climate conditions.  Carbon isotope values and phytoliths from these paleosol units show some correlations in trends. Vegetation in the lower catchment (i.e., floodplains) shifted from a C3 to C4 dominated landscape from ~5400 cal BC (pre-human baseline) to ~2895 cal BC (Archaic settlements). The reasons for this shift in vegetation are still under investigation but preliminary explanations are considering the arrival of Archaic societies to the catchment. The presence of charcoal particles at the bottom of one of the cores (MN-E, western RGM floodplain) suggest the presence of fires which are most likely related to human activities, although these changes also coincide with the onset of drier conditions. At Tortuguero Lagoon the results showed a histosol forming in shallow water before ~3,800 cal BC. By ~2,360 cal BC increase in relative sea level led to brought increase of the lagoons depth and rapid sediment deposition. The sequence shows a ~3,000-year deposition hiatus from ca. 2,360 BC until ca. AD 900, which correlates with a shift towards local drier conditions. This hiatus is interpreted as potential desiccation of the lagoon and correlates with previous observations made by Burney et al. 1994. Finally, we were able to show that the last 1,000 years of the sedimentary record at Tortuguero have been lost to historical disturbance (dredging during the 1970s).    Our evidence shows that our very first settlers (Archaic societies) significantly altered lowland catchment vegetation through their human niche construction activities since the Mid-Holocene, and that ecological inheritance (e.g., in the form of changed vegetation habitats) over generations led to different landscape outcomes. These results have come at a crucial time for Puerto Ricans because they speak to a younger generations interest in understanding the social processes that shaped have shaped our landscapes for millennia. Grassroots organizers and younger generations are developing a new ethos of human-environment interactions as they seek more integrative perspectives to face current climate (and social) challenges.        Last Modified: 03/31/2024       Submitted by: LaraMSánchez-Morales]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

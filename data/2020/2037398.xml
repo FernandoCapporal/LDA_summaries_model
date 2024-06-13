@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SenSE: Multimodal Biosensors  and Data driven Methods for Explainable Analytics  for a Proactive approach to Heart Failure Care]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>750000.00</AwardTotalIntnAmount>
+<AwardAmount>750000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aleksandr Simonian</SignBlockName>
+<PO_EMAI>asimonia@nsf.gov</PO_EMAI>
+<PO_PHON>7032922191</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Congestive Heart Failure affects nearly six million Americans, with 670,000 diagnosed annually. Heart failure is one of the leading causes of hospital admission and readmission and death in the United States and one of the costliest disease syndromes. A major portion of this high cost of care is related to managing episodes of heart failure decompensation in the hospital. These recurring hospitalizations reduces the quality of life of heart failure patients, preventing them to lead productive and fulfilling lives. Ever rising costs, growing population of aging adults with chronic conditions necessitate new predictive, personalized and proactive approaches to cardiovascular health. The standard care to heart failure management relies on readily observable symptoms such as weight gain and labored breathing. Unfortunately, because these symptoms appear late in the course of heart failure decompensation, intervention is applied after hospitalization. In this proposal we pursue a proactive approach to care supported by innovations in noninvasive multimodal sensor systems paired with machine learning models for assessing the risk of heart failure decompensation and supporting interventions to prevent hospitalization in heart failure patients. &lt;br/&gt;&lt;br/&gt;The aims of this project are (a)  Design, fabrication and validation an easy to use sensor patch that combines four key modalities to assess cardiac and lung function: Electrocardiogram (ECG). Bio Radio Frequency(RF), Bio-Impedance, and Seismocardiogram( SCG) (b) Learning  of latent variable models for linking sensor measures to the risk of developing decompensated heart failure events with contextual information from electronic health records (EHR), and (c) Development of interpretable Deep Learning models for combining EHR data with multimodal sensor data for risk prediction and guiding therapy. The design of the sensor patch will explore new techniques integrating signals from a wide range of frequency bands into a single flexible board operating autonomously under a power budget. The joint sensor models developed in this project for ECG, SCG, Bio- RF and Impedance will provide insights into the noninvasive measures related to cardiovascular health previously only available to invasive methods such as implanted sensors and catheterizations. These non-invasive measures of cardiac health will be used to develop a learning based data fusion model for inferring latent health status quantified as decompensation risk. The project will result in interpretable deep learning models for combining multimodal EHR data with multimodal sensor data for early detection of compensated state and guiding medical interventions. These models will account for the sparse and non-uniform sampling of patient data in time, and employ learning of multi-modal embeddings for interpretability.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2037398</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Fisher</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John W Fisher</PI_FULL_NAME>
+<EmailAddress><![CDATA[fisher@csail.mit.edu]]></EmailAddress>
+<NSF_ID>000483362</NSF_ID>
+<StartDate>09/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Emre</FirstName>
+<LastName>Ertin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Emre Ertin</PI_FULL_NAME>
+<EmailAddress><![CDATA[ertin.1@osu.edu]]></EmailAddress>
+<NSF_ID>000275949</NSF_ID>
+<StartDate>09/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ping</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ping Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[zhang.10631@osu.edu]]></EmailAddress>
+<NSF_ID>000795353</NSF_ID>
+<StartDate>09/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>COLUMBUS</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress><![CDATA[1960 KENNY RD]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLWBSLWAJWR1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OHIO STATE UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MN4MDDMN8529</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>Columbus</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>432101241</ZipCode>
+<StreetAddress><![CDATA[2015 Neil Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>143Y00</Code>
+<Text>PrecisionHlth Sensors w AI-ML</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>164200</Code>
+<Text>Special Initiatives</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>745400</Code>
+<Text>MSPA-INTERDISCIPLINARY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5345</Code>
+<Text>BIOMEDICAL ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7909</Code>
+<Text>BIOSENSING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~750000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>In this project, &nbsp;we developed new biosensors, algorithms, &nbsp;datasets, and reference designs to advance machine-learning approaches for assessing the risk of developing chronic diseases and related complications such as heart failure and lymphedema. &nbsp;In addition, t</span><span>he measured and simulated datasets collected in this project can be used in biomedical signal processing courses to experiment with different signal processing and statistical inference algorithms. The project created an open-source electrocardiography (ECG)&nbsp;&nbsp;and photoplethysmography (PPG) simulator &nbsp;that can be used in undergraduate classes to generate simulated data and perform interactive data analysis tasks.&nbsp;</span><span>&nbsp;</span></p> <p><span>The core of our sensing platform is a bio radiofrequency (RF) &nbsp;micro radar sensor&nbsp;that is scalable to different configurations of receive and transmit elements based on the application domain. &nbsp;The novel modular design consists of multiple microradar blocks. &nbsp;Each block can be a transmitter or a receiver based on the control logic. The BioRF microradar sensor was validated using body phantoms with precise doping for adjustable permittivities to model returns from multilayer tissue profiles. &nbsp;</span></p> <p><span>In tandem, we developed a new sparse signal processing algorithm for detecting tissue boundaries in backscatter data. Our team also proposed a new transmit signal scheme for radar termed compressive illumination with sample complexity scaling with the number of reflectors in the scene, making them ideal for resource-constrained sensors such as mobile sensors for health. To solve the challenging inverse problem of microwave imaging of subcutaneous tissues, we developed a new generative model that can map a random input vector to a radar image at different resolutions. This generative model can be used to find the radar image &nbsp;object corresponding to the backscatter measurements taken by the BioRF radar sensor. We have also developed contour-assisted back-projection methods to focus backscatter signals onto the subcutaneous tissues. Finally, we designed an &nbsp;invertible neural network models to compensate for the antenna distortion effects from operating BioRF sensors near the body.</span></p> <p><span>&nbsp;In the healthcare domain, solving multiple clinical risk prediction tasks for different conditions is challenging due to the complex interaction between heterogeneous clinical conditions. With the availability of real-world data, many deep learning methods are proposed for complication risk profiling. In this project, we addressed three shortcomings of the existing techniques. First, leveraging clinical data from a single view can lead to suboptimal models. Second, most existing methods cannot interpret and explain their predictions effectively. Third, models learned from clinical data may have inherent pre-existing biases and exhibit discrimination against certain social groups. Instead, we propose using a multi-view, multi-task network to tackle these issues.</span></p> <p><span>The availability of large-scale electronic health record datasets has led to the development of artificial intelligence (AI) methods for clinical risk prediction that help improve patient care. However, existing studies have shown that AI models suffer from severe performance decay after several years of deployment, which might be caused by various temporal dataset shifts. When the shift occurs, we can access large-scale pre-shift data and small-scale post-shift data that are insufficient to train new models in the post-shift environment. In this project, we developed a new method to address the issue. We reweight patients from the pre-shift climate to mitigate the distribution shift between pre- and post-shift environments. &nbsp;Our experimental results show that our model efficiently mitigates temporal shifts, improving prediction performance.</span></p> <p>&nbsp;</p><br> <p>  Last Modified: 03/04/2024<br> Modified by: Emre&nbsp;Ertin</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  In this project, we developed new biosensors, algorithms, datasets, and reference designs to advance machine-learning approaches for assessing the risk of developing chronic diseases and related complications such as heart failure and lymphedema. In addition, the measured and simulated datasets collected in this project can be used in biomedical signal processing courses to experiment with different signal processing and statistical inference algorithms. The project created an open-source electrocardiography (ECG)and photoplethysmography (PPG) simulator that can be used in undergraduate classes to generate simulated data and perform interactive data analysis tasks.   The core of our sensing platform is a bio radiofrequency (RF) micro radar sensorthat is scalable to different configurations of receive and transmit elements based on the application domain. The novel modular design consists of multiple microradar blocks. Each block can be a transmitter or a receiver based on the control logic. The BioRF microradar sensor was validated using body phantoms with precise doping for adjustable permittivities to model returns from multilayer tissue profiles.    In tandem, we developed a new sparse signal processing algorithm for detecting tissue boundaries in backscatter data. Our team also proposed a new transmit signal scheme for radar termed compressive illumination with sample complexity scaling with the number of reflectors in the scene, making them ideal for resource-constrained sensors such as mobile sensors for health. To solve the challenging inverse problem of microwave imaging of subcutaneous tissues, we developed a new generative model that can map a random input vector to a radar image at different resolutions. This generative model can be used to find the radar image object corresponding to the backscatter measurements taken by the BioRF radar sensor. We have also developed contour-assisted back-projection methods to focus backscatter signals onto the subcutaneous tissues. Finally, we designed an invertible neural network models to compensate for the antenna distortion effects from operating BioRF sensors near the body.   In the healthcare domain, solving multiple clinical risk prediction tasks for different conditions is challenging due to the complex interaction between heterogeneous clinical conditions. With the availability of real-world data, many deep learning methods are proposed for complication risk profiling. In this project, we addressed three shortcomings of the existing techniques. First, leveraging clinical data from a single view can lead to suboptimal models. Second, most existing methods cannot interpret and explain their predictions effectively. Third, models learned from clinical data may have inherent pre-existing biases and exhibit discrimination against certain social groups. Instead, we propose using a multi-view, multi-task network to tackle these issues.   The availability of large-scale electronic health record datasets has led to the development of artificial intelligence (AI) methods for clinical risk prediction that help improve patient care. However, existing studies have shown that AI models suffer from severe performance decay after several years of deployment, which might be caused by various temporal dataset shifts. When the shift occurs, we can access large-scale pre-shift data and small-scale post-shift data that are insufficient to train new models in the post-shift environment. In this project, we developed a new method to address the issue. We reweight patients from the pre-shift climate to mitigate the distribution shift between pre- and post-shift environments. Our experimental results show that our model efficiently mitigates temporal shifts, improving prediction performance.        Last Modified: 03/04/2024       Submitted by: EmreErtin]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

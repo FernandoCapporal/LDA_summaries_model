@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF Postdoctoral Fellowship in Biology FY 2020: Genetic Determinants of Hybrid Decay in Backcross Populations of Teosinte with Maize]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>216000.00</AwardTotalIntnAmount>
+<AwardAmount>216000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Diane Jofuku Okamuro</SignBlockName>
+<PO_EMAI>dokamuro@nsf.gov</PO_EMAI>
+<PO_PHON>7032924508</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This action funds an NSF National Plant Genome Initiative Postdoctoral Research Fellowship in Biology for FY 2018. The fellowship supports a research and training plan in a host laboratory for the Fellow who also presents a plan to broaden participation in biology. The title of the research and training plan for this fellowship to Manisha Munasinghe is "Genetic Determinants of Hybrid Decay in Backcross Populations of Teosinte with Maize". The host institution for the fellowship is the University of Minnesota and the sponsoring scientists are Drs. Yaniv Brandvain and Nathan Springer. &lt;br/&gt;&lt;br/&gt;Plant breeders seek to take advantage of useful genetic variants present in wild relatives of crop species. Genetic incompatibilities between species can work against this goal, which makes understanding how they emerge and persist in populations highly relevant. A unique incompatibility between the crop species maize and its wild relative the Mexican teosinte is thought to be triggered by the uncontrolled proliferation of repetitive DNA in hybrids. This project is designed to not only identify the specific genetic variants underlying this incompatibility but also to use this knowledge to expand evolutionary theory to better understand how these variants become established in populations. Training objectives for the Fellow include plant biology, computational biology, statistical genetics, and analytical modeling. Broader impacts include the development of two teaching modules in genetics and statistics for undergraduate students and providing mentoring and training through participation in the Carpentries (www.carpentries.org) computational training workshops.  &lt;br/&gt;&lt;br/&gt;There is a longstanding interest in understanding the genomic basis of reproductive isolation as it can both inform how speciation occurs and the evolutionary forces occurring within lineages. The uncoupling of selfish repetitive DNA, such as transposable elements, and the molecular machinery that epigenetically silences their proliferation is a potential cause of hybrid incompatibility that has received comparatively little attention. This project explores an unusual case of hybrid incompatibility between the crop species maize and its wild relative Mexican teosinte thought to be caused by the uncoupling of repetitive DNA from the variants that halt their proliferation. No abnormal phenotype in the F1 hybrids, the persistence of the incompatibility despite recurrent backcrossing to maize, and epigenetic changes in hybrids distinguish this case from others. This project will characterize the genomic basis of this epistatic incompatibility, estimate its frequency in nature, and model its impacts on genome-wide patterns of introgression. Long-read, whole-genome sequencing will allow the fine-scale characterization of changes in repetitive DNA between the parental species and hybrids. Additional teosinte samples will be collected to perform population-level analyses to identify regions under selection, which will likely include repetitive DNA repressor systems. Finally, the consequence of uncoupling repetitive DNA from its repressor system will be modelled to characterize its effect on population divergence. All computer pipelines and codes will be shared publicly so other researchers may adapt these tools to their needs. Raw data/code will be released through public repositories, such as GitHub or NCBI. Processed datasets will be released through CyVerse Data Commons, Dryad, or DRUM (www.lib.umn.edu/datamanagement/drum). All processed data and any files that may be of interest to the broader community will be made publicly available through CyVerse or GitHub and will also be shared with MaizeGDB.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2010908</AwardID>
+<Investigator>
+<FirstName>Manisha</FirstName>
+<LastName>Munasinghe</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Manisha A Munasinghe</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000814011</NSF_ID>
+<StartDate>05/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[Munasinghe, Manisha A]]></Name>
+<CityName>Ithaca</CityName>
+<ZipCode>14853</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Minnesota]]></Name>
+<CityName>St. Paul</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>551081023</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>810500</Code>
+<Text>NPGI PostDoc Rsrch Fellowship</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1329</Code>
+<Text>PLANT GENOME RESEARCH PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7137</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7174</Code>
+<Text>POSTDOC FELLOW IN SCI, MATH EN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7577</Code>
+<Text>PLANT GENOME RESEARCH RESOURCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9109</Code>
+<Text>AGRICULTURAL BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~216000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>A longstanding question in evolutionary biology is understanding what factors contribute to the astounding levels of observed and estimated species diversity on this planet. Intimately tied to this question is both how new species form and how they remain distinct over time. The biological species concept links this process to the establishment of reproductive barriers that keep two populations from successfully reproducing with each other. One such reproductive barrier is hybrid incompatibility, which occurs when hybrids between two species are inviable, sterile, or simply less fit than the parental populations.</p> <p>Recently, a unique hybrid incompatibility between domestic maize and its ancestral relative, the Mexican teosinte, was characterized. These hybrids appeared to be phenotypically normal in F1 crosses, but, upon subsequent generations of backcrossing to maize, a sickly phenotype emerged and persisted. Preliminary analyses implicated an uncoupling of transposable elements from their host repressor systems, which halt the spread of transposable elements within the genome. Uncontrolled transposable element proliferation in these hybrids is thought to trigger a cascade of causal downstream effects leading to the observed phenotypic decay. Consequently, this odd hybrid incompatibility was coined &lsquo;hybrid decay&rsquo;. The goal of this project was to not only better understand the genetic determinants underlying this hybrid incompatibility but also to think more broadly about the role of transposable elements on genome evolution and speciation.</p> <p>The first part of this project involved further phenotypic evaluation of hybrid decay. Hybrid decay is triggered by crossing teosinte sourced from Valle de Bravo, Mexico to domestic maize. The initial identification of hybrid decay utilized crosses made to the W22 maize background, but, unfortunately, no existing seed remains for either the initial teosinte accession or the early generation backcrosses. Using the earliest generation backcross we have (a BC7), we have not only continued backcrossing to W22 (we are now up to a BC11) but have also crossed this sick hybrid to the inbred maize lines B73 and Mo17. We collected a variety of phenotypic data for these distinct lineages across several years. With this information, we have established that (1) hybrid decay is present in F1s but this was initially missed due to the effects of heterosis, (2) "sickness" can be transmitted both maternally and paternally, but there is an odd severity in ear morphology traits if sickness is transmitted maternally, and (3) all &ldquo;sick&rdquo; plants show reduced phenotypic traits but there is variation in what traits are reduced. We used long-read whole-genome sequencing to associate specific genetic variants in our hybrid lineages with the phenotypes observed with hybrid decay. Preliminary analyses of the sequencing data generated affirms the reactivation of transposable elements, and we are now comparing the presence or absence of this transposable element variation across hybrids.</p> <p>Originally, we hoped to go to Mexico in order to obtain genetic material from more teosinte plants in the region where this incompatibility was first found. However, we have instead obtained a series of teosinte introgression recombinant inbred lines that were generated from some of the original accessions, and we have identified an available teosinte accession from the original valley in Mexico. We are hoping to use this data after we complete our long-read sequencing analysis in order to evaluate our potential causal variants.&nbsp;</p> <p>As part of this project, we also established a theoretical simulation framework to explore how&nbsp;transposition probability and insertion preference of a TE family influence the evolution of TE copy number and host population size. While theory exists for each of these components (transposition probability, insertion preference, and host population size) independently or in pairs, no theory currently exists that incorporates all three. We wanted to use this framework to study the evolution of host repression of transposable elements; however, when we removed host repression as a test, we found a counterintuitive result. We hypothesized that TE families that preferentially inserted into neutral sites would be capable of reaching higher copy numbers while delaying host population extinction. Instead, we found that, in the absence of host repression, TE families that preferentially inserted into neutral sites do in fact reach higher copy number but that this expedites population extinction. We are now designing an extension to this model that incorporates distinct forms of host repression to assess whether certain TE families reach high copy numbers under specific host repression regimes.</p> <p>&nbsp;Finally, related to this project, I have hosted a series of informal coding workshops modelled after those designed by the Carpentries, a volunteer organization committed to training a diverse community in the application of software and data science in research. These workshops have focused on high school and undergraduate students who were contributing to research at the University of Minnesota. They directly applied the skills they learned to their projects, and some of these students have gone further and continued to pursue biostatistics and computational biology.</p><br> <p>  Last Modified: 04/01/2024<br> Modified by: Manisha&nbsp;A&nbsp;Munasinghe</p></div> <div class="porSideCol" ></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  A longstanding question in evolutionary biology is understanding what factors contribute to the astounding levels of observed and estimated species diversity on this planet. Intimately tied to this question is both how new species form and how they remain distinct over time. The biological species concept links this process to the establishment of reproductive barriers that keep two populations from successfully reproducing with each other. One such reproductive barrier is hybrid incompatibility, which occurs when hybrids between two species are inviable, sterile, or simply less fit than the parental populations.   Recently, a unique hybrid incompatibility between domestic maize and its ancestral relative, the Mexican teosinte, was characterized. These hybrids appeared to be phenotypically normal in F1 crosses, but, upon subsequent generations of backcrossing to maize, a sickly phenotype emerged and persisted. Preliminary analyses implicated an uncoupling of transposable elements from their host repressor systems, which halt the spread of transposable elements within the genome. Uncontrolled transposable element proliferation in these hybrids is thought to trigger a cascade of causal downstream effects leading to the observed phenotypic decay. Consequently, this odd hybrid incompatibility was coined hybrid decay. The goal of this project was to not only better understand the genetic determinants underlying this hybrid incompatibility but also to think more broadly about the role of transposable elements on genome evolution and speciation.   The first part of this project involved further phenotypic evaluation of hybrid decay. Hybrid decay is triggered by crossing teosinte sourced from Valle de Bravo, Mexico to domestic maize. The initial identification of hybrid decay utilized crosses made to the W22 maize background, but, unfortunately, no existing seed remains for either the initial teosinte accession or the early generation backcrosses. Using the earliest generation backcross we have (a BC7), we have not only continued backcrossing to W22 (we are now up to a BC11) but have also crossed this sick hybrid to the inbred maize lines B73 and Mo17. We collected a variety of phenotypic data for these distinct lineages across several years. With this information, we have established that (1) hybrid decay is present in F1s but this was initially missed due to the effects of heterosis, (2) "sickness" can be transmitted both maternally and paternally, but there is an odd severity in ear morphology traits if sickness is transmitted maternally, and (3) all sick plants show reduced phenotypic traits but there is variation in what traits are reduced. We used long-read whole-genome sequencing to associate specific genetic variants in our hybrid lineages with the phenotypes observed with hybrid decay. Preliminary analyses of the sequencing data generated affirms the reactivation of transposable elements, and we are now comparing the presence or absence of this transposable element variation across hybrids.   Originally, we hoped to go to Mexico in order to obtain genetic material from more teosinte plants in the region where this incompatibility was first found. However, we have instead obtained a series of teosinte introgression recombinant inbred lines that were generated from some of the original accessions, and we have identified an available teosinte accession from the original valley in Mexico. We are hoping to use this data after we complete our long-read sequencing analysis in order to evaluate our potential causal variants.   As part of this project, we also established a theoretical simulation framework to explore howtransposition probability and insertion preference of a TE family influence the evolution of TE copy number and host population size. While theory exists for each of these components (transposition probability, insertion preference, and host population size) independently or in pairs, no theory currently exists that incorporates all three. We wanted to use this framework to study the evolution of host repression of transposable elements; however, when we removed host repression as a test, we found a counterintuitive result. We hypothesized that TE families that preferentially inserted into neutral sites would be capable of reaching higher copy numbers while delaying host population extinction. Instead, we found that, in the absence of host repression, TE families that preferentially inserted into neutral sites do in fact reach higher copy number but that this expedites population extinction. We are now designing an extension to this model that incorporates distinct forms of host repression to assess whether certain TE families reach high copy numbers under specific host repression regimes.   Finally, related to this project, I have hosted a series of informal coding workshops modelled after those designed by the Carpentries, a volunteer organization committed to training a diverse community in the application of software and data science in research. These workshops have focused on high school and undergraduate students who were contributing to research at the University of Minnesota. They directly applied the skills they learned to their projects, and some of these students have gone further and continued to pursue biostatistics and computational biology.     Last Modified: 04/01/2024       Submitted by: ManishaAMunasinghe]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CNS Core: Small: SmartSight: an AI-Based Computing Platform to Assist Blind and Visually Impaired People]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>249963.00</AwardTotalIntnAmount>
+<AwardAmount>265963</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marilyn McClure</SignBlockName>
+<PO_EMAI>mmcclure@nsf.gov</PO_EMAI>
+<PO_PHON>7032925197</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project will design SmartSight, a platform that combines the computing ability of the device-to-cloud continuum with Artificial Intelligence (AI) methods to enable ambient perception for blind and visually impaired people (VIP), thereby improving their quality of life and social inclusion. SmartSight operates based on smart glasses and provides real-time perception for its user by efficiently deploying machine learning and approximate computing methods across a continuum of tiers—from local tiers (device and edge) to remote tiers (fog and cloud platforms). SmartSight uses federated learning to take advantage of collective observations of users and improve its perception accuracy. The platform is robust against failure in its communication with remote tiers and is able to provide its basic functionality using only local tiers. For that purpose, SmartSight dynamically adjusts approximate computing knobs and allocates critical tasks to resources, only if they can produce timely results. A prototype of SmartSight will be developed and tested with blind and VIP to assess its usability, robustness, convenience, and discreteness. &lt;br/&gt;&lt;br/&gt;SmartSight enables “AI+Systems for social good.” The project results will impact not only the forefront of scientific discovery, but also society by improving the quality of life and social inclusion of the blind and VIP. Other citizens who suffer from some form of cognitive decline (e.g., Alzheimer's disease) will benefit from SmartSight technology and be able to function as independent members of society. The steps towards addressing these hurdles not only will improve the quality of life for these people but will also bring about a remarkable cost-saving to society as a whole. The potential gain is even greater when considered on a global scale. The intelligent resource allocation and approximate computing methods that will be developed for the SmartSight platform can be adapted to other soft real-time computing systems, and the proposed efficient and scalable approaches for automated parameter tuning and ubiquitous model execution can be employed in other tunable software systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/02/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/10/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2007202</AwardID>
+<Investigator>
+<FirstName>Pooyan</FirstName>
+<LastName>Jamshidi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pooyan Jamshidi</PI_FULL_NAME>
+<EmailAddress><![CDATA[pjamshid@cse.sc.edu]]></EmailAddress>
+<NSF_ID>000772198</NSF_ID>
+<StartDate>09/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name><![CDATA[University of South Carolina at Columbia]]></Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>292083403</ZipCode>
+<PhoneNumber>8037777093</PhoneNumber>
+<StreetAddress><![CDATA[1600 HAMPTON ST]]></StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J22LNTMEDP73</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTH CAROLINA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>J22LNTMEDP73</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of South Carolina at Columbia]]></Name>
+<CityName>Columbia</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>292010001</ZipCode>
+<StreetAddress><![CDATA[550 Assembly Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>171400</Code>
+<Text>Special Projects - CNS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>735400</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~249963</FUND_OBLG>
+<FUND_OBLG>2021~16000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project is to design SmartSight, a platform that combines the computing ability of the device-to-cloud continuum with Artificial Intelligence (AI) methods to enable ambient perception for blind and visually impaired people, thereby, improving their quality of life and social inclusion.</p> <p>The SmartSight project had two specific goals:</p> <p>- Developing the SmartSight platform for robust execution of smart (ML-based) applications for blind and visually impaired people across the edge-to-cloud continuum.</p> <p>- Designing methods to execute lightweight machine learning (ML-based) services within real-time constraints needed to provide ambient perception for blind and visually impaired people.</p> <p>As a result of close collaborations between the PIs, we accomplished these goals.&nbsp; We made a series of advances in optimizing performance and energy efficiency for resource-constrained computer systems, such as those in the device and edge tiers of the continuum. For example, we performed an empirical study to understand how configuration options across the system stack influence execution time latency and energy efficiency. We have also developed design space exploration methods for performance optimization and debugging of multi-component and highly configurable computer systems, like SmartSight. We have explored the feasibility of live migrating containerized services across autonomous computing systems, such as between edge and cloud systems, and have studied the efficient resource allocation of concurrent ML applications on heterogeneous edge. We studied the optimal composition of heterogeneous resources to achieve cost efficiency and real-time processing of ML applications needed for SmartSight. We have developed new multi-objective optimization methods that enable the navigation of performance objectives (latency, throughput, energy) to find an optimal configuration that satisfies the constraints and optimizes performance. We have developed a caching mechanism for early exiting in DNNs, enabling faster and less energy-demanding inference. We have developed methods for identifying root causes of failures due to interaction between software and hardware components in computer systems like SmartSight. As an educational activity and to enhance the teaching of distributed computing systems, we developed an open-source simulator, called E2C, that can model heterogeneous edge-cloud systems and enables students and researchers to examine the performance of various scheduling policies for these environments. The simulator was disseminated to the community in the form of a research paper and a tutorial.</p> <p>This project helped in training 6 PhD students, 1 master&rsquo;s, and 6 undergraduate students across PIs&rsquo; teams.&nbsp; The Ph.D. students made foundational advances in resource allocation and optimization algorithms, system design and integration, experimental evaluations, and technical writing and dissemination of the results within the research community. Finally, this project facilitated the development of educational materials for several undergraduate and graduate courses, including CSCE 585 (ML Systems) at the University of South Carolina and Parallel and Distributed Computing at UL Lafayette.</p><br> <p>  Last Modified: 04/09/2024<br> Modified by: Pooyan&nbsp;Jamshidi</p></div> <div class="porSideCol" ><div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2024/2007202/2007202_10704499_1712693622666_Picture2--rgov-214x142.jpg" original="/por/images/Reports/POR/2024/2007202/2007202_10704499_1712693622666_Picture2--rgov-800width.jpg" title="SmartSight"><img src="/por/images/Reports/POR/2024/2007202/2007202_10704499_1712693622666_Picture2--rgov-66x44.jpg" alt="SmartSight"></a> <div class="imageCaptionContainer"> <div class="imageCaption">SmartSight operating across the edge to cloud continuum to enble ambient perception for blind and visually impaired people.</div> <div class="imageCredit">SmartSight</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Pooyan&nbsp;Jamshidi <div class="imageTitle">SmartSight</div> </div> </li></ul> </div> </div></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project is to design SmartSight, a platform that combines the computing ability of the device-to-cloud continuum with Artificial Intelligence (AI) methods to enable ambient perception for blind and visually impaired people, thereby, improving their quality of life and social inclusion.   The SmartSight project had two specific goals:   - Developing the SmartSight platform for robust execution of smart (ML-based) applications for blind and visually impaired people across the edge-to-cloud continuum.   - Designing methods to execute lightweight machine learning (ML-based) services within real-time constraints needed to provide ambient perception for blind and visually impaired people.   As a result of close collaborations between the PIs, we accomplished these goals. We made a series of advances in optimizing performance and energy efficiency for resource-constrained computer systems, such as those in the device and edge tiers of the continuum. For example, we performed an empirical study to understand how configuration options across the system stack influence execution time latency and energy efficiency. We have also developed design space exploration methods for performance optimization and debugging of multi-component and highly configurable computer systems, like SmartSight. We have explored the feasibility of live migrating containerized services across autonomous computing systems, such as between edge and cloud systems, and have studied the efficient resource allocation of concurrent ML applications on heterogeneous edge. We studied the optimal composition of heterogeneous resources to achieve cost efficiency and real-time processing of ML applications needed for SmartSight. We have developed new multi-objective optimization methods that enable the navigation of performance objectives (latency, throughput, energy) to find an optimal configuration that satisfies the constraints and optimizes performance. We have developed a caching mechanism for early exiting in DNNs, enabling faster and less energy-demanding inference. We have developed methods for identifying root causes of failures due to interaction between software and hardware components in computer systems like SmartSight. As an educational activity and to enhance the teaching of distributed computing systems, we developed an open-source simulator, called E2C, that can model heterogeneous edge-cloud systems and enables students and researchers to examine the performance of various scheduling policies for these environments. The simulator was disseminated to the community in the form of a research paper and a tutorial.   This project helped in training 6 PhD students, 1 masters, and 6 undergraduate students across PIs teams. The Ph.D. students made foundational advances in resource allocation and optimization algorithms, system design and integration, experimental evaluations, and technical writing and dissemination of the results within the research community. Finally, this project facilitated the development of educational materials for several undergraduate and graduate courses, including CSCE 585 (ML Systems) at the University of South Carolina and Parallel and Distributed Computing at UL Lafayette.     Last Modified: 04/09/2024       Submitted by: PooyanJamshidi]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>
