@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import sys
 sys.path.append('/Users/luis.caporal/Documents/Notebooks/DS_TEST/DS_Project')
 from scripts.processing.lda_model import main
+from scripts.transformers.pipelines import RemoveLastParagraphTransformer, RemoveHTMLTagsTransformer
 
 
 def test_get_model_coherence():
@@ -63,3 +64,65 @@ def test_get_model_coherence():
 
         assert len(simple_topics) == 25
         assert len(bert_topics) == 25
+
+
+def test_transform_with_award_reflects():
+    transformer = RemoveLastParagraphTransformer()
+    texts = [
+        "This is a document. This award reflects the achievement.",
+        "First paragraph. This award reflects the recognition. Last paragraph."
+    ]
+    expected = [
+        "This is a document. ",
+        "First paragraph. "
+    ]
+    transformed = transformer.transform(texts)
+    print('*****', transformed)
+    assert expected == transformed
+
+
+def test_transform_with_html_tags():
+    transformer = RemoveHTMLTagsTransformer()
+    texts = [
+        "<p>This is a <b>test</b> document.</p>",
+        "Another <a href='#'>document</a> with tags."
+    ]
+    expected = [
+        "This is a test document.",
+        "Another document with tags."
+    ]
+    transformed = transformer.transform(texts)
+    assert transformed == expected
+
+def test_transform_without_html_tags():
+    transformer = RemoveHTMLTagsTransformer()
+    texts = [
+        "This is a document without any HTML tags.",
+        "No tags here."
+    ]
+    expected = [
+        "This is a document without any HTML tags.",
+        "No tags here."
+    ]
+    transformed = transformer.transform(texts)
+    assert transformed == expected
+
+def test_transform_empty_list():
+    transformer = RemoveHTMLTagsTransformer()
+    texts = []
+    expected = []
+    transformed = transformer.transform(texts)
+    assert transformed == expected
+
+def test_transform_html_entities():
+    transformer = RemoveHTMLTagsTransformer()
+    texts = [
+        "&lt;p&gt;This is an &lt;b&gt;escaped&lt;/b&gt; text.&lt;/p&gt;",
+        "Escaped &amp; unescaped characters."
+    ]
+    expected = [
+        "This is an escaped text.",
+        "Escaped & unescaped characters."
+    ]
+    transformed = transformer.transform(texts)
+    assert transformed == expected
